@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Node (ad hoc tooling, e.g. Playwright for local QA)
+node_modules/
+package.json
+package-lock.json
+
+# Local Claude Code session config
+.claude/
+
+# Cloudflare Wrangler local dev cache
+.wrangler/
+worker/.wrangler/
+
+# OS / editor cruft
+.DS_Store
+*.swp
+
+# Local dev server logs, if ever redirected into the repo
+*.log

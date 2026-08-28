@@ -1,0 +1,105 @@
+{
+  "id": "i-spiritus-et-accentus",
+  "level": "I",
+  "unit": "1",
+  "order": 4,
+  "skill": "pronuntiatio",
+  "strand": "spiritus",
+  "title": "Spīritūs et Accentūs",
+  "subtitle": "Spīritus lēnis et asper, tria signa accentūs (acūtus, gravis, circumflexus), et iōta subscrīptum.",
+  "prerequisites": ["i-alphabetum-et-phonologia"],
+  "objectives": [
+    "Distinguere spīritum lēnem (᾿) ā spīritū aspero (῾) et utrumque super vōcālem initiālem scrībere",
+    "Cognōscere tria signa accentūs (acūtus, gravis, circumflexus) et regulam generālem locī eōrum",
+    "Explicāre ubi in diphthongō signa (spīritus, accentus) scrībantur",
+    "Recognōscere iōta subscrīptum (ᾳ ῃ ῳ) et significātiōnem eius"
+  ],
+  "content": {
+    "intro": "In Graecō scrīptō, duo genera signōrum sunt pars ipsīus orthographiae rēctae, nōn ōrnāmenta optiōnālia: <strong>spīritus</strong> (super omnem vōcālem initiālem) et <strong>accentus</strong> (super ferē omne verbum). Discere ea ab initiō melius est quam ea neglegere et posteā dēdiscere habitūs falsōs.",
+    "explanation": "<p>Omnis vōcālis (vel diphthongus) quae verbum incipit portat aut <span class=\"greek\">᾿</span> (spīritum lēnem) aut <span class=\"greek\">῾</span> (spīritum asperum) — numquam neutrum. Praetereā, omnis ρ initiālis verbī semper spīritum asperum accipit: <span class=\"greek\">ῥήτωρ</span> (unde Latīnum \"rhētor\", cum \"rh\"). In diphthongō, spīritus (et accentus, sī adest) scrībitur super <strong>secundam</strong> litteram, nōn prīmam: <span class=\"greek\">εἰμί</span>, <span class=\"greek\">αὐτός</span>, <span class=\"greek\">οὗτος</span>.</p>",
+    "rules": [
+      {
+        "heading": "a) Spīritus Lēnis et Asper",
+        "body": "<p><span class=\"greek\">᾿</span> (spīritus lēnis) nūllum sonum addit — vōcālis simpliciter incipit sine <em>h</em>: <span class=\"greek\">ἄνθρωπος</span> sonat \"ANTHRŌPOS\", nōn \"HANTHRŌPOS\". <span class=\"greek\">῾</span> (spīritus asper) indicat sonum /h/ ante vōcālem: <span class=\"greek\">ὁ</span> sonat \"HO\". Nam ρ initiāle, spīritus asper (<span class=\"greek\">ῥ</span>) nōn mūtat sonum ipsīus ρ multum in prōnūntiātiōne, sed persistit in trānslitterātiōne classicā (\"rh\").</p>"
+      },
+      {
+        "heading": "b) Tria Signa Accentūs",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Signum</th><th>Nōmen</th><th>Ubi cadere potest</th></tr></thead><tbody><tr><td class=\"greek\">´</td><td>acūtus (ὀξεῖα)</td><td>in ūnā ex tribus ultimīs syllabīs</td></tr><tr><td class=\"greek\">`</td><td>gravis (βαρεῖα)</td><td>sōlum in ultimā syllabā, cum acūtus ibi mūtātur ante aliud verbum sine pausā</td></tr><tr><td class=\"greek\">˜</td><td>circumflexus (περισπωμένη)</td><td>sōlum in ūnā ex duābus ultimīs syllabīs, et sōlum super vōcālem longam vel diphthongum</td></tr></tbody></table><p>Ferē omne verbum Graecum ūnum ex hīs tribus signīs portat; pauca verba brevia (praepositiōnēs, coniūnctiōnēs) carent accentū prōpriō et \"appenduntur\" phōneticē ad verbum proximum — hoc plēnius in lēctiōne <em>Syllabae et Enclitica</em> vidēbis.</p>"
+      },
+      {
+        "heading": "c) Iōta Subscrīptum",
+        "body": "<p>Cum α, η, vel ω longa antīquitus sequēbātur iōta in eādem syllabā, ea iōta hodiē scrībitur parva sub vōcāli: <span class=\"greek\">ᾳ ῃ ῳ</span> (\"iōta subscrīptum\"). Vidēbis hanc fōrmam saepe in cāsū datīvō (Gradū II) et in certīs fōrmīs verbōrum. Prō discipulō incipiente, sonus additus ā iōtā subscrīptō omittī potest sine magnō dētrīmentō — id quod maximē interest nunc est agnōscere fōrmam scrīptam et nōn eam prō errōre typographicō habēre.</p>"
+      }
+    ],
+    "examples": [
+      "ὁ ἄνθρωπος — homo ille. (spīritus asper super ὁ: sonat \"HO\")",
+      "ἡ ἡμέρα — dies illa. (spīritus asper bis: ἡ et ἡμέρα)",
+      "ῥήτωρ — ōrātor. (ρ initiāle semper cum spīritū aspero)",
+      "οὗτος — hic. (spīritus super secundam litteram diphthongī ου)",
+      "τῇ ἡμέρᾳ — in diē illā. (duo exempla iōtae subscrīptī: ῃ et ᾳ)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Omittere spīritum in tōtō, quasi esset ōrnāmentum optiōnāle.",
+        "right": "Scrībere semper aut spīritum lēnem aut asperum super omnem vōcālem initiālem — pars orthographiae rēctae est, nōn additāmentum.",
+        "why": "Sine spīritū, verbum male scrīptum est; cum spīritū aspero, sonus ipse mūtātur (praesentia/absentia /h/)."
+      },
+      {
+        "wrong": "Crēdere spīritum asperum esse mēram variantem graphicam sine effectū in prōnūntiātiōne.",
+        "right": "Spīritus asper reāliter significat sonum /h/ ante vōcālem in prōnūntiātiōne Atticā reconstrūctā.",
+        "why": "Confer ὁ (\"ho\", spīritū aspero) et exemplum hypotheticum sine spīritū asperō: sonus vērē differt, nōn sōlum scrīptūra."
+      },
+      {
+        "wrong": "Crēdere accentum acūtum posse cadere in quāvīs syllabā verbī, ut in linguīs cum accentū līberō.",
+        "right": "Accentus acūtus sōlum in ūnā ex tribus ultimīs syllabīs cadere potest; circumflexus, sōlum in ūnā ex duābus ultimīs.",
+        "why": "Accentuātiō Graeca fīxīs rēgulīs subicitur, dēterminātā ā longitūdine syllabārum ultimārum."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "i-spir-mc", "type": "multiple-choice", "title": "Spīritūs et Accentūs: Regulae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        { "id": "spir1", "prompt": "Quid significat spīritus asper (῾)?", "options": ["nihil, ōrnāmentum tantum", "sonum /h/ ante vōcālem", "vōcālem esse longam"], "answerIndex": 1, "explanation": "Spīritus asper indicat sonum /h/ pronuntiandum ante vōcālem vel diphthongum initiālem." },
+        { "id": "spir2", "prompt": "Super quam litteram diphthongī pōnitur spīritus (et accentus, sī adest)?", "options": ["super prīmam litteram semper", "super secundam litteram diphthongī", "numquam scrībitur in diphthongō"], "answerIndex": 1, "explanation": "In diphthongō, signa (spīritus et accentus) super secundam vōcālem scrībuntur, ut in εἰμί vel αὐτός." },
+        { "id": "spir3", "prompt": "Quae littera initiālis SEMPER accipit spīritum asperum?", "options": ["α", "ρ", "λ"], "answerIndex": 1, "explanation": "Omnis ρ initiālis verbī accipit spīritum asperum (ῥ), unde Latīnum \"rhētor\" in verbīs mūtuātīs." },
+        { "id": "spir4", "prompt": "Ubi potest cadere accentus acūtus?", "options": ["tantum in ultimā syllabā", "in ūnā ex tribus ultimīs syllabīs", "in quāvīs syllabā verbī"], "answerIndex": 1, "explanation": "Accentus acūtus potest cadere in ultimā, paenultimā, vel antepaenultimā syllabā (ultimīs tribus)." },
+        { "id": "spir5", "prompt": "Quid est iōta subscrīptum?", "options": ["error typographicus", "parva iōta scrīpta sub α, η, vel ω longīs", "signum interrogātiōnis"], "answerIndex": 1, "explanation": "Iōta subscrīptum (ᾳ ῃ ῳ) est parva iōta scrīpta sub vōcālī longā, vestīgium antīquae diphthongī." }
+      ]
+    },
+    {
+      "id": "i-spir-match", "type": "matching", "title": "Iunge Signum cum Significātiōne",
+      "instructions": "Iunge quodque signum cum dēscrīptiōne suā.",
+      "items": [
+        { "id": "spir6", "pairs": [
+          { "left": "spīritus lēnis (᾿)", "right": "nūllus sonus additus" },
+          { "left": "spīritus asper (῾)", "right": "sonus /h/ ante vōcālem" },
+          { "left": "accentus acūtus (´)", "right": "in ūnā ex tribus ultimīs syllabīs" },
+          { "left": "accentus circumflexus (˜)", "right": "sōlum super vōcālem longam, in ūnā ex duābus ultimīs syllabīs" },
+          { "left": "iōta subscrīptum", "right": "parva ι sub α, η, vel ω longīs" }
+        ], "explanation": "Quodque signum habet fūnctiōnem propriam et locum ubi lēgitimē appārēre potest." }
+      ]
+    },
+    {
+      "id": "i-spir-tf", "type": "true-false", "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        { "id": "spir7", "statement": "Omnis vōcālis initiālis verbī Graecī accipit vel spīritum lēnem vel spīritum asperum.", "answer": true, "explanation": "Corrēctum: nūlla vōcālis initiālis caret utrōque signō." },
+        { "id": "spir8", "statement": "Spīritus asper est mēra optiō graphica sine effectū in prōnūntiātiōne.", "answer": false, "explanation": "Falsum: spīritus asper reāliter significat sonum /h/ in prōnūntiātiōne Atticā." },
+        { "id": "spir9", "statement": "Accentus circumflexus potest cadere in antepaenultimā syllabā.", "answer": false, "explanation": "Falsum: circumflexus sōlum in ultimā vel paenultimā (duābus ultimīs) cadere potest, numquam in antepaenultimā." },
+        { "id": "spir10", "statement": "Initiālis ρ verbī Graecī semper accipit spīritum asperum.", "answer": true, "explanation": "Corrēctum: omne ρ initiāle habet spīritum asperum (ῥ)." }
+      ]
+    }
+  ],
+  "summary": [
+    "Omnis vōcālis initiālis (et omne ρ initiāle) portat spīritum lēnem (᾿, nūllus sonus) aut asperum (῾, sonus /h/).",
+    "In diphthongō, spīritus et accentus scrībuntur super secundam vōcālem.",
+    "Tria signa accentūs: acūtus (ultimīs tribus syllabīs), gravis (sōlum ultimā, ante aliud verbum), circumflexus (sōlum ultimīs duābus, super vōcālem longam).",
+    "Iōta subscrīptum (ᾳ ῃ ῳ) est vestīgium antīquae diphthongī sub α, η, ω longīs."
+  ],
+  "related": [
+    { "lessonId": "i-alphabetum-et-phonologia", "label": "Alphabētum et Phōnologia" },
+    { "lessonId": "i-salutationes-et-verbum-sum", "label": "Salūtātiōnēs et Εἰμί" }
+  ]
+}

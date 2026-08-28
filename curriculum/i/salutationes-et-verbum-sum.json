@@ -1,0 +1,112 @@
+{
+  "id": "i-salutationes-et-verbum-sum",
+  "level": "I",
+  "unit": "1",
+  "order": 6,
+  "skill": "grammatica",
+  "strand": "eimi",
+  "title": "Salūtātiōnēs et Εἰμί (Verbum Essendi)",
+  "subtitle": "Prīmae fōrmulae salūtandī Graecae, et tempus praesēns verbī εἰμί — \"esse\".",
+  "prerequisites": ["i-spiritus-et-accentus"],
+  "objectives": [
+    "Recitāre plēnē tempus praesēns verbī εἰμί",
+    "Formāre et intellegere salūtātiōnēs fundāmentālēs χαῖρε/χαίρετε",
+    "Recognōscere signum interrogātiōnis Graecum (;) et nōn cōnfundere illud cum aliīs signīs",
+    "Formāre sententiās simplicēs cum εἰμί, praedicātō in nōminātīvō positō"
+  ],
+  "content": {
+    "intro": "Nunc, cum alphabētum et signa diacritica nōta sint, ad prīmās vōcēs vīvās pervenīmus: salūtātiōnēs, et verbum <span class=\"greek\">εἰμί</span> (\"esse\") — sīcut in cursū Latīnō ā verbō <em>sum</em> incipitur, ita hīc ā Graecō homologō suō incipitur.",
+    "explanation": "<p>Sīcut Latīnē, Graecē quoque persōna verbī inest ipsī dēsinentiae; prōnōmen (<span class=\"greek\">ἐγώ</span>, <span class=\"greek\">σύ</span>...) plērumque <strong>omittitur</strong>, additūrum sōlum sī ēmphasis quaeritur. Nōtā etiam ūnam rem quae discipulōs Anglicē vel Rōmānicē locūtōs semper surprēndit: <strong>Graecum signum interrogātiōnis est \";\"</strong> (eadem fōrma ac Anglicum/Latīnum \"sēmicolon\"), nōn \"?\". Signum \"·\" (raised dot, ānō teleíā) servit aliīs ūsibus, sīcut sēmicolon vel colon Latīnum.</p>",
+    "rules": [
+      {
+        "heading": "a) Εἰμί: Tempus Praesēns",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Persōna</th><th>Singulāris</th><th>Plūrālis</th></tr></thead><tbody><tr><td>1ª</td><td class=\"greek\">(ἐγώ) εἰμί</td><td class=\"greek\">(ἡμεῖς) ἐσμέν</td></tr><tr><td>2ª</td><td class=\"greek\">(σύ) εἶ</td><td class=\"greek\">(ὑμεῖς) ἐστέ</td></tr><tr><td>3ª</td><td class=\"greek\">(αὐτός/ή/ό) ἐστί(ν)</td><td class=\"greek\">(αὐτοί/αί/ά) εἰσί(ν)</td></tr></tbody></table><p>Fōrmae tertiae persōnae (<span class=\"greek\">ἐστί</span>, <span class=\"greek\">εἰσί</span>) saepe accipiunt <strong>ν ephelkystikon</strong> (\"ν movēns\", <span class=\"greek\">ἐστίν</span>, <span class=\"greek\">εἰσίν</span>) ante verbum sequēns quod incipit ā vōcālī, aut in fīne sententiae — hoc vītat hiātum (collīsiōnem duārum vōcālium) et signat pausam. Comparā cum Latīnō: sum, es, est, sumus, estis, sunt.</p><p><strong>Nota:</strong> tabula suprā fōrmas cum accentū proprio suō dat (ut in lexicīs citantur); at in ūsū reālī, plēraeque hae fōrmae sunt <em>encliticae</em> et in sententiā currente scrībuntur saepe sine accentū proprio (ut in exemplō īnfrā, <span class=\"greek\">ἐγώ εἰμι</span>) — rem plēnius in lēctiōne futūrā <em>Syllabae et Enclitica</em> vidēbis; nunc sufficit fōrmam nōtam agnōscere utrōque modō scrīptam.</p>"
+      },
+      {
+        "heading": "b) Prōnōmina Persōnālia (Nōminātīva)",
+        "body": "<p><span class=\"greek\">ἐγώ</span> (ego), <span class=\"greek\">σύ</span> (tū), <span class=\"greek\">αὐτός/αὐτή/αὐτό</span> (ipse/ipsa/ipsum → is/ea/id), <span class=\"greek\">ἡμεῖς</span> (nōs), <span class=\"greek\">ὑμεῖς</span> (vōs), <span class=\"greek\">αὐτοί/αὐταί/αὐτά</span> (eī/eae/ea). Dēclīnātiōnem plēnam hōrum vidēbis in lēctiōne futūrā <em>Prōnōmina Persōnālia</em>; nunc sufficit fōrma nōminātīva, ūna cum verbō εἰμί.</p>"
+      },
+      {
+        "heading": "c) Praedicātum Nōminātīvum (sīcut Latīnē!)",
+        "body": "<p>Exāctē sīcut post Latīnum <em>sum</em>, post Graecum <span class=\"greek\">εἰμί</span> praedicātum semper in cāsū <strong>nōminātīvō</strong> pōnitur: <span class=\"greek\">Σωκράτης ἐστὶ φιλόσοφος</span> — \"Sōcratēs est philosophus\" (ambō, Σωκράτης et φιλόσοφος, nōminātīvō). Sī hoc iam ā lēctiōne Latīnā <em>Sum: Verbum Essendi</em> nōtum est, rem plānē eandem hīc invenīs — sōlum in alphabētō aliō vestītam.</p>"
+      },
+      {
+        "heading": "d) Salūtātiōnēs Fundāmentālēs",
+        "body": "<p><span class=\"greek\">χαῖρε</span> (ūnī persōnae, \"salvē\") / <span class=\"greek\">χαίρετε</span> (plūribus, \"salvēte\") — litterāliter \"gaudē!\"/\"gaudēte!\". In fine epistulārum, <span class=\"greek\">ἔρρωσο</span> (ūnī, \"valē\", litt. \"validus estō\") / <span class=\"greek\">ἔρρωσθε</span> (plūribus, \"valēte\") sunt commūniōrēs quam χαῖρε redditum.</p>"
+      }
+    ],
+    "examples": [
+      "χαῖρε, ὦ φίλε. — Salvē, amīce! (nōtā vocātīvum \"ὦ φίλε\"; \".\" hīc, nōn \";\", quia nōn est interrogātiō)",
+      "ἐγώ εἰμι μαθητής. — Ego sum discipulus.",
+      "σὺ εἶ διδάσκαλος; — Esne tū magister?",
+      "τίς εἶ; — Quis es? (\";\" hīc EST signum interrogātiōnis Graecum, nōn sēmicolon Latīnum)",
+      "ἡμεῖς ἐσμὲν φίλοι. — Nōs sumus amīcī.",
+      "χαίρετε, ὦ φίλοι. — Salvēte, amīcī!"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Crēdere signum Graecum \"?\" idem esse quod Anglicum/Latīnum signum interrogātiōnis.",
+        "right": "Graecum signum interrogātiōnis est \";\" (fōrmā sēmicolonis Latīnī); \"·\" (pūnctum altum) servit aliīs ūsibus.",
+        "why": "Cōnfūsiō vīsuālis hīc frequentissima est apud discipulōs alphabētō Latīnō assuētōs."
+      },
+      {
+        "wrong": "Semper scrībere ἐγώ, σύ ante verbum, imitandō 'I am', 'you are' Anglicum.",
+        "right": "Sīcut Latīnē, prōnōmen plērumque omittitur; ἐγώ/σύ additur sōlum causā ēmphasis vel contrāstūs.",
+        "why": "Dēsinentia verbī Graecī iam persōnam indicat; prōnōmen explicitum est redundāns nisi ēmphasis quaeritur — eadem ratiō ac in Latīnō 'sum'."
+      },
+      {
+        "wrong": "Oblīvīscī ν ephelkystikon in ἐστί/εἰσί ante vōcālem sequentem vel in fine sententiae.",
+        "right": "Scrībere ἐστίν/εἰσίν in illīs positiōnibus, ut hiātus vītētur et pausa signētur.",
+        "why": "Omittere illud ubi rēgula id postulat est error orthographicus commūnis apud incipientēs."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "i-eimi-fill", "type": "fill-blank", "title": "Coniugā Εἰμί",
+      "instructions": "Comple spatia cum fōrmā rēctā verbī εἰμί. (Accentūs nōn necessāriī sunt ad respōnsum probandum, sed disce eōs rēctē scrībere.)",
+      "items": [
+        { "id": "eimi1", "prompt": "Ἐγὼ ___ μαθητής.", "options": ["εἰμί", "εἶ", "ἐστί"], "answers": ["εἰμί"], "explanation": "Prīma persōna singulāris: εἰμί (sum)." },
+        { "id": "eimi2", "prompt": "Σὺ ___ διδάσκαλος.", "options": ["εἰμί", "εἶ", "ἐστέ"], "answers": ["εἶ"], "explanation": "Secunda persōna singulāris: εἶ (es)." },
+        { "id": "eimi3", "prompt": "Αὐτὸς ___ φιλόσοφος.", "options": ["ἐστί", "εἰσί", "ἐσμέν"], "answers": ["ἐστί"], "explanation": "Tertia persōna singulāris: ἐστί(ν) (est)." },
+        { "id": "eimi4", "prompt": "Ἡμεῖς ___ φίλοι.", "options": ["ἐσμέν", "ἐστέ", "εἰσί"], "answers": ["ἐσμέν"], "explanation": "Prīma persōna plūrālis: ἐσμέν (sumus)." },
+        { "id": "eimi5", "prompt": "Αὐτοὶ ___ πολῖται.", "options": ["ἐστέ", "εἰσί", "ἐσμέν"], "answers": ["εἰσί"], "explanation": "Tertia persōna plūrālis: εἰσί(ν) (sunt)." }
+      ]
+    },
+    {
+      "id": "i-eimi-mc", "type": "multiple-choice", "title": "Εἰμί: Ūsus et Rēgulae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        { "id": "eimi6", "prompt": "Quis cāsus post εἰμί semper adhibētur (ut praedicātum)?", "options": ["accūsātīvus", "nōminātīvus", "datīvus"], "answerIndex": 1, "explanation": "Praedicātum post εἰμί semper nōminātīvō pōnitur, sīcut post Latīnum 'sum'." },
+        { "id": "eimi7", "prompt": "Quid est \"ν ephelkystikon\"?", "options": ["signum interrogātiōnis", "ν additum fīnī ἐστί/εἰσί ante vōcālem vel pausam", "nōmen alterum prōnōminis σύ"], "answerIndex": 1, "explanation": "Est ν movēns additum ut hiātus vītētur et pausa signētur." },
+        { "id": "eimi8", "prompt": "Quōmodo dīcitur \"who are you?\" Graecē (cum signō interrogātiōnis rēctō)?", "options": ["τίς εἶ?", "τίς εἶ;", "τίς εἶ."], "answerIndex": 1, "explanation": "Graecum signum interrogātiōnis est \";\", nōn \"?\"." },
+        { "id": "eimi9", "prompt": "Quid significat χαίρετε?", "options": ["salvē (ūnī persōnae)", "salvēte (plūribus persōnīs)", "valē (in fine epistulae)"], "answerIndex": 1, "explanation": "χαίρετε est fōrma plūrālis salūtātiōnis χαῖρε." },
+        { "id": "eimi10", "prompt": "Cūr prōnōmen ἐγώ saepe omittitur ante εἰμί?", "options": ["quia grammaticē prohibētur", "quia dēsinentia verbī iam persōnam indicat", "quia εἰμί semper prīmam persōnam significat sine prōnōmine"], "answerIndex": 1, "explanation": "Verba Graeca, sīcut Latīna, persōnam in dēsinentiā portant; prōnōmen est optiōnāle, prō ēmphasī tantum." }
+      ]
+    },
+    {
+      "id": "i-eimi-match", "type": "matching", "title": "Iunge Graecum cum Latīnō",
+      "instructions": "Iunge quamque phrasim Graecam cum sēnsū Latīnō suō.",
+      "items": [
+        { "id": "eimi11", "pairs": [
+          { "left": "χαῖρε", "right": "salvē (ūnī persōnae)" },
+          { "left": "χαίρετε", "right": "salvēte (plūribus persōnīs)" },
+          { "left": "ἔρρωσο", "right": "valē (in fine epistulae, ūnī)" },
+          { "left": "τίς εἶ;", "right": "quis es?" },
+          { "left": "ἐγώ εἰμι", "right": "ego sum" }
+        ], "explanation": "Salūtātiōnēs Graecae plērumque nōn sunt versiōnēs verbālēs Latīnārum, sed fōrmulae propriae cum sēnsū homologō." }
+      ]
+    }
+  ],
+  "summary": [
+    "εἰμί (sum): ἐγὼ εἰμί, σὺ εἶ, αὐτὸς ἐστί(ν) — ἡμεῖς ἐσμέν, ὑμεῖς ἐστέ, αὐτοὶ εἰσί(ν).",
+    "Prōnōmen (ἐγώ, σύ...) plērumque omittitur; verbum ipsum persōnam indicat, sīcut Latīnē.",
+    "Post εἰμί, praedicātum semper in nōminātīvō pōnitur, numquam in accūsātīvō.",
+    "Graecum signum interrogātiōnis est \";\", nōn \"?\"; \"·\" servit aliīs ūsibus.",
+    "χαῖρε/χαίρετε = salvē/salvēte; ἔρρωσο/ἔρρωσθε = valē/valēte (in epistulīs)."
+  ],
+  "related": [
+    { "lessonId": "i-spiritus-et-accentus", "label": "Spīritūs et Accentūs" },
+    { "lessonId": "i-pronomina-personalia", "label": "Prōnōmina Persōnālia" }
+  ]
+}

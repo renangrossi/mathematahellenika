@@ -1,0 +1,62 @@
+{
+  "levels": [
+    { "code": "I", "name": "Fundamenta", "url": "gradus/fundamenta.html" },
+    { "code": "II", "name": "Elementa", "url": "gradus/elementa.html" },
+    { "code": "III", "name": "Progressus", "url": "gradus/progressus.html" },
+    { "code": "IV", "name": "Media", "url": "gradus/media.html" },
+    { "code": "V", "name": "Provectus", "url": "gradus/provectus.html" },
+    { "code": "VI", "name": "Altior", "url": "gradus/altior.html" },
+    { "code": "VII", "name": "Auctores", "url": "gradus/auctores.html" }
+  ],
+  "resources": [
+    {
+      "level": "I",
+      "title": "Alphabetum et Phonologia",
+      "url": "gradus/fundamenta/alphabetum-et-phonologia.html",
+      "type": "lesson",
+      "aliases": ["alphabet", "alfabeto", "alphabetum", "pronunciation", "pronuncia", "phonology"]
+    },
+    {
+      "level": "I",
+      "title": "Spiritus et Accentus",
+      "url": "gradus/fundamenta/spiritus-et-accentus.html",
+      "type": "lesson",
+      "aliases": ["breathing", "breathings", "accent", "accents", "spirito", "acento", "iota subscript"]
+    },
+    {
+      "level": "I",
+      "title": "Salutationes et Eimi (Verbum Essendi)",
+      "url": "gradus/fundamenta/salutationes-et-verbum-sum.html",
+      "type": "lesson",
+      "aliases": ["eimi", "verb to be", "greetings", "saudacoes", "chaire", "hello", "ola"]
+    },
+    {
+      "level": "I",
+      "title": "Gradus I: Te Ipsum Proba",
+      "url": "gradus/fundamenta/test-yourself.html",
+      "type": "test",
+      "aliases": ["review", "test yourself", "revisao", "recognitio"]
+    },
+    {
+      "level": null,
+      "title": "Exercitationes",
+      "url": "exercitationes.html",
+      "type": "page",
+      "aliases": ["practice", "exercises", "exercicios"]
+    },
+    {
+      "level": null,
+      "title": "Lexicon",
+      "url": "lexicon.html",
+      "type": "page",
+      "aliases": ["dictionary", "dicionario", "vocabulario", "lookup"]
+    },
+    {
+      "level": null,
+      "title": "Varia",
+      "url": "varia.html",
+      "type": "page",
+      "aliases": ["extras", "culture", "mythology", "mitologia"]
+    }
+  ]
+}

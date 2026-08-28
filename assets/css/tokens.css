@@ -1,0 +1,189 @@
+/* =======================================================================
+   DESIGN TOKENS
+   Mathemata Hellenika — Schola Graecitatis Classicae
+   A single source of truth for color, type, spacing and motion.
+   Every other stylesheet should read from these variables rather than
+   hard-coding values, so the whole design system can be tuned from here.
+
+   Adapted from the sibling Latin-course design system (lectioneslatinae),
+   which is itself adapted from the English-course system (englishclasses)
+   — same token names/roles/mechanics, so the shared engine CSS
+   (components.css, layout.css, exercises.css, ai-teacher.css, etc.) works
+   unmodified across all three sites. Only the values below, and the
+   handful of palette-name identifiers the Latin course's Roman theme
+   used (--navy-*, --burgundy-*, --pompeian-red*, --forest-*,
+   --parchment-*) have been retoned and renamed for this course instead
+   (--aegean-*, --oxide-*, --attic-red*, --olive-*, --marble-*). See
+   docs/fonts-and-input.md for the polytonic-Greek type stack this file
+   also defines.
+   ======================================================================= */
+
+:root {
+  /* ---- Brand palette --------------------------------------------------
+     Aegean lapis blue (authority / the sea Homer calls οἶνοψ πόντος),
+     Attic red (the fired clay of red-figure pottery, structural accent),
+     olive (Athena's tree / the Olympic wreath, secondary accent), marble
+     & ivory (stone, paper), walnut (structure & body text), gold
+     (ornament, focus, honors — temple gilding, not coin-hoard bling).
+     Kept restrained: gold and Attic red are accents, not fields. */
+  --aegean-900: #0a1f3d;
+  --aegean-800: #0f2c52;
+  --aegean-700: #163c6c;
+  --aegean-600: #1f4f89;
+
+  --oxide-700: #7a2a12;
+  --oxide-600: #9c3818;
+  --oxide-500: #b8451f;
+
+  --olive-700: #2c3a1a;
+  --olive-600: #3d4f24;
+
+  /* Attic red — the fired-clay slip of red-figure/black-figure pottery,
+     used for structural accents (rules, card flags, the meander-row
+     ornament) distinct from the oxide brand accent used on
+     buttons/links/eyebrows. */
+  --attic-red: #a13c1f;
+  --attic-red-dim: #7d2e17;
+  --tyrian-purple: #3a1f52; /* reserved: the murex-dye purple of a basileus's cloak */
+
+  --walnut-800: #362c20;
+  --walnut-600: #564534;
+
+  --marble-100: #f7f5ee;
+  --marble-200: #efeadb;
+  --marble-300: #e2dabf;
+  --ivory-50: #fffcf5;
+
+  --ink-900: #1b1a14;
+  --ink-700: #3a352a;
+  --ink-500: #6a6152;
+
+  /* ---- Semantic color roles (light theme default) ---------------------
+     Components should reference these, not the raw palette above, so
+     dark-mode.css can safely repoint them. */
+  --color-bg: #ffffff;
+  --color-surface: var(--marble-100);
+  --color-surface-raised: #ffffff;
+  --color-border: var(--marble-300);
+  --color-border-strong: var(--attic-red);
+
+  --color-text: var(--ink-900);
+  --color-text-muted: var(--ink-500);
+  --color-text-on-dark: var(--marble-100);
+  --color-text-on-dark-muted: #c7c0ae;
+
+  --color-primary: var(--aegean-800);
+  --color-primary-strong: var(--aegean-900);
+  --color-accent: var(--oxide-600);
+  --color-accent-strong: var(--oxide-700);
+  --color-secondary-accent: var(--olive-700);
+  --color-gold: var(--gold-600);
+  --color-red: var(--attic-red);
+  --color-red-dim: var(--attic-red-dim);
+
+  --color-focus-ring: var(--gold-600);
+  --color-unavailable: var(--ink-500);
+
+  /* Tells the browser this page has an explicit light UI so native
+     controls (scrollbars, and — combined with the explicit select/
+     option colors in base.css — <select> dropdown popups) render with
+     a light chrome instead of guessing from the OS setting. Dark mode
+     repoints this to "dark" in dark-mode.css. */
+  color-scheme: light;
+
+  /* Dedicated feedback colors for exercises — tuned for visibility at
+     low tint percentages, independent of the brand accent colors. */
+  --color-success: #2f7a52;
+  --color-success-bg: #e3f2e8;
+  --color-danger: #b3323f;
+  --color-danger-bg: #fbe9ea;
+
+  --gold-600: #a9812d;
+  --gold-500: #c49a3f;
+  --gold-300: #e4c887;
+
+  /* ---- Typography -----------------------------------------------------
+     Cormorant Garamond is a display serif drawn from Renaissance
+     Garamond-tradition letterforms — used for headings, in place of the
+     Latin project's Cinzel (Trajan-inscription capitals), so the two
+     sibling sites read as a family without being identical: this course
+     leans "manuscript/humanist" rather than "carved in stone."
+     Cardo is used specifically for GREEK-SCRIPT text (see the .greek
+     utility class in base.css and docs/fonts-and-input.md) — it is one
+     of the few free webfonts drawn for classicists, with correct,
+     complete polytonic Greek (all breathing/accent/iota-subscript
+     combinations) as well as Latin and Hebrew transliteration, so a
+     single face can carry Greek examples, Latin metalanguage, and any
+     transliterated headword consistently. Source Sans 3 stays as the
+     body face for the (Latin-script) UI/metalanguage prose. */
+  --font-display: "Cormorant Garamond", "Times New Roman", serif;
+  --font-body: "Source Sans 3", "Segoe UI", Helvetica, Arial, sans-serif;
+  --font-greek: "Cardo", "Gentium Plus", "Noto Serif", "Source Sans 3", serif;
+  --font-mono: "IBM Plex Mono", "Courier New", monospace;
+
+  --step--1: clamp(0.83rem, 0.8rem + 0.15vw, 0.9rem);
+  --step-0:  clamp(1rem, 0.96rem + 0.2vw, 1.08rem);
+  --step-1:  clamp(1.2rem, 1.12rem + 0.4vw, 1.35rem);
+  --step-2:  clamp(1.44rem, 1.3rem + 0.7vw, 1.75rem);
+  --step-3:  clamp(1.8rem, 1.55rem + 1.2vw, 2.4rem);
+  --step-4:  clamp(2.25rem, 1.85rem + 2vw, 3.2rem);
+  --step-5:  clamp(2.75rem, 2.1rem + 3.2vw, 4.4rem);
+
+  --leading-tight: 1.15;
+  --leading-snug: 1.35;
+  --leading-normal: 1.7;
+
+  --tracking-wide: 0.06em;
+  --tracking-wider: 0.14em;
+
+  /* ---- Spacing scale (8px rhythm) ----------------------------------- */
+  --space-3xs: 0.25rem;
+  --space-2xs: 0.5rem;
+  --space-xs:  0.75rem;
+  --space-sm:  1rem;
+  --space-md:  1.5rem;
+  --space-lg:  2rem;
+  --space-xl:  2.75rem;
+  --space-2xl: 4rem;
+  --space-3xl: 8rem;
+
+  --content-max: 76rem;
+  --content-narrow: 46rem;
+
+  /* ---- Radius, borders, shadow --------------------------------------
+     Kept small and square-ish on purpose — an engraved-stele feel
+     rather than a soft consumer-app one. */
+  --radius-sm: 3px;
+  --radius-md: 6px;
+  --radius-lg: 10px;
+
+  --border-hairline: 1px solid var(--color-border);
+  --border-gold: 1px solid var(--color-border-strong);
+
+  --shadow-sm: 0 1px 2px rgba(20, 40, 70, 0.10);
+  --shadow-md: 0 6px 20px -8px rgba(20, 40, 70, 0.28);
+  --shadow-lg: 0 18px 45px -18px rgba(20, 40, 70, 0.38);
+  --shadow-inset-rule: inset 0 1px 0 rgba(255, 255, 255, 0.4);
+
+  /* ---- Motion --------------------------------------------------------
+     Short and quiet by default; see base.css for reduced-motion. */
+  --ease-standard: cubic-bezier(0.4, 0, 0.2, 1);
+  --duration-fast: 150ms;
+  --duration-base: 240ms;
+  --duration-slow: 420ms;
+
+  --header-height: 84px;
+  /* Height of the sticky .level-toc sub-nav bar (present on level,
+     hub and test-yourself pages), used together with --header-height
+     to compute the total sticky-offset below for scroll targeting. */
+  --toc-height: 72px;
+  --sticky-offset: calc(var(--header-height) + var(--toc-height) + var(--space-sm));
+}
+
+/* Narrower header on small screens keeps scroll-offset math correct */
+@media (max-width: 640px) {
+  :root {
+    --header-height: 68px;
+    --toc-height: 70px;
+  }
+}

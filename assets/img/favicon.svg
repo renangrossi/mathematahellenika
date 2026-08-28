@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <circle cx="32" cy="32" r="31" fill="#0a1f3d"/>
+  <circle cx="32" cy="32" r="31" fill="none" stroke="#c49a3f" stroke-width="2"/>
+  <!-- Simplified owl silhouette (Athena's owl) -->
+  <ellipse cx="32" cy="38" rx="14" ry="16" fill="#c49a3f"/>
+  <circle cx="32" cy="28" r="12" fill="#c49a3f"/>
+  <circle cx="27" cy="27" r="4.6" fill="#0a1f3d"/>
+  <circle cx="37" cy="27" r="4.6" fill="#0a1f3d"/>
+  <circle cx="27" cy="27" r="1.8" fill="#c49a3f"/>
+  <circle cx="37" cy="27" r="1.8" fill="#c49a3f"/>
+  <path d="M29.5 31.5 L32 35 L34.5 31.5 Z" fill="#0a1f3d"/>
+  <path d="M22 18 L25.5 24" stroke="#c49a3f" stroke-width="2.4" stroke-linecap="round"/>
+  <path d="M42 18 L38.5 24" stroke="#c49a3f" stroke-width="2.4" stroke-linecap="round"/>
+</svg>

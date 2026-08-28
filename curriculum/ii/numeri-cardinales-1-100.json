@@ -1,0 +1,249 @@
+{
+  "id": "ii-numeri-cardinales-1-100",
+  "level": "II",
+  "unit": "1",
+  "order": 10,
+  "skill": "vocabularium",
+  "strand": "numeri",
+  "title": "Numerī Cardinālēs I–C",
+  "subtitle": "Decem (20, 30... 100), fōrmātiō numerōrum compositōrum, et continuātiō numerālium alphabēticōrum.",
+  "prerequisites": [
+    "ii-interrogativa-fundamentalia"
+  ],
+  "objectives": [
+    "Recitāre numerōs decem (20, 30, 40... 100) et recordārī omnēs esse indēclīnābilēs",
+    "Formāre numerōs compositōs (21, 35, etc.) cum coniūnctiōne καί",
+    "Continuāre sēriem numerālium alphabēticōrum (κ'=20, λ'=30... ρ'=100)",
+    "Concludere Gradum II: recognōscere quantam grammaticam iam acquīsīvistī ab initiō cursūs"
+  ],
+  "content": {
+    "intro": "Gradus I dedit numerōs 1–10; hīc Gradus II concluditur cum decadibus (20, 30... 90) et centum ipsō — omnēs, sīcut numerī 4–10, indēclīnābilēs. Cum hāc lēctiōne fīnītā, tōtum vocābulum numericum fundāmentāle Gradūs Elementāris (Gradūs II) est complētum.",
+    "explanation": "<p>Omnēs decadēs (20–90) et <span class=\"greek\">ἑκατόν</span> (100) sunt <strong>indēclīnābilēs</strong> — exāctē sīcut numerī 4–10 iam nōtī (Gradū I). Sōlum εἷς/μία/ἕν, δύο, et τρεῖς/τρία (et — quod posteā vidēbis — mīlle et cēnti-multiplicēs maiōrēs) dēclīnantur per cāsūs in tōtā linguā Graecā. Hoc simplificat memoriam multum: semel discitīs fōrmās fundāmentālēs indēclīnābilēs, numquam variandae sunt secundum cāsum.</p>",
+    "rules": [
+      {
+        "heading": "a) Decadēs et Centum",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Numerus</th><th>Graecē</th><th>Numerāle Alphabēticum</th></tr></thead><tbody><tr><td>20</td><td class=\"greek\">εἴκοσι(ν)</td><td class=\"greek\">κ'</td></tr><tr><td>30</td><td class=\"greek\">τριάκοντα</td><td class=\"greek\">λ'</td></tr><tr><td>40</td><td class=\"greek\">τετταράκοντα</td><td class=\"greek\">μ'</td></tr><tr><td>50</td><td class=\"greek\">πεντήκοντα</td><td class=\"greek\">ν'</td></tr><tr><td>60</td><td class=\"greek\">ἑξήκοντα</td><td class=\"greek\">ξ'</td></tr><tr><td>70</td><td class=\"greek\">ἑβδομήκοντα</td><td class=\"greek\">ο'</td></tr><tr><td>80</td><td class=\"greek\">ὀγδοήκοντα</td><td class=\"greek\">π'</td></tr><tr><td>90</td><td class=\"greek\">ἐνενήκοντα</td><td class=\"greek\">ϙ' (qoppa)</td></tr><tr><td>100</td><td class=\"greek\">ἑκατόν</td><td class=\"greek\">ρ'</td></tr></tbody></table><p>Nōtā patrōnum: maior pars decadum (30–90) fīnītur -κοντα, thema numericum (τρι-, τετταρα-, πεντη-...) plūs hoc suffixum commūne. Vīgintī (εἴκοσι) est sōla excēptiō patrōnī, ex ratiōnibus historicīs.</p>"
+      },
+      {
+        "heading": "b) Numerī Compositī",
+        "body": "<p>Numerī compositī (21, 35, etc.) fōrmantur combīnandō decadem et ūnitātem cum <span class=\"greek\">καί</span> (“et”), in utrōque ōrdine (ambō corrēctī, prīmus rārior/formalior): <span class=\"greek\">εἷς καὶ εἴκοσι</span> AUT <span class=\"greek\">εἴκοσι καὶ εἷς</span> (21, “ūnus et vīgintī” / “vīgintī et ūnus”). Nōtā: sī compositus continet εἷς/δύο/τρεῖς, illa pars sōla dēclīnātur (concordāns cum nōmine), decas manet indēclīnābilis: <span class=\"greek\">τρεῖς καὶ τριάκοντα ἄνδρες</span> “trīgintā trēs virī” (τρεῖς concordat cum ἄνδρες masculīnō, τριάκοντα manet invariābile).</p>"
+      },
+      {
+        "heading": "c) Conspectus: Iter Grammāticum Gradūs II",
+        "body": "<p>Cōnsīderā quantum iam potes: dēclīnāre nōmina prīmae et secundae dēclīnātiōnis, articulum plēnum, adiectīva classis prīmae; coniugāre verba praesentis āctīvī et mediī-passīvī; adhibēre praepositiōnēs correcte cum cāsū rēctō; formāre adverbia; negāre correcte (οὐ vs. μή); et nunc, numerāre usque ad centum. Fundamentum grammaticum prō lēctiōne prōsae simplicis continuae — obiectīvum Gradūs III — iam est positum.</p>"
+      }
+    ],
+    "examples": [
+      "εἴκοσι ἄνδρες. — Vīgintī virī. (indēclīnābile)",
+      "τριάκοντα καὶ πέντε πολῖται. — Trīgintā quīnque cīvēs. (compositus, decas + ūnitās)",
+      "ἑκατὸν δοῦλοι. — Centum servī.",
+      "μία καὶ εἴκοσι ἡμέραι. — Vīgintī ūna diēs. (μία dēclīnāta, concordāns cum ἡμέραι fēminīnō)",
+      "ἐν ἑξήκοντα ἔτεσιν. — In sexāgintā annīs. (datīvus temporis, praepositiō ἐν)",
+      "τὰ ρ' βιβλία. — Centum librī. (numerāle alphabēticum in textū)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Temptāre dēclīnāre decadēs (εἴκοσι, τριάκοντα...) per cāsūs, sīcut εἷς/δύο/τρεῖς.",
+        "right": "Recordārī omnēs decadēs et ἑκατόν sunt indēclīnābilēs, sīcut numerī 4–10.",
+        "why": "Sōlum 1, 2, 3 (et posteā, multiplicēs cēntī/mīlle maiōrēs) dēclīnantur in tōtā linguā Graecā."
+      },
+      {
+        "wrong": "Crēdere ōrdinem “decas + ūnitās” esse sōlus corrēctus (vel inversē), reiciendō alium ōrdinem ut errōneum.",
+        "right": "Recognōscere ambō ōrdinēs (decas-καί-ūnitās, ūnitās-καί-decas) sunt grammaticē corrēctī in Graecō Classicō.",
+        "why": "Flexibilitās ōrdinis verbōrum est generāle trāctum syntaxeōs Graecae, nōn error variāns."
+      },
+      {
+        "wrong": "In numerō compositō cum εἷς/δύο/τρεῖς, nōn dēclīnāre illam partem, tractandō tōtum numerum ut indēclīnābile.",
+        "right": "Dēclīnāre sōlum partem εἷς/δύο/τρεῖς (concordāns cum nōmine), manente decade indēclīnābilī.",
+        "why": "Rēgula dēclīnābilitātis (1-3 dēclīnantur, cētera nōn) valet etiam intrā numerōs compositōs."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "ii-num2-mc",
+      "type": "multiple-choice",
+      "title": "Numerī Compositī: Rēgulae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "num2a",
+          "prompt": "Dēclīnanturne decadēs (20, 30... 90) per cāsūs?",
+          "options": [
+            "sīc, sīcut nōmina",
+            "nōn, sunt indēclīnābilēs, sīcut numerī 4–10",
+            "sōlum in plūrālī"
+          ],
+          "answerIndex": 1,
+          "explanation": "Omnēs decadēs sunt indēclīnābilēs, extendēns rēgulam iam nōtam ex numerīs 4–10."
+        },
+        {
+          "id": "num2b",
+          "prompt": "Quae coniūnctiō combīnat decadem et ūnitātem in numerō compositō?",
+          "options": [
+            "δέ",
+            "καί",
+            "ἀλλά"
+          ],
+          "answerIndex": 1,
+          "explanation": "Καί (“et”) combīnat decadem et ūnitātem: εἴκοσι καὶ εἷς."
+        },
+        {
+          "id": "num2c",
+          "prompt": "Quid significat ἑκατόν?",
+          "options": [
+            "decem",
+            "quīnquāgintā",
+            "centum"
+          ],
+          "answerIndex": 2,
+          "explanation": "Ἑκατόν significat 100."
+        },
+        {
+          "id": "num2d",
+          "prompt": "In τρεῖς καὶ τριάκοντα ἄνδρες, quae pars dēclīnātur?",
+          "options": [
+            "sōlum τριάκοντα",
+            "sōlum τρεῖς, concordāns cum ἄνδρες",
+            "ambae partēs identidem"
+          ],
+          "answerIndex": 1,
+          "explanation": "Sōlum τρεῖς (numerus dēclīnābilis) concordat cum nōmine; τριάκοντα manet indēclīnābile."
+        },
+        {
+          "id": "num2e",
+          "prompt": "Quod numerāle alphabēticum repraesentat 90?",
+          "options": [
+            "π'",
+            "ϙ' (qoppa)",
+            "ρ'"
+          ],
+          "answerIndex": 1,
+          "explanation": "Ϙ' (qoppa, littera antīqua dēsuēta) repraesentat 90 in systēmate numerālī alphabēticō."
+        }
+      ]
+    },
+    {
+      "id": "ii-num2-fill",
+      "type": "fill-blank",
+      "title": "Complē cum Numerō Rēctō",
+      "instructions": "Comple spatia cum fōrmā rēctā numerī.",
+      "items": [
+        {
+          "id": "num2f",
+          "prompt": "___ ἄνδρες. (20, “vīgintī virī”)",
+          "options": [
+            "εἴκοσι",
+            "δέκα",
+            "τριάκοντα"
+          ],
+          "answers": [
+            "εἴκοσι"
+          ],
+          "explanation": "Εἴκοσι significat 20."
+        },
+        {
+          "id": "num2g",
+          "prompt": "___ δοῦλοι. (100, “centum servī”)",
+          "options": [
+            "ἑκατόν",
+            "ἐνενήκοντα",
+            "δέκα"
+          ],
+          "answers": [
+            "ἑκατόν"
+          ],
+          "explanation": "Ἑκατόν significat 100."
+        },
+        {
+          "id": "num2h",
+          "prompt": "___ πολῖται. (70, “septuāgintā cīvēs”)",
+          "options": [
+            "ἑβδομήκοντα",
+            "ὀγδοήκοντα",
+            "ἑξήκοντα"
+          ],
+          "answers": [
+            "ἑβδομήκοντα"
+          ],
+          "explanation": "Ἑβδομήκοντα significat 70."
+        },
+        {
+          "id": "num2i",
+          "prompt": "τριάκοντα ___ πέντε πολῖται. (35, “trīgintā quīnque”, coniūnctiō)",
+          "options": [
+            "καί",
+            "δέ",
+            "ἤ"
+          ],
+          "answers": [
+            "καί"
+          ],
+          "explanation": "Καί combīnat decadem et ūnitātem in numerīs compositīs."
+        },
+        {
+          "id": "num2j",
+          "prompt": "___ ἡμέραι. (50, “quīnquāgintā diēs”)",
+          "options": [
+            "πεντήκοντα",
+            "πέντε",
+            "τετταράκοντα"
+          ],
+          "answers": [
+            "πεντήκοντα"
+          ],
+          "explanation": "Πεντήκοντα significat 50 (nōn cōnfundendum cum πέντε, “quīnque”)."
+        }
+      ]
+    },
+    {
+      "id": "ii-num2-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "num2k",
+          "statement": "Omnēs decadēs (20–90) et ἑκατόν sunt indēclīnābilēs.",
+          "answer": true,
+          "explanation": "Corrēctum: sōlum 1, 2, 3 dēclīnantur in tōtā linguā Graecā (usque ad hunc gradum)."
+        },
+        {
+          "id": "num2l",
+          "statement": "Numerī compositī possunt fōrmārī in ambōbus ōrdinibus (decas-ūnitās vel ūnitās-decas), ambōbus corrēctīs.",
+          "answer": true,
+          "explanation": "Corrēctum: flexibilitās ōrdinis est normālis in Graecō Classicō."
+        },
+        {
+          "id": "num2m",
+          "statement": "Πεντήκοντα (50) et πέντε (5) sunt fōrmae idēnticae.",
+          "answer": false,
+          "explanation": "Falsum: sunt verba omnīnō dīversa (πέντε=5, πεντήκοντα=50), quamquam etymologicē related."
+        },
+        {
+          "id": "num2n",
+          "statement": "In numerō compositō ut “trīgintā trēs”, sī nōmen est fēminīnum, τρεῖς mūtātur in τρία.",
+          "answer": false,
+          "explanation": "Falsum: τρεῖς servit masc./fem.; τρία servit sōlum neutrō — nōn variat secundum fēminīnum vs. masculīnum."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Decadēs (20–90) et ἑκατόν (100) sunt omnēs indēclīnābilēs: εἴκοσι, τριάκοντα, τετταράκοντα, πεντήκοντα, ἑξήκοντα, ἑβδομήκοντα, ὀγδοήκοντα, ἐνενήκοντα, ἑκατόν.",
+    "Numerī compositī combīnant decadem et ūnitātem cum καί, in utrōque ōrdine: εἴκοσι καὶ εἷς / εἷς καὶ εἴκοσι.",
+    "In numerō compositō, sōlum pars dēclīnābilis (1/2/3) concordat cum nōmine; decas manet invariābilis.",
+    "Numerālia alphabētica continuant: κ'=20, λ'=30... ρ'=100 (cum ϙ' quoppa prō 90).",
+    "Gradus II conclūditur: dēclīnātiō prīma/secunda, articulus plēnus, adiectīva, coniugātiō praesēns (āctīva/media-passīva), praepositiōnēs, adverbia, negātiō, interrogātīva, numerī — fundāmentum prō lēctiōne prōsae Gradūs III."
+  ],
+  "related": [
+    {
+      "lessonId": "ii-interrogativa-fundamentalia",
+      "label": "Interrogātīva Fundāmentālia"
+    },
+    {
+      "lessonId": "i-articulus-et-numeri",
+      "label": "Articulus et Numerī (Gradus I)"
+    }
+  ]
+}

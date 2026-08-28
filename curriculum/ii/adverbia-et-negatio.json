@@ -1,0 +1,249 @@
+{
+  "id": "ii-adverbia-et-negatio",
+  "level": "II",
+  "unit": "1",
+  "order": 8,
+  "skill": "grammatica",
+  "strand": "adverbia",
+  "title": "Adverbia et Negātiō",
+  "subtitle": "Fōrmātiō adverbiōrum ab adiectīvīs (-ως), et discrīmen fundāmentāle inter negātiōnēs οὐ et μή.",
+  "prerequisites": [
+    "ii-praepositiones-fundamentales"
+  ],
+  "objectives": [
+    "Formāre adverbium ab adiectīvō classis prīmae, mūtandō -ν fīnāle genetīvī plūrālis in -ς",
+    "Recitāre trēs fōrmās negātiōnis οὐ (οὐ, οὐκ, οὐχ) et applicāre rēgulam orthographicam correctam",
+    "Distinguere ūsum fundāmentālem οὐ (negātiō factī, modō indicātīvō) ā μή (negātiō voluntātis/hypothesis, aliīs modīs)",
+    "Applicāre μή ad prohibitiōnēs simplicēs cum imperātīvō"
+  ],
+  "content": {
+    "intro": "Duo elementa parva sed frequentissima concludunt hunc gradum grammaticum praecipuum: quōmodo adverbia (“bene”, “celeriter”...) fōrmantur ab adiectīvīs iam nōtīs, et quōmodo Graecum negat sententiās — cum discrīmine quod Latīnum nōn habet (Latīnum adhibet “nōn” ubīque; Graecum ēligit inter <span class=\"greek\">οὐ</span> et <span class=\"greek\">μή</span> secundum grammaticam contextūs).",
+    "explanation": "<p>Adverbium fōrmātur ab adiectīvō classis prīmae rēgulā simplicī: sūme genetīvum plūrālem (masculīnum/neutrum, quī semper fīnītur -ων), et mūta -ν fīnāle in -ς: <span class=\"greek\">καλός</span> → gen. pl. <span class=\"greek\">καλῶν</span> → adverbium <span class=\"greek\">καλῶς</span> (“bene, pulchrē”). Accentus manet in eōdem locō ac genetīvus plūrālis.</p>",
+    "rules": [
+      {
+        "heading": "a) Fōrmātiō Adverbiōrum",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Adiectīvum</th><th>Gen. Pl.</th><th>Adverbium</th><th>Sēnsus</th></tr></thead><tbody><tr><td class=\"greek\">καλός</td><td class=\"greek\">καλῶν</td><td class=\"greek\">καλῶς</td><td>bene, pulchrē</td></tr><tr><td class=\"greek\">σοφός</td><td class=\"greek\">σοφῶν</td><td class=\"greek\">σοφῶς</td><td>sapienter</td></tr><tr><td class=\"greek\">δίκαιος</td><td class=\"greek\">δικαίων</td><td class=\"greek\">δικαίως</td><td>iūstē</td></tr></tbody></table><p>Rēgula valet prō omnī adiectīvō classis prīmae, indepēndenter ā fōrmā fēminīnī (-η vs. -α) — sōlum genetīvus plūrālis masculīnus/neutrus (semper -ων) importat.</p>"
+      },
+      {
+        "heading": "b) Οὐ, Οὐκ, Οὐχ: Rēgula Orthographica",
+        "body": "<p><span class=\"greek\">Οὐ</span> mūtat fōrmam secundum sonum initiālem verbī sequentis, exāctē sīcut articulus Anglicus “a”/“an”: <strong>οὐ</strong> ante cōnsonantem (<span class=\"greek\">οὐ λύω</span>), <strong>οὐκ</strong> ante vōcālem cum spīritū lēnī (<span class=\"greek\">οὐκ ἐθέλω</span>), <strong>οὐχ</strong> ante vōcālem cum spīritū aspero (<span class=\"greek\">οὐχ ὁρῶ</span>). Mūtātiō sequitur logicam eufōnicam: -κ (surdum) ante spīritum lēnem, -χ (aspīrātum, comparā θ/φ/χ ex Gradū I) ante spīritum asperum, quia aspīrātiō “concordat”.</p>"
+      },
+      {
+        "heading": "c) Οὐ vs. Μή: Discrīmen Fundāmentāle",
+        "body": "<p><span class=\"greek\">Οὐ</span> negat FACTA obiectīva, modō indicātīvō: <span class=\"greek\">οὐ λύω τὸν δοῦλον</span> “nōn solvō servum” (āctiō rēalis, negāta). <span class=\"greek\">Μή</span> negat voluntātem, hypothesim, commandum — omnia quae NŌN sunt affirmātiōnēs simplicēs dē factō: imperātīva (prohibitiō), optātīva, coniūnctīva, condiciōnēs, plēraeque īnfīnītīvī. Exemplum ūtile iam nunc: prohibitiō cum imperātīvō semper adhibet μή, numquam οὐ: <span class=\"greek\">μὴ λύε</span> “nōlī solvere!”. Theoria plēna huius discrīminis (per omnēs modōs) sequitur cum coniūnctīvus/optātīvus/imperātīvus plēnē tractantur (Gradibus IV/V).</p>"
+      }
+    ],
+    "examples": [
+      "ὁ διδάσκαλος καλῶς λέγει. — Magister bene loquitur. (adverbium ab adiectīvō)",
+      "οὐ λύω τὸν δοῦλον. — Nōn solvō servum. (negātiō factī, indicātīvus)",
+      "οὐκ ἐθέλω μένειν. — Nōlō manēre. (οὐκ ante spīritum lēnem)",
+      "οὐχ ὁρῶ τὴν πόλιν. — Nōn videō urbem. (οὐχ ante spīritum asperum)",
+      "μὴ λύε τὸν δοῦλον. — Nōlī solvere servum! (prohibitiō, imperātīvus + μή)",
+      "δικαίως καὶ σοφῶς ἄρχει. — Iūstē et sapienter regit. (duo adverbia coniūncta)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Adhibēre οὐ ubīque, indepēndenter ā modō vel cōnstrūctiōne, imitandō ūnicam negātiōnem Latīnam “nōn”.",
+        "right": "Distinguere: οὐ prō factīs (indicātīvus), μή prō voluntāte/hypothesī/commandō (aliī modī, imperātīvus, plērīque īnfīnītīvī).",
+        "why": "Latīnum habet ūnam sōlam negātiōnem prīncipālem (nōn); Graecum distinguit systēmaticē duo genera negātiōnis."
+      },
+      {
+        "wrong": "Ignōrāre mūtātiōnem οὐ → οὐκ/οὐχ ante vōcālēs, scrībendō semper “οὐ” invariābiliter.",
+        "right": "Applicāre rēgulam eufōnicam: οὐκ ante spīritum lēnem, οὐχ ante spīritum asperum, οὐ ante cōnsonantem.",
+        "why": "Error orthographicus frequēns, comparābilis neglēctuī rēgulae ν ephelkystikon (Gradū I)."
+      },
+      {
+        "wrong": "Fōrmāre adverbium ex fōrmā fēminīnā adiectīvī (ut ex καλή) potius quam ex genetīvō plūrālī masculīnō/neutrō.",
+        "right": "Semper fōrmāre adverbium ā genetīvō plūrālī masculīnō/neutrō (-ων → -ως), indepēndenter ā fōrmā fēminīnī.",
+        "why": "Fōrma fēminīna nōn participat in fōrmātiōne adverbiī — sōlum genus masculīnum/neutrum importat hīc."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "ii-adv1-mc",
+      "type": "multiple-choice",
+      "title": "Adverbia et Negātiō: Rēgulae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "adv1a",
+          "prompt": "Ā quō fōrmātur adverbium Graecum?",
+          "options": [
+            "ā fōrmā fēminīnā adiectīvī",
+            "ā genetīvō plūrālī masculīnō/neutrō, mūtātō -ν in -ς",
+            "ā nōminātīvō singulārī, addendō -ως"
+          ],
+          "answerIndex": 1,
+          "explanation": "Rēgula: gen. pl. masc./neut. (-ων) → adverbium (-ως)."
+        },
+        {
+          "id": "adv1b",
+          "prompt": "Quae fōrma adhibētur ante vōcālem cum spīritū aspero?",
+          "options": [
+            "οὐ",
+            "οὐκ",
+            "οὐχ"
+          ],
+          "answerIndex": 2,
+          "explanation": "Οὐχ adhibētur ante spīritum asperum, propter concordantiam aspīrātiōnis."
+        },
+        {
+          "id": "adv1c",
+          "prompt": "Quae negātiō adhibētur cum imperātīvō in prohibitiōne?",
+          "options": [
+            "οὐ, semper",
+            "μή, semper",
+            "utraque indifferenter"
+          ],
+          "answerIndex": 1,
+          "explanation": "Prohibitiō cum imperātīvō semper adhibet μή, numquam οὐ."
+        },
+        {
+          "id": "adv1d",
+          "prompt": "Quid negat οὐ fundāmentāliter?",
+          "options": [
+            "voluntātem/commandum",
+            "facta obiectīva, modō indicātīvō",
+            "sōlum īnfīnītīvōs"
+          ],
+          "answerIndex": 1,
+          "explanation": "Οὐ est negātiō factī, adhibita cum modō indicātīvō."
+        },
+        {
+          "id": "adv1e",
+          "prompt": "Quod adverbium corrēctē dērīvātur ā σοφός?",
+          "options": [
+            "σοφή",
+            "σοφῶς",
+            "σοφόν"
+          ],
+          "answerIndex": 1,
+          "explanation": "Gen. pl. σοφῶν → adverbium σοφῶς."
+        }
+      ]
+    },
+    {
+      "id": "ii-adv1-fill",
+      "type": "fill-blank",
+      "title": "Complē cum Fōrmā Rēctā",
+      "instructions": "Comple spatia cum fōrmā rēctā (adverbium vel negātiō).",
+      "items": [
+        {
+          "id": "adv1f",
+          "prompt": "ὁ διδάσκαλος ___ λέγει. (adverbium ab καλός)",
+          "options": [
+            "καλῶς",
+            "καλή",
+            "καλόν"
+          ],
+          "answers": [
+            "καλῶς"
+          ],
+          "explanation": "Adverbium ab καλός: καλῶς."
+        },
+        {
+          "id": "adv1g",
+          "prompt": "___ λύω τὸν δοῦλον. (negātiō, ante cōnsonantem)",
+          "options": [
+            "οὐ",
+            "οὐκ",
+            "οὐχ"
+          ],
+          "answers": [
+            "οὐ"
+          ],
+          "explanation": "Οὐ ante cōnsonantem (λ)."
+        },
+        {
+          "id": "adv1h",
+          "prompt": "___ ἐθέλω μένειν. (negātiō, ante spīritum lēnem)",
+          "options": [
+            "οὐ",
+            "οὐκ",
+            "οὐχ"
+          ],
+          "answers": [
+            "οὐκ"
+          ],
+          "explanation": "Οὐκ ante spīritum lēnem (ἐ-)."
+        },
+        {
+          "id": "adv1i",
+          "prompt": "___ λύε τὸν δοῦλον! (prohibitiō, imperātīvus)",
+          "options": [
+            "οὐ",
+            "μή",
+            "οὐκ"
+          ],
+          "answers": [
+            "μή"
+          ],
+          "explanation": "Prohibitiō cum imperātīvō adhibet μή."
+        },
+        {
+          "id": "adv1j",
+          "prompt": "___ ὁρῶ τὴν πόλιν. (negātiō, ante spīritum asperum)",
+          "options": [
+            "οὐ",
+            "οὐκ",
+            "οὐχ"
+          ],
+          "answers": [
+            "οὐχ"
+          ],
+          "explanation": "Οὐχ ante spīritum asperum (ὁ-)."
+        }
+      ]
+    },
+    {
+      "id": "ii-adv1-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "adv1k",
+          "statement": "Graecum habet duās negātiōnēs prīncipālēs (οὐ, μή) cum ūsibus distīnctīs, ubi Latīnum habet sōlum “nōn”.",
+          "answer": true,
+          "explanation": "Corrēctum: discrīmen οὐ/μή nōn habet homologum simplicem in Latīnō."
+        },
+        {
+          "id": "adv1l",
+          "statement": "Adverbium fōrmātur ā fōrmā fēminīnā adiectīvī.",
+          "answer": false,
+          "explanation": "Falsum: fōrmātur ā genetīvō plūrālī masculīnō/neutrō."
+        },
+        {
+          "id": "adv1m",
+          "statement": "Οὐκ adhibētur ante cōnsonantem, οὐ ante vōcālem cum spīritū lēnī.",
+          "answer": false,
+          "explanation": "Falsum: inversum est vērum — οὐ ante cōnsonantem, οὐκ ante spīritum lēnem."
+        },
+        {
+          "id": "adv1n",
+          "statement": "Μή adhibētur typicē cum imperātīvō in prohibitiōnibus.",
+          "answer": true,
+          "explanation": "Corrēctum: μὴ λύε “nōlī solvere” exemplificat hunc ūsum."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Adverbium: gen. pl. masc./neut. adiectīvī (-ων) → adverbium (-ως); καλός → καλῶν → καλῶς.",
+    "Οὐ (ante cōnsonantem), οὐκ (ante spīritum lēnem), οὐχ (ante spīritum asperum) — mūtātiō eufōnica obligātōria.",
+    "Οὐ negat facta obiectīva (indicātīvus); μή negat voluntātem/hypothesim/commandum (aliī modī).",
+    "Prohibitiō cum imperātīvō semper adhibet μή, numquam οὐ (μὴ λύε “nōlī solvere”).",
+    "Theoria plēna οὐ/μή per omnēs modōs sequitur cum coniūnctīvus/optātīvus/imperātīvus plēnē tractantur."
+  ],
+  "related": [
+    {
+      "lessonId": "ii-praepositiones-fundamentales",
+      "label": "Praepositiōnēs Fundāmentālēs"
+    },
+    {
+      "lessonId": "ii-interrogativa-fundamentalia",
+      "label": "Interrogātīva Fundāmentālia"
+    }
+  ]
+}

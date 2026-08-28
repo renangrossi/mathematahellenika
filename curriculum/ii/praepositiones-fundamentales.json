@@ -1,0 +1,249 @@
+{
+  "id": "ii-praepositiones-fundamentales",
+  "level": "II",
+  "unit": "1",
+  "order": 7,
+  "skill": "grammatica",
+  "strand": "praepositiones",
+  "title": "Praepositiōnēs Fundāmentālēs",
+  "subtitle": "Praepositiōnēs cum cāsū fīxō (ἐν, εἰς, ἐκ, ἀπό, σύν, πρός) et praepositiōnēs cum sēnsū variante secundum cāsum (διά, μετά, ὑπό).",
+  "prerequisites": [
+    "ii-coniugatio-praesentis-medii-passivi"
+  ],
+  "objectives": [
+    "Recitāre sex praepositiōnēs commūnēs cum cāsū fīxō ūnicō (ἐν+dat., εἰς+acc., ἐκ+gen., ἀπό+gen., σύν+dat., πρός+acc.)",
+    "Explicāre logicam generālem: genetīvus post praepositiōnem saepe significat “ā/ex”, datīvus significat locum statūrium, accūsātīvus significat mōtum versus",
+    "Distinguere sēnsūs dīversōs eiusdem praepositiōnis secundum cāsum sequentem (διά, μετά, ὑπό)",
+    "Trānsferre phrasēs praepositiōnālēs simplicēs correcte, attendendō semper cāsum"
+  ],
+  "content": {
+    "intro": "Praepositiō Graeca — sīcut Latīna — regit cāsum nōminis sequentis; sed discrīmen praecipuum ā Latīnō est: <strong>multae praepositiōnēs Graecae mūtant sēnsum secundum cāsum quem regunt</strong>, nōn sōlum sēnsum secundum ipsam praepositiōnem. Attendere cāsum est ergō omnīnō necesse ad sēnsum correctum legendum, nōn sōlum ad grammaticam correctam scrībendam.",
+    "explanation": "<p>Logica generālis (ūtilis ut mnēmonicum, nōn rēgula absolūta): <strong>genetīvus</strong> post praepositiōnem saepe indicat origine/sēparātiōnem (“ā/ex”, unde vēnit āctiō); <strong>datīvus</strong> indicat locum statūrium vel īnstrūmentum (“in, cum”, ubi vel quō īnstrūmentō āctiō fit); <strong>accūsātīvus</strong> indicat mōtum versus vel extēnsiōnem (“ad, per”, quō āctiō tendit). Haec logica nōn explicat omnem cāsum omnis praepositiōnis, sed adiuvat memoriam.</p>",
+    "rules": [
+      {
+        "heading": "a) Praepositiōnēs cum Cāsū Fīxō",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Praepositiō</th><th>Cāsus</th><th>Sēnsus</th><th>Exemplum</th></tr></thead><tbody><tr><td class=\"greek\">ἐν</td><td>Dat.</td><td>in, apud (locus statūrius)</td><td class=\"greek\">ἐν τῇ πόλει</td></tr><tr><td class=\"greek\">εἰς</td><td>Acc.</td><td>in, ad (mōtus versus)</td><td class=\"greek\">εἰς τὴν πόλιν</td></tr><tr><td class=\"greek\">ἐκ (ἐξ)</td><td>Gen.</td><td>ē, ex (mōtus ā)</td><td class=\"greek\">ἐκ τῆς πόλεως</td></tr><tr><td class=\"greek\">ἀπό</td><td>Gen.</td><td>ā, ab (sēparātiō)</td><td class=\"greek\">ἀπὸ τῆς οἰκίας</td></tr><tr><td class=\"greek\">σύν</td><td>Dat.</td><td>cum (comitātus)</td><td class=\"greek\">σὺν τοῖς φίλοις</td></tr><tr><td class=\"greek\">πρός</td><td>Acc.</td><td>ad, versus</td><td class=\"greek\">πρὸς τὴν πόλιν</td></tr></tbody></table><p>Nōtā ἐν vs. εἰς: ambae trānsferuntur saepe “in” Latīnē, sed ἐν (+ dat.) est locus STATUS (“in urbe [iam]”), εἰς (+ acc.) est mōtus VERSUS (“in urbem [euntem]”) — discrīmen exāctē analogum discrīminī Latīnō “in” + ablātīvō vs. “in” + accūsātīvō!</p>"
+      },
+      {
+        "heading": "b) Praepositiōnēs cum Sēnsū Variante: διά, μετά",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Praepositiō</th><th>+ Genetīvus</th><th>+ Accūsātīvus</th></tr></thead><tbody><tr><td class=\"greek\">διά</td><td>per (spatium/tempus): <span class=\"greek\">διὰ τῆς πόλεως</span> “per urbem”</td><td>propter, ob (causa): <span class=\"greek\">διὰ τὸν φόβον</span> “propter timōrem”</td></tr><tr><td class=\"greek\">μετά</td><td>cum (comitātus): <span class=\"greek\">μετὰ τῶν φίλων</span> “cum amīcīs”</td><td>post (tempus/locum): <span class=\"greek\">μετὰ τὴν μάχην</span> “post pugnam”</td></tr></tbody></table>"
+      },
+      {
+        "heading": "c) Ὑπό: Trēs Cāsūs, Trēs Sēnsūs",
+        "body": "<p><span class=\"greek\">ὑπό</span> + <strong>genetīvus</strong> = “ab” (agēns passīvus, iam vīsum in lēctiōne priōre): <span class=\"greek\">λύεται ὑπὸ τοῦ δεσπότου</span> “solvitur ā dominō”. <span class=\"greek\">ὑπό</span> + <strong>datīvus</strong> = “sub” (locus statūrius, rārior in prōsā, frequentior in poēsī): <span class=\"greek\">ὑπὸ τῷ δένδρῳ</span> “sub arbore”. <span class=\"greek\">ὑπό</span> + <strong>accūsātīvus</strong> = “sub” (mōtus versus): <span class=\"greek\">ὑπὸ τὸ δένδρον</span> “sub arborem [euntem]”. Eadem logica ac ἐν/εἰς: datīvus = status, accūsātīvus = mōtus.</p>"
+      }
+    ],
+    "examples": [
+      "οἱ πολῖται ἐν τῇ πόλει μένουσιν. — Cīvēs in urbe manent. (ἐν + dat., status)",
+      "οἱ στρατιῶται εἰς τὴν πόλιν βαίνουσιν. — Mīlitēs in urbem eunt. (εἰς + acc., mōtus)",
+      "ἥκομεν ἐκ τῆς οἰκίας. — Venimus ē domō. (ἐκ + gen., orīgō)",
+      "διὰ τὸν πόλεμον φεύγομεν. — Propter bellum fugimus. (διά + acc., causa)",
+      "μετὰ τὴν μάχην ἐπανερχόμεθα. — Post pugnam revertimur. (μετά + acc., tempus)",
+      "βαίνει σὺν τοῖς φίλοις πρὸς τὴν ἀγοράν. — It cum amīcīs ad forum. (σύν + dat.; πρός + acc.)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Cōnfundere ἐν (+ dat., status) cum εἰς (+ acc., mōtus), adhibendō ūnam prō alterā indiscrīminātim.",
+        "right": "Attendere semper: ἐν indicat “ubi [iam]”, εἰς indicat “quō [euntem]” — discrīmen praecīsē analogum Latīnō in+abl. vs. in+acc.",
+        "why": "Discrīmen status/mōtūs est fundāmentāle in syntaxī Graecā praepositiōnum, saepe neglēctum ab incipientibus."
+      },
+      {
+        "wrong": "Trānsferre διά vel μετά semper eōdem modō, sine attendere cāsum sequentem.",
+        "right": "Vidēre cāsum PRIMUM, deinde ēligere sēnsum correctum: διά+gen. “per”, διά+acc. “propter”; μετά+gen. “cum”, μετά+acc. “post”.",
+        "why": "Errāre hīc mūtat sēnsum tōtīus sententiae, nōn sōlum stylum — “per urbem” ≠ “propter urbem”."
+      },
+      {
+        "wrong": "Crēdere ὑπό significāre sōlum “sub”, ignōrandō sēnsum “ab” (agēns passīvus) cum genetīvō.",
+        "right": "Recordārī ὑπό + genetīvus in cōnstrūctiōne passīvā semper significat “ab”, nōn “sub”.",
+        "why": "Sēnsus “ab” (agēns) est ūsus frequentissimus ipsīus ὑπό in prōsā classicā, magis quam sēnsus locālis “sub”."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "ii-prep-mc",
+      "type": "multiple-choice",
+      "title": "Praepositiōnēs: Cāsūs et Sēnsūs",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "prepa",
+          "prompt": "Quem cāsum regit ἐν?",
+          "options": [
+            "genetīvum",
+            "datīvum",
+            "accūsātīvum"
+          ],
+          "answerIndex": 1,
+          "explanation": "Ἐν semper regit datīvum, indicāns locum statūrium."
+        },
+        {
+          "id": "prepb",
+          "prompt": "Quid significat διὰ τὸν φόβον?",
+          "options": [
+            "“per timōrem” (spatium)",
+            "“propter timōrem” (causa)",
+            "“cum timōre”"
+          ],
+          "answerIndex": 1,
+          "explanation": "Διά + accūsātīvus significat causam: “propter, ob”."
+        },
+        {
+          "id": "prepc",
+          "prompt": "Quod discrīmen distinguit ἐν ab εἰς?",
+          "options": [
+            "nūllum; sunt synōnyma perfecta",
+            "ἐν = status (dat.), εἰς = mōtus (acc.)",
+            "ἐν regit genetīvum, εἰς regit datīvum"
+          ],
+          "answerIndex": 1,
+          "explanation": "Discrīmen est status vs. mōtus, sīgnātum etiam per cāsum (dat. vs. acc.)."
+        },
+        {
+          "id": "prepd",
+          "prompt": "Quid significat ὑπό + genetīvus in cōnstrūctiōne passīvā?",
+          "options": [
+            "“sub” (locō)",
+            "“ab” (agēns)",
+            "“post” (tempore)"
+          ],
+          "answerIndex": 1,
+          "explanation": "Ὑπό + gen. in cōnstrūctiōne passīvā indicat agentem: “ab”."
+        },
+        {
+          "id": "prepe",
+          "prompt": "Quid significat μετὰ τῶν φίλων?",
+          "options": [
+            "“post amīcōs”",
+            "“cum amīcīs”",
+            "“propter amīcōs”"
+          ],
+          "answerIndex": 1,
+          "explanation": "Μετά + genetīvus significat comitātum: “cum”."
+        }
+      ]
+    },
+    {
+      "id": "ii-prep-fill",
+      "type": "fill-blank",
+      "title": "Ēlige Cāsum Rēctum",
+      "instructions": "Ēlige fōrmam rēctam secundum praepositiōnem et sēnsum datum.",
+      "items": [
+        {
+          "id": "prepf",
+          "prompt": "εἰς τὴν ___ (“in urbem”, εὐθύς acc.)",
+          "options": [
+            "πόλιν",
+            "πόλει",
+            "πόλεως"
+          ],
+          "answers": [
+            "πόλιν"
+          ],
+          "explanation": "Εἰς regit accūsātīvum: τὴν πόλιν."
+        },
+        {
+          "id": "prepg",
+          "prompt": "ἐκ τῆς ___ (“ē domō”, gen.)",
+          "options": [
+            "οἰκίας",
+            "οἰκίᾳ",
+            "οἰκίαν"
+          ],
+          "answers": [
+            "οἰκίας"
+          ],
+          "explanation": "Ἐκ regit genetīvum: τῆς οἰκίας."
+        },
+        {
+          "id": "preph",
+          "prompt": "σὺν τοῖς ___ (“cum amīcīs”, dat.)",
+          "options": [
+            "φίλοις",
+            "φίλους",
+            "φίλων"
+          ],
+          "answers": [
+            "φίλοις"
+          ],
+          "explanation": "Σύν regit datīvum: τοῖς φίλοις."
+        },
+        {
+          "id": "prepi",
+          "prompt": "διὰ τὸν ___ (“propter bellum”, acc.)",
+          "options": [
+            "πόλεμον",
+            "πολέμου",
+            "πολέμῳ"
+          ],
+          "answers": [
+            "πόλεμον"
+          ],
+          "explanation": "Διά + accūsātīvus (causa): τὸν πόλεμον."
+        },
+        {
+          "id": "prepj",
+          "prompt": "μετὰ τὴν ___ (“post pugnam”, acc.)",
+          "options": [
+            "μάχην",
+            "μάχης",
+            "μάχῃ"
+          ],
+          "answers": [
+            "μάχην"
+          ],
+          "explanation": "Μετά + accūsātīvus (tempus): τὴν μάχην."
+        }
+      ]
+    },
+    {
+      "id": "ii-prep-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "prepk",
+          "statement": "Ἐν et εἰς sunt synōnyma perfecta, intercambiābilēs sine mūtātiōne sēnsūs.",
+          "answer": false,
+          "explanation": "Falsum: ἐν indicat status, εἰς indicat mōtum — discrīmen reāle et significāns."
+        },
+        {
+          "id": "prepl",
+          "statement": "Διά potest significāre “per” (spatium) AUT “propter” (causa), secundum cāsum sequentem.",
+          "answer": true,
+          "explanation": "Corrēctum: διά+gen. “per”, διά+acc. “propter”."
+        },
+        {
+          "id": "prepm",
+          "statement": "Πρός semper regit accūsātīvum in omnī ūsū.",
+          "answer": false,
+          "explanation": "Falsum: πρός potest regere etiam genetīvum vel datīvum in sēnsibus rariōribus; accūsātīvus est ūsus praecipuus/frequentissimus hīc discitus."
+        },
+        {
+          "id": "prepn",
+          "statement": "Ὑπό + datīvus significat “sub” (locum statūrium), rārius in prōsā.",
+          "answer": true,
+          "explanation": "Corrēctum: sēnsus locālis cum datīvō exsistit sed est minus frequēns quam ὑπό+gen. (agēns)."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Cāsū fīxō: ἐν+dat. (in, status), εἰς+acc. (in, mōtus), ἐκ+gen. (ē/ex), ἀπό+gen. (ā/ab), σύν+dat. (cum), πρός+acc. (ad).",
+    "Logica generālis: genetīvus = orīgō/sēparātiō, datīvus = status, accūsātīvus = mōtus versus.",
+    "Διά: +gen. “per” (spatium), +acc. “propter” (causa). Μετά: +gen. “cum”, +acc. “post”.",
+    "Ὑπό: +gen. “ab” (agēns passīvus), +dat./+acc. “sub” (status/mōtus).",
+    "Attendere semper cāsum post praepositiōnem: sēnsus tōtīus phrāsis inde pendet, nōn sōlum grammatica."
+  ],
+  "related": [
+    {
+      "lessonId": "ii-coniugatio-praesentis-medii-passivi",
+      "label": "Coniugātiō Praesentis Mediī-Passīvī"
+    },
+    {
+      "lessonId": "ii-adverbia-et-negatio",
+      "label": "Adverbia et Negātiō"
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "id": "ii-declinatio-secunda-masculina-et-neutra",
+  "level": "II",
+  "unit": "1",
+  "order": 2,
+  "skill": "grammatica",
+  "strand": "declinatio-secunda",
+  "title": "Dēclīnātiō Secunda: Masculīna et Neutra",
+  "subtitle": "Nōmina masculīna in -ος (ut λόγος) et neutra in -ον (ut δῶρον); discrīmen praecipuum nōminātīvī/accūsātīvī/vocātīvī neutrōrum.",
+  "prerequisites": [
+    "ii-declinatio-prima"
+  ],
+  "objectives": [
+    "Dēclīnāre plēnē nōmen masculīnum in -ος (ut λόγος) per omnēs cāsūs, utrōque numerō",
+    "Dēclīnāre plēnē nōmen neutrum in -ον (ut δῶρον) per omnēs cāsūs, utrōque numerō",
+    "Recordārī rēgulam generālem omnium nōminum neutrōrum: nōminātīvus = accūsātīvus = vocātīvus, semper, in utrōque numerō",
+    "Recordārī plūrālem neutrum semper fīnīrī -α, etiam sī nōminātīvus singulāris nōn indicat hoc prīmā speciē"
+  ],
+  "content": {
+    "intro": "Post prīmam dēclīnātiōnem (praecipuē fēminīnam), secunda dēclīnātiō intrōdūcit duo genera nova: masculīnum in <span class=\"greek\">-ος</span> (maior pars nōminum secundae dēclīnātiōnis, ut <span class=\"greek\">λόγος</span> verbum/ratiō, <span class=\"greek\">ἄνθρωπος</span> homō, iam vīsa in exemplīs Gradūs I) et neutrum in <span class=\"greek\">-ον</span> (ut <span class=\"greek\">δῶρον</span> dōnum, <span class=\"greek\">βιβλίον</span> liber, iam vīsum in Gradū I). Comparā cum secundā dēclīnātiōne Latīnā (-us/-um): rēs valdē similis, sed cum ūnā rēgulā neutrīus omnīnō absentī in Latīnō in hāc fōrmā simplicī.",
+    "explanation": "<p>Secunda dēclīnātiō Graeca continet praecipuē nōmina masculīna (in <span class=\"greek\">-ος</span>) et neutra (in <span class=\"greek\">-ον</span>); pauca nōmina fēminīna existunt quoque in hāc dēclīnātiōne (ut <span class=\"greek\">ἡ ὁδός</span> via) sed dēclīnantur exāctē ut masculīna — genus est arbitrārium hīc, fōrma dēclīnātiōnis nōn mūtātur. Discrīmen praecipuum inter masculīnum et neutrum: <strong>omne nōmen neutrum, in quālibet dēclīnātiōne, habet nōminātīvum, accūsātīvum, et vocātīvum identicōs</strong> — rēgula absoluta, sine exceptiōne, per tōtam linguam Graecam (et etiam Latīnam! comparā “templum” nōm./acc.).</p>",
+    "rules": [
+      {
+        "heading": "a) Masculīnum: Paradigma λόγος (verbum, ratiō)",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Cāsus</th><th>Singulāris</th><th>Plūrālis</th></tr></thead><tbody><tr><td>Nōm.</td><td class=\"greek\">λόγος</td><td class=\"greek\">λόγοι</td></tr><tr><td>Gen.</td><td class=\"greek\">λόγου</td><td class=\"greek\">λόγων</td></tr><tr><td>Dat.</td><td class=\"greek\">λόγῳ</td><td class=\"greek\">λόγοις</td></tr><tr><td>Acc.</td><td class=\"greek\">λόγον</td><td class=\"greek\">λόγους</td></tr><tr><td>Voc.</td><td class=\"greek\">λόγε</td><td class=\"greek\">λόγοι</td></tr></tbody></table><p>Nōtā datīvum singulārem <span class=\"greek\">λόγῳ</span>: ι subscrīptum sub ω longō (comparā iōta subscrīptum, Gradus I). Vocātīvus singulāris est speciālis: <span class=\"greek\">-ε</span>, nōn <span class=\"greek\">-ος</span>.</p>"
+      },
+      {
+        "heading": "b) Neutrum: Paradigma δῶρον (dōnum)",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Cāsus</th><th>Singulāris</th><th>Plūrālis</th></tr></thead><tbody><tr><td>Nōm.</td><td class=\"greek\">δῶρον</td><td class=\"greek\">δῶρα</td></tr><tr><td>Gen.</td><td class=\"greek\">δώρου</td><td class=\"greek\">δώρων</td></tr><tr><td>Dat.</td><td class=\"greek\">δώρῳ</td><td class=\"greek\">δώροις</td></tr><tr><td>Acc.</td><td class=\"greek\">δῶρον</td><td class=\"greek\">δῶρα</td></tr><tr><td>Voc.</td><td class=\"greek\">δῶρον</td><td class=\"greek\">δῶρα</td></tr></tbody></table><p>Genetīvus et datīvus (utrōque numerō) sunt <strong>identicī</strong> cum fōrmīs masculīnīs (-ου, -ῳ, -ων, -οις) — sōlum nōminātīvus/accūsātīvus/vocātīvus differunt ā masculīnō. Nōtā <strong>plūrālem neutrum semper fīnīrī -α</strong>, numquam -οι — error frequentissimus apud incipientēs quī suppōnunt omnem plūrālem secundae dēclīnātiōnis fīnīrī -οι.</p>"
+      },
+      {
+        "heading": "c) Rēgula Aurea Neutrōrum",
+        "body": "<p><strong>Nōminātīvus = accūsātīvus = vocātīvus, semper, in omnī nōmine neutrō, in utrōque numerō</strong> — nōn sōlum in secundā dēclīnātiōne, sed etiam in tertiā (quam in Gradū III vidēbis). Corollārium syntacticum ūtile: cum nōmen neutrum est subiectum plūrāle, verbum saepe manet <strong>singulāre</strong> (τὰ ζῷα τρέχει, litt. “animālia currit”, nōn “currunt”) — phaenomenon dictum “concordantia neutrīus plūrālis”, quod plēnius vidēbis cum syntaxis verbī tractātur.</p>"
+      }
+    ],
+    "examples": [
+      "ὁ λόγος τοῦ ἀνθρώπου. — Verbum hominis. (λόγος nōm., ἀνθρώπου gen. sg.)",
+      "τὰ δῶρα τῶν θεῶν. — Dōna deōrum. (δῶρα nōm./acc. plūrāle neutrum; θεῶν gen. pl.)",
+      "τῷ λόγῳ πείθομαι. — Verbō persuādeor / verbō crēdō. (datīvus post verbum)",
+      "ὦ λόγε... — Ō verbum... (vocātīvus speciālis masculīnus)",
+      "τὸ βιβλίον καλόν ἐστιν. — Liber pulcher est. (nōm./acc. neutrum identicum)",
+      "ὁρῶ τὰ δῶρα. — Videō dōna. (accūsātīvus plūrālis neutrum = nōminātīvus)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Crēdere plūrālem omnium nōminum secundae dēclīnātiōnis fīnīrī semper -οι.",
+        "right": "Recordārī nōmina MASCULĪNA fīniunt plūrālem -οι, sed nōmina NEUTRA fīniunt semper -α.",
+        "why": "Error frequentissimus, quia -οι est fōrma plūrālis masculīna prīma discita et facile generalizātur incorrecte."
+      },
+      {
+        "wrong": "Quaerere fōrmam accūsātīvī dīversam ā nōminātīvō in nōmine neutrō, sīcut in masculīnō.",
+        "right": "Recordārī nōminātīvus = accūsātīvus = vocātīvus semper in nōmine neutrō — nūlla fōrma distincta accūsātīvī exsistit.",
+        "why": "Haec est rēgula absolūta et fundāmentālis per tōtam morphologiam Graecam (et Latīnam), sine exceptiōne ūllā."
+      },
+      {
+        "wrong": "Cōnfundere vocātīvum singulārem masculīnum λόγε cum genetīvō/datīvō, propter fōrmam brevem.",
+        "right": "Recognōscere -ε fīnāle breve ut vocātīvum proprium masculīnōrum secundae dēclīnātiōnis, distīnctum ā genetīvō -ου et datīvō -ῳ.",
+        "why": "Vocātīvus est cāsus rārior in textū, ideōque minus familiāris et magis cōnfundibilis incipientibus."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "ii-dec2-mc",
+      "type": "multiple-choice",
+      "title": "Dēclīnātiō Secunda: Rēgulae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "dec2a",
+          "prompt": "Quae est fōrma nōminātīvī plūrālis nōminis neutrī δῶρον?",
+          "options": [
+            "δῶροι",
+            "δῶρα",
+            "δώρων"
+          ],
+          "answerIndex": 1,
+          "explanation": "Nōmina neutra fīniunt plūrālem semper -α, numquam -οι."
+        },
+        {
+          "id": "dec2b",
+          "prompt": "Quid est vērum dē accūsātīvō nōminis neutrī, in quōvīs numerō?",
+          "options": [
+            "differt semper ā nōminātīvō",
+            "est semper identicus nōminātīvō (et vocātīvō)",
+            "nōn exsistit in neutrīs"
+          ],
+          "answerIndex": 1,
+          "explanation": "Rēgula aurea: nōm. = acc. = voc. in omnī nōmine neutrō."
+        },
+        {
+          "id": "dec2c",
+          "prompt": "Quae fōrma est vocātīvus singulāris nōminis λόγος?",
+          "options": [
+            "λόγος",
+            "λόγου",
+            "λόγε"
+          ],
+          "answerIndex": 2,
+          "explanation": "Vocātīvus singulāris masculīnōrum secundae dēclīnātiōnis est speciālis: -ε."
+        },
+        {
+          "id": "dec2d",
+          "prompt": "Genetīvus et datīvus nōminum neutrōrum secundae dēclīnātiōnis...",
+          "options": [
+            "differunt omnīnō ā masculīnīs",
+            "sunt identicī cum fōrmīs masculīnīs (-ου, -ῳ, -ων, -οις)",
+            "nōn exsistunt"
+          ],
+          "answerIndex": 1,
+          "explanation": "Sōlum nōm./acc./voc. differunt inter masculīnum et neutrum; gen./dat. sunt identicī."
+        },
+        {
+          "id": "dec2e",
+          "prompt": "Quid significat “concordantia neutrīus plūrālis”?",
+          "options": [
+            "verbum fit plūrāle cum subiectum est neutrum plūrāle",
+            "verbum saepe manet singulāre cum subiectum est neutrum plūrāle",
+            "nōmina neutra numquam habent plūrālem"
+          ],
+          "answerIndex": 1,
+          "explanation": "Subiectum neutrum plūrāle frequenter accipit verbum singulāre in Graecō Classicō."
+        }
+      ]
+    },
+    {
+      "id": "ii-dec2-fill",
+      "type": "fill-blank",
+      "title": "Complē Fōrmam Rēctam",
+      "instructions": "Comple spatia cum fōrmā rēctā dēclīnātiōnis.",
+      "items": [
+        {
+          "id": "dec2f",
+          "prompt": "λόγος, genetīvus singulāris: ___",
+          "options": [
+            "λόγου",
+            "λόγῳ",
+            "λόγον"
+          ],
+          "answers": [
+            "λόγου"
+          ],
+          "explanation": "Genetīvus singulāris masculīnī secundae dēclīnātiōnis: -ου."
+        },
+        {
+          "id": "dec2g",
+          "prompt": "δῶρον, nōminātīvus plūrālis: ___",
+          "options": [
+            "δῶροι",
+            "δῶρα",
+            "δώρων"
+          ],
+          "answers": [
+            "δῶρα"
+          ],
+          "explanation": "Nōminātīvus plūrālis neutrī: -α."
+        },
+        {
+          "id": "dec2h",
+          "prompt": "λόγος, datīvus plūrālis: ___",
+          "options": [
+            "λόγοις",
+            "λόγους",
+            "λόγων"
+          ],
+          "answers": [
+            "λόγοις"
+          ],
+          "explanation": "Datīvus plūrālis secundae dēclīnātiōnis: -οις."
+        },
+        {
+          "id": "dec2i",
+          "prompt": "δῶρον, accūsātīvus singulāris: ___",
+          "options": [
+            "δώρου",
+            "δῶρον",
+            "δώρῳ"
+          ],
+          "answers": [
+            "δῶρον"
+          ],
+          "explanation": "Accūsātīvus singulāris neutrī = nōminātīvus: δῶρον."
+        },
+        {
+          "id": "dec2j",
+          "prompt": "λόγος, vocātīvus singulāris: ___",
+          "options": [
+            "λόγος",
+            "λόγε",
+            "λόγου"
+          ],
+          "answers": [
+            "λόγε"
+          ],
+          "explanation": "Vocātīvus singulāris masculīnī secundae dēclīnātiōnis: -ε."
+        }
+      ]
+    },
+    {
+      "id": "ii-dec2-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "dec2k",
+          "statement": "Nōmina neutra secundae dēclīnātiōnis fīniunt nōminātīvum plūrālem -οι, sīcut masculīna.",
+          "answer": false,
+          "explanation": "Falsum: neutra fīniunt semper -α in plūrālī nōminātīvō/accūsātīvō."
+        },
+        {
+          "id": "dec2l",
+          "statement": "In quōvīs nōmine neutrō, fōrma accūsātīva est semper identica fōrmae nōminātīvae.",
+          "answer": true,
+          "explanation": "Corrēctum: rēgula absolūta sine exceptiōne per tōtam dēclīnātiōnem Graecam."
+        },
+        {
+          "id": "dec2m",
+          "statement": "Genetīvus singulāris nōminis δῶρον differt ā genetīvō singulārī nōminis λόγος.",
+          "answer": false,
+          "explanation": "Falsum: ambō sunt -ου (δώρου, λόγου) — genetīvus/datīvus sunt identicī inter masculīnum et neutrum."
+        },
+        {
+          "id": "dec2n",
+          "statement": "Verbum potest manēre singulāre etiam cum subiectum est nōmen neutrum plūrāle.",
+          "answer": true,
+          "explanation": "Corrēctum: “concordantia neutrīus plūrālis” est phaenomenon reāle et frequens."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Secunda dēclīnātiō: masculīnum in -ος (λόγος), neutrum in -ον (δῶρον); genetīvus/datīvus sunt identicī inter ambō genera.",
+    "Λόγος: nōm. -ος, gen. -ου, dat. -ῳ, acc. -ον, voc. -ε (sg.) // -οι, -ων, -οις, -ους, -οι (pl.).",
+    "Δῶρον: nōm./acc./voc. -ον (sg.), -α (pl.); gen. -ου/-ων, dat. -ῳ/-οις (sīcut masculīnum).",
+    "Rēgula aurea: in OMNĪ nōmine neutrō, nōminātīvus = accūsātīvus = vocātīvus, semper.",
+    "Subiectum neutrum plūrāle saepe accipit verbum singulāre (concordantia neutrīus plūrālis)."
+  ],
+  "related": [
+    {
+      "lessonId": "ii-declinatio-prima",
+      "label": "Dēclīnātiō Prīma"
+    },
+    {
+      "lessonId": "ii-articulus-plenus",
+      "label": "Articulus Plēnus"
+    },
+    {
+      "lessonId": "ii-adiectiva-classis-primae",
+      "label": "Adiectīva Classis Prīmae"
+    }
+  ]
+}

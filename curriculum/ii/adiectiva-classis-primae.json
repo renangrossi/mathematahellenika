@@ -1,0 +1,255 @@
+{
+  "id": "ii-adiectiva-classis-primae",
+  "level": "II",
+  "unit": "1",
+  "order": 4,
+  "skill": "grammatica",
+  "strand": "adiectiva",
+  "title": "Adiectīva Classis Prīmae",
+  "subtitle": "Adiectīva in -ος/-η/-ον (ut καλός) et -ος/-α/-ον (ut μικρός post ε/ι/ρ); concordantia cum nōmine in genere, numerō, cāsū.",
+  "prerequisites": [
+    "ii-declinatio-prima",
+    "ii-declinatio-secunda-masculina-et-neutra",
+    "ii-articulus-plenus"
+  ],
+  "objectives": [
+    "Dēclīnāre plēnē adiectīvum classis prīmae (ut καλός) per omnia tria genera, omnēs cāsūs, utrōque numerō",
+    "Distinguere fēminīnum in -η (post cōnsonantem commūnem) ā fēminīnō in -α (post ε, ι, ρ)",
+    "Applicāre rēgulam concordantiae: adiectīvum semper concordat cum nōmine suō in genere/numerō/cāsū, etiam sī dēclīnātiōnēs eōrum differunt",
+    "Distinguere positiōnem attribūtīvam (cum articulō repetītō vel adiectīvō intrā articulum-nōmen) ā positiōne praedicātīvā"
+  ],
+  "content": {
+    "intro": "Adiectīva classis prīmae (dicta etiam “adiectīva -ος/-η/-ον”) sunt classis maxima et frequentissima adiectīvōrum Graecōrum. Masculīnum et neutrum sequuntur exāctē dēclīnātiōnem secundam (Gradū II iam nōtam), fēminīnum sequitur dēclīnātiōnem prīmam — sed cum sōlum duābus, nōn tribus, variantibus (ā lēctiōne <em>Dēclīnātiō Prīma</em> memor esto rēgulam simpliciōrem hīc applicandam).",
+    "explanation": "<p>Adiectīvum Graecum, sīcut Latīnum, concordat cum nōmine suō in genere, numerō, et cāsū — sed NŌN necesse est dēclīnātiōnem eandem sequī: nōmen potest esse tertiae dēclīnātiōnis (quam in Gradū III vidēbis) et adiectīvum eius manet classis prīmae, sī tantum genus/numerus/cāsus concordant. Fēminīnum adiectīvōrum classis prīmae sequitur rēgulam simpliciōrem quam nōmina: SI thema (stem) fīnītur ε, ι, vel ρ, fēminīnum est in <span class=\"greek\">-α</span> per tōtam dēclīnātiōnem (nūlla mūtātiō in η, umquam); ALITER, fēminīnum est in <span class=\"greek\">-η</span> per tōtam dēclīnātiōnem. Nūllum adiectīvum monstrat patrōnum “impūrum mixtum” (α in nōm./acc., η in gen./dat.) quem nōmina ut δόξα monstrant — ista mixtūra est phaenomenon proprium tantum nōminum, nōn adiectīvōrum.</p>",
+    "rules": [
+      {
+        "heading": "a) Adiectīvum in -η: Paradigma καλός, καλή, καλόν (pulcher)",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Cāsus</th><th>Masc. sg.</th><th>Fem. sg.</th><th>Neut. sg.</th></tr></thead><tbody><tr><td>Nōm.</td><td class=\"greek\">καλός</td><td class=\"greek\">καλή</td><td class=\"greek\">καλόν</td></tr><tr><td>Gen.</td><td class=\"greek\">καλοῦ</td><td class=\"greek\">καλῆς</td><td class=\"greek\">καλοῦ</td></tr><tr><td>Dat.</td><td class=\"greek\">καλῷ</td><td class=\"greek\">καλῇ</td><td class=\"greek\">καλῷ</td></tr><tr><td>Acc.</td><td class=\"greek\">καλόν</td><td class=\"greek\">καλήν</td><td class=\"greek\">καλόν</td></tr></tbody></table><p>Plūrālis: masc. <span class=\"greek\">καλοί, καλῶν, καλοῖς, καλούς</span> — fem. <span class=\"greek\">καλαί, καλῶν, καλαῖς, καλάς</span> — neut. <span class=\"greek\">καλά, καλῶν, καλοῖς, καλά</span>. Thema <span class=\"greek\">καλ-</span> fīnītur λ (nōn ε/ι/ρ), ergō fēminīnum est -η.</p>"
+      },
+      {
+        "heading": "b) Adiectīvum in -α (post ε/ι/ρ): Paradigma μικρός, μικρά, μικρόν (parvus)",
+        "body": "<p>Thema <span class=\"greek\">μικρ-</span> fīnītur ρ, ergō fēminīnum sequitur patrōnum “pūrum”: <span class=\"greek\">μικρά, μικρᾶς, μικρᾷ, μικράν</span> (sg.), <span class=\"greek\">μικραί, μικρῶν, μικραῖς, μικράς</span> (pl.) — α longum per tōtam dēclīnātiōnem, numquam mūtātum in η. Masculīnum/neutrum manent identica patrōnō λόγος/δῶρον: <span class=\"greek\">μικρός, μικροῦ, μικρῷ, μικρόν</span>. Alia exempla huius classis: <span class=\"greek\">νέος, νέα, νέον</span> (novus, iuvenis — thema fīnītur ε).</p>"
+      },
+      {
+        "heading": "c) Concordantia et Positiō",
+        "body": "<p>Adiectīvum concordat cum nōmine in genere/numerō/cāsū, indepēndenter ā dēclīnātiōne ipsīus nōminis: <span class=\"greek\">ὁ καλὸς ἀνήρ</span> (vir pulcher — ἀνήρ est tertiae dēclīnātiōnis, sed adiectīvum manet classis prīmae, concordāns sōlum in genere/numerō/cāsū). Positiō <strong>attribūtīva</strong> (adiectīvum intrā articulum et nōmen, vel articulus repetītus post nōmen): <span class=\"greek\">ὁ καλὸς λόγος</span> vel <span class=\"greek\">ὁ λόγος ὁ καλός</span> = “verbum pulchrum [istud]”. Positiō <strong>praedicātīva</strong> (adiectīvum EXTRĀ hanc structūram, articulus nōn repetītus): <span class=\"greek\">ὁ λόγος καλός [ἐστιν]</span> = “verbum est pulchrum”. Discrīmen positiōnis mūtat sēnsum fundāmentāliter, nōn sōlum stylum.</p>"
+      }
+    ],
+    "examples": [
+      "ὁ καλὸς λόγος. — Illud pulchrum verbum. (attribūtīvum: adiectīvum intrā articulum-nōmen)",
+      "ὁ λόγος καλός [ἐστιν]. — Verbum [est] pulchrum. (praedicātīvum: iūdicium, nōn descrīptiō)",
+      "ἡ μικρὰ οἰκία. — Domus parva. (fēminīnum -α, post ρ)",
+      "τὸ καλὸν δῶρον. — Dōnum pulchrum. (neutrum, concordāns cum δῶρον)",
+      "τῶν καλῶν γυναικῶν. — Mulierum pulchrārum. (genetīvus plūrālis fēminīnus, concordāns cum nōmine tertiae dēclīnātiōnis)",
+      "οἱ μικροὶ παῖδες. — Puerī parvī. (masculīnum plūrāle, concordāns cum παῖδες tertiae dēclīnātiōnis)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Crēdere adiectīvum debēre sequī eandem dēclīnātiōnem ac nōmen cui concordat.",
+        "right": "Recordārī adiectīvum concordat SŌLUM in genere/numerō/cāsū cum nōmine — dēclīnātiō (patrōnus dēsinentiārum) ipsīus adiectīvī manet indepēndēns.",
+        "why": "Error commūnis, praesertim postquam nōmina tertiae dēclīnātiōnis (Gradū III) intrōducuntur cum adiectīvīs classis prīmae."
+      },
+      {
+        "wrong": "Applicāre rēgulam trium subclassium nōminum (η, α pūrum, α impūrum mixtum) ad fēminīnum adiectīvōrum.",
+        "right": "Recordārī adiectīva habent sōlum duās subclassēs (η, aut α pūrum post ε/ι/ρ) — nūllum patrōnum “mixtum” sīcut δόξα.",
+        "why": "Adiectīva sequuntur processum morphologicum magis regulārem/analogicum quam nōmina, quod ēliminat patrōnum mixtum."
+      },
+      {
+        "wrong": "Nōn distinguere positiōnem attribūtīvam ā praedicātīvā, trānsferendō ambās identidem.",
+        "right": "Vidēre sī articulus repetītur/adiectīvum est intrā articulum-nōmen (attribūtīvum, “X quī est Y”) vel nōn (praedicātīvum, “X est Y”).",
+        "why": "Sēnsus fundāmentāliter mūtātur: ὁ καλὸς λόγος (descrīptiō) vs. ὁ λόγος καλός (iūdicium/affirmātiō)."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "ii-adi1-mc",
+      "type": "multiple-choice",
+      "title": "Adiectīva Classis Prīmae: Rēgulae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "adi1a",
+          "prompt": "Quae fōrma fēminīna sequitur adiectīvum μικρός (thema in ρ)?",
+          "options": [
+            "μικρή",
+            "μικρά",
+            "μικρόν"
+          ],
+          "answerIndex": 1,
+          "explanation": "Thema fīnītum ρ requīrit fēminīnum in -α pūrum, per tōtam dēclīnātiōnem."
+        },
+        {
+          "id": "adi1b",
+          "prompt": "Quid significat ὁ λόγος ὁ καλός (vel ὁ καλὸς λόγος)?",
+          "options": [
+            "“Verbum est pulchrum” (praedicātīvum)",
+            "“Illud pulchrum verbum” (attribūtīvum)",
+            "nūlla differentia ā fōrmā praedicātīvā"
+          ],
+          "answerIndex": 1,
+          "explanation": "Adiectīvum intrā articulum-nōmen (vel articulus repetītus) est positiō attribūtīva."
+        },
+        {
+          "id": "adi1c",
+          "prompt": "Habent adiectīva classis prīmae patrōnum “mixtum” (α in nōm., η in gen./dat.), sīcut nōmen δόξα?",
+          "options": [
+            "sīc, semper",
+            "nōn, numquam — sōlum duae subclassēs exsistunt (η aut α pūrum)",
+            "sōlum in plūrālī"
+          ],
+          "answerIndex": 1,
+          "explanation": "Adiectīva habent sōlum duo patrōnōs fēminīnī, nōn tria sīcut nōmina."
+        },
+        {
+          "id": "adi1d",
+          "prompt": "Cum quō dēbet adiectīvum concordāre?",
+          "options": [
+            "cum dēclīnātiōne nōminis",
+            "cum genere, numerō, et cāsū nōminis",
+            "cum accentū nōminis"
+          ],
+          "answerIndex": 1,
+          "explanation": "Concordantia est in genere/numerō/cāsū, indepēndenter ā dēclīnātiōne ipsā nōminis."
+        },
+        {
+          "id": "adi1e",
+          "prompt": "Quae fōrma est genetīvus singulāris masculīnus/neutrus adiectīvī καλός?",
+          "options": [
+            "καλῆς",
+            "καλοῦ",
+            "καλῷ"
+          ],
+          "answerIndex": 1,
+          "explanation": "Genetīvus singulāris masc./neut. sequitur dēclīnātiōnem secundam: καλοῦ."
+        }
+      ]
+    },
+    {
+      "id": "ii-adi1-fill",
+      "type": "fill-blank",
+      "title": "Complē Fōrmam Rēctam",
+      "instructions": "Comple spatia cum fōrmā rēctā adiectīvī, concordantem cum nōmine datō.",
+      "items": [
+        {
+          "id": "adi1f",
+          "prompt": "καλός + γυνή (fem. sg. nōm.): ἡ γυνὴ ___",
+          "options": [
+            "καλή",
+            "καλός",
+            "καλόν"
+          ],
+          "answers": [
+            "καλή"
+          ],
+          "explanation": "Fēminīnum singulāre nōminātīvum, thema in λ, requīrit -η: καλή."
+        },
+        {
+          "id": "adi1g",
+          "prompt": "μικρός + δῶρα (neut. pl. nōm.): τὰ δῶρα ___",
+          "options": [
+            "μικρά",
+            "μικροί",
+            "μικρῶν"
+          ],
+          "answers": [
+            "μικρά"
+          ],
+          "explanation": "Neutrum plūrāle nōminātīvum: -α (identicum masc./neut. patrōnō, applicātum hīc ad thema μικρ-)."
+        },
+        {
+          "id": "adi1h",
+          "prompt": "καλός + λόγων (masc. gen. pl.): τῶν λόγων τῶν ___",
+          "options": [
+            "καλῶν",
+            "καλοί",
+            "καλούς"
+          ],
+          "answers": [
+            "καλῶν"
+          ],
+          "explanation": "Genetīvus plūrālis masculīnus: καλῶν."
+        },
+        {
+          "id": "adi1i",
+          "prompt": "μικρός + οἰκίας (fem. acc. sg.): τὴν οἰκίαν τὴν ___",
+          "options": [
+            "μικράν",
+            "μικρή",
+            "μικρᾶς"
+          ],
+          "answers": [
+            "μικράν"
+          ],
+          "explanation": "Accūsātīvus singulāris fēminīnus, patrōnum pūrum: μικράν."
+        },
+        {
+          "id": "adi1j",
+          "prompt": "καλός + ἀνθρώποις (masc. dat. pl.): τοῖς ἀνθρώποις τοῖς ___",
+          "options": [
+            "καλοῖς",
+            "καλαῖς",
+            "καλῇ"
+          ],
+          "answers": [
+            "καλοῖς"
+          ],
+          "explanation": "Datīvus plūrālis masculīnus: καλοῖς."
+        }
+      ]
+    },
+    {
+      "id": "ii-adi1-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "adi1k",
+          "statement": "Adiectīvum Graecum debet sequī eandem dēclīnātiōnem (patrōnum dēsinentiārum) ac nōmen cui concordat.",
+          "answer": false,
+          "explanation": "Falsum: concordat sōlum in genere/numerō/cāsū, nōn in patrōnō dēclīnātiōnis."
+        },
+        {
+          "id": "adi1l",
+          "statement": "Νέος, νέα, νέον sequitur patrōnum α pūrum in fēminīnō, quia thema fīnītur ε.",
+          "answer": true,
+          "explanation": "Corrēctum: thema νε- fīnītur ε, ergō fēminīnum est α pūrum per tōtam dēclīnātiōnem."
+        },
+        {
+          "id": "adi1m",
+          "statement": "Ὁ λόγος ὁ καλός et ὁ λόγος καλός significant exāctē idem.",
+          "answer": false,
+          "explanation": "Falsum: prīmum est attribūtīvum (“illud pulchrum verbum”), secundum praedicātīvum (“verbum [est] pulchrum”)."
+        },
+        {
+          "id": "adi1n",
+          "statement": "Adiectīva classis prīmae possunt monstrāre patrōnum mixtum (α in nōm., η in gen./dat.).",
+          "answer": false,
+          "explanation": "Falsum: hoc patrōnum est proprium tantum nōminum (ut δόξα), numquam adiectīvōrum."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Adiectīva classis prīmae: masc./neut. sequuntur dēclīnātiōnem secundam; fēminīnum sequitur prīmam, sed sōlum in duābus subclassibus (-η, aut -α pūrum post ε/ι/ρ).",
+    "Καλός, καλή, καλόν: masc./neut. -ος/-ον (ut λόγος/δῶρον); fem. -η (ut τιμή).",
+    "Μικρός, μικρά, μικρόν: fem. -α pūrum per tōtam dēclīnātiōnem (thema in ρ).",
+    "Adiectīvum concordat cum nōmine in genere/numerō/cāsū, indepēndenter ā dēclīnātiōne ipsīus nōminis.",
+    "Positiō attribūtīva (ὁ καλὸς λόγος) ≠ positiō praedicātīva (ὁ λόγος καλός) — discrīmen sēnsūs, nōn sōlum stylī."
+  ],
+  "related": [
+    {
+      "lessonId": "ii-declinatio-prima",
+      "label": "Dēclīnātiō Prīma"
+    },
+    {
+      "lessonId": "ii-declinatio-secunda-masculina-et-neutra",
+      "label": "Dēclīnātiō Secunda"
+    },
+    {
+      "lessonId": "ii-articulus-plenus",
+      "label": "Articulus Plēnus"
+    }
+  ]
+}

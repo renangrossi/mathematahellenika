@@ -46,7 +46,58 @@
       "ty": "lectio-prima"
     }
   ],
-  "elementa": [],
+  "elementa": [
+    {
+      "slug": "declinatio-prima",
+      "title": "Dēclīnātiō Prīma",
+      "ty": "declinatio-prima"
+    },
+    {
+      "slug": "declinatio-secunda-masculina-et-neutra",
+      "title": "Dēclīnātiō Secunda: Masculīna et Neutra",
+      "ty": "declinatio-secunda-masculina-et-neutra"
+    },
+    {
+      "slug": "articulus-plenus",
+      "title": "Articulus Plēnus",
+      "ty": "articulus-plenus"
+    },
+    {
+      "slug": "adiectiva-classis-primae",
+      "title": "Adiectīva Classis Prīmae",
+      "ty": "adiectiva-classis-primae"
+    },
+    {
+      "slug": "coniugatio-praesentis-activi",
+      "title": "Coniugātiō Praesentis Āctīvī",
+      "ty": "coniugatio-praesentis-activi"
+    },
+    {
+      "slug": "coniugatio-praesentis-medii-passivi",
+      "title": "Coniugātiō Praesentis Mediī-Passīvī",
+      "ty": "coniugatio-praesentis-medii-passivi"
+    },
+    {
+      "slug": "praepositiones-fundamentales",
+      "title": "Praepositiōnēs Fundāmentālēs",
+      "ty": "praepositiones-fundamentales"
+    },
+    {
+      "slug": "adverbia-et-negatio",
+      "title": "Adverbia et Negātiō",
+      "ty": "adverbia-et-negatio"
+    },
+    {
+      "slug": "interrogativa-fundamentalia",
+      "title": "Interrogātīva Fundāmentālia",
+      "ty": "interrogativa-fundamentalia"
+    },
+    {
+      "slug": "numeri-cardinales-1-100",
+      "title": "Numerī Cardinālēs I–C",
+      "ty": "numeri-cardinales-1-100"
+    }
+  ],
   "progressus": [],
   "media": [],
   "provectus": [],

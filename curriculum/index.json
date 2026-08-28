@@ -55,43 +55,43 @@
           "lessons": [
             {
               "id": "ii-declinatio-prima",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "ii-declinatio-secunda-masculina-et-neutra",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "ii-articulus-plenus",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "ii-adiectiva-classis-primae",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "ii-coniugatio-praesentis-activi",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "ii-coniugatio-praesentis-medii-passivi",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "ii-praepositiones-fundamentales",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "ii-adverbia-et-negatio",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "ii-interrogativa-fundamentalia",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "ii-numeri-cardinales-1-100",
-              "status": "planned"
+              "status": "published"
             }
           ]
         }

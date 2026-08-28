@@ -1,0 +1,250 @@
+{
+  "id": "ii-declinatio-prima",
+  "level": "II",
+  "unit": "1",
+  "order": 1,
+  "skill": "grammatica",
+  "strand": "declinatio-prima",
+  "title": "Dēclīnātiō Prīma",
+  "subtitle": "Nōmina prīmae dēclīnātiōnis: fōrmae in -η, fōrmae in -α (pūra et impūra), et nōmina masculīna in -ης/-ας.",
+  "prerequisites": [
+    "i-articulus-et-numeri",
+    "i-pronomina-personalia"
+  ],
+  "objectives": [
+    "Dēclīnāre plēnē nōmen fēminīnum in -η (ut τιμή) per omnēs cāsūs, utrōque numerō",
+    "Distinguere α pūrum (post ε, ι, ρ, manet ᾱ) ab α impūrō (alibi, fit η in genetīvō/datīvō singulārī)",
+    "Recordārī genetīvum plūrālem OMNIS nōminis prīmae dēclīnātiōnis semper in -ῶν (circumflexō) dēsinere",
+    "Dēclīnāre nōmen masculīnum in -ης (ut πολίτης), notandō genetīvum in -ου et vocātīvum speciālem"
+  ],
+  "content": {
+    "intro": "Nunc, cum fōrmae nōminātīvae articulī iam nōtae sint (Gradū I), ad prīmam dēclīnātiōnem nōminum pergimus — id est, ad rēgulās secundum quās nōmina fēminīna (et pauca masculīna) fōrmās suās per cāsūs mūtant. Maior pars nōminum prīmae dēclīnātiōnis est fēminīna et fīnītur in <span class=\"greek\">-η</span> vel <span class=\"greek\">-α</span> in nōminātīvō; pauca nōmina masculīna (persōnae plērumque) fīniuntur in <span class=\"greek\">-ης</span> vel <span class=\"greek\">-ας</span>.",
+    "explanation": "<p>Dēclīnātiō est sēriēs dēsinentiārum (endings) quae nōmen per cāsūs (nōminātīvus, genetīvus, datīvus, accūsātīvus, vocātīvus) et numerōs (singulāris, plūrālis) mūtant, sīcut in Latīnō prīma dēclīnātiō (-a, -ae, -ae, -am...). Graecum habet trēs dēclīnātiōnēs nōminum; haec lēctiō tractat prīmam. Discrīmen praecipuum ā Latīnō: Graecum prīmae dēclīnātiōnis nōmina possunt fīnīrī in <strong>-η</strong> (semper eōdem modō dēclīnāta) AUT in <strong>-α</strong> (quae subdīviditur in “pūram” et “impūram”, secundum litteram praecēdentem), AUT — rariōra sed frequentia in textibus — MASCULĪNA in <strong>-ης</strong>/<strong>-ας</strong>.</p>",
+    "rules": [
+      {
+        "heading": "a) Fōrmae in -η: Paradigma τιμή (honor)",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Cāsus</th><th>Singulāris</th><th>Plūrālis</th></tr></thead><tbody><tr><td>Nōm.</td><td class=\"greek\">τιμή</td><td class=\"greek\">τιμαί</td></tr><tr><td>Gen.</td><td class=\"greek\">τιμῆς</td><td class=\"greek\">τιμῶν</td></tr><tr><td>Dat.</td><td class=\"greek\">τιμῇ</td><td class=\"greek\">τιμαῖς</td></tr><tr><td>Acc.</td><td class=\"greek\">τιμήν</td><td class=\"greek\">τιμάς</td></tr><tr><td>Voc.</td><td class=\"greek\">τιμή</td><td class=\"greek\">τιμαί</td></tr></tbody></table><p>Omnia nōmina fēminīna fīnīta in <span class=\"greek\">-η</span> (ut <span class=\"greek\">κεφαλή</span> caput, <span class=\"greek\">νίκη</span> victōria, <span class=\"greek\">γνώμη</span> sententia) sequuntur exāctē hoc paradigma, sine exceptiōne.</p>"
+      },
+      {
+        "heading": "b) Fōrmae in -α: Pūra vs. Impūra",
+        "body": "<p><strong>Α pūrum</strong> exsistit cum littera praecēdēns α est <span class=\"greek\">ε, ι,</span> vel <span class=\"greek\">ρ</span> — tunc α manet longum (ᾱ) per tōtam dēclīnātiōnem singulārem: <span class=\"greek\">χώρα</span> (regiō, ante ρ), <span class=\"greek\">οἰκία</span> (domus, ante ι). <strong>Α impūrum</strong> exsistit alibi (post cōnsonantem quī nōn est ρ) — tunc α mūtātur in <span class=\"greek\">η</span> in genetīvō et datīvō singulārī: <span class=\"greek\">δόξα</span> (opīniō, glōria, post ξ).</p><table class=\"ref-table\"><thead><tr><th>Cāsus</th><th>Pūrum: οἰκία</th><th>Impūrum: δόξα</th></tr></thead><tbody><tr><td>Nōm. sg.</td><td class=\"greek\">οἰκία</td><td class=\"greek\">δόξα</td></tr><tr><td>Gen. sg.</td><td class=\"greek\">οἰκίας</td><td class=\"greek\">δόξης</td></tr><tr><td>Dat. sg.</td><td class=\"greek\">οἰκίᾳ</td><td class=\"greek\">δόξῃ</td></tr><tr><td>Acc. sg.</td><td class=\"greek\">οἰκίαν</td><td class=\"greek\">δόξαν</td></tr></tbody></table><p>Plūrālis est <strong>idem</strong> in ambōbus generibus (pūrō et impūrō) et etiam idem ac in fōrmīs -η: <span class=\"greek\">-αι, -ῶν, -αις, -ας</span>. Ergō: <strong>genetīvus plūrālis omnis nōminis prīmae dēclīnātiōnis — sīve -η, sīve -α pūrum, sīve -α impūrum — semper fīnītur -ῶν, cum circumflexō</strong>. Haec est rēgula ūnica facillima memoriae mandanda ex tōtā hāc lēctiōne.</p>"
+      },
+      {
+        "heading": "c) Masculīna in -ης: Paradigma πολίτης (cīvis)",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Cāsus</th><th>Singulāris</th><th>Plūrālis</th></tr></thead><tbody><tr><td>Nōm.</td><td class=\"greek\">πολίτης</td><td class=\"greek\">πολῖται</td></tr><tr><td>Gen.</td><td class=\"greek\">πολίτου</td><td class=\"greek\">πολιτῶν</td></tr><tr><td>Dat.</td><td class=\"greek\">πολίτῃ</td><td class=\"greek\">πολίταις</td></tr><tr><td>Acc.</td><td class=\"greek\">πολίτην</td><td class=\"greek\">πολίτας</td></tr><tr><td>Voc.</td><td class=\"greek\">πολῖτα</td><td class=\"greek\">πολῖται</td></tr></tbody></table><p>Nōmina masculīna huius classis (ut <span class=\"greek\">πολίτης</span> cīvis, <span class=\"greek\">στρατιώτης</span> mīles, <span class=\"greek\">νεανίας</span> iuvenis) dēclīnantur sīcut fēminīna in cāsibus datīvō/accūsātīvō/plūrālī, SED genetīvus singulāris fīnītur <strong>-ου</strong> (mūtuātum ā dēclīnātiōne secundā, quam proximā lēctiōne vidēbis), et vocātīvus singulāris habet fōrmam brevem propriam (<span class=\"greek\">-α</span>, accentū regressō): <span class=\"greek\">ὦ πολῖτα</span> “ō cīvis”.</p>"
+      }
+    ],
+    "examples": [
+      "ἡ τιμὴ τοῦ πολίτου. — Honor cīvis. (τιμή nōm., πολίτου gen. sg.)",
+      "αἱ οἰκίαι τῆς χώρας. — Domūs regiōnis. (nōtā genetīvum plūrālem χώρας? nōn, χώρας est gen. sg.; τῆς χώρας = regiōnis)",
+      "ἐν τῇ οἰκίᾳ. — In domō. (datīvus post praepositiōnem ἐν)",
+      "τὴν δόξαν φιλῶ. — Glōriam amō/dīligō. (accūsātīvus, obiectum dīrēctum)",
+      "ὦ πολῖτα, χαῖρε. — Ō cīvis, salvē. (vocātīvus speciālis)",
+      "αἱ τιμαὶ καὶ αἱ δόξαι. — Honōrēs et glōriae. (nōminātīvus plūrālis, ambae fōrmae identidem -αι)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Crēdere genetīvum plūrālem variāre secundum subclassem (-η vs. -α pūrum vs. -α impūrum).",
+        "right": "Recordārī genetīvus plūrālis prīmae dēclīnātiōnis semper est -ῶν (circumflexō), in omnī subclasse sine exceptiōne.",
+        "why": "Haec est ūna ex paucīs rēgulīs Graecīs sine exceptiōne — vel maximē ūtile memoriae mandāre prīmum."
+      },
+      {
+        "wrong": "Applicāre rēgulam “α pūrum manet ᾱ” etiam in genetīvō plūrālī, scrībendo *οἰκιάων prō οἰκιῶν.",
+        "right": "Recordārī distinctiōnem pūrī/impūrī valet SŌLUM in genetīvō/datīvō SINGULĀRĪ; plūrālis semper est regulāris (-αι, -ῶν, -αις, -ας).",
+        "why": "Discrīmen pūrī/impūrī est phaenomenon phōnologicum antīquum līmitātum ad fōrmās singulārēs ubi α sequēbātur cōnsonāns dīversa."
+      },
+      {
+        "wrong": "Dēclīnāre πολίτης exāctē sīcut τιμή in genetīvō singulārī, scrībendo *πολίτης vel *πολίτης prō πολίτου.",
+        "right": "Recordārī nōmina masculīna in -ης habent genetīvum singulārem speciālem in -ου (mūtuātum ā dēclīnātiōne secundā).",
+        "why": "Masculīna prīmae dēclīnātiōnis sunt classis mixta historicē, retinentia ūnam fōrmam (gen. sg.) ex alterā dēclīnātiōne."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "ii-dec1-mc",
+      "type": "multiple-choice",
+      "title": "Dēclīnātiō Prīma: Rēgulae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "dec1a",
+          "prompt": "Quae fōrma est genetīvus plūrālis nōminis τιμή?",
+          "options": [
+            "τιμάων",
+            "τιμῶν",
+            "τιμαῖς"
+          ],
+          "answerIndex": 1,
+          "explanation": "Genetīvus plūrālis prīmae dēclīnātiōnis est semper -ῶν, sine exceptiōne."
+        },
+        {
+          "id": "dec1b",
+          "prompt": "Cūr οἰκία retinet ᾱ longum in genetīvō singulārī (οἰκίας) sed δόξα mūtat in δόξης?",
+          "options": [
+            "nūlla ratiō; est arbitrārium",
+            "quia littera ante α in οἰκία est ι (α pūrum); ante α in δόξα est ξ (α impūrum)",
+            "quia οἰκία est plūrālis"
+          ],
+          "answerIndex": 1,
+          "explanation": "Α pūrum (post ε/ι/ρ) manet longum; α impūrum (alibi) mūtātur in η in gen./dat. sg."
+        },
+        {
+          "id": "dec1c",
+          "prompt": "Quae dēsinentia est genetīvus singulāris nōminis masculīnī πολίτης?",
+          "options": [
+            "-ης",
+            "-ου",
+            "-α"
+          ],
+          "answerIndex": 1,
+          "explanation": "Masculīna in -ης habent genetīvum singulārem speciālem -ου, mūtuātum ā dēclīnātiōne secundā."
+        },
+        {
+          "id": "dec1d",
+          "prompt": "Quae est fōrma vocātīva singulāris nōminis πολίτης?",
+          "options": [
+            "πολίτης",
+            "πολίτην",
+            "πολῖτα"
+          ],
+          "answerIndex": 2,
+          "explanation": "Vocātīvus singulāris masculīnōrum in -ης habet fōrmam speciālem brevem: πολῖτα."
+        },
+        {
+          "id": "dec1e",
+          "prompt": "Quotuplex est plūrālis prīmae dēclīnātiōnis (-η, -α pūrum, -α impūrum)?",
+          "options": [
+            "trēs plūrālēs dīversī, ūnus per subclassem",
+            "ūnus sōlus plūrālis, idem in omnibus subclassibus",
+            "plūrālis nōn exsistit in prīmā dēclīnātiōne"
+          ],
+          "answerIndex": 1,
+          "explanation": "Plūrālis est identicus in omnibus subclassibus prīmae dēclīnātiōnis: -αι, -ῶν, -αις, -ας."
+        }
+      ]
+    },
+    {
+      "id": "ii-dec1-fill",
+      "type": "fill-blank",
+      "title": "Complē Fōrmam Rēctam",
+      "instructions": "Comple spatia cum fōrmā rēctā dēclīnātiōnis, secundum cāsum indicātum.",
+      "items": [
+        {
+          "id": "dec1f",
+          "prompt": "τιμή, genetīvus singulāris: ___",
+          "options": [
+            "τιμῆς",
+            "τιμήν",
+            "τιμαί"
+          ],
+          "answers": [
+            "τιμῆς"
+          ],
+          "explanation": "Genetīvus singulāris fōrmārum -η est -ης, cum circumflexō (τιμῆς)."
+        },
+        {
+          "id": "dec1g",
+          "prompt": "οἰκία, accūsātīvus singulāris: ___",
+          "options": [
+            "οἰκίας",
+            "οἰκίαν",
+            "οἰκίᾳ"
+          ],
+          "answers": [
+            "οἰκίαν"
+          ],
+          "explanation": "Accūsātīvus singulāris -α pūrum: οἰκίαν."
+        },
+        {
+          "id": "dec1h",
+          "prompt": "δόξα, datīvus singulāris: ___",
+          "options": [
+            "δόξῃ",
+            "δόξᾳ",
+            "δόξης"
+          ],
+          "answers": [
+            "δόξῃ"
+          ],
+          "explanation": "Datīvus singulāris -α impūrum mūtat in η: δόξῃ."
+        },
+        {
+          "id": "dec1i",
+          "prompt": "πολίτης, accūsātīvus plūrālis: ___",
+          "options": [
+            "πολίτας",
+            "πολίτου",
+            "πολῖται"
+          ],
+          "answers": [
+            "πολίτας"
+          ],
+          "explanation": "Accūsātīvus plūrālis sequitur patrōnum commūnem prīmae dēclīnātiōnis: πολίτας."
+        },
+        {
+          "id": "dec1j",
+          "prompt": "τιμή, genetīvus plūrālis: ___",
+          "options": [
+            "τιμῶν",
+            "τιμάων",
+            "τιμαῖς"
+          ],
+          "answers": [
+            "τιμῶν"
+          ],
+          "explanation": "Genetīvus plūrālis, sīcut semper in prīmā dēclīnātiōne: -ῶν."
+        }
+      ]
+    },
+    {
+      "id": "ii-dec1-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "dec1k",
+          "statement": "Genetīvus plūrālis prīmae dēclīnātiōnis variat secundum subclassem nōminis.",
+          "answer": false,
+          "explanation": "Falsum: semper est -ῶν, sine exceptiōne, in omnī subclasse."
+        },
+        {
+          "id": "dec1l",
+          "statement": "Α pūrum (post ε, ι, ρ) manet longum per genetīvum et datīvum singulārem.",
+          "answer": true,
+          "explanation": "Corrēctum: α pūrum nōn mūtātur in η, distinguēns ā fōrmīs impūrīs."
+        },
+        {
+          "id": "dec1m",
+          "statement": "Nōmina masculīna in -ης sequuntur exāctē eandem dēclīnātiōnem ac fōrmae fēminīnae in -η, sine ūllā differentiā.",
+          "answer": false,
+          "explanation": "Falsum: differunt in genetīvō singulārī (-ου, nōn -ης) et in vocātīvō singulārī (fōrma speciālis brevis)."
+        },
+        {
+          "id": "dec1n",
+          "statement": "Plūrālis nōminum -η et -α (utrīusque subclassis) est identicus.",
+          "answer": true,
+          "explanation": "Corrēctum: -αι, -ῶν, -αις, -ας valet ubīque in plūrālī prīmae dēclīnātiōnis."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Prīma dēclīnātiō: nōmina fēminīna in -η (τιμή) vel -α (pūrum: οἰκία; impūrum: δόξα), et masculīna in -ης (πολίτης).",
+    "Α pūrum (post ε/ι/ρ) manet ᾱ per genetīvum/datīvum singulārem; α impūrum (alibi) mūtat in η.",
+    "Genetīvus plūrālis OMNIS nōminis prīmae dēclīnātiōnis semper fīnītur -ῶν (circumflexō) — rēgula sine exceptiōne.",
+    "Plūrālis est identicus in omnibus subclassibus: -αι, -ῶν, -αις, -ας.",
+    "Masculīna in -ης habent genetīvum singulārem speciālem -ου et vocātīvum singulārem brevem (πολῖτα)."
+  ],
+  "related": [
+    {
+      "lessonId": "ii-declinatio-secunda-masculina-et-neutra",
+      "label": "Dēclīnātiō Secunda"
+    },
+    {
+      "lessonId": "ii-articulus-plenus",
+      "label": "Articulus Plēnus"
+    }
+  ]
+}

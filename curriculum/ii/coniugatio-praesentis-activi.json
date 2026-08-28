@@ -1,0 +1,249 @@
+{
+  "id": "ii-coniugatio-praesentis-activi",
+  "level": "II",
+  "unit": "1",
+  "order": 5,
+  "skill": "grammatica",
+  "strand": "coniugatio",
+  "title": "Coniugātiō Praesentis Āctīvī",
+  "subtitle": "Tempus praesēns modī indicātīvī, vōce āctīvā, verbōrum in -ω (ut λύω); īnfīnītīvus praesēns āctīvus.",
+  "prerequisites": [
+    "ii-adiectiva-classis-primae"
+  ],
+  "objectives": [
+    "Coniugāre plēnē tempus praesēns indicātīvī āctīvī verbī λύω (solvō, līberō) per omnēs persōnās, utrōque numerō",
+    "Formāre īnfīnītīvum praesentem āctīvum (-ειν)",
+    "Recognōscere dēsinentiās persōnālēs āctīvās (-ω, -εις, -ει, -ομεν, -ετε, -ουσι) ut fundāmentum omnium temporum futūrōrum",
+    "Trānsferre sententiās simplicēs cum verbīs praesentis āctīvī, distinguendō ā fōrmīs iam nōtīs verbī εἰμί"
+  ],
+  "content": {
+    "intro": "Usque nunc, sōlum verbum <span class=\"greek\">εἰμί</span> (irregulāre, ex Gradū I) fuit nōtum. Hodiē ad prīmam coniugātiōnem <strong>regulārem</strong> pervenīmus: maior pars verbōrum Graecōrum in dictiōnāriīs citātur fōrmā prīmae persōnae singulāris praesentis āctīvī indicātīvī, fīnīta <span class=\"greek\">-ω</span> (nōn fōrmā īnfīnītīvī, sīcut in linguīs modernīs) — inde nōmen “verba in -ω”, distīncta ā classe minōre “verbōrum in -μι” (quam posteā vidēbis).",
+    "explanation": "<p>Verbum Graecum indicat persōnam (1ª/2ª/3ª) et numerum (sg./pl.) per dēsinentiam ipsam, sīcut Latīnum — nūllum prōnōmen subiectī est necessārium (exāctē sīcut cum εἰμί, ex Gradū I). Paradigma <span class=\"greek\">λύω</span> (“solvō, līberō”, verbum classicum citātiōnis in omnī grammaticā Graecā) exemplificat dēsinentiās praesentis āctīvī, quae — cum parvīs mūtātiōnibus — reapparent in omnī tempore futūrō āctīvō (imperfectō, futūrō) quod discēs in Gradibus sequentibus.</p>",
+    "rules": [
+      {
+        "heading": "a) Praesēns Indicātīvum Āctīvum: λύω",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Persōna</th><th>Singulāris</th><th>Plūrālis</th></tr></thead><tbody><tr><td>1ª</td><td class=\"greek\">λύω</td><td class=\"greek\">λύομεν</td></tr><tr><td>2ª</td><td class=\"greek\">λύεις</td><td class=\"greek\">λύετε</td></tr><tr><td>3ª</td><td class=\"greek\">λύει</td><td class=\"greek\">λύουσι(ν)</td></tr></tbody></table><p>Comparā cum Latīnō: solvō, solvis, solvit, solvimus, solvitis, solvunt — structūra fundāmentāliter eadem (thema + dēsinentia persōnālis), sōlum fōrmae ipsae dīversae. Nōtā ν ephelkystikon in 3ª persōnā plūrālī (<span class=\"greek\">λύουσιν</span>), ex Gradū I iam nōtum.</p>"
+      },
+      {
+        "heading": "b) Īnfīnītīvus Praesēns Āctīvus",
+        "body": "<p>Īnfīnītīvus praesēns āctīvus fīnītur <span class=\"greek\">-ειν</span>: <span class=\"greek\">λύειν</span> (“solvere, līberāre”). Adhibētur sīcut īnfīnītīvus Latīnus: post verba auxiliāria (<span class=\"greek\">βούλομαι λύειν</span> “volō solvere”), vel in cōnstrūctiōnibus syntacticīs quās posteā vidēbis (ōrātiō oblīqua cum accūsātīvō + īnfīnītīvō, Gradū IV).</p>"
+      },
+      {
+        "heading": "c) Thema Verbī et Dēsinentiae Persōnālēs",
+        "body": "<p>Verbum Graecum cōnstat ex <strong>themate</strong> (radīx invariābilis, hīc <span class=\"greek\">λυ-</span>) plūs <strong>dēsinentia persōnālis</strong> (-ω, -εις, -ει...). Vōcālis thematica (hīc, saepe -ο-/-ε- variāns secundum persōnam: λύ<strong>ο</strong>μεν, λύ<strong>ε</strong>τε) coniungit thema cum dēsinentiā — nōmen technicum “vōcālis thematica”, unde “coniugātiō thematica” (classis maior verbōrum, opposita paucīs verbīs āthemāticīs in -μι quae dēsinentiam addunt dīrēctē sine vōcālī iūnctīvā). Nunc sufficit recognōscere hanc structūram; theoria plēna verbōrum -μι sequitur in gradibus posteriōribus.</p>"
+      }
+    ],
+    "examples": [
+      "λύω τὸν δοῦλον. — Solvō/līberō servum. (1ª sg., accūsātīvus obiectī)",
+      "ὁ διδάσκαλος λύει τὴν ἀπορίαν. — Magister solvit quaestiōnem/dubitātiōnem. (3ª sg.)",
+      "λύομεν τὰς πύλας. — Aperīmus/solvimus portās. (1ª pl.)",
+      "βούλονται λύειν. — Volunt solvere. (īnfīnītīvus post verbum auxiliāre)",
+      "οἱ πολῖται λύουσι τὸν νόμον; — Num cīvēs legem solvunt/abrogant? (3ª pl., interrogātiō)",
+      "τί λύεις; — Quid solvis? (2ª sg., interrogātiō)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Crēdere prōnōmen subiectī (ἐγώ, σύ...) necessārium esse ante omne verbum, imitandō linguās Rōmānicās/Anglicam.",
+        "right": "Recordārī dēsinentia ipsa indicat persōnam; prōnōmen omittitur nisi ēmphasis quaerātur, sīcut cum εἰμί (Gradū I).",
+        "why": "Verba Graeca, sīcut Latīna, sunt linguae “pro-drop” — persōna inest morphologiae verbī ipsīus."
+      },
+      {
+        "wrong": "Cōnfundere fōrmam citātiōnis dictiōnāriī (λύω, 1ª persōna sg.) cum īnfīnītīvō (λύειν), quaerendō “λύειν” in dictiōnāriīs.",
+        "right": "Recordārī dictiōnāria Graeca citant verba per fōrmam -ω (1ª persōna praesentis āctīvī), nōn per īnfīnītīvum.",
+        "why": "Discrīmen ā convention linguārum modernārum (et etiam Latīnārum, quae saepe citant per īnfīnītīvum) creat cōnfūsiōnem regulārem apud incipientēs."
+      },
+      {
+        "wrong": "Applicāre dēsinentiam -ουσι(ν) tantum cum sequitur pausa vel vōcālis, neglegendō ν in cēterīs contextibus, vel semper omittendō ν.",
+        "right": "Applicāre ν ephelkystikon secundum rēgulam iam discitam (Gradū I): ante vōcālem sequentem vel in fine sententiae/clausulae.",
+        "why": "Rēgula est identica omnibus fōrmīs verbālibus fīnītīs -σι, nōn tantum fōrmīs verbī εἰμί."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "ii-con1-fill",
+      "type": "fill-blank",
+      "title": "Coniugā λύω",
+      "instructions": "Comple spatia cum fōrmā rēctā verbī λύω.",
+      "items": [
+        {
+          "id": "con1a",
+          "prompt": "Ἐγὼ ___ τὸν δοῦλον. (1ª sg.)",
+          "options": [
+            "λύω",
+            "λύεις",
+            "λύομεν"
+          ],
+          "answers": [
+            "λύω"
+          ],
+          "explanation": "Prīma persōna singulāris: λύω."
+        },
+        {
+          "id": "con1b",
+          "prompt": "Σὺ ___ τὴν πύλην. (2ª sg.)",
+          "options": [
+            "λύεις",
+            "λύει",
+            "λύετε"
+          ],
+          "answers": [
+            "λύεις"
+          ],
+          "explanation": "Secunda persōna singulāris: λύεις."
+        },
+        {
+          "id": "con1c",
+          "prompt": "Ὁ διδάσκαλος ___ τὴν ἀπορίαν. (3ª sg.)",
+          "options": [
+            "λύει",
+            "λύουσιν",
+            "λύομεν"
+          ],
+          "answers": [
+            "λύει"
+          ],
+          "explanation": "Tertia persōna singulāris: λύει."
+        },
+        {
+          "id": "con1d",
+          "prompt": "Ἡμεῖς ___ τὸν νόμον. (1ª pl.)",
+          "options": [
+            "λύομεν",
+            "λύετε",
+            "λύω"
+          ],
+          "answers": [
+            "λύομεν"
+          ],
+          "explanation": "Prīma persōna plūrālis: λύομεν."
+        },
+        {
+          "id": "con1e",
+          "prompt": "Οἱ πολῖται ___ τοὺς δούλους. (3ª pl.)",
+          "options": [
+            "λύουσιν",
+            "λύει",
+            "λύεις"
+          ],
+          "answers": [
+            "λύουσιν"
+          ],
+          "explanation": "Tertia persōna plūrālis: λύουσι(ν)."
+        }
+      ]
+    },
+    {
+      "id": "ii-con1-mc",
+      "type": "multiple-choice",
+      "title": "Coniugātiō: Rēgulae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "con1f",
+          "prompt": "Quā fōrmā dictiōnāria Graeca citant verba?",
+          "options": [
+            "īnfīnītīvō (ut λύειν)",
+            "prīmā persōnā singulārī praesentis āctīvī (ut λύω)",
+            "imperātīvō"
+          ],
+          "answerIndex": 1,
+          "explanation": "Discrīmen ā convention Latīnā/modernā: Graecum citat per -ω, nōn per īnfīnītīvum."
+        },
+        {
+          "id": "con1g",
+          "prompt": "Quae est fōrma īnfīnītīvī praesentis āctīvī verbī λύω?",
+          "options": [
+            "λύειν",
+            "λύεις",
+            "λύουσιν"
+          ],
+          "answerIndex": 0,
+          "explanation": "Īnfīnītīvus praesēns āctīvus fīnītur -ειν."
+        },
+        {
+          "id": "con1h",
+          "prompt": "Quid est “thema” verbī?",
+          "options": [
+            "dēsinentia persōnālis",
+            "radīx invariābilis (ut λυ- in λύω)",
+            "vōcālis thematica sōla"
+          ],
+          "answerIndex": 1,
+          "explanation": "Thema est pars invariābilis verbī, cui dēsinentiae persōnālēs adiunguntur."
+        },
+        {
+          "id": "con1i",
+          "prompt": "Estne prōnōmen subiectī necessārium ante λύω, λύεις, etc.?",
+          "options": [
+            "sīc, semper obligātōrium",
+            "nōn, dēsinentia ipsa indicat persōnam",
+            "sōlum in plūrālī"
+          ],
+          "answerIndex": 1,
+          "explanation": "Graecum est lingua pro-drop; prōnōmen adhibētur sōlum prō ēmphasī."
+        },
+        {
+          "id": "con1j",
+          "prompt": "Quandō adhibētur ν ephelkystikon in λύουσι(ν)?",
+          "options": [
+            "numquam in verbīs, sōlum in εἰμί",
+            "ante vōcālem sequentem vel in fine clausulae",
+            "sōlum in singulārī"
+          ],
+          "answerIndex": 1,
+          "explanation": "Rēgula est generālis, applicāta ad omnem fōrmam fīnītam -σι, nōn tantum εἰμί."
+        }
+      ]
+    },
+    {
+      "id": "ii-con1-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "con1k",
+          "statement": "Fōrma λύετε est secunda persōna plūrālis.",
+          "answer": true,
+          "explanation": "Corrēctum: -ετε est dēsinentia secundae persōnae plūrālis."
+        },
+        {
+          "id": "con1l",
+          "statement": "Verba Graeca in -ω requīrunt semper prōnōmen subiectī explicitum.",
+          "answer": false,
+          "explanation": "Falsum: dēsinentia ipsa indicat persōnam; prōnōmen est optiōnāle, prō ēmphasī."
+        },
+        {
+          "id": "con1m",
+          "statement": "Īnfīnītīvus praesēns āctīvus fīnītur -ειν.",
+          "answer": true,
+          "explanation": "Corrēctum: λύειν est īnfīnītīvus praesēns āctīvus regulāris."
+        },
+        {
+          "id": "con1n",
+          "statement": "Dictiōnāria Graeca citant verba per fōrmam īnfīnītīvī, sīcut Anglica/Lūsitānica.",
+          "answer": false,
+          "explanation": "Falsum: citant per prīmam persōnam singulārem praesentis āctīvī (-ω)."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Praesēns indicātīvum āctīvum λύω: λύω, λύεις, λύει // λύομεν, λύετε, λύουσι(ν).",
+    "Īnfīnītīvus praesēns āctīvus: -ειν (λύειν).",
+    "Verbum Graecum indicat persōnam per dēsinentiam; prōnōmen subiectī plērumque omittitur.",
+    "Dictiōnāria citant verba per 1ª persōnam singulārem praesentis āctīvī (-ω), nōn per īnfīnītīvum — discrīmen ā convention Latīnā/modernā.",
+    "Ν ephelkystikon valet etiam in 3ª persōnā plūrālī verbōrum (λύουσιν), sequēns eandem rēgulam ex Gradū I."
+  ],
+  "related": [
+    {
+      "lessonId": "ii-coniugatio-praesentis-medii-passivi",
+      "label": "Coniugātiō Praesentis Mediī-Passīvī"
+    },
+    {
+      "lessonId": "ii-adiectiva-classis-primae",
+      "label": "Adiectīva Classis Prīmae"
+    }
+  ]
+}

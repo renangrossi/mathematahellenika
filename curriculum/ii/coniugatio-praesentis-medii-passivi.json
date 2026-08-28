@@ -1,0 +1,249 @@
+{
+  "id": "ii-coniugatio-praesentis-medii-passivi",
+  "level": "II",
+  "unit": "1",
+  "order": 6,
+  "skill": "grammatica",
+  "strand": "coniugatio",
+  "title": "Coniugātiō Praesentis Mediī-Passīvī",
+  "subtitle": "Tempus praesēns modī indicātīvī, vōce mediā-passīvā, verbōrum in -ω; sēnsus vōcis mediae, nova discipulīs Latīnē doctīs.",
+  "prerequisites": [
+    "ii-coniugatio-praesentis-activi"
+  ],
+  "objectives": [
+    "Coniugāre plēnē tempus praesēns indicātīvī mediī-passīvī verbī λύω per omnēs persōnās, utrōque numerō",
+    "Explicāre cūr fōrmae mediae et passīvae sint IDENTICAE in tempore praesentī (distinctiō sōlum in aoristō/futūrō, gradibus posteriōribus)",
+    "Distinguere sēnsum vōcis mediae (subiectum agit in/prō sē ipsō) ā sēnsū vōcis passīvae (subiectum patitur āctiōnem ab aliō)",
+    "Formāre īnfīnītīvum praesentem medium-passīvum (-εσθαι)"
+  ],
+  "content": {
+    "intro": "Graecum habet trēs vōcēs verbī — āctīva (iam nōta), <strong>media</strong>, et passīva — ubi Latīnum habet sōlum duās (āctīva, passīva, cum “verbīs dēpōnentibus” tractantibus fōrmam passīvam cum sēnsū āctīvō, cāsus speciālis). Vōx media est element omnīnō novum discipulīs Latīnē doctīs: indicat subiectum agere <em>in sē ipsum, prō sē ipsō, vel cum īnstrūmentō/effectū speciālī ad sē pertinente</em> — nōn sōlum “agō” (āctīva) neque “patior” (passīva), sed aliquid intermedium.",
+    "explanation": "<p>Bona nova prō incipientibus: in tempore praesentī (et imperfectō, quem posteā vidēbis), fōrmae mediae et passīvae sunt <strong>morphologicē identicae</strong> — ūnum sōlum paradigma servit ambōbus sēnsibus; contextus sōlus dēterminat utrum medium an passīvum intellegendum sit. Distinctiō morphologica inter media et passīva appāret sōlum in aoristō et futūrō (Gradibus IV/posterioribus), ubi fōrmae vērē dīvergunt.</p>",
+    "rules": [
+      {
+        "heading": "a) Praesēns Indicātīvum Mediī-Passīvī: λύομαι",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Persōna</th><th>Singulāris</th><th>Plūrālis</th></tr></thead><tbody><tr><td>1ª</td><td class=\"greek\">λύομαι</td><td class=\"greek\">λυόμεθα</td></tr><tr><td>2ª</td><td class=\"greek\">λύῃ</td><td class=\"greek\">λύεσθε</td></tr><tr><td>3ª</td><td class=\"greek\">λύεται</td><td class=\"greek\">λύονται</td></tr></tbody></table><p>Nōtā <span class=\"greek\">λύῃ</span> (2ª sg.): fōrma “plēna” historica erat *λύεσαι, sed σ intervōcālicum periit et ε+αι contractī sunt in η (cum iōtā subscrīptō) — exemplum contractiōnis phōnologicae, phaenomenon quod plēnius vidēbis cum verba contracta tractantur (Gradū III).</p>"
+      },
+      {
+        "heading": "b) Sēnsus Vōcis Mediae",
+        "body": "<p>Vōx media indicat variōs modōs quibus subiectum est speciāliter implicātum in āctiōne suā: (1) <strong>reflexīvum</strong>: <span class=\"greek\">λούομαι</span> “mē lavō” (comparā λούω “lavō [aliud]”); (2) <strong>prō sē ipsō/ commodō suō</strong>: <span class=\"greek\">λύομαι τὸν δοῦλον</span> potest significāre “redimō servum PRŌ MĒ IPSŌ” (nōn sōlum “solvō”); (3) <strong>reciprocum</strong>: subiecta plūrālia agunt inter sē; (4) <strong>intrānsitīvum idiōmaticum</strong>: quaedam verba habent sēnsum mediī omnīnō distīnctum ā fōrmā āctīvā, memoriae mandandum sīgillātim (ut in dictiōnāriīs annotātur).</p>"
+      },
+      {
+        "heading": "c) Sēnsus Vōcis Passīvae et Īnfīnītīvus",
+        "body": "<p>Sēnsus passīvus (subiectum patitur āctiōnem ab agente externō) trānsfertur exāctē sīcut Latīnē: <span class=\"greek\">ὁ δοῦλος λύεται</span> potest significāre “servus solvitur/līberātur” (ab aliquō, passīvē) AUT “servus solvit/līberat SĒ” (mediē) — contextus sōlus dēcernit. Agēns passīvus (“ab aliquō”), sī explicitus, adhibet praepositiōnem <span class=\"greek\">ὑπό</span> + genetīvum, quam posteā plēnius vidēbis. Īnfīnītīvus praesēns medius-passīvus fīnītur <span class=\"greek\">-εσθαι</span>: <span class=\"greek\">λύεσθαι</span>.</p>"
+      }
+    ],
+    "examples": [
+      "λύομαι τὸν δοῦλον. — Redimō servum prō mē ipsō. (medium, commodum suī)",
+      "ὁ δοῦλος λύεται ὑπὸ τοῦ δεσπότου. — Servus līberātur ā dominō. (passīvum, agēns explicitus per ὑπό + gen.)",
+      "λουόμεθα ἐν τῷ ποταμῷ. — Lavāmus nōs in flūmine. (medium reflexīvum, 1ª pl.)",
+      "βούλεται λύεσθαι. — Vult sē solvī/līberārī. (īnfīnītīvus medius-passīvus)",
+      "οἱ πολῖται λύονται ὑπὸ τῶν νόμων; — Num cīvēs solvuntur ā lēgibus? (passīvum, interrogātiō)",
+      "τί λύῃ; — Quid tibi solvis/redimis? (2ª sg. medium)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Quaerere fōrmam distīnctam prō mediō vs. passīvō in tempore praesentī, crēdēns errōrem esse sī identicae videntur.",
+        "right": "Recordārī media et passīva SUNT morphologicē identica in praesentī (et imperfectō); distinctiō fōrmālis appāret sōlum in aoristō/futūrō.",
+        "why": "Discipulus incipiēns saepe crēdit omnem discrīmen sēnsūs dēbēre habēre fōrmam propriam — nōn semper vērum in Graecō."
+      },
+      {
+        "wrong": "Trānsferre omnem fōrmam mediam sīcut reflexīvam Latīnam (“sē” + verbum), sine cōnsīderāre alium sēnsūs mediī.",
+        "right": "Cōnsīderāre contextum: medium potest significāre reflexīvum, commodum suī, reciprocum, vel sēnsum idiōmaticum proprium verbī.",
+        "why": "Vōx media Graeca est semantica magis dīversa quam sōlum reflexīvum Latīnum, quod discipulus Latīnē doctus tendit suppōnere."
+      },
+      {
+        "wrong": "Scrībere λύεσαι prō λύῃ (2ª persōnā singulārī), suppōnendō fōrmam nōn-contractam esse rēctam in ūsū classicō.",
+        "right": "Recordārī λύεσαι est fōrma antīquior/historica; ūsus classicus Atticus requīrit fōrmam contractam λύῃ.",
+        "why": "Confūsiō hīc oritur ex vīsū fōrmae historicae in explicātiōnibus grammaticīs, quae nōn est ipsa fōrma classica ūsitāta."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "ii-con2-fill",
+      "type": "fill-blank",
+      "title": "Coniugā λύομαι",
+      "instructions": "Comple spatia cum fōrmā rēctā mediī-passīvī verbī λύω.",
+      "items": [
+        {
+          "id": "con2a",
+          "prompt": "Ἐγὼ ___ ἐν τῷ ποταμῷ. (1ª sg., “lavor/mē lavō”)",
+          "options": [
+            "λύομαι",
+            "λύῃ",
+            "λυόμεθα"
+          ],
+          "answers": [
+            "λύομαι"
+          ],
+          "explanation": "Prīma persōna singulāris mediī-passīvī: λύομαι."
+        },
+        {
+          "id": "con2b",
+          "prompt": "Σὺ τί ___; (2ª sg.)",
+          "options": [
+            "λύῃ",
+            "λύεται",
+            "λύεσθε"
+          ],
+          "answers": [
+            "λύῃ"
+          ],
+          "explanation": "Secunda persōna singulāris (fōrma contracta): λύῃ."
+        },
+        {
+          "id": "con2c",
+          "prompt": "Ὁ δοῦλος ___ ὑπὸ τοῦ δεσπότου. (3ª sg., passīvum)",
+          "options": [
+            "λύεται",
+            "λύονται",
+            "λύομαι"
+          ],
+          "answers": [
+            "λύεται"
+          ],
+          "explanation": "Tertia persōna singulāris: λύεται."
+        },
+        {
+          "id": "con2d",
+          "prompt": "Ἡμεῖς ___ ἐν τῷ ποταμῷ. (1ª pl.)",
+          "options": [
+            "λυόμεθα",
+            "λύεσθε",
+            "λύονται"
+          ],
+          "answers": [
+            "λυόμεθα"
+          ],
+          "explanation": "Prīma persōna plūrālis: λυόμεθα."
+        },
+        {
+          "id": "con2e",
+          "prompt": "Οἱ δοῦλοι ___ ὑπὸ τῶν πολιτῶν. (3ª pl.)",
+          "options": [
+            "λύονται",
+            "λύεται",
+            "λυόμεθα"
+          ],
+          "answers": [
+            "λύονται"
+          ],
+          "explanation": "Tertia persōna plūrālis: λύονται."
+        }
+      ]
+    },
+    {
+      "id": "ii-con2-mc",
+      "type": "multiple-choice",
+      "title": "Vōx Media-Passīva: Rēgulae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "con2f",
+          "prompt": "Quōmodo distinguuntur fōrmae mediae ā fōrmīs passīvīs in tempore praesentī?",
+          "options": [
+            "per dēsinentiam propriam prō quāque vōce",
+            "nōn distinguuntur morphologicē; sōlum contextus dēcernit",
+            "media adhibet -μαι, passīva adhibet -ται"
+          ],
+          "answerIndex": 1,
+          "explanation": "In praesentī/imperfectō, fōrmae mediae et passīvae sunt identicae; contextus sōlus dēterminat sēnsum."
+        },
+        {
+          "id": "con2g",
+          "prompt": "Quid potest significāre λούομαι?",
+          "options": [
+            "“lavō [aliud]” tantum",
+            "“mē lavō” (medium reflexīvum)",
+            "“sum lōtus” (perfectum passīvum)"
+          ],
+          "answerIndex": 1,
+          "explanation": "Λούομαι, medium, significat “mē lavō” — subiectum agit in sē ipsum."
+        },
+        {
+          "id": "con2h",
+          "prompt": "Quae praepositiō + cāsus indicat agentem passīvum explicitum (“ab aliquō”)?",
+          "options": [
+            "ἐν + datīvus",
+            "ὑπό + genetīvus",
+            "εἰς + accūsātīvus"
+          ],
+          "answerIndex": 1,
+          "explanation": "Ὑπό + genetīvus est cōnstrūctiō standard prō agente passīvō."
+        },
+        {
+          "id": "con2i",
+          "prompt": "Quae est fōrma īnfīnītīvī praesentis mediī-passīvī verbī λύω?",
+          "options": [
+            "λύειν",
+            "λύεσθαι",
+            "λύεσαι"
+          ],
+          "answerIndex": 1,
+          "explanation": "Īnfīnītīvus medius-passīvus fīnītur -εσθαι."
+        },
+        {
+          "id": "con2j",
+          "prompt": "Unde orītur fōrma contracta λύῃ (2ª sg.)?",
+          "options": [
+            "ā fōrmā historicā *λύεσαι, per contractiōnem post āmissiōnem σ",
+            "est fōrma prīmāria sine ūllā contractiōne",
+            "ā verbō εἰμί, nōn ā λύω"
+          ],
+          "answerIndex": 0,
+          "explanation": "Σ intervōcālicum periit, deinde ε+αι contractī sunt in η (cum iōtā subscrīptō)."
+        }
+      ]
+    },
+    {
+      "id": "ii-con2-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "con2k",
+          "statement": "Fōrmae mediae et passīvae sunt morphologicē identicae in tempore praesentī.",
+          "answer": true,
+          "explanation": "Corrēctum: distīnctiō fōrmālis appāret sōlum in aoristō/futūrō."
+        },
+        {
+          "id": "con2l",
+          "statement": "Vōx media Graeca significat sōlum “sē” reflexīvum, sīcut in linguīs Rōmānicīs.",
+          "answer": false,
+          "explanation": "Falsum: media potest significāre reflexīvum, commodum suī, reciprocum, vel sēnsum idiōmaticum proprium."
+        },
+        {
+          "id": "con2m",
+          "statement": "Λατīnum classicum habet vōcem mediam plēnē distīnctam ā vōce āctīvā et passīvā.",
+          "answer": false,
+          "explanation": "Falsum: Latīnum habet sōlum āctīvam et passīvam (cum verbīs dēpōnentibus ut cāsus speciālis); media Graeca est genuīnē nova."
+        },
+        {
+          "id": "con2n",
+          "statement": "Prīma persōna plūrālis mediī-passīvī verbī λύω est λυόμεθα.",
+          "answer": true,
+          "explanation": "Corrēctum: -όμεθα est dēsinentia prīmae persōnae plūrālis mediī-passīvī."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Praesēns mediī-passīvī λύομαι: λύομαι, λύῃ, λύεται // λυόμεθα, λύεσθε, λύονται.",
+    "Media et passīva sunt IDENTICA morphologicē in praesentī/imperfectō; distinctiō appāret sōlum in aoristō/futūrō.",
+    "Vōx media significat: reflexīvum, commodum suī, reciprocum, vel sēnsum idiōmaticum proprium verbī — magis dīversa quam Latīnum offert.",
+    "Agēns passīvus explicitus: ὑπό + genetīvus (“ab aliquō”).",
+    "Īnfīnītīvus praesēns medius-passīvus: -εσθαι (λύεσθαι)."
+  ],
+  "related": [
+    {
+      "lessonId": "ii-coniugatio-praesentis-activi",
+      "label": "Coniugātiō Praesentis Āctīvī"
+    },
+    {
+      "lessonId": "ii-praepositiones-fundamentales",
+      "label": "Praepositiōnēs Fundāmentālēs"
+    }
+  ]
+}

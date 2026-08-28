@@ -1,0 +1,248 @@
+{
+  "id": "ii-interrogativa-fundamentalia",
+  "level": "II",
+  "unit": "1",
+  "order": 9,
+  "skill": "grammatica",
+  "strand": "interrogativa",
+  "title": "Interrogātīva Fundāmentālia",
+  "subtitle": "Prōnōmen interrogātīvum τίς/τί (dēclīnātum) et adverbia interrogātīva commūnia (ποῦ, πότε, πῶς, διὰ τί).",
+  "prerequisites": [
+    "ii-adverbia-et-negatio"
+  ],
+  "objectives": [
+    "Dēclīnāre prōnōmen interrogātīvum τίς (masc./fem.) et τί (neutrum) per omnēs cāsūs, utrōque numerō",
+    "Distinguere τίς interrogātīvum (accentū semper acūtō, numquam gravī) ā τις indēfīnītō (enclīticō, sēnsū “aliquis”)",
+    "Recitāre adverbia interrogātīva commūnia: ποῦ, ποῖ, πόθεν, πότε, πῶς, διὰ τί",
+    "Formāre quaestiōnēs simplicēs cum hīs verbīs interrogātīvīs"
+  ],
+  "content": {
+    "intro": "Gradus I iam ostendit τίς in ūnō contextū fīxō (<span class=\"greek\">τίς εἶ;</span> “quis es?”). Nunc τίς/τί dēclīnātur plēnē — paradigma anticipāns dēclīnātiōnem tertiam (Gradū III), sed adhibitum hīc quia est tam frequēns quam necessārium ante illam theoriam plēnam, exāctē sīcut εἰμί fuit discitum ante coniugātiōnem regulārem in Gradū I.",
+    "explanation": "<p>Τίς (masc./fem.) et τί (neutrum) significant “quis?/quae?/quod?” cum sōlum vōcālem, vel “quī? quālis?” cum adiectīvō (<span class=\"greek\">τίς ἀνήρ;</span> “quī vir?”). Fōrma haec est PRŌNŌMEN interrogātīvum — nōn cōnfundenda cum prōnōmine indēfīnītō <span class=\"greek\">τις/τι</span> (“aliquis, quīdam”), quod habet fōrmās scrīptūrā identicās sed est <strong>enclīticum</strong> (sine accentū proprio, ex Gradū I).</p>",
+    "rules": [
+      {
+        "heading": "a) Τίς/Τί: Dēclīnātiō Plēna",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Cāsus</th><th>Masc./Fem. sg.</th><th>Neut. sg.</th><th>Masc./Fem. pl.</th><th>Neut. pl.</th></tr></thead><tbody><tr><td>Nōm.</td><td class=\"greek\">τίς</td><td class=\"greek\">τί</td><td class=\"greek\">τίνες</td><td class=\"greek\">τίνα</td></tr><tr><td>Gen.</td><td class=\"greek\">τίνος</td><td class=\"greek\">τίνος</td><td class=\"greek\">τίνων</td><td class=\"greek\">τίνων</td></tr><tr><td>Dat.</td><td class=\"greek\">τίνι</td><td class=\"greek\">τίνι</td><td class=\"greek\">τίσι(ν)</td><td class=\"greek\">τίσι(ν)</td></tr><tr><td>Acc.</td><td class=\"greek\">τίνα</td><td class=\"greek\">τί</td><td class=\"greek\">τίνας</td><td class=\"greek\">τίνα</td></tr></tbody></table><p>Nōtā (rēgula aurea neutrōrum, ex Gradū II priōre): nōm. = acc. neutrī, singulārī et plūrālī. Nōtā etiam thema commūne <span class=\"greek\">τίν-</span> vīsibile in plūribus cāsibus — indicium formae dēclīnātiōnis tertiae quam mox vidēbis systēmatice.</p>"
+      },
+      {
+        "heading": "b) Τίς Interrogātīvum vs. Τις Indēfīnītum",
+        "body": "<p>Duo prōnōmina scrībuntur IDENTIDEM (τις/τι in fōrmā basicā) sed differunt ACCENTŪ: <span class=\"greek\">τίς</span> (interrogātīvum, “quis?”) habet SEMPER accentum acūtum, quī numquam mūtātur in gravem, etiam ante aliud verbum sine pausā (exceptiō ūnica ad rēgulam gravis, ex Gradū I) — hoc ipsum accentus persistēns est signum vīsuāle rapidum quō interrogātīvum ā cēterīs verbīs distinguitur. <span class=\"greek\">τις</span> (indēfīnītum, “aliquis, quīdam”) est <strong>enclīticum</strong> (sine accentū proprio, ex Gradū I), sequēns verbum praecēdēns: <span class=\"greek\">ἄνθρωπός τις</span> “homō quīdam”.</p>"
+      },
+      {
+        "heading": "c) Adverbia Interrogātīva",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Graecē</th><th>Sēnsus</th></tr></thead><tbody><tr><td class=\"greek\">ποῦ;</td><td>ubi? (locus statūrius)</td></tr><tr><td class=\"greek\">ποῖ;</td><td>quō? (mōtus versus)</td></tr><tr><td class=\"greek\">πόθεν;</td><td>unde? (orīgō)</td></tr><tr><td class=\"greek\">πότε;</td><td>quandō?</td></tr><tr><td class=\"greek\">πῶς;</td><td>quōmodo?</td></tr><tr><td class=\"greek\">διὰ τί;</td><td>cūr? (litt. “propter quid?”)</td></tr></tbody></table><p>Nōtā trichotomiam ποῦ/ποῖ/πόθεν, exāctē parallēla trichotomiae ἐν/εἰς/ἐκ (lēctiō priōre): status/mōtus-versus/orīgō — patrōnus recurrēns per tōtam syntaxem Graecam locālem.</p>"
+      }
+    ],
+    "examples": [
+      "τίς εἶ; — Quis es? (iam nōtum ex Gradū I)",
+      "τί λέγεις; — Quid dīcis? (neutrum, obiectum)",
+      "τίνος ἐστὶ τὸ βιβλίον; — Cuius est liber? (genetīvus possessōris)",
+      "ποῦ μένεις; — Ubi manēs?",
+      "πόθεν ἥκεις; — Unde venīs?",
+      "διὰ τί οὐ λέγεις; — Cūr nōn dīcis? (interrogātiō + negātiō)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Cōnfundere τίς (interrogātīvum, accentū persistente) cum τις (indēfīnītum, enclīticum) propter fōrmam scrīptūrae identicam.",
+        "right": "Distinguere per accentum: τίς semper habet accentum acūtum vīsibilem; τις enclīticum caret accentū proprio.",
+        "why": "Discrīmen sēnsūs est fundāmentāle: “quis vēnit?” (τίς ἦλθεν;) vs. “aliquis vēnit” (ἦλθέ τις)."
+      },
+      {
+        "wrong": "Applicāre rēgulam normālem gravis (acūtus → gravis ante aliud verbum) ad τίς interrogātīvum.",
+        "right": "Recordārī τίς interrogātīvum est exceptiō: accentus manet semper acūtus, numquam mūtātur in gravem.",
+        "why": "Haec exceptiō ipsa est ūtilis signum: sī vidēs τίς cum accentū acūtō persistente ante aliud verbum, scīs statim esse interrogātīvum."
+      },
+      {
+        "wrong": "Nōn distinguere ποῦ/ποῖ/πόθεν, adhibendō ūnam prō omnibus tribus sēnsibus (status/mōtus/orīgō).",
+        "right": "Applicāre eandem logicam ac ἐν/εἰς/ἐκ: ποῦ=ubi (status), ποῖ=quō (mōtus), πόθεν=unde (orīgō).",
+        "why": "Trichotomia locālis recurrit systēmaticē per Graecum; recognōscere patrōnum semel adiuvat memoriam omnium trium sēriērum."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "ii-int1-mc",
+      "type": "multiple-choice",
+      "title": "Interrogātīva: Fōrmae et Rēgulae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "int1a",
+          "prompt": "Quae fōrma est genetīvus singulāris (masc./fem./neut.) prōnōminis τίς/τί?",
+          "options": [
+            "τίνος",
+            "τίνι",
+            "τίνα"
+          ],
+          "answerIndex": 0,
+          "explanation": "Genetīvus singulāris, omne genere, est τίνος."
+        },
+        {
+          "id": "int1b",
+          "prompt": "Quid distinguit τίς (interrogātīvum) ā τις (indēfīnītō)?",
+          "options": [
+            "nihil; sunt identica omnīnō",
+            "accentus: τίς semper acūtus persistēns, τις enclīticum sine accentū",
+            "genus grammaticum"
+          ],
+          "answerIndex": 1,
+          "explanation": "Discrīmen est accentuāle: τίς retinet semper acūtum, τις est enclīticum."
+        },
+        {
+          "id": "int1c",
+          "prompt": "Quid significat πόθεν;",
+          "options": [
+            "ubi?",
+            "quō?",
+            "unde?"
+          ],
+          "answerIndex": 2,
+          "explanation": "Πόθεν significat “unde?”, indicāns orīginem."
+        },
+        {
+          "id": "int1d",
+          "prompt": "Mūtāturne accentus τίς interrogātīvī in gravem ante aliud verbum?",
+          "options": [
+            "sīc, sequitur rēgulam normālem",
+            "nōn, manet semper acūtus (exceptiō)",
+            "sōlum in plūrālī"
+          ],
+          "answerIndex": 1,
+          "explanation": "Τίς interrogātīvum est exceptiō explicita ad rēgulam gravis."
+        },
+        {
+          "id": "int1e",
+          "prompt": "Quae est fōrma accūsātīvī singulāris neutrī τί?",
+          "options": [
+            "τίνα",
+            "τί",
+            "τίνος"
+          ],
+          "answerIndex": 1,
+          "explanation": "Nōm. = acc. in neutrō: τί (rēgula aurea neutrōrum)."
+        }
+      ]
+    },
+    {
+      "id": "ii-int1-fill",
+      "type": "fill-blank",
+      "title": "Complē cum Fōrmā Rēctā",
+      "instructions": "Comple spatia cum fōrmā rēctā prōnōminis τίς/τί, secundum cāsum indicātum.",
+      "items": [
+        {
+          "id": "int1f",
+          "prompt": "___ ἐστὶ τὸ βιβλίον; (nōm. sg. neut., “quid”)",
+          "options": [
+            "τί",
+            "τίς",
+            "τίνος"
+          ],
+          "answers": [
+            "τί"
+          ],
+          "explanation": "Nōminātīvus singulāris neutrī: τί."
+        },
+        {
+          "id": "int1g",
+          "prompt": "___ λέγεις; (acc. sg. masc./fem., “quem”)",
+          "options": [
+            "τίνα",
+            "τίνος",
+            "τίνι"
+          ],
+          "answers": [
+            "τίνα"
+          ],
+          "explanation": "Accūsātīvus singulāris masc./fem.: τίνα."
+        },
+        {
+          "id": "int1h",
+          "prompt": "___ δίδως τὸ δῶρον; (dat. sg., “cui”)",
+          "options": [
+            "τίνι",
+            "τίνα",
+            "τίνων"
+          ],
+          "answers": [
+            "τίνι"
+          ],
+          "explanation": "Datīvus singulāris: τίνι."
+        },
+        {
+          "id": "int1i",
+          "prompt": "___ εἰσιν οἱ ἄνθρωποι; (nōm. pl. masc./fem., “quī”)",
+          "options": [
+            "τίνες",
+            "τίνα",
+            "τίνων"
+          ],
+          "answers": [
+            "τίνες"
+          ],
+          "explanation": "Nōminātīvus plūrālis masc./fem.: τίνες."
+        },
+        {
+          "id": "int1j",
+          "prompt": "___ φοβῇ; (adverbium, “cūr”)",
+          "options": [
+            "διὰ τί",
+            "πόθεν",
+            "πότε"
+          ],
+          "answers": [
+            "διὰ τί"
+          ],
+          "explanation": "Διὰ τί significat “cūr?”."
+        }
+      ]
+    },
+    {
+      "id": "ii-int1-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "int1k",
+          "statement": "Τίς interrogātīvum et τις indēfīnītum scrībuntur identidem in fōrmā basicā, sed differunt accentū.",
+          "answer": true,
+          "explanation": "Corrēctum: discrīmen est purē accentuāle."
+        },
+        {
+          "id": "int1l",
+          "statement": "Ποῦ significat “quō?” (mōtus versus).",
+          "answer": false,
+          "explanation": "Falsum: ποῦ significat “ubi?” (status); ποῖ significat “quō?”."
+        },
+        {
+          "id": "int1m",
+          "statement": "Genetīvus et datīvus singulārēs τίς/τί sunt identicī inter masc./fem./neut.",
+          "answer": true,
+          "explanation": "Corrēctum: τίνος (gen.), τίνι (dat.) servunt omnibus generibus in singulārī."
+        },
+        {
+          "id": "int1n",
+          "statement": "Nōminātīvus et accūsātīvus τί (neutrum) sunt identicī, sīcut rēgula aurea neutrōrum praedicit.",
+          "answer": true,
+          "explanation": "Corrēctum: τί servit ambōbus cāsibus, sīcut omne nōmen/prōnōmen neutrum."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Τίς/τί (interrogātīvum): nōm. τίς/τί, gen. τίνος, dat. τίνι, acc. τίνα/τί (sg.) — τίνες/τίνα, τίνων, τίσι(ν), τίνας/τίνα (pl.).",
+    "Τίς interrogātīvum retinet SEMPER accentum acūtum (exceptiō ad rēgulam gravis); τις indēfīnītum est enclīticum.",
+    "Adverbia interrogātīva: ποῦ (ubi), ποῖ (quō), πόθεν (unde), πότε (quandō), πῶς (quōmodo), διὰ τί (cūr).",
+    "Trichotomia ποῦ/ποῖ/πόθεν (status/mōtus/orīgō) parallēla praepositiōnibus ἐν/εἰς/ἐκ."
+  ],
+  "related": [
+    {
+      "lessonId": "ii-adverbia-et-negatio",
+      "label": "Adverbia et Negātiō"
+    },
+    {
+      "lessonId": "ii-numeri-cardinales-1-100",
+      "label": "Numerī Cardinālēs I–C"
+    }
+  ]
+}

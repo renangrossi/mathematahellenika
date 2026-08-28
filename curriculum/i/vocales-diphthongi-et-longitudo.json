@@ -1,0 +1,209 @@
+{
+  "id": "i-vocales-diphthongi-et-longitudo",
+  "level": "I",
+  "unit": "1",
+  "order": 2,
+  "skill": "pronuntiatio",
+  "strand": "vocales",
+  "title": "Vōcālēs, Diphthongī, et Longitūdō",
+  "subtitle": "Septem diphthongī propriae, duae “diphthongī falsae” (ει, ου) quae rē vērā vōcālēs longae sunt, et cūr longitūdō vōcālium omnīnō rēfert.",
+  "prerequisites": [
+    "i-alphabetum-et-phonologia"
+  ],
+  "objectives": [
+    "Recitāre et prōnūntiāre septem diphthongōs propriās (αι ει οι υι αυ ευ ου)",
+    "Explicāre cūr ει et ου sint “diphthongī falsae” — id est vōcālēs longae simplicēs, nōn vērae diphthongī",
+    "Nōn cōnfundere η cum ει, neque ω cum ου, quamquam sonī propinquī sunt",
+    "Distinguere diphthongum vēram ab hiātū duārum vōcālium (signātō trēmate, ¨)"
+  ],
+  "content": {
+    "intro": "Iam nōtum est <span class=\"greek\">α ι υ</span> posse esse breve aut longum — sed quōmodo hoc discernitur, et quid dē <span class=\"greek\">αι, ει, οι</span> similibus, quae duās vōcālēs simul scrībunt? Haec lēctiō illa explicat: sunt septem diphthongī vērae, sed duo signa (<span class=\"greek\">ει, ου</span>) etiam servīre possunt ut nota grāphica prō vōcālī longā simplicī — quod Graecī ipsī posteā “diphthongum falsam” vocāvērunt.",
+    "explanation": "<p>Diphthongus est coniūnctiō duārum vōcālium in ūnā syllabā, ūnō ictū vōcis prōlāta. Graecum Classicum septem tālēs coniūnctiōnēs habet: <span class=\"greek\">αι, ει, οι, υι, αυ, ευ, ου</span>. Quīnque ex hīs (praeter ει et ου, dē quibus mox) sonant sīcut utraque vōcālis simul audītur, ūnō lēnī trānsitū: <span class=\"greek\">αι</span> ferē ut Anglicum “aisle”; <span class=\"greek\">οι</span> ut Anglicum “oil”; <span class=\"greek\">αυ</span> ut “ow” in “how”; <span class=\"greek\">ευ</span> et <span class=\"greek\">υι</span> carent homologō facilī Anglicō, sed sonant ε+υ et υ+ι celeriter iūncta.</p><p><strong>Ει et ου sunt cāsus speciālis.</strong> Ortū, ambae erant diphthongī vērae; sed iam saeculō V a.C., in prōnūntiātiōne Atticā, ambae factae sunt <em>vōcālēs longae simplicēs</em> — <span class=\"greek\">ει</span> sonat ut ē longum <strong>clausum</strong> (distinctum ab η, quod est ē longum <strong>apertum</strong>), et <span class=\"greek\">ου</span> sonat ut ō longum <strong>clausum</strong> (distinctum ab ω, quod est ō longum <strong>apertum</strong>). Scrīptūra adhūc duās litterās retinet ex ratiōne historicā, quamvīs sonus iam ūnus, simplex, longus sit — inde nōmen “falsa diphthongus” (diphthongus spūria).</p>",
+    "rules": [
+      {
+        "heading": "a) Septem Diphthongī: Tabula",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Diphthongus</th><th>Sonus Atticus</th><th>Exemplum</th></tr></thead><tbody><tr><td class=\"greek\">αι</td><td>/ai̯/, ut “aisle” Anglicē</td><td class=\"greek\">καί (et)</td></tr><tr><td class=\"greek\">ει</td><td>ē longum clausum (falsa diphthongus)</td><td class=\"greek\">εἶναι (esse)</td></tr><tr><td class=\"greek\">οι</td><td>/oi̯/, ut “oil” Anglicē</td><td class=\"greek\">οἶκος (domus)</td></tr><tr><td class=\"greek\">υι</td><td>/yi̯/</td><td class=\"greek\">υἱός (fīlius)</td></tr><tr><td class=\"greek\">αυ</td><td>/au̯/, ut “how” Anglicē</td><td class=\"greek\">αὐτός (ipse)</td></tr><tr><td class=\"greek\">ευ</td><td>ε+υ celeriter iūncta</td><td class=\"greek\">εὑρίσκω (inveniō)</td></tr><tr><td class=\"greek\">ου</td><td>ō longum clausum (falsa diphthongus)</td><td class=\"greek\">οὐρανός (caelum)</td></tr></tbody></table>"
+      },
+      {
+        "heading": "b) Falsae vs. Vērae: Ει≠η, Ου≠ω",
+        "body": "<p>Discrīmen inter <span class=\"greek\">ει</span> et <span class=\"greek\">η</span> (utraque “ē” longum) est <strong>apertūra ōris</strong>: <span class=\"greek\">η</span> pronūntiātur ōre magis apertō (ut “e” in Anglicō “bed”, sed longum), <span class=\"greek\">ει</span> ōre magis clausō (propius ad “ee” Anglicum in “see”, sed sine glide fīnālī). Eadem ratiō valet inter <span class=\"greek\">ου</span> (clausum, ut “oo” in “food”) et <span class=\"greek\">ω</span> (apertum). Distinctiō haec nōn est mēra fīnitia phōnētica: multae fōrmae grammaticae distinguuntur sōlum per hanc oppositiōnem (e.g. plēraque nōmina tertiae dēclīnātiōnis, quae in Gradū III vidēbis).</p>"
+      },
+      {
+        "heading": "c) Diphthongus Vēra an Hiātus?",
+        "body": "<p>Nōn omnis sequentia duārum vōcālium scrīptārum est diphthongus: interdum duae vōcālēs manent in duābus syllabīs sēparātīs (“hiātus”). Hoc signātur <strong>trēmate</strong> (diaeresis, ¨) super secundam vōcālem: <span class=\"greek\">προϊέναι</span> (prō-i-e-nai, IV syllabae, nōn diphthongus προι) versus <span class=\"greek\">οἶκος</span> (sine trēmate, diphthongus vēra, οι = ūna syllaba). Sī vidēs ¨ super ι vel υ (ϊ, ϋ), semper lege duās vōcālēs sēparātim.</p>"
+      }
+    ],
+    "examples": [
+      "καὶ αὐτός. — et ipse. (αι et αυ, ambae diphthongī vērae)",
+      "εἶναι, δεῖ — esse, oportet. (ει falsa diphthongus, ē clausum)",
+      "οὐρανός — caelum. (ου falsa diphthongus, ō clausum)",
+      "οἶκος — domus. (οι diphthongus vēra, ut “oil”)",
+      "υἱός — fīlius. (υι, rārior diphthongus)",
+      "προϊέναι — prōcēdere. (¨ super ι: hiātus, NŌN diphthongus)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Prōnūntiāre ει et ου tamquam vērās diphthongōs, glide inter duās vōcālēs faciendō.",
+        "right": "Efferre utramque ut vōcālem longam simplicem, clausam: ει ut ē longum clausum, ου ut ō longum clausum.",
+        "why": "Iam saeculō V a.C. ambae mōnophthongātae erant in Atticō; scrīptūra sōla rem antīquam retinet."
+      },
+      {
+        "wrong": "Cōnfundere η cum ει, vel ω cum ου, quia ambō paria sonum “ē”/“ō” longum reddunt.",
+        "right": "Distinguere per apertūram ōris: η/ω apertiōra, ει/ου clausiōra — discrīmen parvum sed rēāle et significāns.",
+        "why": "Multae fōrmae grammaticae (praesertim in Gradū III) distinguuntur sōlum per hanc oppositiōnem apertī/clausī."
+      },
+      {
+        "wrong": "Crēdere omnem sequentiam duārum vōcālium scrīptārum esse semper diphthongum.",
+        "right": "Vidēre utrum trēma (¨) adsit super secundam vōcālem: sī adest, sunt duae syllabae sēparātae (hiātus), nōn diphthongus.",
+        "why": "Trēma exsistit praecīsē ut hanc ambiguitātem scrīptūra ipsā tollat."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "i-voc-mc",
+      "type": "multiple-choice",
+      "title": "Diphthongī: Sonī et Regulae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "voc1",
+          "prompt": "Quōmodo sonat ει in prōnūntiātiōne Atticā reconstrūctā?",
+          "options": [
+            "ut ē + ι distīncta, glide inter eās",
+            "ut ē longum clausum, vōcālis simplex",
+            "ut ε breve"
+          ],
+          "answerIndex": 1,
+          "explanation": "Ει est “falsa diphthongus”: iam saeculō V a.C. sonābat ut vōcālis longa simplex, clausa."
+        },
+        {
+          "id": "voc2",
+          "prompt": "Quod discrīmen sonī distinguit η ab ει?",
+          "options": [
+            "longitūdō sōla (η longum, ει breve)",
+            "apertūra ōris (η apertius, ει clausius)",
+            "nūllum; sonant identidem"
+          ],
+          "answerIndex": 1,
+          "explanation": "Ambae sunt ē longum, sed η apertius, ει clausius — discrīmen apertūrae, nōn longitūdinis."
+        },
+        {
+          "id": "voc3",
+          "prompt": "Quid significat trēma (¨) super ι vel υ (ϊ, ϋ)?",
+          "options": [
+            "vōcālem esse longam",
+            "duās vōcālēs sēparārī in hiātū, nōn coniungī in diphthongō",
+            "spīritum asperum"
+          ],
+          "answerIndex": 1,
+          "explanation": "Trēma indicat hiātum: duae vōcālēs manent in syllabīs sēparātīs."
+        },
+        {
+          "id": "voc4",
+          "prompt": "Quae ex hīs est diphthongus vēra (nōn falsa)?",
+          "options": [
+            "ει",
+            "ου",
+            "αι"
+          ],
+          "answerIndex": 2,
+          "explanation": "Αι manet diphthongus vēra per tōtum perīodum Classicum; ει et ου sunt falsae (mōnophthongātae)."
+        },
+        {
+          "id": "voc5",
+          "prompt": "Quōmodo sonat αυ Atticē?",
+          "options": [
+            "ut “ow” in Anglicō “how”",
+            "ut ā longum simplex",
+            "ut “oi” in Anglicō “oil”"
+          ],
+          "answerIndex": 0,
+          "explanation": "Αυ sonat ut diphthongus vēra /au̯/, similis Anglicō “ow” in “how”."
+        }
+      ]
+    },
+    {
+      "id": "i-voc-match",
+      "type": "matching",
+      "title": "Iunge Diphthongum cum Sonō",
+      "instructions": "Iunge quamque diphthongum cum dēscrīptiōne phōneticā suā.",
+      "items": [
+        {
+          "id": "voc6",
+          "pairs": [
+            {
+              "left": "αι",
+              "right": "/ai̯/, ut “aisle” Anglicē"
+            },
+            {
+              "left": "οι",
+              "right": "/oi̯/, ut “oil” Anglicē"
+            },
+            {
+              "left": "ει",
+              "right": "ē longum clausum (falsa diphthongus)"
+            },
+            {
+              "left": "ου",
+              "right": "ō longum clausum (falsa diphthongus)"
+            },
+            {
+              "left": "αυ",
+              "right": "/au̯/, ut “how” Anglicē"
+            }
+          ],
+          "explanation": "Quīnque diphthongī sonant coniūnctim (vōcālis + vōcālis); ει et ου sōlae sunt “falsae”, id est vōcālēs longae simplicēs."
+        }
+      ]
+    },
+    {
+      "id": "i-voc-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "voc7",
+          "statement": "Ει et ου vocantur “diphthongī falsae” quia numquam vērē diphthongī fuērunt.",
+          "answer": false,
+          "explanation": "Falsum: ortū erant diphthongī vērae; mōnophthongātae sunt tantum posteā, ante perīodum Classicum iam completum."
+        },
+        {
+          "id": "voc8",
+          "statement": "Η et ει sonant exāctē idem in Atticō reconstrūctō.",
+          "answer": false,
+          "explanation": "Falsum: differunt apertūrā ōris, quamquam ambae sunt “ē” longum."
+        },
+        {
+          "id": "voc9",
+          "statement": "Trēma (¨) super ι vel υ indicat hiātum, nōn diphthongum.",
+          "answer": true,
+          "explanation": "Corrēctum: trēma explicitē sēparat duās vōcālēs in syllabās distīnctās."
+        },
+        {
+          "id": "voc10",
+          "statement": "Graecum Classicum habet septem diphthongōs propriās.",
+          "answer": true,
+          "explanation": "Corrēctum: αι, ει, οι, υι, αυ, ευ, ου."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Septem diphthongī propriae: αι ει οι υι αυ ευ ου.",
+    "Ει et ου sunt “diphthongī falsae”: iam Atticē sonant ut vōcālēs longae simplicēs (clausae), nōn ut vēra coniūnctiō duārum vōcālium.",
+    "Η/ω (apertae) differunt ab ει/ου (clausae) apertūrā ōris, quamquam omnēs sunt longae.",
+    "Trēma (¨, ut in ϊ, ϋ) signat hiātum: duās vōcālēs in syllabīs sēparātīs, nōn diphthongum."
+  ],
+  "related": [
+    {
+      "lessonId": "i-alphabetum-et-phonologia",
+      "label": "Alphabētum et Phōnologia"
+    },
+    {
+      "lessonId": "i-consonantes-et-digrapha",
+      "label": "Cōnsonantēs et Digrapha"
+    }
+  ]
+}

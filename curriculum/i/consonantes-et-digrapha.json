@@ -1,0 +1,213 @@
+{
+  "id": "i-consonantes-et-digrapha",
+  "level": "I",
+  "unit": "1",
+  "order": 3,
+  "skill": "pronuntiatio",
+  "strand": "consonantes",
+  "title": "Cōnsonantēs Geminātae et Digrapha Nāsālia",
+  "subtitle": "Cōnsonantēs geminātae (ππ, λλ, σσ/ττ) et assimilātiō nāsālis ante velārēs (γγ, γκ, γξ, γχ).",
+  "prerequisites": [
+    "i-alphabetum-et-phonologia"
+  ],
+  "objectives": [
+    "Prōnūntiāre cōnsonantēs geminātās (ππ, λλ, μμ, νν, ρρ, σσ) ut sonōs longiōrēs, distīnctōs ā fōrmā simplicī",
+    "Explicāre rēgulam assimilātiōnis nāsālis: γ ante γ, κ, ξ, vel χ sonat ut “ng” Anglicum, nōn ut “g”",
+    "Recognōscere ττ Atticum et σσ Iōnicum/commūne Graecum ut duās scrīptūrās eiusdem sonī",
+    "Legere corrēctē verba cum cōnsonantibus geminātīs vel digraphīs nāsālibus"
+  ],
+  "content": {
+    "intro": "Cōnsonantēs singulae (π β φ, τ δ θ, κ γ χ, etc.) iam nōtae sunt ex lēctiōne priōre. Haec lēctiō duo phaenomena addit, ambō frequentia in Graecō scrīptō: <strong>geminātiōnem</strong> (eadem littera bis scrīpta, sonus tenētur longior) et <strong>assimilātiōnem nāsālem</strong> (γ ante alteram velārem mūtat sonum suum in “ng”).",
+    "explanation": "<p>Ubi eadem cōnsonāns bis scrībitur (ππ, λλ, μμ, νν, ρρ, σσ), sonus nōn duplicātur in duōs sonōs distīnctōs, sed <strong>tenētur longior</strong> — sīcut in Ītalicō “pizza” (zz longum) vel Latīnō “ille” (ll longum, sī pronūntiātiō classica Latīna sequitur). Discipulus Anglicē loquēns tendit hanc longitūdinem neglegere; melius est eam ab initiō audīre et imitārī.</p><p>Praetereā, ubi <span class=\"greek\">γ</span> praecēdit statim aliam litteram velārem (<span class=\"greek\">γ, κ, ξ,</span> vel <span class=\"greek\">χ</span>), <span class=\"greek\">γ</span> nōn sonat “g” sed assimilātur ad sonum nāsālem vēlārem, ut Anglicum “ng” in “sing”: <span class=\"greek\">ἄγγελος</span> sonat ferē “ANG-ge-los”. Hoc phaenomenon (“digraphum nāsāle”) iam breviter tāctum est in lēctiōne priōre; hīc vidēs rēgulam plēnē cum omnibus quattuor combīnātiōnibus.</p>",
+    "rules": [
+      {
+        "heading": "a) Cōnsonantēs Geminātae",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Scrīptūra</th><th>Sonus</th><th>Exemplum</th></tr></thead><tbody><tr><td class=\"greek\">ππ</td><td>p longum</td><td class=\"greek\">Ἱππότης (eques)</td></tr><tr><td class=\"greek\">λλ</td><td>l longum</td><td class=\"greek\">Ἑλλάς (Graecia)</td></tr><tr><td class=\"greek\">μμ</td><td>m longum</td><td class=\"greek\">γράμμα (littera)</td></tr><tr><td class=\"greek\">σσ</td><td>s longum (surdum semper)</td><td class=\"greek\">θάλασσα (mare)</td></tr><tr><td class=\"greek\">ρρ</td><td>r longum (secunda ρ saepe cum spīritū aspero: ῥρ)</td><td class=\"greek\">Πύρρος (Pyrrhus)</td></tr></tbody></table><p>Sonus geminātus nōn est duo sonī sēparātī sed ūnus sonus tentus longius — comparā “bookkeeper” Anglicē (duo k audīta) an “pizza” Ītalicē (ūnum zz longum): Graecum sequitur secundum modellum.</p>"
+      },
+      {
+        "heading": "b) Assimilātiō Nāsālis: γ ante γ κ ξ χ",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Digraphum</th><th>Sonus</th><th>Exemplum</th></tr></thead><tbody><tr><td class=\"greek\">γγ</td><td>“ng” + “g”, ut “finger” Anglicē</td><td class=\"greek\">ἄγγελος (nūntius)</td></tr><tr><td class=\"greek\">γκ</td><td>“ng” + “k”, ut “ink” Anglicē</td><td class=\"greek\">ἄγκυρα (ancora)</td></tr><tr><td class=\"greek\">γξ</td><td>“ng” + “ks”</td><td class=\"greek\">σάλπιγξ (tuba)</td></tr><tr><td class=\"greek\">γχ</td><td>“ng” + “kh” (χ aspīrātum)</td><td class=\"greek\">ἔγχος (hasta)</td></tr></tbody></table><p>Rēgula sequitur logicam articulātōriam: cōnsonāns nāsālis ante occlūsīvam velārem ipsa fit velāris — comparā Anglicum “think” (n ante th fit dentālis) vel “sink” (n ante k iam fit velāris in vōce nātīvā, quamquam scrīptūra id nōn ostendit). Graecum id ostendit scrīptūrā ipsā.</p>"
+      },
+      {
+        "heading": "c) Ττ Atticum vs. Σσ Commūne",
+        "body": "<p>Multa verba scrībuntur cum <span class=\"greek\">ττ</span> in textibus Atticīs (Athēniēnsibus) sed cum <span class=\"greek\">σσ</span> in aliīs dialectīs Graecīs (Iōnicā, et posteā in Koinē commūnī): <span class=\"greek\">θάλαττα</span> (Atticē) = <span class=\"greek\">θάλασσα</span> (commūniter), ambō “mare”. Nōn est error, sed variātiō dialectālis authentica — id ipsum quod hic cursus per tōtum dēmōnstrat, dialectōs Graecās esse dīversitātēs reālēs, nōn errōrēs. Hic cursus generātim praefert fōrmam Atticam (ττ) in exemplīs propriīs, sed utraque fōrma est correcta et invenīs utramque in textibus authenticīs.</p>"
+      }
+    ],
+    "examples": [
+      "Ἑλλάς — Graecia. (λλ geminātum: l longum)",
+      "θάλαττα (Atticē) / θάλασσα (commūniter) — mare. (variātiō dialectālis)",
+      "ἄγγελος — nūntius. (γγ: “ng”+“g”)",
+      "ἄγκυρα — ancora. (γκ: “ng”+“k”)",
+      "γράμμα — littera, scrīptum. (μμ geminātum: m longum)",
+      "Πύρρος — Pyrrhus. (ρρ geminātum; secunda ρ cum spīritū aspero)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Prōnūntiāre cōnsonantem geminātam (ππ, λλ, etc.) exāctē sīcut fōrmam simplicem, neglēctā longitūdine.",
+        "right": "Tenēre sonum longius — geminātiō est rēalis, nōn mēra convention scrībendī.",
+        "why": "Errōrēs longitūdinis cōnsonantium possunt significātiōnem verbī mūtāre, sīcut longitūdō vōcālium."
+      },
+      {
+        "wrong": "Prōnūntiāre γ ante γ/κ/ξ/χ sīcut “g” normāle, ignōrandō assimilātiōnem nāsālem.",
+        "right": "Efferre γ in hāc positiōne ut “ng” (sonum nāsālem vēlārem), nōn ut occlūsīvam “g” plēnam.",
+        "why": "Rēgula assimilātiōnis est systemātica et exceptiōnibus caret in hīs quattuor combīnātiōnibus."
+      },
+      {
+        "wrong": "Crēdere θάλαττα et θάλασσα esse duo verba dīversa cum significātiōnibus dīversīs.",
+        "right": "Recognōscere ambās fōrmās ut variantēs dialectālēs (Atticam/commūnem) ūnīus eiusdemque verbī.",
+        "why": "Variātiō ττ/σσ est ūnum ex clārissimīs exemplīs dialectī Atticae vs. reliquae Graeciae."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "i-cons-mc",
+      "type": "multiple-choice",
+      "title": "Geminātae et Assimilātiō",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "cons1",
+          "prompt": "Quōmodo sonat cōnsonāns gemināta (ut ππ) in Graecō?",
+          "options": [
+            "ut duo sonī omnīnō sēparātī cum pausā",
+            "ut ūnus sonus tentus longius",
+            "exāctē sīcut fōrma simplex"
+          ],
+          "answerIndex": 1,
+          "explanation": "Geminātiō indicat longitūdinem sonī, nōn duōs sonōs sēparātōs neque nūllam differentiam."
+        },
+        {
+          "id": "cons2",
+          "prompt": "Quōmodo sonat γ in ἄγγελος?",
+          "options": [
+            "ut “g” normāle bis scrīptum",
+            "ut “ng” + “g” (assimilātiō nāsālis)",
+            "ut nihil; γγ est mūtum"
+          ],
+          "answerIndex": 1,
+          "explanation": "Prīma γ ante alteram γ assimilātur ad sonum nāsālem vēlārem “ng”."
+        },
+        {
+          "id": "cons3",
+          "prompt": "Quod verbum est fōrma Attica prō “mare”?",
+          "options": [
+            "θάλασσα",
+            "θάλαττα",
+            "ambae sunt aequē Atticae"
+          ],
+          "answerIndex": 1,
+          "explanation": "Ττ est fōrma Attica proprissima; σσ est fōrma commūnior in aliīs dialectīs et in Koinē."
+        },
+        {
+          "id": "cons4",
+          "prompt": "Ante quās litterās γ assimilātur ad sonum nāsālem?",
+          "options": [
+            "ante quamlibet cōnsonantem",
+            "ante γ, κ, ξ, χ tantum",
+            "ante vōcālēs tantum"
+          ],
+          "answerIndex": 1,
+          "explanation": "Assimilātiō nāsālis occurrit tantum ante alterās velārēs: γ, κ, ξ, χ."
+        },
+        {
+          "id": "cons5",
+          "prompt": "Quid indicat σσ/ττ variātiō in verbīs sīcut θάλασσα/θάλαττα?",
+          "options": [
+            "errōrem scrībendī",
+            "variātiōnem dialectālem authenticam (Attica vs. commūnis)",
+            "duo verba omnīnō dīversa"
+          ],
+          "answerIndex": 1,
+          "explanation": "Est variātiō dialectālis rēalis, nōn error nec discrīmen significātiōnis."
+        }
+      ]
+    },
+    {
+      "id": "i-cons-match",
+      "type": "matching",
+      "title": "Iunge Digraphum cum Sonō",
+      "instructions": "Iunge quodque digraphum nāsāle cum sonō suō.",
+      "items": [
+        {
+          "id": "cons6",
+          "pairs": [
+            {
+              "left": "γγ",
+              "right": "“ng”+“g”, ut “finger” Anglicē"
+            },
+            {
+              "left": "γκ",
+              "right": "“ng”+“k”, ut “ink” Anglicē"
+            },
+            {
+              "left": "γξ",
+              "right": "“ng”+“ks”"
+            },
+            {
+              "left": "γχ",
+              "right": "“ng”+“kh” (χ aspīrātum)"
+            },
+            {
+              "left": "σσ / ττ",
+              "right": "variantēs dialectālēs eiusdem sonī /s(:)/ vel /t:/"
+            }
+          ],
+          "explanation": "Assimilātiō nāsālis sequitur locum articulātiōnis cōnsonantis sequentis; ττ/σσ sunt variātiō dialectālis, nōn assimilātiō."
+        }
+      ]
+    },
+    {
+      "id": "i-cons-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "cons7",
+          "statement": "Cōnsonāns gemināta (ut λλ) sonat exāctē sīcut fōrma simplex (ut λ).",
+          "answer": false,
+          "explanation": "Falsum: geminātiō indicat sonum longiōrem."
+        },
+        {
+          "id": "cons8",
+          "statement": "Γ ante κ (ut in ἄγκυρα) assimilātur ad sonum nāsālem “ng”.",
+          "answer": true,
+          "explanation": "Corrēctum: assimilātiō nāsālis occurrit ante omnem velārem (γ, κ, ξ, χ)."
+        },
+        {
+          "id": "cons9",
+          "statement": "Θάλαττα et θάλασσα sunt duo verba dīversa cum significātiōnibus dīversīs.",
+          "answer": false,
+          "explanation": "Falsum: sunt variantēs dialectālēs (Attica/commūnis) ūnīus eiusdemque verbī, “mare”."
+        },
+        {
+          "id": "cons10",
+          "statement": "Assimilātiō nāsālis γ occurrit tantum ante vōcālēs.",
+          "answer": false,
+          "explanation": "Falsum: occurrit ante cōnsonantēs velārēs (γ, κ, ξ, χ), nōn ante vōcālēs."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Cōnsonantēs geminātae (ππ, λλ, μμ, νν, ρρ, σσ) sonant longius, nōn ut duo sonī sēparātī.",
+    "Γ ante γ, κ, ξ, vel χ assimilātur ad sonum nāsālem “ng” (assimilātiō nāsālis).",
+    "Ττ Atticum et σσ commūne (Iōnicum/Koinē) sunt variantēs dialectālēs eiusdem sonī, nōn verba dīversa.",
+    "Longitūdō cōnsonantium, sīcut longitūdō vōcālium, potest afficere significātiōnem — numquam neglegenda."
+  ],
+  "related": [
+    {
+      "lessonId": "i-alphabetum-et-phonologia",
+      "label": "Alphabētum et Phōnologia"
+    },
+    {
+      "lessonId": "i-vocales-diphthongi-et-longitudo",
+      "label": "Vōcālēs, Diphthongī, et Longitūdō"
+    },
+    {
+      "lessonId": "i-spiritus-et-accentus",
+      "label": "Spīritūs et Accentūs"
+    }
+  ]
+}

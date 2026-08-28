@@ -3,17 +3,47 @@
     {
       "slug": "alphabetum-et-phonologia",
       "title": "Alphabētum et Phōnologia",
-      "ty": null
+      "ty": "alphabetum-et-phonologia"
+    },
+    {
+      "slug": "vocales-diphthongi-et-longitudo",
+      "title": "Vōcālēs, Diphthongī, et Longitūdō",
+      "ty": "vocales-diphthongi-et-longitudo"
+    },
+    {
+      "slug": "consonantes-et-digrapha",
+      "title": "Cōnsonantēs Geminātae et Digrapha Nāsālia",
+      "ty": "consonantes-et-digrapha"
     },
     {
       "slug": "spiritus-et-accentus",
       "title": "Spīritūs et Accentūs",
-      "ty": null
+      "ty": "spiritus-et-accentus"
+    },
+    {
+      "slug": "syllabae-et-enclitica",
+      "title": "Syllabae, Prōclīticae, et Enclīticae",
+      "ty": "syllabae-et-enclitica"
     },
     {
       "slug": "salutationes-et-verbum-sum",
       "title": "Salūtātiōnēs et Εἰμί (Verbum Essendi)",
-      "ty": null
+      "ty": "salutationes-et-verbum-sum"
+    },
+    {
+      "slug": "articulus-et-numeri",
+      "title": "Articulus (Fōrmae Nōminātīvae) et Numerī",
+      "ty": "articulus-et-numeri"
+    },
+    {
+      "slug": "pronomina-personalia",
+      "title": "Prōnōmina Persōnālia",
+      "ty": "pronomina-personalia"
+    },
+    {
+      "slug": "lectio-prima",
+      "title": "Lēctiō Prīma",
+      "ty": "lectio-prima"
     }
   ],
   "elementa": [],

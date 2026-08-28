@@ -1,0 +1,254 @@
+{
+  "id": "i-pronomina-personalia",
+  "level": "I",
+  "unit": "1",
+  "order": 8,
+  "skill": "grammatica",
+  "strand": "eimi",
+  "title": "Prōnōmina Persōnālia",
+  "subtitle": "Fōrmae prōnōminum ἐγώ et σύ per cāsūs (ut vocābula memoranda), et fōrmae encliticae eōrum.",
+  "prerequisites": [
+    "i-syllabae-et-enclitica",
+    "i-salutationes-et-verbum-sum"
+  ],
+  "objectives": [
+    "Recitāre fōrmās prōnōminis ἐγώ (ego) per nōminātīvum, accūsātīvum, genetīvum, datīvum",
+    "Recitāre fōrmās prōnōminis σύ (tū) per eōsdem cāsūs",
+    "Distinguere fōrmās fortēs (ἐμοῦ, ἐμοί, ἐμέ) ā fōrmīs encliticīs (μου, μοι, με) et scīre quandō quaeque adhibeātur",
+    "Legere sententiās simplicēs cum hīs prōnōminibus in variīs cāsibus"
+  ],
+  "content": {
+    "intro": "Lēctiō <em>Salūtātiōnēs et Εἰμί</em> iam ostendit fōrmās nōminātīvās (<span class=\"greek\">ἐγώ, σύ, αὐτός/ή/ό</span>), prōmittēns dēclīnātiōnem plēnam hīc. Theoria cāsuum plēna (cūr cāsus exsistant, quōmodo nōmina ipsa dēclīnentur) pertinet ad Gradum II; hīc disce sōlum fōrmās ipsās prōnōminum <span class=\"greek\">ἐγώ</span> et <span class=\"greek\">σύ</span> ut vocābula memoranda — ita ut sententiās simplicēs cum “mihi”, “tē”, “meī” iam legere possīs, antequam theoria cāsuum tōta explicētur.",
+    "explanation": "<p>Sīcut Latīnum habet <em>ego, mē, meī, mihi</em>, Graecum habet fōrmās analogās prō <span class=\"greek\">ἐγώ</span> et <span class=\"greek\">σύ</span> — sed cum discrīmine additō: <strong>duplex sēriēs</strong>, fōrmae “fortēs” (cum accentū proprio, adhibitae prō ēmphasī vel post praepositiōnem) et fōrmae “encliticae” (sine accentū proprio, ex lēctiōne priōre, adhibitae in ūsū normālī nōn-ēmphaticō). Comparā Anglicum: “give it to ME [ēmphasis]” versus “give me [normāle] the book”.</p>",
+    "rules": [
+      {
+        "heading": "a) Ἐγώ (Ego): Fōrmae per Cāsūs",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Cāsus</th><th>Fōrma Fortis</th><th>Fōrma Enclītica</th></tr></thead><tbody><tr><td>Nōminātīvus</td><td class=\"greek\">ἐγώ</td><td>(nūlla; nōm. numquam enclīticus)</td></tr><tr><td>Genetīvus</td><td class=\"greek\">ἐμοῦ</td><td class=\"greek\">μου</td></tr><tr><td>Datīvus</td><td class=\"greek\">ἐμοί</td><td class=\"greek\">μοι</td></tr><tr><td>Accūsātīvus</td><td class=\"greek\">ἐμέ</td><td class=\"greek\">με</td></tr></tbody></table>"
+      },
+      {
+        "heading": "b) Σύ (Tū): Fōrmae per Cāsūs",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Cāsus</th><th>Fōrma Fortis</th><th>Fōrma Enclītica</th></tr></thead><tbody><tr><td>Nōminātīvus</td><td class=\"greek\">σύ</td><td>(nūlla)</td></tr><tr><td>Genetīvus</td><td class=\"greek\">σοῦ</td><td class=\"greek\">σου</td></tr><tr><td>Datīvus</td><td class=\"greek\">σοί</td><td class=\"greek\">σοι</td></tr><tr><td>Accūsātīvus</td><td class=\"greek\">σέ</td><td class=\"greek\">σε</td></tr></tbody></table><p>Sēnsus generālis cāsuum (comparātiō cum Latīnō, sī iam nōtum): genetīvus ≈ genitīvus Latīnus (“meī, tuī”); datīvus ≈ datīvus Latīnus (“mihi, tibi”); accūsātīvus ≈ accūsātīvus Latīnus, obiectum dīrēctum (“mē, tē”).</p>"
+      },
+      {
+        "heading": "c) Quandō Fōrma Fortis, Quandō Enclītica?",
+        "body": "<p>Fōrma <strong>fortis</strong> (cum accentū proprio) adhibētur: (1) prō ēmphasī vel contrāstū — <span class=\"greek\">ἐμοὶ δίδωσιν, οὐ σοί</span> “mihi dat, nōn tibi”; (2) semper post praepositiōnem — <span class=\"greek\">πρὸς ἐμέ</span> “ad mē”; (3) semper in prīmā positiōne clausulae. Fōrma <strong>enclītica</strong> (sine accentū proprio) adhibētur in ūsū normālī, nōn-ēmphaticō, nōn post praepositiōnem: <span class=\"greek\">δίδωσί μοι τὸ βιβλίον</span> “dat mihi librum” (ūsus normālis, nūlla ēmphasis in “mihi” ipsō).</p>"
+      }
+    ],
+    "examples": [
+      "δίδωσί μοι τὸ βιβλίον. — Dat mihi librum. (μοι enclīticum, ūsus normālis)",
+      "ἐμοὶ δίδωσιν, οὐ σοί. — Mihi dat, nōn tibi. (ἐμοί fortis, propter contrāstum)",
+      "πρὸς ἐμέ. — Ad mē. (ἐμέ fortis, post praepositiōnem)",
+      "σέ φιλῶ. — Tē amō/dīligō. (σέ hīc fortis, prīma positiō)",
+      "λέγει με μαθητὴν εἶναι. — Dīcit mē esse discipulum. (με enclīticum, obiectum dīrēctum ōrātiōnis oblīquae)",
+      "τοῦτο ἐμόν ἐστιν, οὐ σόν. — Hoc meum est, nōn tuum."
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Adhibēre fōrmam encliticam (μου, μοι, με) post praepositiōnem, ut “πρὸς με”.",
+        "right": "Adhibēre semper fōrmam fortem post praepositiōnem: “πρὸς ἐμέ”.",
+        "why": "Praepositiōnēs semper requīrunt fōrmam fortem prōnōminis, numquam encliticam."
+      },
+      {
+        "wrong": "Cōnfundere σοῦ (fortis, genetīvus “tuī”) cum σου (enclīticum, idem sēnsū sed sine accentū) tamquam sī essent verba dīversa.",
+        "right": "Recognōscere ambās fōrmās referre ad eundem cāsum eiusdemque prōnōminis, differentēs sōlum accentū (statūque fortī/enclīticō).",
+        "why": "Discrīmen fortis/enclīticī nōn est discrīmen significātiōnis, sed discrīmen ūsūs syntacticī et emphaticī."
+      },
+      {
+        "wrong": "Crēdere prōnōmen nōminātīvum (ἐγώ, σύ) posse habēre fōrmam encliticam, sīcut cāsūs oblīquī.",
+        "right": "Recordārī nōminātīvum prōnōminis persōnālis numquam est enclīticum — semper cum accentū proprio, cum praesēns est (et plērumque omittitur, ex lēctiōne Salūtātiōnēs et Εἰμί).",
+        "why": "Sōlum cāsūs oblīquī (genetīvus, datīvus, accūsātīvus) habent duplicem sēriem fortem/encliticam."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "i-pron-mc",
+      "type": "multiple-choice",
+      "title": "Prōnōmina: Fōrmae et Ūsus",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "pron1",
+          "prompt": "Quae fōrma adhibētur semper post praepositiōnem?",
+          "options": [
+            "fōrma enclītica (μου, μοι, με)",
+            "fōrma fortis (ἐμοῦ, ἐμοί, ἐμέ)",
+            "utraque indifferenter"
+          ],
+          "answerIndex": 1,
+          "explanation": "Post praepositiōnem, fōrma fortis semper requīritur (πρὸς ἐμέ, nōn *πρὸς με)."
+        },
+        {
+          "id": "pron2",
+          "prompt": "Quid significat μοι?",
+          "options": [
+            "“ego”, nōminātīvus",
+            "“mihi”, datīvus enclīticus",
+            "“mē”, accūsātīvus fortis"
+          ],
+          "answerIndex": 1,
+          "explanation": "Μοι est fōrma enclītica datīvī prōnōminis ἐγώ."
+        },
+        {
+          "id": "pron3",
+          "prompt": "Quandō adhibētur fōrma fortis (ἐμοί) potius quam enclītica (μοι)?",
+          "options": [
+            "numquam; sunt idem",
+            "cum ēmphasis vel contrāstus quaeritur",
+            "sōlum in initiō librī"
+          ],
+          "answerIndex": 1,
+          "explanation": "Fōrma fortis marcat ēmphasim/contrāstum; enclītica est ūsus normālis, nōn-ēmphaticus."
+        },
+        {
+          "id": "pron4",
+          "prompt": "Quae fōrma est genetīvus fortis prōnōminis σύ?",
+          "options": [
+            "σου",
+            "σοῦ",
+            "σοι"
+          ],
+          "answerIndex": 1,
+          "explanation": "Σοῦ (cum accentū circumflexō) est fōrma fortis; σου (sine accentū proprio hīc) est enclītica."
+        },
+        {
+          "id": "pron5",
+          "prompt": "Habet nōminātīvus prōnōminis persōnālis (ἐγώ, σύ) fōrmam encliticam?",
+          "options": [
+            "sīc, semper",
+            "nōn, numquam",
+            "sōlum in plūrālī"
+          ],
+          "answerIndex": 1,
+          "explanation": "Nōminātīvus numquam est enclīticus; sōlum cāsūs oblīquī habent duplicem sēriem."
+        }
+      ]
+    },
+    {
+      "id": "i-pron-fill",
+      "type": "fill-blank",
+      "title": "Complē cum Fōrmā Rēctā",
+      "instructions": "Comple spatia cum fōrmā rēctā prōnōminis, fortī an encliticā secundum contextum.",
+      "items": [
+        {
+          "id": "pron6",
+          "prompt": "Δίδωσί ___ τὸ βιβλίον. (ūsus normālis, “mihi”)",
+          "options": [
+            "ἐμοί",
+            "μοι",
+            "ἐμέ"
+          ],
+          "answers": [
+            "μοι"
+          ],
+          "explanation": "Ūsus normālis, nōn-ēmphaticus: fōrma enclītica μοι."
+        },
+        {
+          "id": "pron7",
+          "prompt": "Πρὸς ___ ἔρχεται. (post praepositiōnem, “ad mē”)",
+          "options": [
+            "ἐμέ",
+            "με",
+            "ἐμοί"
+          ],
+          "answers": [
+            "ἐμέ"
+          ],
+          "explanation": "Post praepositiōnem πρός, fōrma fortis semper requīritur: ἐμέ."
+        },
+        {
+          "id": "pron8",
+          "prompt": "___ δίδωσιν, οὐ σοί. (contrāstus, “mihi”)",
+          "options": [
+            "μοι",
+            "ἐμοί",
+            "με"
+          ],
+          "answers": [
+            "ἐμοί"
+          ],
+          "explanation": "Contrāstus explicitus (οὐ σοί) requīrit fōrmam fortem: ἐμοί."
+        },
+        {
+          "id": "pron9",
+          "prompt": "Λέγει ___ μαθητὴν εἶναι. (ūsus normālis, “mē”)",
+          "options": [
+            "ἐμέ",
+            "με",
+            "ἐμοῦ"
+          ],
+          "answers": [
+            "με"
+          ],
+          "explanation": "Ūsus normālis, nōn-ēmphaticus, obiectum: fōrma enclītica με."
+        },
+        {
+          "id": "pron10",
+          "prompt": "Τοῦτο τὸ βιβλίον ___ ἐστιν. (ēmphasis, “meum”)",
+          "options": [
+            "μου",
+            "ἐμοῦ",
+            "ἐμοί"
+          ],
+          "answers": [
+            "ἐμοῦ"
+          ],
+          "explanation": "Possessiō ēmphatica hīc favet fōrmam fortem ἐμοῦ (litt. “librum meī est”)."
+        }
+      ]
+    },
+    {
+      "id": "i-pron-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "pron11",
+          "statement": "Fōrmae fortēs et encliticae prōnōminum persōnālium habent significātiōnēs omnīnō dīversās.",
+          "answer": false,
+          "explanation": "Falsum: referunt ad eundem cāsum eiusdemque prōnōminis; differunt in ūsū syntacticō/emphaticō, nōn in sēnsū fundāmentālī."
+        },
+        {
+          "id": "pron12",
+          "statement": "Post praepositiōnem, fōrma enclītica prōnōminis est adhibenda.",
+          "answer": false,
+          "explanation": "Falsum: post praepositiōnem, fōrma fortis semper requīritur."
+        },
+        {
+          "id": "pron13",
+          "statement": "Ἐμοῦ, ἐμοί, ἐμέ sunt fōrmae fortēs cāsuum oblīquōrum prōnōminis ἐγώ.",
+          "answer": true,
+          "explanation": "Corrēctum: genetīvus, datīvus, accūsātīvus fortēs, respondentēs μου, μοι, με enclīticīs."
+        },
+        {
+          "id": "pron14",
+          "statement": "Nōminātīvus prōnōminis persōnālis potest esse enclīticus, sī nōn ēmphaticus.",
+          "answer": false,
+          "explanation": "Falsum: nōminātīvus (ἐγώ, σύ) numquam habet fōrmam encliticam."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Ἐγώ (ego): nōm. ἐγώ · gen. ἐμοῦ/μου · dat. ἐμοί/μοι · acc. ἐμέ/με (fortis/enclīticum).",
+    "Σύ (tū): nōm. σύ · gen. σοῦ/σου · dat. σοί/σοι · acc. σέ/σε (fortis/enclīticum).",
+    "Fōrma fortis: ēmphasis/contrāstus, post praepositiōnem, prīma positiō. Fōrma enclītica: ūsus normālis, nōn-ēmphaticus.",
+    "Nōminātīvus (ἐγώ, σύ) numquam est enclīticus; sōlum cāsūs oblīquī habent duplicem sēriem.",
+    "Theoria plēna cāsuum (cūr et quōmodo nōmina ipsa dēclīnentur) sequitur in Gradū II."
+  ],
+  "related": [
+    {
+      "lessonId": "i-salutationes-et-verbum-sum",
+      "label": "Salūtātiōnēs et Εἰμί"
+    },
+    {
+      "lessonId": "i-syllabae-et-enclitica",
+      "label": "Syllabae, Prōclīticae, et Enclīticae"
+    },
+    {
+      "lessonId": "i-lectio-prima",
+      "label": "Lēctiō Prīma"
+    }
+  ]
+}

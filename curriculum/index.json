@@ -7,15 +7,42 @@
           "id": "1",
           "title": "Fundamenta: Alphabetum, Phonologia, et Prima Verba",
           "lessons": [
-            { "id": "i-alphabetum-et-phonologia", "status": "published" },
-            { "id": "i-vocales-diphthongi-et-longitudo", "status": "planned" },
-            { "id": "i-consonantes-et-digrapha", "status": "planned" },
-            { "id": "i-spiritus-et-accentus", "status": "published" },
-            { "id": "i-syllabae-et-enclitica", "status": "planned" },
-            { "id": "i-salutationes-et-verbum-sum", "status": "published" },
-            { "id": "i-articulus-et-numeri", "status": "planned" },
-            { "id": "i-pronomina-personalia", "status": "planned" },
-            { "id": "i-lectio-prima", "status": "planned" }
+            {
+              "id": "i-alphabetum-et-phonologia",
+              "status": "published"
+            },
+            {
+              "id": "i-vocales-diphthongi-et-longitudo",
+              "status": "published"
+            },
+            {
+              "id": "i-consonantes-et-digrapha",
+              "status": "published"
+            },
+            {
+              "id": "i-spiritus-et-accentus",
+              "status": "published"
+            },
+            {
+              "id": "i-syllabae-et-enclitica",
+              "status": "published"
+            },
+            {
+              "id": "i-salutationes-et-verbum-sum",
+              "status": "published"
+            },
+            {
+              "id": "i-articulus-et-numeri",
+              "status": "published"
+            },
+            {
+              "id": "i-pronomina-personalia",
+              "status": "published"
+            },
+            {
+              "id": "i-lectio-prima",
+              "status": "published"
+            }
           ]
         }
       ]
@@ -26,16 +53,46 @@
           "id": "1",
           "title": "Elementa: Declinatio Prima et Secunda, Articulus, Tempus Praesens",
           "lessons": [
-            { "id": "ii-declinatio-prima", "status": "planned" },
-            { "id": "ii-declinatio-secunda-masculina-et-neutra", "status": "planned" },
-            { "id": "ii-articulus-plenus", "status": "planned" },
-            { "id": "ii-adiectiva-classis-primae", "status": "planned" },
-            { "id": "ii-coniugatio-praesentis-activi", "status": "planned" },
-            { "id": "ii-coniugatio-praesentis-medii-passivi", "status": "planned" },
-            { "id": "ii-praepositiones-fundamentales", "status": "planned" },
-            { "id": "ii-adverbia-et-negatio", "status": "planned" },
-            { "id": "ii-interrogativa-fundamentalia", "status": "planned" },
-            { "id": "ii-numeri-cardinales-1-100", "status": "planned" }
+            {
+              "id": "ii-declinatio-prima",
+              "status": "planned"
+            },
+            {
+              "id": "ii-declinatio-secunda-masculina-et-neutra",
+              "status": "planned"
+            },
+            {
+              "id": "ii-articulus-plenus",
+              "status": "planned"
+            },
+            {
+              "id": "ii-adiectiva-classis-primae",
+              "status": "planned"
+            },
+            {
+              "id": "ii-coniugatio-praesentis-activi",
+              "status": "planned"
+            },
+            {
+              "id": "ii-coniugatio-praesentis-medii-passivi",
+              "status": "planned"
+            },
+            {
+              "id": "ii-praepositiones-fundamentales",
+              "status": "planned"
+            },
+            {
+              "id": "ii-adverbia-et-negatio",
+              "status": "planned"
+            },
+            {
+              "id": "ii-interrogativa-fundamentalia",
+              "status": "planned"
+            },
+            {
+              "id": "ii-numeri-cardinales-1-100",
+              "status": "planned"
+            }
           ]
         }
       ]
@@ -46,16 +103,46 @@
           "id": "1",
           "title": "Progressus: Declinatio Tertia, Verba Contracta, Tempora Ampliora",
           "lessons": [
-            { "id": "iii-declinatio-tertia-consonantica", "status": "planned" },
-            { "id": "iii-declinatio-tertia-vocalica", "status": "planned" },
-            { "id": "iii-adiectiva-tertiae-declinationis", "status": "planned" },
-            { "id": "iii-verba-contracta-in-eo", "status": "planned" },
-            { "id": "iii-verba-contracta-in-ao-et-oo", "status": "planned" },
-            { "id": "iii-tempus-imperfectum", "status": "planned" },
-            { "id": "iii-tempus-futurum-activum-et-medium", "status": "planned" },
-            { "id": "iii-pronomen-relativum", "status": "planned" },
-            { "id": "iii-pronomina-demonstrativa", "status": "planned" },
-            { "id": "iii-comparatio-adiectivorum", "status": "planned" }
+            {
+              "id": "iii-declinatio-tertia-consonantica",
+              "status": "planned"
+            },
+            {
+              "id": "iii-declinatio-tertia-vocalica",
+              "status": "planned"
+            },
+            {
+              "id": "iii-adiectiva-tertiae-declinationis",
+              "status": "planned"
+            },
+            {
+              "id": "iii-verba-contracta-in-eo",
+              "status": "planned"
+            },
+            {
+              "id": "iii-verba-contracta-in-ao-et-oo",
+              "status": "planned"
+            },
+            {
+              "id": "iii-tempus-imperfectum",
+              "status": "planned"
+            },
+            {
+              "id": "iii-tempus-futurum-activum-et-medium",
+              "status": "planned"
+            },
+            {
+              "id": "iii-pronomen-relativum",
+              "status": "planned"
+            },
+            {
+              "id": "iii-pronomina-demonstrativa",
+              "status": "planned"
+            },
+            {
+              "id": "iii-comparatio-adiectivorum",
+              "status": "planned"
+            }
           ]
         }
       ]
@@ -66,17 +153,50 @@
           "id": "1",
           "title": "Media: Systema Aoristi, Systema Perfecti, Participia",
           "lessons": [
-            { "id": "iv-aoristus-activus-et-medius-primus", "status": "planned" },
-            { "id": "iv-aoristus-secundus", "status": "planned" },
-            { "id": "iv-aoristus-passivus", "status": "planned" },
-            { "id": "iv-systema-perfecti-activi", "status": "planned" },
-            { "id": "iv-systema-perfecti-medii-passivi", "status": "planned" },
-            { "id": "iv-participium-praesentis", "status": "planned" },
-            { "id": "iv-participium-aoristi", "status": "planned" },
-            { "id": "iv-infinitivi-omnium-temporum", "status": "planned" },
-            { "id": "iv-verba-deponentia", "status": "planned" },
-            { "id": "iv-genetivus-absolutus", "status": "planned" },
-            { "id": "iv-recognitio-systema-verbi", "status": "planned" }
+            {
+              "id": "iv-aoristus-activus-et-medius-primus",
+              "status": "planned"
+            },
+            {
+              "id": "iv-aoristus-secundus",
+              "status": "planned"
+            },
+            {
+              "id": "iv-aoristus-passivus",
+              "status": "planned"
+            },
+            {
+              "id": "iv-systema-perfecti-activi",
+              "status": "planned"
+            },
+            {
+              "id": "iv-systema-perfecti-medii-passivi",
+              "status": "planned"
+            },
+            {
+              "id": "iv-participium-praesentis",
+              "status": "planned"
+            },
+            {
+              "id": "iv-participium-aoristi",
+              "status": "planned"
+            },
+            {
+              "id": "iv-infinitivi-omnium-temporum",
+              "status": "planned"
+            },
+            {
+              "id": "iv-verba-deponentia",
+              "status": "planned"
+            },
+            {
+              "id": "iv-genetivus-absolutus",
+              "status": "planned"
+            },
+            {
+              "id": "iv-recognitio-systema-verbi",
+              "status": "planned"
+            }
           ]
         }
       ]
@@ -87,15 +207,42 @@
           "id": "1",
           "title": "Provectus: Modus Coniunctivus et Optativus, Clausulae, Condiciones",
           "lessons": [
-            { "id": "v-coniunctivus-praesens-et-aoristi", "status": "planned" },
-            { "id": "v-usus-coniunctivi-hortativus-et-prohibitivus", "status": "planned" },
-            { "id": "v-optativus-formae", "status": "planned" },
-            { "id": "v-optativus-usus-obliquus-et-voluntativus", "status": "planned" },
-            { "id": "v-clausulae-finales", "status": "planned" },
-            { "id": "v-clausulae-consecutivae", "status": "planned" },
-            { "id": "v-condiciones-quattuor-genera", "status": "planned" },
-            { "id": "v-interrogationes-obliquae", "status": "planned" },
-            { "id": "v-imperativus-plenus", "status": "planned" }
+            {
+              "id": "v-coniunctivus-praesens-et-aoristi",
+              "status": "planned"
+            },
+            {
+              "id": "v-usus-coniunctivi-hortativus-et-prohibitivus",
+              "status": "planned"
+            },
+            {
+              "id": "v-optativus-formae",
+              "status": "planned"
+            },
+            {
+              "id": "v-optativus-usus-obliquus-et-voluntativus",
+              "status": "planned"
+            },
+            {
+              "id": "v-clausulae-finales",
+              "status": "planned"
+            },
+            {
+              "id": "v-clausulae-consecutivae",
+              "status": "planned"
+            },
+            {
+              "id": "v-condiciones-quattuor-genera",
+              "status": "planned"
+            },
+            {
+              "id": "v-interrogationes-obliquae",
+              "status": "planned"
+            },
+            {
+              "id": "v-imperativus-plenus",
+              "status": "planned"
+            }
           ]
         }
       ]
@@ -106,14 +253,38 @@
           "id": "1",
           "title": "Altior: Syntaxis Provectior et Prosa Adaptata",
           "lessons": [
-            { "id": "vi-oratio-obliqua-systema-plenum", "status": "planned" },
-            { "id": "vi-adiectiva-verbalia-in-teos-et-teon", "status": "planned" },
-            { "id": "vi-usus-casuum-provectiores", "status": "planned" },
-            { "id": "vi-particulae-graecae", "status": "planned" },
-            { "id": "vi-ordo-verborum-et-stilus-atticus", "status": "planned" },
-            { "id": "vi-lectio-adaptata-xenophon", "status": "planned" },
-            { "id": "vi-lectio-adaptata-platon", "status": "planned" },
-            { "id": "vi-recognitio-syntaxis-integra", "status": "planned" }
+            {
+              "id": "vi-oratio-obliqua-systema-plenum",
+              "status": "planned"
+            },
+            {
+              "id": "vi-adiectiva-verbalia-in-teos-et-teon",
+              "status": "planned"
+            },
+            {
+              "id": "vi-usus-casuum-provectiores",
+              "status": "planned"
+            },
+            {
+              "id": "vi-particulae-graecae",
+              "status": "planned"
+            },
+            {
+              "id": "vi-ordo-verborum-et-stilus-atticus",
+              "status": "planned"
+            },
+            {
+              "id": "vi-lectio-adaptata-xenophon",
+              "status": "planned"
+            },
+            {
+              "id": "vi-lectio-adaptata-platon",
+              "status": "planned"
+            },
+            {
+              "id": "vi-recognitio-syntaxis-integra",
+              "status": "planned"
+            }
           ]
         }
       ]
@@ -124,16 +295,46 @@
           "id": "1",
           "title": "Auctores: Textus Authentici Non Adaptati",
           "lessons": [
-            { "id": "vii-xenophon-anabasis", "status": "planned" },
-            { "id": "vii-platon-apologia", "status": "planned" },
-            { "id": "vii-lysias-orationes-selectae", "status": "planned" },
-            { "id": "vii-homerus-ilias-excerpta", "status": "planned" },
-            { "id": "vii-dialectus-homerica-conspectus", "status": "planned" },
-            { "id": "vii-koine-novum-testamentum-excerpta", "status": "planned" },
-            { "id": "vii-dialectus-koine-conspectus", "status": "planned" },
-            { "id": "vii-prosodia-et-metrum-epicum", "status": "planned" },
-            { "id": "vii-rhetorica-attica", "status": "planned" },
-            { "id": "vii-recognitio-finalis", "status": "planned" }
+            {
+              "id": "vii-xenophon-anabasis",
+              "status": "planned"
+            },
+            {
+              "id": "vii-platon-apologia",
+              "status": "planned"
+            },
+            {
+              "id": "vii-lysias-orationes-selectae",
+              "status": "planned"
+            },
+            {
+              "id": "vii-homerus-ilias-excerpta",
+              "status": "planned"
+            },
+            {
+              "id": "vii-dialectus-homerica-conspectus",
+              "status": "planned"
+            },
+            {
+              "id": "vii-koine-novum-testamentum-excerpta",
+              "status": "planned"
+            },
+            {
+              "id": "vii-dialectus-koine-conspectus",
+              "status": "planned"
+            },
+            {
+              "id": "vii-prosodia-et-metrum-epicum",
+              "status": "planned"
+            },
+            {
+              "id": "vii-rhetorica-attica",
+              "status": "planned"
+            },
+            {
+              "id": "vii-recognitio-finalis",
+              "status": "planned"
+            }
           ]
         }
       ]

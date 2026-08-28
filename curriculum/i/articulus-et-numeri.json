@@ -1,0 +1,249 @@
+{
+  "id": "i-articulus-et-numeri",
+  "level": "I",
+  "unit": "1",
+  "order": 7,
+  "skill": "grammatica",
+  "strand": "articulus",
+  "title": "Articulus (Fōrmae Nōminātīvae) et Numerī",
+  "subtitle": "Fōrmae nōminātīvae articulī Graecī (ὁ ἡ τό), numerī cardinālēs I–X, et numerālia Graeca alphabētica.",
+  "prerequisites": [
+    "i-syllabae-et-enclitica"
+  ],
+  "objectives": [
+    "Recitāre fōrmās nōminātīvās (singulārēs et plūrālēs) articulī: ὁ ἡ τό, οἱ αἱ τά",
+    "Explicāre cūr Graecum nūllum articulum indēfīnītum habeat (“ānthrōpos” = “homō” vel “ūnus homō”)",
+    "Recitāre numerōs cardinālēs I–X et prīma numerālia alphabētica (α' β' γ'...)",
+    "Legere phrasēs simplicēs cum articulō et nōmine in nōminātīvō"
+  ],
+  "content": {
+    "intro": "Iam vīdistī articulum <span class=\"greek\">ὁ, ἡ</span> in exemplīs (<span class=\"greek\">ὁ ἄνθρωπος, ἡ ἡμέρα</span>) sine explicātiōne fōrmālī. Nunc articulum plēnē (in cāsū nōminātīvō) et prīmōs numerōs Graecōs discis — duo elementa frequentissima in quālibet sententiā Graecā simplicī. Dēclīnātiō plēna articulī per omnēs cāsūs (sīcut dēclīnātiō nōminum) pertinet ad Gradum II; hīc disce fōrmās nōminātīvās ut vocābula ipsa, ita ut prīmās lēctiōnēs legere possīs.",
+    "explanation": "<p>Articulus Graecus (“the” Anglicē) concordat cum nōmine suō in genere, numerō, et cāsū — plānē sīcut adiectīvum. Graecum <strong>nōn habet articulum indēfīnītum</strong> (“a/an” Anglicē, “um/uma” Lūsitānicē): <span class=\"greek\">ἄνθρωπος</span> sine articulō significat simpliciter “homō” vel “ūnus homō (quīdam)”; <span class=\"greek\">ὁ ἄνθρωπος</span> significat “ille homō, homō dē quō iam locūtī sumus” (sīcut Anglicum “the man”). Articulus est ūnum ex frequentissimīs verbīs in omnī textū Graecō — plūs quam decem prō centum omnium verbōrum in prōsā tȳpicā.</p>",
+    "rules": [
+      {
+        "heading": "a) Articulus: Fōrmae Nōminātīvae",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Numerus</th><th>Masculīnum</th><th>Fēminīnum</th><th>Neutrum</th></tr></thead><tbody><tr><td>Singulāris</td><td class=\"greek\">ὁ</td><td class=\"greek\">ἡ</td><td class=\"greek\">τό</td></tr><tr><td>Plūrālis</td><td class=\"greek\">οἱ</td><td class=\"greek\">αἱ</td><td class=\"greek\">τά</td></tr></tbody></table><p>Omnēs sex fōrmae hīc datae sunt <strong>prōclīticae</strong> (ex lēctiōne priōre) — carent accentū proprio, praeter <span class=\"greek\">οἱ, αἱ</span> quae fōrmam accentūs peculiārem habent in quibusdam contextibus grammaticīs (rem plēnius vidēbis in Gradū II). Articulus semper praecēdit nōmen suum (praeter cāsūs speciālēs cum adiectīvō attribūtīvō, quōs Gradus II tractat).</p>"
+      },
+      {
+        "heading": "b) Numerī Cardinālēs I–X",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Numerus</th><th>Graecē</th><th>Numerāle Alphabēticum</th></tr></thead><tbody><tr><td>1</td><td class=\"greek\">εἷς (m.) / μία (f.) / ἕν (n.)</td><td class=\"greek\">α'</td></tr><tr><td>2</td><td class=\"greek\">δύο</td><td class=\"greek\">β'</td></tr><tr><td>3</td><td class=\"greek\">τρεῖς (m./f.) / τρία (n.)</td><td class=\"greek\">γ'</td></tr><tr><td>4</td><td class=\"greek\">τέτταρες / τέσσαρες</td><td class=\"greek\">δ'</td></tr><tr><td>5</td><td class=\"greek\">πέντε</td><td class=\"greek\">ε'</td></tr><tr><td>6</td><td class=\"greek\">ἕξ</td><td class=\"greek\">ϝ' (στίγμα)</td></tr><tr><td>7</td><td class=\"greek\">ἑπτά</td><td class=\"greek\">ζ'</td></tr><tr><td>8</td><td class=\"greek\">ὀκτώ</td><td class=\"greek\">η'</td></tr><tr><td>9</td><td class=\"greek\">ἐννέα</td><td class=\"greek\">θ'</td></tr><tr><td>10</td><td class=\"greek\">δέκα</td><td class=\"greek\">ι'</td></tr></tbody></table><p>Sōlum <span class=\"greek\">εἷς/μία/ἕν</span>, <span class=\"greek\">δύο</span>, et <span class=\"greek\">τρεῖς/τρία</span> dēclīnantur per cāsūs (sīcut adiectīva vel nōmina); numerī IV–X manent indēclīnābilēs. Dēclīnātiōnem plēnam eōrum vidēbis simul cum dēclīnātiōne nōminum, in Gradibus II–III.</p>"
+      },
+      {
+        "heading": "c) Numerālia Alphabētica",
+        "body": "<p>Graecī scrīpsērunt numerōs adhibendō litterās ipsās alphabētī (cum apostrophō ' post litteram), nōn signa Arabica sīcut nōs: <span class=\"greek\">α'=1, β'=2, γ'=3</span>... <span class=\"greek\">ι'=10, κ'=20</span>... <span class=\"greek\">ρ'=100</span>... Hoc systēma requīrit trēs litterās antīquās iam dēsuētās in alphabētō Graecō classicō (<span class=\"greek\">ϝ</span> digamma/stigma prō 6, <span class=\"greek\">ϙ</span> qoppa prō 90, <span class=\"greek\">ϡ</span> sampi prō 900) — vestīgia alphabētī prīmōrdiālis Graecī, antequam ad XXIV litterās classicās redāctum est (memor lēctiōnem prīmam). Numerōs Rōmānōs in hōc cursū vidēs (I, II, III...) tantum ut referentiam Latīnam; numerālia Graeca propria hīc introducuntur ut cultūra, nōn ut abilitās activē requīsīta adhūc.</p>"
+      }
+    ],
+    "examples": [
+      "ὁ ἄνθρωπος καλός ἐστιν. — Ille homō pulcher est. (articulus masc. + nōmen + adiectīvum)",
+      "ἡ ἀλήθεια. — Vēritās (illa vēritās, abstracta cum articulō, ut Graecē solet).",
+      "τὸ βιβλίον. — Ille liber (neutrum).",
+      "οἱ ἄνθρωποι καὶ αἱ γυναῖκες. — Hominēs et mulierēs.",
+      "εἷς θεός. — Ūnus deus. (εἷς masculīnum, concordāns cum θεός)",
+      "δέκα ἄνθρωποι. — Decem hominēs. (δέκα indēclīnābile)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Quaerere fōrmam prō articulō indēfīnītō (“a/an”) in Graecō, imitandō linguās modernās.",
+        "right": "Nōn scrībere nūllum articulum ubi Anglicē “a/an” dīcerēs — Graecum id per absentiam articulī ipsam exprimit.",
+        "why": "Graecum classicum caret omnīnō articulō indēfīnītō; hoc est discrīmen fundāmentāle ā linguīs modernīs Rōmānicīs/Anglicā."
+      },
+      {
+        "wrong": "Crēdere articulum Graecum semper concordāre in fōrmā cum articulō Latīnō vel Rōmānicō (quī rē vērā nōn exsistit in Latīnō classicō).",
+        "right": "Recordārī articulum concordat in genere, numerō, cāsū cum nōmine suō, sīcut adiectīvum — systēma prōprium Graecum.",
+        "why": "Latīnum classicum caret articulō omnīnō; discipulus Latīnē doctus nūllam experientiam priōrem huius categoriae habet."
+      },
+      {
+        "wrong": "Crēdere numerōs IV–X (τέτταρες, πέντε, etc.) dēclīnārī per cāsūs sīcut εἷς/δύο/τρεῖς.",
+        "right": "Recordārī sōlum εἷς/μία/ἕν, δύο, et τρεῖς/τρία dēclīnantur; numerī IV et ultrā manent indēclīnābilēs.",
+        "why": "Error commūnis apud incipientēs quī suppōnunt omnem numerum sequī eundem patrōnum flexiōnis."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "i-art-mc",
+      "type": "multiple-choice",
+      "title": "Articulus et Numerī",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "art1",
+          "prompt": "Quae est fōrma nōminātīva singulāris fēminīna articulī?",
+          "options": [
+            "ὁ",
+            "ἡ",
+            "τό"
+          ],
+          "answerIndex": 1,
+          "explanation": "Ἡ est fōrma fēminīna singulāris; ὁ masculīnum, τό neutrum."
+        },
+        {
+          "id": "art2",
+          "prompt": "Quid significat ἄνθρωπος SINE articulō?",
+          "options": [
+            "“ille homō speciālis”",
+            "“homō” generāliter, vel “ūnus homō (quīdam)”",
+            "nihil; grammaticē incorrectum est"
+          ],
+          "answerIndex": 1,
+          "explanation": "Graecum caret articulō indēfīnītō; nōmen sine articulō est fōrma normālis prō “a/an” Anglicō vel generāli."
+        },
+        {
+          "id": "art3",
+          "prompt": "Quī numerī Graecī dēclīnantur per cāsūs?",
+          "options": [
+            "omnēs numerī I–X",
+            "sōlum εἷς, δύο, τρεῖς (et τρία)",
+            "nūllus numerus dēclīnātur"
+          ],
+          "answerIndex": 1,
+          "explanation": "Sōlum 1, 2, et 3 dēclīnantur; numerī IV–X manent indēclīnābilēs."
+        },
+        {
+          "id": "art4",
+          "prompt": "Quid est ι' in numerālibus alphabēticīs Graecīs?",
+          "options": [
+            "1",
+            "10",
+            "100"
+          ],
+          "answerIndex": 1,
+          "explanation": "Ι (iōta) est decima littera alphabētī, ergō ι' = 10."
+        },
+        {
+          "id": "art5",
+          "prompt": "Quae est fōrma plūrālis neutra articulī?",
+          "options": [
+            "τό",
+            "τά",
+            "τοί"
+          ],
+          "answerIndex": 1,
+          "explanation": "Τά est nōminātīvus plūrālis neutrī; τό est fōrma singulāris."
+        }
+      ]
+    },
+    {
+      "id": "i-art-fill",
+      "type": "fill-blank",
+      "title": "Complē Articulum Rēctum",
+      "instructions": "Comple spatia cum fōrmā rēctā articulī, secundum genus nōminis datī.",
+      "items": [
+        {
+          "id": "art6",
+          "prompt": "___ ἄνθρωπος (masc. sg.)",
+          "options": [
+            "ὁ",
+            "ἡ",
+            "τό"
+          ],
+          "answers": [
+            "ὁ"
+          ],
+          "explanation": "Ἄνθρωπος est masculīnum; articulus masculīnus singulāris est ὁ."
+        },
+        {
+          "id": "art7",
+          "prompt": "___ ἀλήθεια (fem. sg.)",
+          "options": [
+            "ὁ",
+            "ἡ",
+            "τό"
+          ],
+          "answers": [
+            "ἡ"
+          ],
+          "explanation": "Ἀλήθεια est fēminīnum; articulus fēminīnus singulāris est ἡ."
+        },
+        {
+          "id": "art8",
+          "prompt": "___ βιβλίον (neut. sg.)",
+          "options": [
+            "ὁ",
+            "ἡ",
+            "τό"
+          ],
+          "answers": [
+            "τό"
+          ],
+          "explanation": "Βιβλίον est neutrum; articulus neutrī singulāris est τό."
+        },
+        {
+          "id": "art9",
+          "prompt": "___ ἄνθρωποι (masc. pl.)",
+          "options": [
+            "οἱ",
+            "αἱ",
+            "τά"
+          ],
+          "answers": [
+            "οἱ"
+          ],
+          "explanation": "Plūrālis masculīnus articulī est οἱ."
+        },
+        {
+          "id": "art10",
+          "prompt": "___ γυναῖκες (fem. pl.)",
+          "options": [
+            "οἱ",
+            "αἱ",
+            "τά"
+          ],
+          "answers": [
+            "αἱ"
+          ],
+          "explanation": "Plūrālis fēminīnus articulī est αἱ."
+        }
+      ]
+    },
+    {
+      "id": "i-art-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "art11",
+          "statement": "Graecum classicum habet articulum indēfīnītum sīcut Anglicum “a/an”.",
+          "answer": false,
+          "explanation": "Falsum: Graecum caret omnīnō articulō indēfīnītō."
+        },
+        {
+          "id": "art12",
+          "statement": "Articulus Graecus concordat cum nōmine suō in genere, numerō, et cāsū.",
+          "answer": true,
+          "explanation": "Corrēctum: sīcut adiectīvum, articulus semper concordat cum suō nōmine."
+        },
+        {
+          "id": "art13",
+          "statement": "Numerī Graecī IV–X (τέτταρες, πέντε...) dēclīnantur per cāsūs sīcut εἷς et δύο.",
+          "answer": false,
+          "explanation": "Falsum: sōlum 1, 2, 3 dēclīnantur; reliquī sunt indēclīnābilēs."
+        },
+        {
+          "id": "art14",
+          "statement": "Numerālia alphabētica Graeca requīrunt trēs litterās antīquās nōn iam in alphabētō classicō XXIV litterārum.",
+          "answer": true,
+          "explanation": "Corrēctum: digamma/stigma (6), qoppa (90), sampi (900) sunt vestīgia alphabētī prīmōrdiālis."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Articulus (ὁ ἡ τό sg., οἱ αἱ τά pl.) concordat in genere/numerō/cāsū cum nōmine suō; fōrmae nōminātīvae hīc, dēclīnātiō plēna in Gradū II.",
+    "Graecum caret articulō indēfīnītō: ἄνθρωπος sine articulō = “homō” generāliter vel “ūnus homō”.",
+    "Numerī cardinālēs I–X: εἷς/μία/ἕν, δύο, τρεῖς/τρία, τέτταρες, πέντε, ἕξ, ἑπτά, ὀκτώ, ἐννέα, δέκα.",
+    "Sōlum 1, 2, 3 dēclīnantur per cāsūs; numerī IV–X manent indēclīnābilēs.",
+    "Numerālia alphabētica Graeca (α'=1, ι'=10...) adhibent litterās alphabētī, inclūsīs tribus litterīs antīquīs dēsuētīs."
+  ],
+  "related": [
+    {
+      "lessonId": "i-syllabae-et-enclitica",
+      "label": "Syllabae, Prōclīticae, et Enclīticae"
+    },
+    {
+      "lessonId": "i-pronomina-personalia",
+      "label": "Prōnōmina Persōnālia"
+    }
+  ]
+}

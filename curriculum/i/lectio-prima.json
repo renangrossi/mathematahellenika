@@ -1,0 +1,193 @@
+{
+  "id": "i-lectio-prima",
+  "level": "I",
+  "unit": "1",
+  "order": 9,
+  "skill": "lectio",
+  "strand": "lectio",
+  "title": "Lēctiō Prīma",
+  "subtitle": "Prīmus dialogus: alphabētum, spīritūs, accentūs, εἰμί, articulus, prōnōmina, et numerī, omnia coniūncta in ūnā fābulā brevī.",
+  "prerequisites": [
+    "i-articulus-et-numeri",
+    "i-pronomina-personalia"
+  ],
+  "objectives": [
+    "Legere dialogum Graecum brevem sine adiūtōriō, adhibendō omnia discita in Gradū I",
+    "Recognōscere in āctū rēgulam accentūs enclītici (ὄνομά ἐστιν) prius tantum breviter tāctam",
+    "Respondēre quaestiōnibus dē contentō textūs, dēmōnstrandō intellēctum vērum, nōn sōlum recognitiōnem verbōrum sīgillātim",
+    "Sentīre prīmam victōriam: legere textum Graecum continuum, nōn sōlum verba sīgillāta"
+  ],
+  "content": {
+    "intro": "Hic est fīnis Gradūs I: omnia discita — alphabētum, spīritūs et accentūs, εἰμί, salūtātiōnēs, articulus, prōnōmina, numerī — nunc coniunguntur in ūnō dialogō brevī. Nūlla fōrma nova grammatica hīc introducitur (praeter paucās nōtās vocābulī, glōssātās); id quod discis hīc est <strong>legere</strong>, nōn sōlum recognōscere fōrmas sīgillātim.",
+    "explanation": "<p>Sequitur dialogus inter duōs discipulōs novōs, <span class=\"greek\">Ἀγάθων</span> et <span class=\"greek\">Μελίτη</span>, sē prīmum salūtantēs. Lege prīmum sine versiōne Latīnā, tentāns intellegere quantum potes; deinde cōnfer cum versiōne datā.</p>",
+    "rules": [
+      {
+        "heading": "Textus: Prīma Cōnfābulātiō",
+        "body": "<div class=\"card\" style=\"margin-bottom:var(--space-md);\"><p class=\"greek\" style=\"font-size:var(--step-1);line-height:2;\"><strong>Ἀγάθων:</strong> Χαῖρε, ὦ φίλη.<br><strong>Μελίτη:</strong> Χαῖρε καὶ σύ, ὦ φίλε. Τίς εἶ;<br><strong>Ἀγάθων:</strong> Ἐμοὶ ὄνομά ἐστιν Ἀγάθων· μαθητής εἰμι. Σὺ δὲ τίς εἶ;<br><strong>Μελίτη:</strong> Ἐμοὶ ὄνομά ἐστιν Μελίτη· μαθήτρια καὶ ἐγώ εἰμι.<br><strong>Ἀγάθων:</strong> Καλόν. Ὁ διδάσκαλος σοφός ἐστιν.<br><strong>Μελίτη:</strong> Ναί· καὶ φίλος ἐστιν.<br><strong>Ἀγάθων:</strong> Δέκα μαθηταί ἐσμεν.<br><strong>Μελίτη:</strong> Καλόν, ὦ φίλε. Ἔρρωσο!</p></div><p><strong>Versiō Latīna:</strong></p><p><em>Agathōn:</em> Salvē, amīca.<br><em>Melitē:</em> Et tū salvē, amīce. Quis es?<br><em>Agathōn:</em> Mihi nōmen est Agathōn; discipulus sum. Tū vērō quis es?<br><em>Melitē:</em> Mihi nōmen est Melitē; discipula et ego sum.<br><em>Agathōn:</em> Bene. Magister sapiēns est.<br><em>Melitē:</em> Ita; et amīcus est.<br><em>Agathōn:</em> Decem discipulī sumus.<br><em>Melitē:</em> Bene, amīce. Valē!</p><p><strong>Vocābula nova (glōssāta):</strong> <span class=\"greek\">ὄνομα</span> (nōmen, neut.) · <span class=\"greek\">μαθήτρια</span> (discipula, fem. dē μαθητής) · <span class=\"greek\">σοφός</span> (sapiēns) · <span class=\"greek\">ναί</span> (ita, sīc)· <span class=\"greek\">καλόν</span> (bene! — litt. “pulchrum”, hīc ut exclāmātiō).</p>"
+      },
+      {
+        "heading": "Nota Accentūs: Ὄνομά ἐστιν",
+        "body": "<p>Vīdistī bis in textū <span class=\"greek\">ὄνομά</span> cum accentū additō (´) super syllabam ultimam, ubi fōrma citātiōnis normālis est <span class=\"greek\">ὄνομα</span> (accentus tantum in antepaenultimā). Hoc est exemplum rēgulae enclīticae plēniōris quam lēctiō <em>Syllabae et Enclītica</em> sōlum tetigit: verbum cuius accentus cadit in antepaenultimā (ut ὄνομα) accipit accentum ADDITUM in ultimā syllabā, sī statim sequitur enclītica (hīc, ἐστίν). Nōn est error typographicus — est signum quod duo verba (ὄνομα + ἐστίν) sonant ferē ut ūnum verbum phōneticum, exāctē sīcut prōclīticae ex lēctiōne priōre. Rēgulam plēnam (cum omnibus cāsibus: verbum oxytonum, paroxytonum, proparoxytonum ante enclīticam) vidēbis fōrmāliter in Gradū II; nunc sufficit hoc exemplum reāle recognōscere et nōn cōnfundī ab eō.</p>"
+      }
+    ],
+    "examples": [
+      "Ἐμοὶ ὄνομά ἐστιν... — Mihi nōmen est... (fōrmula idiōmatica classica, litt. “mihi nōmen est”)",
+      "μαθητής / μαθήτρια — discipulus / discipula. (idem verbum, genera dīversa)",
+      "Ὁ διδάσκαλος σοφός ἐστιν. — Magister sapiēns est. (articulus + nōmen + praedicātum, sīcut Latīnē)",
+      "Δέκα μαθηταί ἐσμεν. — Decem discipulī sumus. (numerus + verbum, 1ª persōna plūrālis)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Legere fōrmam ὄνομά cum accentū additō tamquam esset verbum aliud vel error scrīptūrae.",
+        "right": "Recognōscere accentum additum ut signum enclīticī sequentis (ἐστίν) — ipsum verbum ὄνομα manet idem.",
+        "why": "Confūsiō hīc impedit intellēctum, cum discipulus incipiēns nōn adhūc nōvit rēgulam accentūs enclītici plēnam."
+      },
+      {
+        "wrong": "Verba sīgillātim trānsferre, ūnum post aliud, sine cōnstruere sēnsum tōtīus sententiae.",
+        "right": "Legere tōtam sententiam prīmum, deinde āctīvē reconstruere sēnsum, sīcut in Latīnō vel in linguā māternā fit.",
+        "why": "Trānslātiō verbum-prō-verbō saepe prōdūcit Latīnum īnfrāctum et impedit vēram comprehēnsiōnem."
+      },
+      {
+        "wrong": "Neglegere pausam signātam ā puncto altō (·) intrā versum Ἀγάθωnis et Μελίτης, legendō tōtam līneam sine ūllā pausā.",
+        "right": "Tractāre · (pūnctum altum) ut pausam brevem, comparābilem sēmicolonō vel colonō Latīnō — ex lēctiōne Salūtātiōnēs et Εἰμί.",
+        "why": "Pausae corrēctae faciunt lēctiōnem vōce clārā multō intellegibiliōrem, et rēflectunt structūram grammaticam sententiae."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "i-lec-tf",
+      "type": "true-false",
+      "title": "Intellēctūs Textūs",
+      "instructions": "Secundum dialogum, dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "lec1",
+          "statement": "Ἀγάθων et Μελίτη sunt ambō discipulī.",
+          "answer": true,
+          "explanation": "Corrēctum: Ἀγάθων dīcit “μαθητής εἰμι”, Μελίτη dīcit “μαθήτρια... εἰμι”."
+        },
+        {
+          "id": "lec2",
+          "statement": "Μελίτη dīcit sē esse magistram (διδάσκαλον).",
+          "answer": false,
+          "explanation": "Falsum: Μελίτη dīcit sē esse μαθήτρια (discipulam), nōn magistram."
+        },
+        {
+          "id": "lec3",
+          "statement": "Secundum dialogum, decem discipulī sunt.",
+          "answer": true,
+          "explanation": "Corrēctum: Ἀγάθων dīcit “Δέκα μαθηταί ἐσμεν.”"
+        },
+        {
+          "id": "lec4",
+          "statement": "Magister (διδάσκαλος) dēscrībitur ut sapiēns et amīcus.",
+          "answer": true,
+          "explanation": "Corrēctum: “Ὁ διδάσκαλος σοφός ἐστιν” et “καὶ φίλος ἐστιν”."
+        }
+      ]
+    },
+    {
+      "id": "i-lec-mc",
+      "type": "multiple-choice",
+      "title": "Comprehēnsiō et Grammatica",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "lec5",
+          "prompt": "Quid significat “Ἐμοὶ ὄνομά ἐστιν Ἀγάθων”?",
+          "options": [
+            "“Ego sum Agathōn”, litt.",
+            "“Mihi nōmen est Agathōn”",
+            "“Agathōn mē vocat”"
+          ],
+          "answerIndex": 1,
+          "explanation": "Est fōrmula idiōmatica classica: datīvus prōnōminis + ὄνομα + ἐστίν + nōmen."
+        },
+        {
+          "id": "lec6",
+          "prompt": "Cūr ὄνομα accipit accentum additum in “ὄνομά ἐστιν”?",
+          "options": [
+            "error typographicus in textū",
+            "quia sequitur enclītica ἐστίν, et ὄνομα est proparoxytonum",
+            "quia ὄνομα est semper sīc accentuātum"
+          ],
+          "answerIndex": 1,
+          "explanation": "Verba proparoxytona (accentus in antepaenultimā) accipiunt accentum additum ante enclīticam."
+        },
+        {
+          "id": "lec7",
+          "prompt": "Quid indicat signum · (pūnctum altum) in textū?",
+          "options": [
+            "fīnem sententiae, sīcut pūnctum plēnum",
+            "signum interrogātiōnis",
+            "pausam mediam, sīcut sēmicolon Latīnum"
+          ],
+          "answerIndex": 2,
+          "explanation": "· (ānō teleíā) fungitur sīcut sēmicolon vel colon Latīnum, nōn ut pūnctum plēnum vel interrogātiōnem."
+        },
+        {
+          "id": "lec8",
+          "prompt": "Quae est fōrma fēminīna vōcābulī μαθητής?",
+          "options": [
+            "μαθήτρια",
+            "μαθητῶν",
+            "μαθηταί"
+          ],
+          "answerIndex": 0,
+          "explanation": "Μαθήτρια est fōrma fēminīna singulāris; μαθηταί est plūrālis masculīnus, μαθητῶν genetīvus plūrālis."
+        }
+      ]
+    },
+    {
+      "id": "i-lec-match",
+      "type": "matching",
+      "title": "Iunge Graecum cum Latīnō",
+      "instructions": "Iunge quamque phrasim ex textū cum versiōne Latīnā suā.",
+      "items": [
+        {
+          "id": "lec9",
+          "pairs": [
+            {
+              "left": "Χαῖρε, ὦ φίλη.",
+              "right": "Salvē, amīca."
+            },
+            {
+              "left": "Τίς εἶ;",
+              "right": "Quis es?"
+            },
+            {
+              "left": "Ὁ διδάσκαλος σοφός ἐστιν.",
+              "right": "Magister sapiēns est."
+            },
+            {
+              "left": "Δέκα μαθηταί ἐσμεν.",
+              "right": "Decem discipulī sumus."
+            },
+            {
+              "left": "Ἔρρωσο!",
+              "right": "Valē!"
+            }
+          ],
+          "explanation": "Omnēs hae phrasēs adhibent sōlum fōrmās et vocābula iam discita in Gradū I — hoc probat tē iam posse legere Graecum simplex continuum."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Nūlla fōrma nova grammatica in hāc lēctiōne: fīnis Gradūs I est synthesis, nōn novum contentum.",
+    "Fōrmula “ἐμοὶ ὄνομά ἐστιν...” (“mihi nōmen est...”) est modus classicus dīcendī nōmen suum.",
+    "Verba proparoxytona (ut ὄνομα) accipiunt accentum additum ante enclīticam sequentem — exemplum reāle, explicandum plēnē in Gradū II.",
+    "Discipulus quī hanc lēctiōnem complet potest iam legere textum Graecum brevem continuum, nōn sōlum verba sīgillāta — id est vēra prīma victōria."
+  ],
+  "related": [
+    {
+      "lessonId": "i-pronomina-personalia",
+      "label": "Prōnōmina Persōnālia"
+    },
+    {
+      "lessonId": "i-articulus-et-numeri",
+      "label": "Articulus et Numerī"
+    }
+  ]
+}

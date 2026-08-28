@@ -41,8 +41,17 @@ def ty_anchors(level_slug: str) -> dict:
     if not path.exists():
         return {}
     text = path.read_text(encoding="utf-8")
+    # Heading capture is `.*?` (not `[^<]+`): a lesson title containing a
+    # Greek term (e.g. "Salūtātiōnēs et Εἰμί") gets that term auto-wrapped
+    # in `<span class="greek">` by build_lesson.py's escg(), so the `<h2
+    # id="...">` this matches against often contains a nested tag -- a
+    # heading-text class disallowing "<" would silently fail the whole
+    # section match (and thus the Prior/Proximum "Te Ipsum Proba" deep
+    # link for that lesson) whenever that happens. The captured heading
+    # text itself is never used by build_level() below (only dict-key
+    # presence is checked), so leaving any inner tags un-stripped is fine.
     pattern = re.compile(
-        r'<section id="([^"]+)"[^>]*ty-topic[^>]*aria-labelledby="([^"]+)"[^>]*>.*?<h2 id="\2">([^<]+)</h2>',
+        r'<section id="([^"]+)"[^>]*ty-topic[^>]*aria-labelledby="([^"]+)"[^>]*>.*?<h2 id="\2">(.*?)</h2>',
         re.S,
     )
     return {sid: heading for sid, _hid, heading in pattern.findall(text)}

@@ -57,6 +57,19 @@ def escg(s: str) -> str:
     return GREEK_RUN.sub(r'<span class="greek">\1</span>', esc(s))
 
 
+# Same raw-HTML-vs-plain-text convention as content.explanation (see
+# explanation_section() below): if the author included a literal "<",
+# the field is pre-formed HTML they're responsible for escaping/
+# wrapping Greek in themselves (as content.explanation/rules[].body
+# already do) and is passed through unescaped; otherwise it's plain
+# text, HTML-escaped with any bare Greek-script run auto-wrapped via
+# escg(). Used for content.intro, which -- unlike explanation -- is
+# always already inside a <p> in its template, so (unlike explanation's
+# own plain-text branch) this never adds its own <p> wrapper.
+def rich(s: str) -> str:
+    return s if "<" in s else escg(s)
+
+
 def page_header(lesson):
     return f"""<div class="page-header">
         {site_chrome.MEANDER_ROW}
@@ -86,7 +99,7 @@ def objectives_section(lesson):
         <div class="section__inner split">
             <div>
                 <p class="eyebrow">Prooemium</p>
-                <p style="font-size:var(--step-0);color:var(--color-text-muted);max-width:56ch;">{escg(lesson['content']['intro'])}</p>
+                <p style="font-size:var(--step-0);color:var(--color-text-muted);max-width:56ch;">{rich(lesson['content']['intro'])}</p>
             </div>
             <div class="card card--feature">
                 <h2 id="obj-heading" style="font-size:var(--step-0);">Post hanc lectionem poteris&hellip;</h2>

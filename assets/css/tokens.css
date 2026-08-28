@@ -20,39 +20,46 @@
 
 :root {
   /* ---- Brand palette --------------------------------------------------
-     Aegean lapis blue (authority / the sea Homer calls οἶνοψ πόντος),
-     Attic red (the fired clay of red-figure pottery, structural accent),
-     olive (Athena's tree / the Olympic wreath, secondary accent), marble
-     & ivory (stone, paper), walnut (structure & body text), gold
-     (ornament, focus, honors — temple gilding, not coin-hoard bling).
-     Kept restrained: gold and Attic red are accents, not fields. */
-  --aegean-900: #0a1f3d;
-  --aegean-800: #0f2c52;
-  --aegean-700: #163c6c;
-  --aegean-600: #1f4f89;
+     Retuned brighter and more saturated than the first pass (which read
+     too close to the Latin course's muted navy/parchment) toward the
+     colors actually associated with Greece and the Aegean: a vivid
+     sea/sky blue (the Greek flag, the Aegean itself — Homer's οἶνοψ
+     πόντος), sun-baked terracotta (red-figure pottery, roof tiles),
+     olive-grove green (Athena's tree, the Olympic wreath), and bright
+     whitewash (Cycladic village walls) in place of the first pass's
+     warmer, beige-leaning "parchment". Gold (temple gilding) stays an
+     accent, not a field, same as before.
+     ======================================================================= */
+  --aegean-900: #0b3a63;
+  --aegean-800: #0e4c80;
+  --aegean-700: #15619b;
+  --aegean-600: #1f7ab8;
 
-  --oxide-700: #7a2a12;
-  --oxide-600: #9c3818;
-  --oxide-500: #b8451f;
+  --oxide-700: #9c3c17;
+  --oxide-600: #c14a1f;
+  --oxide-500: #d95f2e;
 
-  --olive-700: #2c3a1a;
-  --olive-600: #3d4f24;
+  --olive-700: #4c5e28;
+  --olive-600: #63792f;
 
   /* Attic red — the fired-clay slip of red-figure/black-figure pottery,
      used for structural accents (rules, card flags, the meander-row
      ornament) distinct from the oxide brand accent used on
      buttons/links/eyebrows. */
-  --attic-red: #a13c1f;
-  --attic-red-dim: #7d2e17;
-  --tyrian-purple: #3a1f52; /* reserved: the murex-dye purple of a basileus's cloak */
+  --attic-red: #b8451f;
+  --attic-red-dim: #8f3517;
+  --tyrian-purple: #4a2764; /* reserved: the murex-dye purple of a basileus's cloak */
 
   --walnut-800: #362c20;
   --walnut-600: #564534;
 
-  --marble-100: #f7f5ee;
-  --marble-200: #efeadb;
-  --marble-300: #e2dabf;
-  --ivory-50: #fffcf5;
+  /* Whitewash, not parchment: a bright, faintly cool-toned white
+     evoking sun and limewashed stone rather than aged manuscript vellum
+     (contrast the Latin course's warmer, beige-leaning --parchment-*). */
+  --marble-100: #f8faf7;
+  --marble-200: #eef4f0;
+  --marble-300: #dbe8e2;
+  --ivory-50: #ffffff;
 
   --ink-900: #1b1a14;
   --ink-700: #3a352a;
@@ -98,9 +105,9 @@
   --color-danger: #b3323f;
   --color-danger-bg: #fbe9ea;
 
-  --gold-600: #a9812d;
-  --gold-500: #c49a3f;
-  --gold-300: #e4c887;
+  --gold-600: #b8912f;
+  --gold-500: #d1a83f;
+  --gold-300: #ecd28e;
 
   /* ---- Typography -----------------------------------------------------
      Cormorant Garamond is a display serif drawn from Renaissance
@@ -160,9 +167,9 @@
   --border-hairline: 1px solid var(--color-border);
   --border-gold: 1px solid var(--color-border-strong);
 
-  --shadow-sm: 0 1px 2px rgba(20, 40, 70, 0.10);
-  --shadow-md: 0 6px 20px -8px rgba(20, 40, 70, 0.28);
-  --shadow-lg: 0 18px 45px -18px rgba(20, 40, 70, 0.38);
+  --shadow-sm: 0 1px 2px rgba(11, 58, 99, 0.10);
+  --shadow-md: 0 6px 20px -8px rgba(11, 58, 99, 0.28);
+  --shadow-lg: 0 18px 45px -18px rgba(11, 58, 99, 0.38);
   --shadow-inset-rule: inset 0 1px 0 rgba(255, 255, 255, 0.4);
 
   /* ---- Motion --------------------------------------------------------

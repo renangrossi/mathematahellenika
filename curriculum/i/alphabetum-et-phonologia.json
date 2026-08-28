@@ -20,38 +20,38 @@
     "rules": [
       {
         "heading": "a) Vōcālēs (VII)",
-        "body": "<table class=\"ref-table\"><thead><tr><th>Littera</th><th>Nōmen</th><th>Longitūdō</th><th>Valor phōneticus (Atticus)</th></tr></thead><tbody><tr><td class=\"greek\">Α α</td><td>alpha</td><td>brevis vel longa</td><td>ut Ītalicum \"a\" (breve vel longum)</td></tr><tr><td class=\"greek\">Ε ε</td><td>epsīlon</td><td>semper brevis</td><td>ut Ītalicum \"e\" in \"bene\" (breve, apertum)</td></tr><tr><td class=\"greek\">Η η</td><td>ēta</td><td>semper longa</td><td>\"e\" longum apertum (nōn ut Anglicum \"ee\")</td></tr><tr><td class=\"greek\">Ι ι</td><td>iōta</td><td>brevis vel longa</td><td>ut Ītalicum \"i\" (breve vel longum)</td></tr><tr><td class=\"greek\">Ο ο</td><td>omicron</td><td>semper brevis</td><td>ut Ītalicum \"o\" in \"nove\" (breve, apertum)</td></tr><tr><td class=\"greek\">Υ υ</td><td>ypsīlon</td><td>brevis vel longa</td><td>ut Gallicum \"u\" in \"lune\", NŌN ut Anglicum \"u\"</td></tr><tr><td class=\"greek\">Ω ω</td><td>ōmega</td><td>semper longa</td><td>\"o\" longum apertum (labiīs magis rotundātīs quam ō Latīnum)</td></tr></tbody></table><p>Η et Ω sunt SEMPER longae; Ε et Ο sunt SEMPER brevēs — hae quattuor litterae ipsā fōrmā longitūdinem indicant. Α, Ι, Υ possunt esse utrumque; longitūdō eārum ex contextū vel dictiōnāriō discenda est (macrōne saepe in libris scholāribus notāta: ᾱ, ῑ, ῡ).</p>"
+        "body": "<table class=\"ref-table\"><thead><tr><th>Littera</th><th>Nōmen</th><th>Longitūdō</th><th>Valor phōneticus (Atticus)</th></tr></thead><tbody><tr><td class=\"greek\">Α α</td><td>alpha</td><td>brevis vel longa</td><td>ut Ītalicum “a” (breve vel longum)</td></tr><tr><td class=\"greek\">Ε ε</td><td>epsīlon</td><td>semper brevis</td><td>ut Ītalicum “e” in “bene” (breve, apertum)</td></tr><tr><td class=\"greek\">Η η</td><td>ēta</td><td>semper longa</td><td>“e” longum apertum (nōn ut Anglicum “ee”)</td></tr><tr><td class=\"greek\">Ι ι</td><td>iōta</td><td>brevis vel longa</td><td>ut Ītalicum “i” (breve vel longum)</td></tr><tr><td class=\"greek\">Ο ο</td><td>omicron</td><td>semper brevis</td><td>ut Ītalicum “o” in “nove” (breve, apertum)</td></tr><tr><td class=\"greek\">Υ υ</td><td>ypsīlon</td><td>brevis vel longa</td><td>ut Gallicum “u” in “lune”, NŌN ut Anglicum “u”</td></tr><tr><td class=\"greek\">Ω ω</td><td>ōmega</td><td>semper longa</td><td>“o” longum apertum (labiīs magis rotundātīs quam ō Latīnum)</td></tr></tbody></table><p>Η et Ω sunt SEMPER longae; Ε et Ο sunt SEMPER brevēs — hae quattuor litterae ipsā fōrmā longitūdinem indicant. Α, Ι, Υ possunt esse utrumque; longitūdō eārum ex contextū vel dictiōnāriō discenda est (macrōne saepe in libris scholāribus notāta: ᾱ, ῑ, ῡ).</p>"
       },
       {
         "heading": "b) Occlūsīvae: Simplicēs, Sonōrae, Aspīrātae",
-        "body": "<table class=\"ref-table\"><thead><tr><th>Locus</th><th>Surda</th><th>Sonōra</th><th>Aspīrāta</th></tr></thead><tbody><tr><td>Labiālis</td><td class=\"greek\">π (p)</td><td class=\"greek\">β (b)</td><td class=\"greek\">φ (pʰ)</td></tr><tr><td>Dentālis</td><td class=\"greek\">τ (t)</td><td class=\"greek\">δ (d)</td><td class=\"greek\">θ (tʰ)</td></tr><tr><td>Velāris</td><td class=\"greek\">κ (k)</td><td class=\"greek\">γ (g)</td><td class=\"greek\">χ (kʰ)</td></tr></tbody></table><p><strong>Maximē notandum:</strong> in pronūntiātiōne Atticā reconstrūctā, θ φ χ sunt occlūsīvae vēre aspīrātae — hoc est, τ π κ additō spīritū statim sequente (ut in Anglicō \"top\", \"pit\", \"kit\" cum pressius efferuntur), NŌN fricātīvae ut Anglicum \"th\" in \"think\", \"ph\" in \"photo\", vel Germānicum \"ch\". Mūtātiō ad fricātīvās (quae Graecum Neogaecum hodiē habet) facta est multīs post saeculīs, in aetāte Kοine tardiōre/Byzantīnā — nōn erat sonus saeculī V a.C.</p>"
+        "body": "<table class=\"ref-table\"><thead><tr><th>Locus</th><th>Surda</th><th>Sonōra</th><th>Aspīrāta</th></tr></thead><tbody><tr><td>Labiālis</td><td class=\"greek\">π (p)</td><td class=\"greek\">β (b)</td><td class=\"greek\">φ (pʰ)</td></tr><tr><td>Dentālis</td><td class=\"greek\">τ (t)</td><td class=\"greek\">δ (d)</td><td class=\"greek\">θ (tʰ)</td></tr><tr><td>Velāris</td><td class=\"greek\">κ (k)</td><td class=\"greek\">γ (g)</td><td class=\"greek\">χ (kʰ)</td></tr></tbody></table><p><strong>Maximē notandum:</strong> in pronūntiātiōne Atticā reconstrūctā, θ φ χ sunt occlūsīvae vēre aspīrātae — hoc est, τ π κ additō spīritū statim sequente (ut in Anglicō “top”, “pit”, “kit” cum pressius efferuntur), NŌN fricātīvae ut Anglicum “th” in “think”, “ph” in “photo”, vel Germānicum “ch”. Mūtātiō ad fricātīvās (quae Graecum Neogaecum hodiē habet) facta est multīs post saeculīs, in aetāte Kοine tardiōre/Byzantīnā — nōn erat sonus saeculī V a.C.</p>"
       },
       {
         "heading": "c) Cēterae Consonantēs et Coniūnctiōnēs",
-        "body": "<p><span class=\"greek\">Β β</span> = b · <span class=\"greek\">Γ γ</span> = g (semper dūrum, ut in \"gallus\", numquam ut in Anglicō \"gem\") · <span class=\"greek\">Δ δ</span> = d · <span class=\"greek\">Ζ ζ</span> = /zd/ (\"z\" + \"d\" simul, ut Anglicē in \"wisdom\") · <span class=\"greek\">Κ κ</span> = k · <span class=\"greek\">Λ λ</span> = l · <span class=\"greek\">Μ μ</span> = m · <span class=\"greek\">Ν ν</span> = n · <span class=\"greek\">Ξ ξ</span> = ks · <span class=\"greek\">Π π</span> = p · <span class=\"greek\">Ρ ρ</span> = r (vibrāns; initiō verbī saepe cum spīritū aspero: ῥ) · <span class=\"greek\">Σ σ/ς</span> = s (semper surdum, numquam /z/) · <span class=\"greek\">Τ τ</span> = t · <span class=\"greek\">Ψ ψ</span> = ps.</p><p>Ante γ, κ, χ, vel ξ, littera <span class=\"greek\">γ</span> nōn sonat ut \"g\" sed assimilātur ad sonum nāsālem vēlārem, ut Anglicum \"ng\" in \"sing\": <span class=\"greek\">ἄγγελος</span> (\"angelus\") sonat ferē \"ANG-ge-los\", nōn \"AG-ge-los\".</p>"
+        "body": "<p><span class=\"greek\">Β β</span> = b · <span class=\"greek\">Γ γ</span> = g (semper dūrum, ut in “gallus”, numquam ut in Anglicō “gem”) · <span class=\"greek\">Δ δ</span> = d · <span class=\"greek\">Ζ ζ</span> = /zd/ (“z” + “d” simul, ut Anglicē in “wisdom”) · <span class=\"greek\">Κ κ</span> = k · <span class=\"greek\">Λ λ</span> = l · <span class=\"greek\">Μ μ</span> = m · <span class=\"greek\">Ν ν</span> = n · <span class=\"greek\">Ξ ξ</span> = ks · <span class=\"greek\">Π π</span> = p · <span class=\"greek\">Ρ ρ</span> = r (vibrāns; initiō verbī saepe cum spīritū aspero: ῥ) · <span class=\"greek\">Σ σ/ς</span> = s (semper surdum, numquam /z/) · <span class=\"greek\">Τ τ</span> = t · <span class=\"greek\">Ψ ψ</span> = ps.</p><p>Ante γ, κ, χ, vel ξ, littera <span class=\"greek\">γ</span> nōn sonat ut “g” sed assimilātur ad sonum nāsālem vēlārem, ut Anglicum “ng” in “sing”: <span class=\"greek\">ἄγγελος</span> (“angelus”) sonat ferē “ANG-ge-los”, nōn “AG-ge-los”.</p>"
       }
     ],
     "examples": [
-      "θεός — deus. (occlūsīva aspīrāta initiō: t + h simul, nōn \"th\" Anglicum)",
-      "φιλία — amīcitia. (φ = p aspīrātum, nōn \"f\")",
-      "χρόνος — tempus. (χ = c aspīrātum, nōn \"ch\" Germānicum)",
-      "ψυχή — anima. (ψ = ps; ῡ Graecum ut Gallicum \"u\")",
+      "θεός — deus. (occlūsīva aspīrāta initiō: t + h simul, nōn “th” Anglicum)",
+      "φιλία — amīcitia. (φ = p aspīrātum, nōn “f”)",
+      "χρόνος — tempus. (χ = c aspīrātum, nōn “ch” Germānicum)",
+      "ψυχή — anima. (ψ = ps; ῡ Graecum ut Gallicum “u”)",
       "ξένος — hospes, peregrīnus. (ξ = ks)",
       "λόγος — verbum, ratiō. (nōtā ς fīnālem)"
     ],
     "commonMistakes": [
       {
-        "wrong": "Pronūntiāre θ, φ, χ ut fricātīvās (sīcut Anglicē \"think\", \"photo\", vel sīcut Graecum Neogaecum hodiernum).",
+        "wrong": "Pronūntiāre θ, φ, χ ut fricātīvās (sīcut Anglicē “think”, “photo”, vel sīcut Graecum Neogaecum hodiernum).",
         "right": "Efferre eās ut occlūsīvās vērē aspīrātās: t+h, p+h, c+h simul, spīritū statim post occlūsiōnem secūtō.",
         "why": "Graecia Classica (saeculō V/IV a.C.) nōn fricātīvās habuit prō hīs litterīs; ea mūtātiō facta est multīs post saeculīs."
       },
       {
-        "wrong": "Cōnfundere υ cum Anglicō \"u\" in \"put\" vel cum diphthongō Anglicō \"oo\".",
-        "right": "Efferre υ ut Gallicum \"u\" in \"lune\" vel Germānicum \"ü\" — vōcālem anteriōrem labializātam.",
-        "why": "Ypsīlon Atticum sonum omnīnō dīversum ā \"u\" posteriōre Anglicō habet; error hic vōcēs facile mūtat."
+        "wrong": "Cōnfundere υ cum Anglicō “u” in “put” vel cum diphthongō Anglicō “oo”.",
+        "right": "Efferre υ ut Gallicum “u” in “lune” vel Germānicum “ü” — vōcālem anteriōrem labializātam.",
+        "why": "Ypsīlon Atticum sonum omnīnō dīversum ā “u” posteriōre Anglicō habet; error hic vōcēs facile mūtat."
       },
       {
-        "wrong": "Efferre σ ut /z/ inter vōcālēs, ut interdum Neograecē vel Anglicē in \"rose\" audītur.",
+        "wrong": "Efferre σ ut /z/ inter vōcālēs, ut interdum Neograecē vel Anglicē in “rose” audītur.",
         "right": "Σ (σ vel ς) semper sonat /s/ surdum in Graecō Classicō, praeter assimilātiōnem lēvem ante β, γ, δ, μ.",
         "why": "Sonus /z/ tamquam valor prōprius litterae σ numquam authenticus fuit in Atticō Classicō."
       }
@@ -62,11 +62,11 @@
       "id": "i-alph-mc", "type": "multiple-choice", "title": "Nōmina et Valōrēs",
       "instructions": "Ēlige respōnsum rēctum.",
       "items": [
-        { "id": "alph1", "prompt": "Quod nōmen habet littera θ?", "options": ["bēta", "thēta", "phī"], "answerIndex": 1, "explanation": "θ vocātur \"thēta\"; sonat ut t aspīrātum, nōn ut Anglicum \"th\"." },
-        { "id": "alph2", "prompt": "Quō sonō pronūntiātur υ in Atticō reconstrūctō?", "options": ["ut Anglicum \"u\" in \"put\"", "ut Gallicum \"u\" in \"lune\"", "ut diphthongus Anglicus \"oo\""], "answerIndex": 1, "explanation": "Υ Atticum est vōcālis anterior labializāta, sīcut Gallicum \"u\" vel Germānicum \"ü\"." },
+        { "id": "alph1", "prompt": "Quod nōmen habet littera θ?", "options": ["bēta", "thēta", "phī"], "answerIndex": 1, "explanation": "θ vocātur “thēta”; sonat ut t aspīrātum, nōn ut Anglicum “th”." },
+        { "id": "alph2", "prompt": "Quō sonō pronūntiātur υ in Atticō reconstrūctō?", "options": ["ut Anglicum “u” in “put”", "ut Gallicum “u” in “lune”", "ut diphthongus Anglicus “oo”"], "answerIndex": 1, "explanation": "Υ Atticum est vōcālis anterior labializāta, sīcut Gallicum “u” vel Germānicum “ü”." },
         { "id": "alph3", "prompt": "Quae litterae Graecae sunt SEMPER longae?", "options": ["ε et ο", "η et ω", "α et ι"], "answerIndex": 1, "explanation": "Η et ω semper vōcālēs longae sunt; ε et ο semper brevēs; α ι υ possunt esse utrumque." },
-        { "id": "alph4", "prompt": "Quōmodo sonat σ inter duās vōcālēs in Atticō Classicō?", "options": ["/z/, ut Anglicē in \"rose\"", "/s/, semper", "/ʃ/, ut Anglicum \"sh\""], "answerIndex": 1, "explanation": "Σ in Graecō Classicō semper est /s/ surdum." },
-        { "id": "alph5", "prompt": "Quid accidit litterae γ ante γ, κ, χ, vel ξ (ut in ἄγγελος)?", "options": ["nihil mūtātur", "sonat ut Anglicum \"ng\" in \"sing\"", "fit muta, nōn efferenda"], "answerIndex": 1, "explanation": "Ante hās litterās, γ assimilātur ad sonum nāsālem vēlārem \"ng\"." }
+        { "id": "alph4", "prompt": "Quōmodo sonat σ inter duās vōcālēs in Atticō Classicō?", "options": ["/z/, ut Anglicē in “rose”", "/s/, semper", "/ʃ/, ut Anglicum “sh”"], "answerIndex": 1, "explanation": "Σ in Graecō Classicō semper est /s/ surdum." },
+        { "id": "alph5", "prompt": "Quid accidit litterae γ ante γ, κ, χ, vel ξ (ut in ἄγγελος)?", "options": ["nihil mūtātur", "sonat ut Anglicum “ng” in “sing”", "fit muta, nōn efferenda"], "answerIndex": 1, "explanation": "Ante hās litterās, γ assimilātur ad sonum nāsālem vēlārem “ng”." }
       ]
     },
     {
@@ -87,7 +87,7 @@
       "instructions": "Dēcerne utrum vērum an falsum sit.",
       "items": [
         { "id": "alph7", "statement": "Littera σ scrībitur ς cum est ultima littera verbī, sed sonus manet idem.", "answer": true, "explanation": "Corrēctum: sōla fōrma scrīptūrae mūtātur in fīne verbī, nōn sonus." },
-        { "id": "alph8", "statement": "In pronūntiātiōne Atticā reconstrūctā, θ sonat ut Anglicum \"th\" in \"think\".", "answer": false, "explanation": "Falsum: θ Atticum est occlūsīva aspīrāta (t+h), nōn fricātīva ut Anglicum \"th\"." },
+        { "id": "alph8", "statement": "In pronūntiātiōne Atticā reconstrūctā, θ sonat ut Anglicum “th” in “think”.", "answer": false, "explanation": "Falsum: θ Atticum est occlūsīva aspīrāta (t+h), nōn fricātīva ut Anglicum “th”." },
         { "id": "alph9", "statement": "Alphabētum Graecum Classicum habet vīgintī quattuor litterās.", "answer": true, "explanation": "Corrēctum: XXIV litterae, post reformātiōnem Atticam annō 403 a.C. officiāliter adoptātam." },
         { "id": "alph10", "statement": "Vōcālēs ε et ο possunt esse aut brevēs aut longae, sīcut α.", "answer": false, "explanation": "Falsum: ε et ο sunt SEMPER brevēs; sōlum α, ι, υ possunt variāre longitūdine." }
       ]

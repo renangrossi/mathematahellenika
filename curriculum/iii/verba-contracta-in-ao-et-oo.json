@@ -1,0 +1,249 @@
+{
+  "id": "iii-verba-contracta-in-ao-et-oo",
+  "level": "III",
+  "unit": "1",
+  "order": 5,
+  "skill": "grammatica",
+  "strand": "verba-contracta",
+  "title": "Verba Contracta in -άω et -όω",
+  "subtitle": "Verba cūius thema fīnītur α vel ο contractum (τιμάω → τιμῶ; δηλόω → δηλῶ); rēgulae contractiōnis proprietātis fīnālis.",
+  "prerequisites": [
+    "iii-verba-contracta-in-eo"
+  ],
+  "objectives": [
+    "Coniugāre plēnē praesēns indicātīvum āctīvum verbōrum τιμάω (τιμῶ, honōrō) et δηλόω (δηλῶ, ostendō/dēclārō)",
+    "Applicāre rēgulās contractiōnis α + vōcālis et ο + vōcālis",
+    "Distinguere rēsultāta contractiōnis trium classium (-έω, -άω, -όω) prō eōdem persōnā verbī",
+    "Recognōscere quod omnēs trēs classēs conveniunt in 1ª persōnā singulārī et 3ª persōnā plūrālī (ambae fīniunt -ῶ/-οῦσι), differentēs in cēterīs"
+  ],
+  "content": {
+    "intro": "Duae cēterae classēs verbōrum contractōrum concludunt hanc trilogiam: verba in <span class=\"greek\">-άω</span> (ut <span class=\"greek\">τιμάω</span> “honōrō”) et in <span class=\"greek\">-όω</span> (ut <span class=\"greek\">δηλόω</span> “ostendō, dēclārō”). Rēgulae contractiōnis differunt ab -έω (lēctiō priōre), sed logica generālis manet eadem: duae vōcālēs adiacentēs fundunt secundum patrōnum fīxum.",
+    "explanation": "<p>Mnēmonicum generāle prō omnibus tribus classibus: <strong>α domināns super ε</strong> (α+ε→α, nōn ε), <strong>ο domināns super ε</strong> similiter, et <strong>quaelibet ω vincit semper</strong> (α vel ο + ω → ω). Ubi ambae vōcālēs sunt “similēs” (α+α, ο+ο vel ο+ου), resultat vōcālis/diphthongus longa correspondēns.</p>",
+    "rules": [
+      {
+        "heading": "a) Verba in -άω: τιμάω → τιμῶ (honōrō)",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Persōna</th><th>Fōrma Nōn-Contracta</th><th>Fōrma Contracta</th></tr></thead><tbody><tr><td>1ª sg.</td><td class=\"greek\">τιμάω</td><td class=\"greek\">τιμῶ</td></tr><tr><td>2ª sg.</td><td class=\"greek\">τιμάεις</td><td class=\"greek\">τιμᾷς</td></tr><tr><td>3ª sg.</td><td class=\"greek\">τιμάει</td><td class=\"greek\">τιμᾷ</td></tr><tr><td>1ª pl.</td><td class=\"greek\">τιμάομεν</td><td class=\"greek\">τιμῶμεν</td></tr><tr><td>2ª pl.</td><td class=\"greek\">τιμάετε</td><td class=\"greek\">τιμᾶτε</td></tr><tr><td>3ª pl.</td><td class=\"greek\">τιμάουσι(ν)</td><td class=\"greek\">τιμῶσι(ν)</td></tr></tbody></table><p>Rēgulae: α+ε→α (vīsibile in 2ª/3ª sg., ubi ε dēsinentiae cēdit), α+ει→ᾳ (cum iōtā subscrīptō!), α+ο/ου/ω→ω. Īnfīnītīvus: <span class=\"greek\">τιμάειν</span> → <span class=\"greek\">τιμᾶν</span>.</p>"
+      },
+      {
+        "heading": "b) Verba in -όω: δηλόω → δηλῶ (ostendō, dēclārō)",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Persōna</th><th>Fōrma Nōn-Contracta</th><th>Fōrma Contracta</th></tr></thead><tbody><tr><td>1ª sg.</td><td class=\"greek\">δηλόω</td><td class=\"greek\">δηλῶ</td></tr><tr><td>2ª sg.</td><td class=\"greek\">δηλόεις</td><td class=\"greek\">δηλοῖς</td></tr><tr><td>3ª sg.</td><td class=\"greek\">δηλόει</td><td class=\"greek\">δηλοῖ</td></tr><tr><td>1ª pl.</td><td class=\"greek\">δηλόομεν</td><td class=\"greek\">δηλοῦμεν</td></tr><tr><td>2ª pl.</td><td class=\"greek\">δηλόετε</td><td class=\"greek\">δηλοῦτε</td></tr><tr><td>3ª pl.</td><td class=\"greek\">δηλόουσι(ν)</td><td class=\"greek\">δηλοῦσι(ν)</td></tr></tbody></table><p>Rēgula ō-classis est simplicior: ο + quaelibet vōcālis brevis (ε, ο) → ου; ο + quaelibet vōcālis longa/diphthongus cum ι (ει, ῃ, ω) → οι vel ω. Īnfīnītīvus: <span class=\"greek\">δηλόειν</span> → <span class=\"greek\">δηλοῦν</span>.</p>"
+      },
+      {
+        "heading": "c) Conspectus: Trēs Classēs Comparātae",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Persōna</th><th>-έω (φιλῶ)</th><th>-άω (τιμῶ)</th><th>-όω (δηλῶ)</th></tr></thead><tbody><tr><td>1ª sg.</td><td class=\"greek\">φιλῶ</td><td class=\"greek\">τιμῶ</td><td class=\"greek\">δηλῶ</td></tr><tr><td>2ª sg.</td><td class=\"greek\">φιλεῖς</td><td class=\"greek\">τιμᾷς</td><td class=\"greek\">δηλοῖς</td></tr><tr><td>3ª pl.</td><td class=\"greek\">φιλοῦσι(ν)</td><td class=\"greek\">τιμῶσι(ν)</td><td class=\"greek\">δηλοῦσι(ν)</td></tr></tbody></table><p>Nōtā: omnēs trēs classēs conveniunt in 1ª persōnā singulārī (-ῶ). Discrīmen praecipuum vīsibilis inter classēs appāret in 2ª persōnā singulārī (-εῖς vs. -ᾷς vs. -οῖς) — ūtile signum quō classis verbī contractī identificātur rapide in lēctiōne.</p>"
+      }
+    ],
+    "examples": [
+      "τιμῶμεν τοὺς θεούς. — Honōrāmus deōs. (1ª pl., -άω)",
+      "ὁ ῥήτωρ τὴν ἀλήθειαν δηλοῖ. — Ōrātor vēritātem ostendit. (3ª sg., -όω)",
+      "τιμᾷς τὸν πατέρα; — Honōrāsne patrem? (2ª sg., -άω)",
+      "οἱ θεοὶ τιμῶνται ὑπὸ τῶν πολιτῶν. — Deī honōrantur ā cīvibus. (medium-passīvum, -άω)",
+      "δηλοῦμεν τὴν γνώμην ἡμῶν. — Dēclārāmus sententiam nostram. (1ª pl., -όω)",
+      "βούλομαι τιμᾶν τοὺς γονεῖς. — Volō honōrāre parentēs. (īnfīnītīvus contractus)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Applicāre rēgulās -έω (φιλῶ) ad verba -άω vel -όω indiscrīminātim, prōdūcendō fōrmās errōneās.",
+        "right": "Identificāre PRĪMUM ad quam classem verbum pertineat (per fōrmam citātiōnis dictiōnāriī), deinde applicāre rēgulās proprias illīus classis.",
+        "why": "Tria patrōnī contractiōnis differunt significanter, praesertim in 2ª/3ª persōnā singulārī."
+      },
+      {
+        "wrong": "Omittere iōtam subscrīptam in fōrmīs -άω ut τιμᾷς, τιμᾷ, scrībendo *τιμας, *τιμα.",
+        "right": "Recordārī contractiōnēs α+ι (ut in α+ει→ᾳ) semper retinent iōtam, sed subscrīptam sub α longō.",
+        "why": "Iōta subscrīptum, ex Gradū I, appāret hīc systēmatice quandōcumque contractiō involvit vōcālem longam + ι."
+      },
+      {
+        "wrong": "Crēdere omnēs trēs classēs esse omnīnō dīversae sine ūllā convenientiā.",
+        "right": "Recognōscere 1ª persōna singulāris est identica (-ῶ) in omnibus tribus classibus — sōlum contextus/thema nōn-contractum distinguit classem.",
+        "why": "Cognōscere convenientiās (nōn sōlum discrīmina) adiuvat memoriam et reducit numerum fōrmārum vērē novārum discendārum."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "iii-con4-fill",
+      "type": "fill-blank",
+      "title": "Coniugā τιμάω et δηλόω",
+      "instructions": "Comple spatia cum fōrmā contractā rēctā.",
+      "items": [
+        {
+          "id": "con4a",
+          "prompt": "Ἐγὼ τοὺς θεοὺς ___. (1ª sg., τιμάω)",
+          "options": [
+            "τιμῶ",
+            "τιμᾷς",
+            "τιμῶμεν"
+          ],
+          "answers": [
+            "τιμῶ"
+          ],
+          "explanation": "Prīma persōna singulāris: τιμῶ."
+        },
+        {
+          "id": "con4b",
+          "prompt": "Σὺ τὸν πατέρα ___; (2ª sg., τιμάω)",
+          "options": [
+            "τιμᾷς",
+            "τιμεῖς",
+            "τιμῶ"
+          ],
+          "answers": [
+            "τιμᾷς"
+          ],
+          "explanation": "Secunda persōna singulāris: τιμᾷς (α+εις→ᾳς)."
+        },
+        {
+          "id": "con4c",
+          "prompt": "Ὁ ῥήτωρ τὴν ἀλήθειαν ___. (3ª sg., δηλόω)",
+          "options": [
+            "δηλοῖ",
+            "δηλεῖ",
+            "δηλῶ"
+          ],
+          "answers": [
+            "δηλοῖ"
+          ],
+          "explanation": "Tertia persōna singulāris: δηλοῖ (ο+ει→οι)."
+        },
+        {
+          "id": "con4d",
+          "prompt": "Ἡμεῖς τὴν γνώμην ___. (1ª pl., δηλόω)",
+          "options": [
+            "δηλοῦμεν",
+            "δηλῶμεν",
+            "δηλοῦτε"
+          ],
+          "answers": [
+            "δηλοῦμεν"
+          ],
+          "explanation": "Prīma persōna plūrālis: δηλοῦμεν (ο+ομεν→οῦμεν)."
+        },
+        {
+          "id": "con4e",
+          "prompt": "Οἱ πολῖται τοὺς θεοὺς ___. (3ª pl., τιμάω)",
+          "options": [
+            "τιμῶσιν",
+            "τιμοῦσιν",
+            "τιμᾶσιν"
+          ],
+          "answers": [
+            "τιμῶσιν"
+          ],
+          "explanation": "Tertia persōna plūrālis: τιμῶσιν (α+ουσι→ῶσι)."
+        }
+      ]
+    },
+    {
+      "id": "iii-con4-mc",
+      "type": "multiple-choice",
+      "title": "Verba Contracta: Comparātiō Classium",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "con4f",
+          "prompt": "Quae fōrma est identica in omnibus tribus classibus verbōrum contractōrum (1ª sg.)?",
+          "options": [
+            "-εῖς",
+            "-ῶ",
+            "-οῖ"
+          ],
+          "answerIndex": 1,
+          "explanation": "1ª persōna singulāris: -ῶ, identica in -έω, -άω, -όω."
+        },
+        {
+          "id": "con4g",
+          "prompt": "Quae fōrma distinguit classem -άω in 2ª persōnā singulārī?",
+          "options": [
+            "τιμεῖς",
+            "τιμᾷς",
+            "τιμοῖς"
+          ],
+          "answerIndex": 1,
+          "explanation": "Τιμᾷς (cum iōtā subscrīptō) est fōrma propria classis -άω."
+        },
+        {
+          "id": "con4h",
+          "prompt": "Quae est fōrma īnfīnītīvī contractī verbī δηλόω?",
+          "options": [
+            "δηλοῦν",
+            "δηλεῖν",
+            "δηλᾶν"
+          ],
+          "answerIndex": 0,
+          "explanation": "Δηλόειν contrahitur in δηλοῦν."
+        },
+        {
+          "id": "con4i",
+          "prompt": "Cūr τιμᾷς habet iōtam subscrīptam?",
+          "options": [
+            "error scrīptūrae",
+            "α+ι contrahitur, retinēns ι ut subscrīptum sub vōcālī longā",
+            "omnēs fōrmae secundae persōnae habent iōtam subscrīptam"
+          ],
+          "answerIndex": 1,
+          "explanation": "Contractiō α+ει→ᾳ prōdūcit iōtam subscrīptam systēmatice."
+        },
+        {
+          "id": "con4j",
+          "prompt": "Quae est fōrma īnfīnītīvī contractī verbī τιμάω?",
+          "options": [
+            "τιμᾶν",
+            "τιμεῖν",
+            "τιμοῦν"
+          ],
+          "answerIndex": 0,
+          "explanation": "Τιμάειν contrahitur in τιμᾶν."
+        }
+      ]
+    },
+    {
+      "id": "iii-con4-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "con4k",
+          "statement": "Tria classēs verbōrum contractōrum (-έω, -άω, -όω) sunt identicae in 1ª persōnā singulārī.",
+          "answer": true,
+          "explanation": "Corrēctum: omnēs fīniunt -ῶ."
+        },
+        {
+          "id": "con4l",
+          "statement": "Τιμᾷς et δηλοῖς sunt fōrmae identicae inter sē.",
+          "answer": false,
+          "explanation": "Falsum: differunt, reflectentēs classēs dīversās (-άω vs. -όω)."
+        },
+        {
+          "id": "con4m",
+          "statement": "Rēgula contractiōnis “quaelibet ω vincit” valet in omnibus tribus classibus.",
+          "answer": true,
+          "explanation": "Corrēctum: α/ο + ω → ω semper, sīcut ε + ω → ω."
+        },
+        {
+          "id": "con4n",
+          "statement": "Īnfīnītīvus contractus classis -όω est δηλεῖν.",
+          "answer": false,
+          "explanation": "Falsum: est δηλοῦν, nōn δηλεῖν (quod pertinet ad classem -έω)."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Τιμάω → τιμῶ: τιμῶ, τιμᾷς, τιμᾷ // τιμῶμεν, τιμᾶτε, τιμῶσι(ν). Īnfīnītīvus: τιμᾶν.",
+    "Δηλόω → δηλῶ: δηλῶ, δηλοῖς, δηλοῖ // δηλοῦμεν, δηλοῦτε, δηλοῦσι(ν). Īnfīnītīvus: δηλοῦν.",
+    "Omnēs trēs classēs (-έω, -άω, -όω) conveniunt in 1ª sg. (-ῶ); discrīmen praecipuum appāret in 2ª/3ª sg.",
+    "Contractiōnēs cum ι (α+ει→ᾳ) prōdūcunt systēmaticē iōtam subscrīptam.",
+    "Identificāre classem verbī contractī (per fōrma citātiōnis) ANTE applicāre rēgulās, quia patrōnī differunt significanter."
+  ],
+  "related": [
+    {
+      "lessonId": "iii-verba-contracta-in-eo",
+      "label": "Verba Contracta in -έω"
+    },
+    {
+      "lessonId": "iii-tempus-imperfectum",
+      "label": "Tempus Imperfectum"
+    }
+  ]
+}

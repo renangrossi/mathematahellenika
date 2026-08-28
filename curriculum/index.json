@@ -105,43 +105,43 @@
           "lessons": [
             {
               "id": "iii-declinatio-tertia-consonantica",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "iii-declinatio-tertia-vocalica",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "iii-adiectiva-tertiae-declinationis",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "iii-verba-contracta-in-eo",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "iii-verba-contracta-in-ao-et-oo",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "iii-tempus-imperfectum",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "iii-tempus-futurum-activum-et-medium",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "iii-pronomen-relativum",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "iii-pronomina-demonstrativa",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "iii-comparatio-adiectivorum",
-              "status": "planned"
+              "status": "published"
             }
           ]
         }

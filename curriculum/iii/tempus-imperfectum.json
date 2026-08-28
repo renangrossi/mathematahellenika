@@ -1,0 +1,249 @@
+{
+  "id": "iii-tempus-imperfectum",
+  "level": "III",
+  "unit": "1",
+  "order": 6,
+  "skill": "grammatica",
+  "strand": "tempora",
+  "title": "Tempus Imperfectum",
+  "subtitle": "Praeteritum imperfectum āctīvum et medium-passīvum; rēgula augmentī (syllabicum et temporāle).",
+  "prerequisites": [
+    "iii-verba-contracta-in-ao-et-oo"
+  ],
+  "objectives": [
+    "Coniugāre plēnē tempus imperfectum āctīvum et medium-passīvum verbī λύω",
+    "Applicāre rēgulam augmentī syllabicī (verba incipientia cōnsonante: ε- praefīxum) et temporālis (verba incipientia vōcālī: vōcālis allongāta)",
+    "Distinguere sēnsum imperfectī (āctiō continua/repetīta in praeteritō) ā futūrō sēnsū āctiōnis simplicis, quod mox vidēbis",
+    "Coniugāre imperfectum verbī contractī (φιλέω → ἐφίλουν), applicandō augmentum ante contractiōnem"
+  ],
+  "content": {
+    "intro": "Usque nunc, sōlum tempus praesēns fuit nōtum (āctīvum et medium-passīvum, Gradū II). Hodiē ad prīmum tempus <strong>praeteritum</strong> pervenīmus: imperfectum, quod dēscrībit āctiōnem continuam, repetītam, vel incohantem in praeteritō (“faciēbam”, nōn “fēcī”) — comparā cum imperfectō Latīnō, quod habet fūnctiōnem valdē similem.",
+    "explanation": "<p>Omne tempus praeteritum indicātīvī (imperfectum, aoristus, plūsquamperfectum) requīrit <strong>augmentum</strong>: praefīxum vel mūtātiōnem initiālem quae sīgnificat “hoc factum est in praeteritō”. Duo genera augmentī: <strong>syllabicum</strong> (verba incipientia cōnsonante accipiunt <span class=\"greek\">ἐ-</span> praefīxum) et <strong>temporāle</strong> (verba incipientia vōcālī allongant illam vōcālem ipsam, sine addere syllabam novam).</p>",
+    "rules": [
+      {
+        "heading": "a) Imperfectum Āctīvum: ἔλυον",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Persōna</th><th>Singulāris</th><th>Plūrālis</th></tr></thead><tbody><tr><td>1ª</td><td class=\"greek\">ἔλυον</td><td class=\"greek\">ἐλύομεν</td></tr><tr><td>2ª</td><td class=\"greek\">ἔλυες</td><td class=\"greek\">ἐλύετε</td></tr><tr><td>3ª</td><td class=\"greek\">ἔλυε(ν)</td><td class=\"greek\">ἔλυον</td></tr></tbody></table><p>Nōtā: 1ª sg. et 3ª pl. sunt IDENTICAE (<span class=\"greek\">ἔλυον</span>) — contextus distinguit. Dēsinentiae persōnālēs hīc sunt “secundāriae” (dīversae ā “prīmāriīs” dēsinentiīs praesentis), patrōnus quem posteā vidēbis reapparēre in aoristō.</p>"
+      },
+      {
+        "heading": "b) Imperfectum Medium-Passīvum: ἐλυόμην",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Persōna</th><th>Singulāris</th><th>Plūrālis</th></tr></thead><tbody><tr><td>1ª</td><td class=\"greek\">ἐλυόμην</td><td class=\"greek\">ἐλυόμεθα</td></tr><tr><td>2ª</td><td class=\"greek\">ἐλύου</td><td class=\"greek\">ἐλύεσθε</td></tr><tr><td>3ª</td><td class=\"greek\">ἐλύετο</td><td class=\"greek\">ἐλύοντο</td></tr></tbody></table><p>Nōtā <span class=\"greek\">ἐλύου</span> (2ª sg.): sīcut λύῃ in praesentī (Gradū II), fōrma historica *ἐλύεσο contracta est (σ periit, εο→ου).</p>"
+      },
+      {
+        "heading": "c) Rēgula Augmentī",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Genus</th><th>Rēgula</th><th>Exemplum</th></tr></thead><tbody><tr><td>Syllabicum</td><td>ἐ- praefīxum ante cōnsonantem</td><td class=\"greek\">λύω → ἔλυον</td></tr><tr><td>Temporāle</td><td>vōcālis initiālis allongātur (α/ε→η, ο→ω, ι→ῑ, υ→ῡ)</td><td class=\"greek\">ἀκούω → ἤκουον</td></tr></tbody></table><p>Verbum contractum accipit augmentum ANTE contractiōnem (nōn post): <span class=\"greek\">φιλέω</span> → augmentum <span class=\"greek\">ἐ-</span> + thema <span class=\"greek\">φιλε-</span> → <span class=\"greek\">ἐφίλεον</span> → contractiō → <span class=\"greek\">ἐφίλουν</span>. Sequentia (augmentum-prīmum, contractiō-secundum) est fundāmentālis prō omnī fōrmā verbī contractī in tempore praeteritō.</p>"
+      }
+    ],
+    "examples": [
+      "ἔλυον τὸν δοῦλον καθ' ἡμέραν. — Solvēbam servum cotīdiē. (āctiō repetīta)",
+      "ὁ διδάσκαλος ἐδίδασκε τοὺς μαθητάς. — Magister docēbat discipulōs. (āctiō continua)",
+      "ἐφίλουν τὴν πατρίδα. — Amābam patriam. (imperfectum contractum, augmentum ante contractiōnem)",
+      "ἤκουον τὸν λόγον. — Audiēbam verbum. (augmentum temporāle, ἀ→ἠ)",
+      "ἐλυόμεθα ὑπὸ τῶν πολεμίων. — Solvēbāmur/līberābāmur ab hostibus. (medium-passīvum)",
+      "τί ἐποίεις; — Quid faciēbās? (2ª sg., verbum contractum imperfectum)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Omittere augmentum in tempore imperfectō, scrībendo *λύον prō ἔλυον.",
+        "right": "Semper addere augmentum (syllabicum vel temporāle) in omnī fōrmā indicātīvā temporis praeteritī.",
+        "why": "Augmentum est signum obligātōrium temporis praeteritī modō indicātīvō — sine eō, fōrma nōn est reconhōscibilis ut praeteritum."
+      },
+      {
+        "wrong": "Applicāre contractiōnem ANTE augmentum in verbīs contractīs, prōdūcendō fōrmās errōneās.",
+        "right": "Applicāre augmentum PRĪMUM (ad thema nōn-contractum), deinde contractiōnem: ἐ+φιλε+ον → ἐφίλεον → ἐφίλουν.",
+        "why": "Sequentia inversa prōdūcit fōrmās incorrēctās quia augmentum ipse partem processūs contractiōnis constituit."
+      },
+      {
+        "wrong": "Cōnfundere 1ª persōnam singulārem cum 3ª persōnā plūrālī imperfectī āctīvī, ambābus scrīptīs ἔλυον.",
+        "right": "Discernere per contextum (subiectum explicitum vel implicitum), quia fōrma scrīpta est vērē identica.",
+        "why": "Ambiguitās morphologica hīc est reālis; sōlum syntaxis/contextus dēsōlvit sēnsum."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "iii-imp1-fill",
+      "type": "fill-blank",
+      "title": "Coniugā Imperfectum",
+      "instructions": "Comple spatia cum fōrmā rēctā imperfectī.",
+      "items": [
+        {
+          "id": "imp1a",
+          "prompt": "Ἐγὼ ___ τὸν δοῦλον. (1ª sg. imperf. āctīvī, λύω)",
+          "options": [
+            "ἔλυον",
+            "λύω",
+            "λύσω"
+          ],
+          "answers": [
+            "ἔλυον"
+          ],
+          "explanation": "Imperfectum āctīvum, 1ª sg.: ἔλυον."
+        },
+        {
+          "id": "imp1b",
+          "prompt": "Σὺ τὴν πατρίδα ___. (2ª sg. imperf., φιλέω)",
+          "options": [
+            "ἐφίλεις",
+            "ἐφίλεες",
+            "φιλεῖς"
+          ],
+          "answers": [
+            "ἐφίλεις"
+          ],
+          "explanation": "Augmentum + contractiō: ἐ+φιλε+ες → ἐφίλεες → ἐφίλεις."
+        },
+        {
+          "id": "imp1c",
+          "prompt": "Ὁ διδάσκαλος τοὺς μαθητὰς ___. (3ª sg. imperf., λύω, “solvēbat”)",
+          "options": [
+            "ἔλυε(ν)",
+            "λύει",
+            "ἔλυσε"
+          ],
+          "answers": [
+            "ἔλυε(ν)"
+          ],
+          "explanation": "Imperfectum āctīvum, 3ª sg.: ἔλυε(ν)."
+        },
+        {
+          "id": "imp1d",
+          "prompt": "Ἡμεῖς ___ ὑπὸ τῶν πολεμίων. (1ª pl. imperf. mediī-passīvī, λύω)",
+          "options": [
+            "ἐλυόμεθα",
+            "λυόμεθα",
+            "ἐλύομεν"
+          ],
+          "answers": [
+            "ἐλυόμεθα"
+          ],
+          "explanation": "Imperfectum medium-passīvum, 1ª pl.: ἐλυόμεθα."
+        },
+        {
+          "id": "imp1e",
+          "prompt": "___ τὸν λόγον. (3ª pl. imperf., ἀκούω, “audiēbant”, augmentum temporāle)",
+          "options": [
+            "ἤκουον",
+            "ἀκούον",
+            "ἠκούσαν"
+          ],
+          "answers": [
+            "ἤκουον"
+          ],
+          "explanation": "Augmentum temporāle ἀ→ἠ: ἤκουον."
+        }
+      ]
+    },
+    {
+      "id": "iii-imp1-mc",
+      "type": "multiple-choice",
+      "title": "Tempus Imperfectum: Rēgulae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "imp1f",
+          "prompt": "Quid est augmentum syllabicum?",
+          "options": [
+            "allongātiō vōcālis initiālis",
+            "ἐ- praefīxum ante verbum incipiēns cōnsonante",
+            "dēsinentia persōnālis nova"
+          ],
+          "answerIndex": 1,
+          "explanation": "Augmentum syllabicum est ἐ- praefīxum, applicātum ante cōnsonantēs."
+        },
+        {
+          "id": "imp1g",
+          "prompt": "In quō ōrdine applicantur augmentum et contractiō in verbō contractō?",
+          "options": [
+            "contractiō prīmum, augmentum secundum",
+            "augmentum prīmum, contractiō secundum",
+            "simul, indifferenter"
+          ],
+          "answerIndex": 1,
+          "explanation": "Augmentum applicātur prīmum ad thema nōn-contractum, deinde contractiō."
+        },
+        {
+          "id": "imp1h",
+          "prompt": "Sunt 1ª sg. et 3ª pl. imperfectī āctīvī fōrmā identicae?",
+          "options": [
+            "nōn, semper differunt",
+            "sīc, ambae sunt ἔλυον",
+            "sōlum in verbīs contractīs"
+          ],
+          "answerIndex": 1,
+          "explanation": "Ambae persōnae sunt ἔλυον; contextus sōlus distinguit."
+        },
+        {
+          "id": "imp1i",
+          "prompt": "Quid significat generāliter tempus imperfectum?",
+          "options": [
+            "āctiōnem simplicem, mōmentāneam",
+            "āctiōnem continuam vel repetītam in praeteritō",
+            "āctiōnem futūram"
+          ],
+          "answerIndex": 1,
+          "explanation": "Imperfectum dēscrībit āctiōnem continuam/repetītam/incohantem in praeteritō, comparābile imperfectō Latīnō."
+        },
+        {
+          "id": "imp1j",
+          "prompt": "Quōmodo mūtātur vōcālis initiālis α in augmentō temporālī?",
+          "options": [
+            "fit η",
+            "fit ω",
+            "manet inalterāta"
+          ],
+          "answerIndex": 0,
+          "explanation": "Α (et ε) allongantur in η per augmentum temporāle."
+        }
+      ]
+    },
+    {
+      "id": "iii-imp1-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "imp1k",
+          "statement": "Omne verbum Graecum in tempore imperfectō requīrit augmentum.",
+          "answer": true,
+          "explanation": "Corrēctum: augmentum est obligātōrium in omnī fōrmā indicātīvā temporis praeteritī."
+        },
+        {
+          "id": "imp1l",
+          "statement": "Verbum incipiēns vōcālī accipit augmentum syllabicum (ἐ- praefīxum) sīcut verbum incipiēns cōnsonante.",
+          "answer": false,
+          "explanation": "Falsum: verbum vōcāle accipit augmentum temporāle (allongātiōnem vōcālis), nōn praefīxum novum."
+        },
+        {
+          "id": "imp1m",
+          "statement": "2ª persōna singulāris imperfectī mediī-passīvī (ἐλύου) orītur ex fōrmā historicā contractā, sīcut λύῃ in praesentī.",
+          "answer": true,
+          "explanation": "Corrēctum: *ἐλύεσο → ἐλύου, per eundem prōcessum contractiōnis."
+        },
+        {
+          "id": "imp1n",
+          "statement": "Contractiō applicātur ANTE augmentum in verbīs contractīs.",
+          "answer": false,
+          "explanation": "Falsum: augmentum applicātur prīmum, deinde contractiō."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Imperfectum āctīvum λύω: ἔλυον, ἔλυες, ἔλυε(ν) // ἐλύομεν, ἐλύετε, ἔλυον.",
+    "Imperfectum medium-passīvum: ἐλυόμην, ἐλύου, ἐλύετο // ἐλυόμεθα, ἐλύεσθε, ἐλύοντο.",
+    "Augmentum syllabicum (ἐ- ante cōnsonantem) vs. temporāle (vōcālis initiālis allongāta): obligātōrium in omnī praeteritō indicātīvō.",
+    "In verbīs contractīs, augmentum applicātur prīmum, deinde contractiō: ἐ+φιλε+ον → ἐφίλεον → ἐφίλουν.",
+    "Imperfectum dēscrībit āctiōnem continuam/repetītam in praeteritō, comparābile imperfectō Latīnō."
+  ],
+  "related": [
+    {
+      "lessonId": "iii-verba-contracta-in-ao-et-oo",
+      "label": "Verba Contracta in -άω et -όω"
+    },
+    {
+      "lessonId": "iii-tempus-futurum-activum-et-medium",
+      "label": "Tempus Futūrum"
+    }
+  ]
+}

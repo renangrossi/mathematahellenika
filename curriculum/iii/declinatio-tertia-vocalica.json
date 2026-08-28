@@ -1,0 +1,248 @@
+{
+  "id": "iii-declinatio-tertia-vocalica",
+  "level": "III",
+  "unit": "1",
+  "order": 2,
+  "skill": "grammatica",
+  "strand": "declinatio-tertia",
+  "title": "Dēclīnātiō Tertia: Themata Vōcālica",
+  "subtitle": "Nōmina tertiae dēclīnātiōnis cum themate in ι (πόλις) et in ευ (βασιλεύς) — duae classēs frequentissimae, cum fōrmīs contractīs speciālibus.",
+  "prerequisites": [
+    "iii-declinatio-tertia-consonantica"
+  ],
+  "objectives": [
+    "Dēclīnāre plēnē nōmen fēminīnum in -ις (ut πόλις) per omnēs cāsūs, utrōque numerō",
+    "Dēclīnāre plēnē nōmen masculīnum in -ευς (ut βασιλεύς) per omnēs cāsūs, utrōque numerō",
+    "Recognōscere genetīvum singulārem -εως (nōn -ος) ut signum distīnctīvum huius classis",
+    "Legere correcte fōrmās speciālēs (accūsātīvus singulāris πόλιν, vocātīvus πόλι) quae differunt ā patrōnō cōnsonanticō"
+  ],
+  "content": {
+    "intro": "Praeter themata cōnsonantica (lēctiō priōre), tertia dēclīnātiō continet nōmina cum themate <strong>vōcālicō</strong> antīquō (ι vel υ/ευ), quae subiērunt mūtātiōnēs phōnologicae speciālēs per historiam linguae. Duae classēs sunt hīc praecipuē frequentēs: nōmina fēminīna in <span class=\"greek\">-ις</span> (ut <span class=\"greek\">πόλις</span> “urbs”, extrēmē frequēns) et nōmina masculīna in <span class=\"greek\">-ευς</span> (ut <span class=\"greek\">βασιλεύς</span> “rēx”).",
+    "explanation": "<p>Ambae classēs monstrant genetīvum singulārem speciālem, dīversum ā patrōnō -ος iam nōtō ex nōminibus cōnsonanticīs: <span class=\"greek\">πόλεως</span> (nōn *πόλιος), <span class=\"greek\">βασιλέως</span> (nōn *βασιλέος). Hoc est signum vīsuāle rapidum: sī vidēs genetīvum fīnītum <span class=\"greek\">-εως</span>, scīs statim classem esse vōcālicam ι-thematicam vel ευ-thematicam.</p>",
+    "rules": [
+      {
+        "heading": "a) Thema in ι: πόλις, πόλεως (urbs)",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Cāsus</th><th>Singulāris</th><th>Plūrālis</th></tr></thead><tbody><tr><td>Nōm.</td><td class=\"greek\">πόλις</td><td class=\"greek\">πόλεις</td></tr><tr><td>Gen.</td><td class=\"greek\">πόλεως</td><td class=\"greek\">πόλεων</td></tr><tr><td>Dat.</td><td class=\"greek\">πόλει</td><td class=\"greek\">πόλεσι(ν)</td></tr><tr><td>Acc.</td><td class=\"greek\">πόλιν</td><td class=\"greek\">πόλεις</td></tr><tr><td>Voc.</td><td class=\"greek\">πόλι</td><td class=\"greek\">πόλεις</td></tr></tbody></table><p>Nōtā accūsātīvum singulārem speciālem <span class=\"greek\">πόλιν</span> (nōn -α, dīversē ā themātibus cōnsonanticīs) et vocātīvum brevem <span class=\"greek\">πόλι</span> (thema nūdum, sine dēsinentiā). Alia nōmina huius classis: <span class=\"greek\">δύναμις</span> (potestās), <span class=\"greek\">τάξις</span> (ōrdō).</p>"
+      },
+      {
+        "heading": "b) Thema in ευ: βασιλεύς, βασιλέως (rēx)",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Cāsus</th><th>Singulāris</th><th>Plūrālis</th></tr></thead><tbody><tr><td>Nōm.</td><td class=\"greek\">βασιλεύς</td><td class=\"greek\">βασιλεῖς</td></tr><tr><td>Gen.</td><td class=\"greek\">βασιλέως</td><td class=\"greek\">βασιλέων</td></tr><tr><td>Dat.</td><td class=\"greek\">βασιλεῖ</td><td class=\"greek\">βασιλεῦσι(ν)</td></tr><tr><td>Acc.</td><td class=\"greek\">βασιλέα</td><td class=\"greek\">βασιλέας</td></tr><tr><td>Voc.</td><td class=\"greek\">βασιλεῦ</td><td class=\"greek\">βασιλεῖς</td></tr></tbody></table><p>Vocātīvus singulāris <span class=\"greek\">βασιλεῦ</span> est fōrma cēlebris — invenīs eam saepe in textibus (“ō rēx!”). Alia nōmina huius classis: <span class=\"greek\">ἱερεύς</span> (sacerdōs), <span class=\"greek\">γραμματεύς</span> (scrība).</p>"
+      },
+      {
+        "heading": "c) Cūr Fōrmae Videntur Irregulārēs",
+        "body": "<p>Fōrmae huius classis videntur “irregulārēs” quia thema antīquum (ι vel ευ) subiit contractiōnēs/mūtātiōnēs cum dēsinentiīs vōcālibus sequentibus, per prōcessūs phōnologicōs historicōs (comparā contractiōnem σ intervōcālicī vīsam in vōce mediā-passīvā, Gradū II). Nōn est necesse hīc reconstruere tōtam historiam — sufficit MEMORIAE MANDĀRE utrumque paradigma tamquam patrōnum fīxum: sī nōmen fīnītur -ις cum genetīvō -εως, sequitur πόλις; sī fīnītur -ευς cum genetīvō -εως, sequitur βασιλεύς.</p>"
+      }
+    ],
+    "examples": [
+      "ἡ πόλις μεγάλη ἐστίν. — Urbs magna est. (nōminātīvus)",
+      "τῆς πόλεως οἱ νόμοι. — Leges urbis. (genetīvus, -εως speciāle)",
+      "εἰς τὴν πόλιν βαίνομεν. — In urbem īmus. (accūsātīvus speciālis -ιν)",
+      "ὁ βασιλεὺς τῆς χώρας ἄρχει. — Rēx regiōnis regit/imperat.",
+      "ὦ βασιλεῦ, χαῖρε. — Ō rēx, salvē! (vocātīvus)",
+      "αἱ πόλεις καὶ οἱ βασιλεῖς. — Urbēs et rēgēs. (plūrālēs nōminātīvī, ambae fōrmae in -εις)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Applicāre genetīvum -ος (patrōnum cōnsonanticum, lēctiō priōre) ad πόλις, scrībendo *πόλιος.",
+        "right": "Recordārī nōmina in -ις (thema ι) et -ευς (thema ευ) habent genetīvum speciālem -εως.",
+        "why": "Discrīmen genetīvī est signum praecipuum quō haec classis distinguitur ā themātibus cōnsonanticīs."
+      },
+      {
+        "wrong": "Adhibēre accūsātīvum -α (patrōnum cōnsonanticum) prō πόλις, scrībendo *πόλιαν vel *πόλια.",
+        "right": "Recordārī accūsātīvus singulāris nōminum in -ις est speciālis: -ιν (πόλιν).",
+        "why": "Haec classis retinet fōrmam accūsātīvī propriam, distīnctam ā patrōnō generālī -α."
+      },
+      {
+        "wrong": "Cōnfundere nōminātīvum plūrālem πόλεις cum accūsātīvō plūrālī, crēdēns eōs differre.",
+        "right": "Recognōscere nōminātīvus et accūsātīvus plūrālis huius classis sunt IDENTICĪ: ambō πόλεις.",
+        "why": "Contextus syntacticus (subiectum vs. obiectum) est necessārius ad distinguere hōs cāsūs, quia fōrma est identica."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "iii-dec4-mc",
+      "type": "multiple-choice",
+      "title": "Dēclīnātiō Tertia Vōcālica: Rēgulae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "dec4a",
+          "prompt": "Quae est fōrma genetīvī singulāris nōminis πόλις?",
+          "options": [
+            "πόλιος",
+            "πόλεως",
+            "πόλιδος"
+          ],
+          "answerIndex": 1,
+          "explanation": "Nōmina in -ις habent genetīvum speciālem -εως."
+        },
+        {
+          "id": "dec4b",
+          "prompt": "Quae est fōrma accūsātīvī singulāris nōminis πόλις?",
+          "options": [
+            "πόλιν",
+            "πόλιαν",
+            "πόλεα"
+          ],
+          "answerIndex": 0,
+          "explanation": "Accūsātīvus singulāris speciālis: πόλιν."
+        },
+        {
+          "id": "dec4c",
+          "prompt": "Quae est fōrma vocātīvī singulāris nōminis βασιλεύς?",
+          "options": [
+            "βασιλεύς",
+            "βασιλέως",
+            "βασιλεῦ"
+          ],
+          "answerIndex": 2,
+          "explanation": "Vocātīvus singulāris: βασιλεῦ."
+        },
+        {
+          "id": "dec4d",
+          "prompt": "Quid est identicum inter nōminātīvum et accūsātīvum plūrālem nōminis πόλις?",
+          "options": [
+            "nihil, differunt semper",
+            "ambō sunt πόλεις",
+            "sōlum in nōminibus neutrīs"
+          ],
+          "answerIndex": 1,
+          "explanation": "Nōm. pl. et acc. pl. huius classis sunt fōrmā identicā."
+        },
+        {
+          "id": "dec4e",
+          "prompt": "Quod signum vīsuāle indicat classem ι-/ευ-thematicam?",
+          "options": [
+            "nōminātīvus fīnītus -ος",
+            "genetīvus fīnītus -εως",
+            "accūsātīvus fīnītus -α"
+          ],
+          "answerIndex": 1,
+          "explanation": "Genetīvus in -εως est signum distīnctīvum huius classis vōcālicae."
+        }
+      ]
+    },
+    {
+      "id": "iii-dec4-fill",
+      "type": "fill-blank",
+      "title": "Complē Fōrmam Rēctam",
+      "instructions": "Comple spatia cum fōrmā rēctā dēclīnātiōnis vōcālicae.",
+      "items": [
+        {
+          "id": "dec4f",
+          "prompt": "πόλις, datīvus singulāris: ___",
+          "options": [
+            "πόλει",
+            "πόλεϊ",
+            "πόλιδι"
+          ],
+          "answers": [
+            "πόλει"
+          ],
+          "explanation": "Datīvus singulāris: πόλει."
+        },
+        {
+          "id": "dec4g",
+          "prompt": "βασιλεύς, accūsātīvus singulāris: ___",
+          "options": [
+            "βασιλέα",
+            "βασιλεύν",
+            "βασιλέως"
+          ],
+          "answers": [
+            "βασιλέα"
+          ],
+          "explanation": "Accūsātīvus singulāris: βασιλέα."
+        },
+        {
+          "id": "dec4h",
+          "prompt": "πόλις, genetīvus plūrālis: ___",
+          "options": [
+            "πόλεων",
+            "πόλεως",
+            "πολίδων"
+          ],
+          "answers": [
+            "πόλεων"
+          ],
+          "explanation": "Genetīvus plūrālis: πόλεων."
+        },
+        {
+          "id": "dec4i",
+          "prompt": "βασιλεύς, datīvus plūrālis: ___",
+          "options": [
+            "βασιλεῦσι",
+            "βασιλέοις",
+            "βασιλέσι"
+          ],
+          "answers": [
+            "βασιλεῦσι"
+          ],
+          "explanation": "Datīvus plūrālis: βασιλεῦσι(ν)."
+        },
+        {
+          "id": "dec4j",
+          "prompt": "πόλις, vocātīvus singulāris: ___",
+          "options": [
+            "πόλι",
+            "πόλις",
+            "πόλεως"
+          ],
+          "answers": [
+            "πόλι"
+          ],
+          "explanation": "Vocātīvus singulāris, thema nūdum: πόλι."
+        }
+      ]
+    },
+    {
+      "id": "iii-dec4-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "dec4k",
+          "statement": "Πόλις et βασιλεύς habent ambō genetīvum singulārem fīnītum -εως.",
+          "answer": true,
+          "explanation": "Corrēctum: signum commūne classis vōcālicae."
+        },
+        {
+          "id": "dec4l",
+          "statement": "Accūsātīvus singulāris πόλις sequitur patrōnum cōnsonanticum -α.",
+          "answer": false,
+          "explanation": "Falsum: πόλις habet accūsātīvum speciālem -ιν (πόλιν)."
+        },
+        {
+          "id": "dec4m",
+          "statement": "Vocātīvus singulāris βασιλεύς est βασιλεῦ, fōrma distīncta ā nōminātīvō.",
+          "answer": true,
+          "explanation": "Corrēctum: βασιλεῦ est vocātīvus speciālis, frequēns in textibus."
+        },
+        {
+          "id": "dec4n",
+          "statement": "Nōminātīvus et accūsātīvus plūrālis πόλις differunt in fōrmā.",
+          "answer": false,
+          "explanation": "Falsum: sunt identicī, ambō πόλεις — contextus sōlus distinguit."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Πόλις (thema ι): nōm. πόλις, gen. πόλεως, dat. πόλει, acc. πόλιν, voc. πόλι // πόλεις, πόλεων, πόλεσι(ν), πόλεις.",
+    "Βασιλεύς (thema ευ): nōm. βασιλεύς, gen. βασιλέως, dat. βασιλεῖ, acc. βασιλέα, voc. βασιλεῦ // βασιλεῖς, βασιλέων, βασιλεῦσι(ν), βασιλέας.",
+    "Genetīvus singulāris -εως est signum distīnctīvum: distinguit hanc classem ā themātibus cōnsonanticīs (-ος).",
+    "Nōminātīvus = accūsātīvus in plūrālī (ambae classēs) — contextus sōlus distinguit subiectum ab obiectō."
+  ],
+  "related": [
+    {
+      "lessonId": "iii-declinatio-tertia-consonantica",
+      "label": "Dēclīnātiō Tertia Cōnsonantica"
+    },
+    {
+      "lessonId": "iii-adiectiva-tertiae-declinationis",
+      "label": "Adiectīva Tertiae Dēclīnātiōnis"
+    }
+  ]
+}

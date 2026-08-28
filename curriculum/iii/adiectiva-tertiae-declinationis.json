@@ -1,0 +1,252 @@
+{
+  "id": "iii-adiectiva-tertiae-declinationis",
+  "level": "III",
+  "unit": "1",
+  "order": 3,
+  "skill": "grammatica",
+  "strand": "adiectiva",
+  "title": "Adiectīva Tertiae Dēclīnātiōnis",
+  "subtitle": "Adiectīva duārum terminātiōnum in -ης/-ες (ut ἀληθής) et adiectīvum trium terminātiōnum πᾶς, πᾶσα, πᾶν.",
+  "prerequisites": [
+    "iii-declinatio-tertia-vocalica"
+  ],
+  "objectives": [
+    "Dēclīnāre plēnē adiectīvum duārum terminātiōnum (masc./fem. identicī, neutrum distīnctum) ut ἀληθής, ἀληθές",
+    "Dēclīnāre plēnē πᾶς, πᾶσα, πᾶν (omnis, tōtus) — adiectīvum trium terminātiōnum, mixtum inter tertiam et prīmam dēclīnātiōnem",
+    "Distinguere adiectīva duārum terminātiōnum (classis σ-thematica) ab adiectīvīs classis prīmae (Gradū II) et cognōscere cūr masc./fem. sint identicī hīc",
+    "Trānsferre correcte ūsūs frequentēs πᾶς (ut πᾶσα ἡ πόλις “tōta urbs”, πάντες οἱ ἄνθρωποι “omnēs hominēs”)"
+  ],
+  "content": {
+    "intro": "Adiectīva classis prīmae (Gradū II) sequuntur dēclīnātiōnem prīmam/secundam; sed multa adiectīva Graeca frequentissima sequuntur tertiam dēclīnātiōnem, iam nōtam ex duābus lēctiōnibus priōribus. Duo patrōnī hīc: adiectīva <strong>duārum terminātiōnum</strong> (masculīnum et fēminīnum sunt fōrmā identicā; sōlum neutrum differt) et — cāsus speciālis, sed extrēmē frequēns — <span class=\"greek\">πᾶς</span> (omnis), quod mixtim dēclīnātur.",
+    "explanation": "<p>Adiectīva duārum terminātiōnum (dicta etiam “adiectīva σ-thematica”, quia thema fīnītur -εσ- historicē) nōn distinguunt masculīnum ā fēminīnō — ūna sōla fōrma servit ambōbus generibus, cum discrīmen tantum in neutrō. Hoc simplificat memoriam: duae fōrmae tantum per cāsum (nōn tria), discrīmen ā classe prīmā (Gradū II) ubi tria genera semper distincta sunt.</p>",
+    "rules": [
+      {
+        "heading": "a) Duae Terminātiōnēs: ἀληθής, ἀληθές (vērus)",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Cāsus</th><th>Masc./Fem. sg.</th><th>Neut. sg.</th><th>Masc./Fem. pl.</th><th>Neut. pl.</th></tr></thead><tbody><tr><td>Nōm.</td><td class=\"greek\">ἀληθής</td><td class=\"greek\">ἀληθές</td><td class=\"greek\">ἀληθεῖς</td><td class=\"greek\">ἀληθῆ</td></tr><tr><td>Gen.</td><td class=\"greek\">ἀληθοῦς</td><td class=\"greek\">ἀληθοῦς</td><td class=\"greek\">ἀληθῶν</td><td class=\"greek\">ἀληθῶν</td></tr><tr><td>Dat.</td><td class=\"greek\">ἀληθεῖ</td><td class=\"greek\">ἀληθεῖ</td><td class=\"greek\">ἀληθέσι(ν)</td><td class=\"greek\">ἀληθέσι(ν)</td></tr><tr><td>Acc.</td><td class=\"greek\">ἀληθῆ</td><td class=\"greek\">ἀληθές</td><td class=\"greek\">ἀληθεῖς</td><td class=\"greek\">ἀληθῆ</td></tr></tbody></table><p>Fōrmae hīc sunt contractae (ε + vōcālis sequēns → vōcālis longa/diphthongus, patrōnus similis contractiōnī iam vīsae in vōce mediā, Gradū II). Alia adiectīva huius classis: <span class=\"greek\">σαφής, σαφές</span> (clārus), <span class=\"greek\">εὐτυχής, εὐτυχές</span> (fēlīx).</p>"
+      },
+      {
+        "heading": "b) Trēs Terminātiōnēs: πᾶς, πᾶσα, πᾶν (omnis, tōtus)",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Cāsus</th><th>Masc. sg.</th><th>Fem. sg.</th><th>Neut. sg.</th></tr></thead><tbody><tr><td>Nōm.</td><td class=\"greek\">πᾶς</td><td class=\"greek\">πᾶσα</td><td class=\"greek\">πᾶν</td></tr><tr><td>Gen.</td><td class=\"greek\">παντός</td><td class=\"greek\">πάσης</td><td class=\"greek\">παντός</td></tr><tr><td>Dat.</td><td class=\"greek\">παντί</td><td class=\"greek\">πάσῃ</td><td class=\"greek\">παντί</td></tr><tr><td>Acc.</td><td class=\"greek\">πάντα</td><td class=\"greek\">πᾶσαν</td><td class=\"greek\">πᾶν</td></tr></tbody></table><p>Plūrālis: masc. <span class=\"greek\">πάντες, πάντων, πᾶσι(ν), πάντας</span> — fem. <span class=\"greek\">πᾶσαι, πασῶν, πάσαις, πάσας</span> — neut. <span class=\"greek\">πάντα, πάντων, πᾶσι(ν), πάντα</span>. Thema reāle est <span class=\"greek\">παντ-</span> (vīsibile in genetīvō/datīvō); masculīnum/neutrum sequuntur tertiam dēclīnātiōnem (cōnsonanticum, patrōnum ex lēctiōnibus priōribus), fēminīnum sequitur prīmam dēclīnātiōnem (α impūrum-like, post ν).</p>"
+      },
+      {
+        "heading": "c) Ūsus Syntacticus Praecipuus: Positiō Sine Articulō vs. Cum Articulō",
+        "body": "<p>Πᾶς + nōmen SINE articulō = “omnis/quisque”: <span class=\"greek\">πᾶσα πόλις</span> “omnis urbs, quaevīs urbs”. Πᾶς INTRĀ articulum-nōmen (attribūtīvum) = “tōtus”: <span class=\"greek\">πᾶσα ἡ πόλις</span> “tōta urbs”. Πᾶς ANTE articulum (positiō praedicātīva-similis, sed cum πᾶς frequēns hīc) = “omnēs, cūncta”: <span class=\"greek\">πάντες οἱ ἄνθρωποι</span> “omnēs hominēs”. Discrīmen positiōnis (ex Gradū II, attribūtīva/praedicātīva) applicātur hīc cum nuance semantica propria πᾶς.</p>"
+      }
+    ],
+    "examples": [
+      "ὁ ἀληθὴς λόγος. — Verbum vērum. (attribūtīvum, masc.)",
+      "ἡ ἀλήθεια ἀληθής ἐστιν; — Estne vēritās vēra? (praedicātīvum, quaestiō rhētorica)",
+      "πᾶσα ἡ πόλις. — Tōta urbs. (πᾶς intrā articulum-nōmen)",
+      "πάντες οἱ πολῖται. — Omnēs cīvēs. (πᾶς ante articulum)",
+      "διὰ παντὸς τοῦ βίου. — Per tōtam vītam. (genetīvus, ūsus adverbiālis)",
+      "τὰ ἀληθῆ λέγει. — Vēra dīcit. (neutrum plūrāle substantīvātum, “rēs vērās”)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Distinguere fōrmās masculīnam et fēminīnam adiectīvōrum duārum terminātiōnum, quaerendō *ἀληθή prō fēminīnō.",
+        "right": "Recordārī masculīnum et fēminīnum sunt IDENTICĪ in hāc classe — ūna sōla fōrma prō ambōbus generibus.",
+        "why": "Discrīmen praecipuum ā classe prīmā (Gradū II), ubi trēs fōrmae distīnctae semper exsistunt."
+      },
+      {
+        "wrong": "Dēclīnāre πᾶς sīcut adiectīvum classis prīmae ūniformis (omne genus per eandem dēclīnātiōnem).",
+        "right": "Recordārī πᾶς est mixtum: masc./neut. sequuntur tertiam dēclīnātiōnem, fēminīnum sequitur prīmam.",
+        "why": "Πᾶς combīnat duo patrōnōs dēclīnātiōnis dīversōs intrā ūnum sōlum adiectīvum, cāsus speciālis dignus notandō."
+      },
+      {
+        "wrong": "Nōn distinguere πᾶσα πόλις (“omnis urbs”) ā πᾶσα ἡ πόλις (“tōta urbs”), trānsferendō ambās identidem.",
+        "right": "Attendere praesentiam/absentiam articulī: sine articulō = “omnis/quisque”; cum articulō (πᾶς intrā) = “tōtus”.",
+        "why": "Discrīmen sēnsūs est reāle et frequēns in prōsā Graecā classicā — error hīc mūtat sēnsum, nōn sōlum stylum."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "iii-adi2-mc",
+      "type": "multiple-choice",
+      "title": "Adiectīva Tertiae Dēclīnātiōnis: Rēgulae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "adi2a",
+          "prompt": "Quid est vērum dē adiectīvīs duārum terminātiōnum (ut ἀληθής)?",
+          "options": [
+            "masc./fem./neut. sunt omnēs identicī",
+            "masc. et fem. sunt identicī; neutrum differt",
+            "omnia tria genera differunt"
+          ],
+          "answerIndex": 1,
+          "explanation": "Duae terminātiōnēs: ūna prō masc./fem., alia prō neutrō."
+        },
+        {
+          "id": "adi2b",
+          "prompt": "Quam dēclīnātiōnem sequitur fēminīnum πᾶσα?",
+          "options": [
+            "tertiam, sīcut masculīnum",
+            "prīmam dēclīnātiōnem",
+            "secundam dēclīnātiōnem"
+          ],
+          "answerIndex": 1,
+          "explanation": "Πᾶς est mixtum: fēminīnum sequitur prīmam dēclīnātiōnem, masc./neut. tertiam."
+        },
+        {
+          "id": "adi2c",
+          "prompt": "Quid significat πᾶσα ἡ πόλις?",
+          "options": [
+            "“omnis urbs” (generāliter)",
+            "“tōta urbs” (πᾶς intrā articulum)",
+            "“nūlla urbs”"
+          ],
+          "answerIndex": 1,
+          "explanation": "Πᾶς intrā articulum-nōmen significat “tōtus”."
+        },
+        {
+          "id": "adi2d",
+          "prompt": "Quod est thema reāle nōminis/adiectīvī πᾶς (masc./neut.)?",
+          "options": [
+            "πα-",
+            "παντ-",
+            "πασ-"
+          ],
+          "answerIndex": 1,
+          "explanation": "Thema παντ-, vīsibile in genetīvō παντός."
+        },
+        {
+          "id": "adi2e",
+          "prompt": "Quae est fōrma nōminātīvī plūrālis neutrī ἀληθές?",
+          "options": [
+            "ἀληθῆ",
+            "ἀληθεῖς",
+            "ἀληθοῦς"
+          ],
+          "answerIndex": 0,
+          "explanation": "Nōminātīvus plūrālis neutrī: ἀληθῆ (rēgula aurea neutrōrum: nōm.=acc.)."
+        }
+      ]
+    },
+    {
+      "id": "iii-adi2-fill",
+      "type": "fill-blank",
+      "title": "Complē Fōrmam Rēctam",
+      "instructions": "Comple spatia cum fōrmā rēctā adiectīvī, concordantem cum contextū.",
+      "items": [
+        {
+          "id": "adi2f",
+          "prompt": "ὁ λόγος ___ (nōm. sg. masc., “vērus”)",
+          "options": [
+            "ἀληθής",
+            "ἀληθές",
+            "ἀληθῆ"
+          ],
+          "answers": [
+            "ἀληθής"
+          ],
+          "explanation": "Nōminātīvus singulāris masc./fem.: ἀληθής."
+        },
+        {
+          "id": "adi2g",
+          "prompt": "πάντες οἱ ___ (nōm. pl. masc., “omnēs hominēs”)",
+          "options": [
+            "ἄνθρωποι",
+            "ἀνθρώπους",
+            "ἀνθρώπων"
+          ],
+          "answers": [
+            "ἄνθρωποι"
+          ],
+          "explanation": "Πάντες concordat cum nōminātīvō plūrālī: οἱ ἄνθρωποι."
+        },
+        {
+          "id": "adi2h",
+          "prompt": "___ ἡ πόλις (nōm. sg. fem., “tōta urbs”)",
+          "options": [
+            "πᾶσα",
+            "πᾶς",
+            "πᾶν"
+          ],
+          "answers": [
+            "πᾶσα"
+          ],
+          "explanation": "Fēminīnum singulāre: πᾶσα."
+        },
+        {
+          "id": "adi2i",
+          "prompt": "διὰ ___ τοῦ βίου (gen. sg. masc., “per tōtam vītam”)",
+          "options": [
+            "παντός",
+            "πάσης",
+            "πᾶν"
+          ],
+          "answers": [
+            "παντός"
+          ],
+          "explanation": "Genetīvus singulāris masc.: παντός."
+        },
+        {
+          "id": "adi2j",
+          "prompt": "τὰ ___ λέγει (acc. pl. neut., “vēra dīcit”)",
+          "options": [
+            "ἀληθῆ",
+            "ἀληθές",
+            "ἀληθεῖς"
+          ],
+          "answers": [
+            "ἀληθῆ"
+          ],
+          "explanation": "Accūsātīvus plūrālis neutrī: ἀληθῆ."
+        }
+      ]
+    },
+    {
+      "id": "iii-adi2-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "adi2k",
+          "statement": "Adiectīva duārum terminātiōnum distinguunt fōrmam masculīnam ā fōrmā fēminīnā.",
+          "answer": false,
+          "explanation": "Falsum: masc. et fem. sunt identicī; sōlum neutrum differt."
+        },
+        {
+          "id": "adi2l",
+          "statement": "Πᾶς dēclīnātur ūniformiter, sequēns ūnam sōlam dēclīnātiōnem in omnī genere.",
+          "answer": false,
+          "explanation": "Falsum: est mixtum inter tertiam (masc./neut.) et prīmam (fem.) dēclīnātiōnem."
+        },
+        {
+          "id": "adi2m",
+          "statement": "Πάντες οἱ ἄνθρωποι significat “omnēs hominēs”.",
+          "answer": true,
+          "explanation": "Corrēctum: πᾶς ante articulum significat “omnēs, cūncta”."
+        },
+        {
+          "id": "adi2n",
+          "statement": "Genetīvus singulāris ἀληθής (masc./fem./neut.) est identicus in omnī genere: ἀληθοῦς.",
+          "answer": true,
+          "explanation": "Corrēctum: genetīvus/datīvus singulārēs nōn distinguunt genus in hāc classe."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Adiectīva duārum terminātiōnum (ἀληθής, ἀληθές): masc./fem. identicī, neutrum distīnctum; fōrmae contractae (comparā vōcem mediam).",
+    "Πᾶς, πᾶσα, πᾶν: mixtum — masc./neut. sequuntur tertiam dēclīnātiōnem (thema παντ-), fēminīnum sequitur prīmam.",
+    "Πᾶς sine articulō = “omnis/quisque”; πᾶς intrā articulum-nōmen = “tōtus”; πᾶς ante articulum = “omnēs, cūncta”.",
+    "Utraque classis illūstrat quam Graecum sīgnificantius combīnat dēclīnātiōnēs dīversās intrā ūnum patrōnum coherentem."
+  ],
+  "related": [
+    {
+      "lessonId": "iii-declinatio-tertia-consonantica",
+      "label": "Dēclīnātiō Tertia Cōnsonantica"
+    },
+    {
+      "lessonId": "iii-declinatio-tertia-vocalica",
+      "label": "Dēclīnātiō Tertia Vōcālica"
+    },
+    {
+      "lessonId": "iii-comparatio-adiectivorum",
+      "label": "Comparātiō Adiectīvōrum"
+    }
+  ]
+}

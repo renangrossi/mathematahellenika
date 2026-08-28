@@ -1,0 +1,248 @@
+{
+  "id": "iii-tempus-futurum-activum-et-medium",
+  "level": "III",
+  "unit": "1",
+  "order": 7,
+  "skill": "grammatica",
+  "strand": "tempora",
+  "title": "Tempus Futūrum: Āctīvum et Medium",
+  "subtitle": "Futūrum āctīvum et medium fōrmāta cum σ addito thematī; mūtātiōnēs cōnsonantium ante σ (labiālēs, velārēs, dentālēs).",
+  "prerequisites": [
+    "iii-tempus-imperfectum"
+  ],
+  "objectives": [
+    "Coniugāre plēnē tempus futūrum āctīvum et medium verbī λύω",
+    "Explicāre fōrmātiōnem fundāmentālem: thema + σ + dēsinentiae (patrōnum praesentis, SINE augmentō, quia futūrum nōn est praeteritum)",
+    "Applicāre mūtātiōnēs cōnsonantium themātis ante σ (labiālēs π/β/φ+σ→ψ; velārēs κ/γ/χ+σ→ξ; dentālēs τ/δ/θ+σ→σ, cōnsonāns cadit)",
+    "Distinguere futūrum āctīvum ā futūrō mediō, notandō futūrum passīvum est fōrma distīncta (Gradū IV)"
+  ],
+  "content": {
+    "intro": "Tempus futūrum indicat āctiōnem posteriōrem tempore locūtiōnis (“solvam”, “līberābō”) — sēnsus idem ac futūrum Latīnum. Fōrmātiō est simplicior quam imperfectum: nūllum augmentum (futūrum nōn est praeteritum!), sed additiō litterae <span class=\"greek\">σ</span> inter thema et dēsinentiam, quae saepe fundit cum cōnsonante fīnālī themātis.",
+    "explanation": "<p>Futūrum āctīvum/medium adhibet <strong>easdem dēsinentiās ac praesēns</strong> (Gradū II), addēns tantum σ inter thema et dēsinentiam thematicam: λύω → <span class=\"greek\">λύσω</span> (thema λυ- + σ + ω). Cum thema fīnītur vōcālī (ut λυ-), additiō est simplex; cum thema fīnītur cōnsonante (ut in verbīs adhūc nōn vīsīs, e.g. πέμπω “mittō”, thema πεμπ-), σ fundit cum cōnsonante fīnālī secundum rēgulās iam vīsās in tertiā dēclīnātiōne (Gradū III priōre).</p>",
+    "rules": [
+      {
+        "heading": "a) Futūrum Āctīvum: λύσω",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Persōna</th><th>Singulāris</th><th>Plūrālis</th></tr></thead><tbody><tr><td>1ª</td><td class=\"greek\">λύσω</td><td class=\"greek\">λύσομεν</td></tr><tr><td>2ª</td><td class=\"greek\">λύσεις</td><td class=\"greek\">λύσετε</td></tr><tr><td>3ª</td><td class=\"greek\">λύσει</td><td class=\"greek\">λύσουσι(ν)</td></tr></tbody></table><p>Compara cum praesentī (Gradū II): dēsinentiae -ω, -εις, -ει, -ομεν, -ετε, -ουσι(ν) sunt exāctē identicae; sōla differentia est σ īnsertum ante eās. Īnfīnītīvus futūrī: <span class=\"greek\">λύσειν</span>.</p>"
+      },
+      {
+        "heading": "b) Futūrum Medium: λύσομαι",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Persōna</th><th>Singulāris</th><th>Plūrālis</th></tr></thead><tbody><tr><td>1ª</td><td class=\"greek\">λύσομαι</td><td class=\"greek\">λυσόμεθα</td></tr><tr><td>2ª</td><td class=\"greek\">λύσῃ</td><td class=\"greek\">λύσεσθε</td></tr><tr><td>3ª</td><td class=\"greek\">λύσεται</td><td class=\"greek\">λύσονται</td></tr></tbody></table><p><strong>Attentiō magna:</strong> futūrum medium NŌN significat passīvum — futūrum passīvum est fōrma prōrsus distīncta (thema speciāle, Gradū IV). Sī sēnsus est passīvus in futūrō, fōrma requīsīta nōn est haec, sed alia quam posteā vidēbis.</p>"
+      },
+      {
+        "heading": "c) Mūtātiōnēs Cōnsonantium ante σ",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Thema Fīnītum</th><th>+ σ →</th><th>Exemplum</th></tr></thead><tbody><tr><td>Labiālis (π, β, φ)</td><td class=\"greek\">ψ</td><td class=\"greek\">πέμπω → πέμψω</td></tr><tr><td>Velāris (κ, γ, χ)</td><td class=\"greek\">ξ</td><td class=\"greek\">ἄγω → ἄξω</td></tr><tr><td>Dentālis (τ, δ, θ)</td><td class=\"greek\">σ (cōnsonāns cadit)</td><td class=\"greek\">πείθω → πείσω</td></tr></tbody></table><p>Hae rēgulae sunt IDENTICAE illīs iam vīsīs in tertiā dēclīnātiōne cōnsonanticā (φύλαξ, Gradū III priōre) — nōn nova theoria, sed applicātiō eiusdem prīncipiī phōnologicī ad contextum verbālem.</p>"
+      }
+    ],
+    "examples": [
+      "λύσω τὸν δοῦλον αὔριον. — Solvam servum crās.",
+      "οἱ στρατιῶται πέμψουσι τὰ ὅπλα. — Mīlitēs mittent arma. (πέμπω → πέμψουσι, labiālis+σ→ψ)",
+      "ἄξομεν τοὺς αἰχμαλώτους. — Dūcēmus captīvōs. (ἄγω → ἄξομεν, velāris+σ→ξ)",
+      "πείσω τὸν δῆμον. — Persuādēbō populō. (πείθω → πείσω, dentālis cadit ante σ)",
+      "λυσόμεθα τοὺς φίλους ἡμῶν. — Redimēmus amīcōs nostrōs. (futūrum medium, prō sē ipsō)",
+      "τί ποιήσεις; — Quid faciēs? (futūrum, verbum contractum ποιέω → ποιήσω)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Addere augmentum ad fōrmam futūrī, crēdēns omne tempus dīversum ā praesentī requīrere augmentum.",
+        "right": "Recordārī augmentum est EXCLŪSĪVUM temporum praeteritōrum (imperfectum, aoristus, plūsquamperfectum); futūrum NUMQUAM habet augmentum.",
+        "why": "Futūrum nōn refert ad praeteritum, ideōque nōn requīrit signum morphologicum praeteritī."
+      },
+      {
+        "wrong": "Crēdere futūrum medium (λύσομαι) significāre semper sēnsum passīvum.",
+        "right": "Recordārī futūrum passīvum est fōrma omnīnō distīncta (Gradū IV); futūrum medium significat sōlum sēnsūs mediī (reflexīvum, commodum suī, etc.).",
+        "why": "Discrīmen inter futūrum medium et futūrum passīvum est ūnicum locum ubi media/passīva vērē dīvergunt in fōrmā (praeter aoristum)."
+      },
+      {
+        "wrong": "Applicāre mūtātiōnem cōnsonantis incorrēctam (e.g. tractāre thema labiāle sīcut velāre), prōdūcendō *πέμξω prō πέμψω.",
+        "right": "Memoriae mandāre grupōs cōnsonantium correcte: labiālēs (π/β/φ)→ψ, velārēs (κ/γ/χ)→ξ, dentālēs (τ/δ/θ)→cadunt.",
+        "why": "Error hīc est facilis sine memoriā clārā triplicis distīnctiōnis inter locōs articulātiōnis cōnsonantium."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "iii-fut1-fill",
+      "type": "fill-blank",
+      "title": "Coniugā Futūrum",
+      "instructions": "Comple spatia cum fōrmā rēctā futūrī.",
+      "items": [
+        {
+          "id": "fut1a",
+          "prompt": "Ἐγὼ τὸν δοῦλον ___. (1ª sg. fut. āctīvī, λύω, “solvam”)",
+          "options": [
+            "λύσω",
+            "ἔλυον",
+            "λύω"
+          ],
+          "answers": [
+            "λύσω"
+          ],
+          "explanation": "Futūrum āctīvum, 1ª sg.: λύσω."
+        },
+        {
+          "id": "fut1b",
+          "prompt": "Οἱ στρατιῶται τὰ ὅπλα ___. (3ª pl. fut., πέμπω, “mittent”)",
+          "options": [
+            "πέμψουσιν",
+            "πέμπουσιν",
+            "πέμξουσιν"
+          ],
+          "answers": [
+            "πέμψουσιν"
+          ],
+          "explanation": "Labiālis π + σ → ψ: πέμψουσιν."
+        },
+        {
+          "id": "fut1c",
+          "prompt": "Σὺ τὸν δῆμον ___. (2ª sg. fut., πείθω, “persuādēbis”)",
+          "options": [
+            "πείσεις",
+            "πείθεις",
+            "πείθσεις"
+          ],
+          "answers": [
+            "πείσεις"
+          ],
+          "explanation": "Dentālis θ cadit ante σ: πείσεις."
+        },
+        {
+          "id": "fut1d",
+          "prompt": "Ἡμεῖς τοὺς αἰχμαλώτους ___. (1ª pl. fut., ἄγω, “dūcēmus”)",
+          "options": [
+            "ἄξομεν",
+            "ἄγομεν",
+            "ἄγσομεν"
+          ],
+          "answers": [
+            "ἄξομεν"
+          ],
+          "explanation": "Velāris γ + σ → ξ: ἄξομεν."
+        },
+        {
+          "id": "fut1e",
+          "prompt": "___ τοὺς φίλους. (1ª sg. fut. mediī, λύω, “redimam”)",
+          "options": [
+            "λύσομαι",
+            "λύσω",
+            "ἐλυόμην"
+          ],
+          "answers": [
+            "λύσομαι"
+          ],
+          "explanation": "Futūrum medium, 1ª sg.: λύσομαι."
+        }
+      ]
+    },
+    {
+      "id": "iii-fut1-mc",
+      "type": "multiple-choice",
+      "title": "Tempus Futūrum: Rēgulae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "fut1f",
+          "prompt": "Requīritne futūrum augmentum?",
+          "options": [
+            "sīc, semper",
+            "nōn, numquam — augmentum est exclūsīvum praeteritōrum",
+            "sōlum in verbīs contractīs"
+          ],
+          "answerIndex": 1,
+          "explanation": "Futūrum nōn est tempus praeteritum, ideōque numquam accipit augmentum."
+        },
+        {
+          "id": "fut1g",
+          "prompt": "Quid resultat ā thema labiālī (π/β/φ) + σ?",
+          "options": [
+            "ξ",
+            "ψ",
+            "σ sōlum"
+          ],
+          "answerIndex": 1,
+          "explanation": "Labiālis + σ → ψ."
+        },
+        {
+          "id": "fut1h",
+          "prompt": "Significat futūrum medium (λύσομαι) semper sēnsum passīvum?",
+          "options": [
+            "sīc, semper",
+            "nōn, futūrum passīvum est fōrma distīncta",
+            "sōlum in plūrālī"
+          ],
+          "answerIndex": 1,
+          "explanation": "Futūrum medium ≠ futūrum passīvum (fōrma distīncta, Gradū IV)."
+        },
+        {
+          "id": "fut1i",
+          "prompt": "Quid accidit cōnsonantī dentālī (τ/δ/θ) ante σ in futūrō?",
+          "options": [
+            "fit ψ",
+            "fit ξ",
+            "cadit, relinquēns σ sōlam"
+          ],
+          "answerIndex": 2,
+          "explanation": "Dentālēs cadunt ante σ (πείθω → πείσω)."
+        },
+        {
+          "id": "fut1j",
+          "prompt": "Sunt dēsinentiae persōnālēs futūrī āctīvī identicae illīs praesentis?",
+          "options": [
+            "nōn, sunt omnīnō dīversae",
+            "sīc, identicae; sōlum σ additur ante eās",
+            "sōlum in singulārī"
+          ],
+          "answerIndex": 1,
+          "explanation": "Futūrum reūtitur dēsinentiīs praesentis, addēns tantum σ characteristicum ante illās."
+        }
+      ]
+    },
+    {
+      "id": "iii-fut1-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "fut1k",
+          "statement": "Futūrum āctīvum fōrmātur addendō σ inter thema et dēsinentiam.",
+          "answer": true,
+          "explanation": "Corrēctum: λύω → λύσω."
+        },
+        {
+          "id": "fut1l",
+          "statement": "Verba cum themate velārī (κ/γ/χ) fōrmant futūrum cum ψ.",
+          "answer": false,
+          "explanation": "Falsum: velārēs prōdūcunt ξ (nōn ψ, quod est prō labiālibus)."
+        },
+        {
+          "id": "fut1m",
+          "statement": "Futūrum requīrit augmentum, sīcut imperfectum.",
+          "answer": false,
+          "explanation": "Falsum: augmentum est exclūsīvum praeteritōrum; futūrum numquam habet augmentum."
+        },
+        {
+          "id": "fut1n",
+          "statement": "Mūtātiōnēs cōnsonantium ante σ in futūrō sunt easdem rēgulās vīsās in dēclīnātiōne tertiā cōnsonanticā.",
+          "answer": true,
+          "explanation": "Corrēctum: idem prīncipium phōnologicum (κ+σ→ξ, etc.) applicātur in ambōbus contextibus."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Futūrum āctīvum λύσω: λύσω, λύσεις, λύσει // λύσομεν, λύσετε, λύσουσι(ν). Nūllum augmentum, umquam.",
+    "Futūrum medium λύσομαι: λύσομαι, λύσῃ, λύσεται // λυσόμεθα, λύσεσθε, λύσονται — NŌN idem ac futūrum passīvum (Gradū IV).",
+    "Mūtātiōnēs ante σ: labiālēs (π/β/φ)→ψ, velārēs (κ/γ/χ)→ξ, dentālēs (τ/δ/θ)→cadunt.",
+    "Dēsinentiae persōnālēs futūrī sunt identicae illīs praesentis; σ characteristicum sōlus signum novum."
+  ],
+  "related": [
+    {
+      "lessonId": "iii-tempus-imperfectum",
+      "label": "Tempus Imperfectum"
+    },
+    {
+      "lessonId": "iii-pronomen-relativum",
+      "label": "Prōnōmen Relātīvum"
+    }
+  ]
+}

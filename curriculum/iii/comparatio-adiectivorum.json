@@ -1,0 +1,248 @@
+{
+  "id": "iii-comparatio-adiectivorum",
+  "level": "III",
+  "unit": "1",
+  "order": 10,
+  "skill": "grammatica",
+  "strand": "comparatio",
+  "title": "Comparātiō Adiectīvōrum",
+  "subtitle": "Gradūs comparātīvus (-τερος) et superlātīvus (-τατος) regulārēs, et comparātiō suppletīva (ἀγαθός → ἀμείνων → ἄριστος).",
+  "prerequisites": [
+    "iii-pronomina-demonstrativa"
+  ],
+  "objectives": [
+    "Formāre comparātīvum (-τερος/-τέρα/-τερον) et superlātīvum (-τατος/-τάτη/-τατον) ab adiectīvō regulārī",
+    "Recitāre comparātiōnem suppletīvam (themate omnīnō dīversō) verbōrum frequentissimōrum: ἀγαθός, κακός, μέγας, πολύς",
+    "Applicāre cāsūs post comparātīvum: genetīvus comparātiōnis (“quam”) VEL ἤ + eundem cāsum ac prīmum terminum",
+    "Concludere Gradum III: recognōscere fundamentum nunc positum prō lēctiōne prōsae adaptātae authenticae (Gradus VI)"
+  ],
+  "content": {
+    "intro": "Ultima lēctiō Gradūs III tractat comparātiōnem adiectīvōrum — “sapiēns, sapientior, sapientissimus” — cōnstrūctiōnem morphologicam simplicem quae, tamen, in adiectīvīs frequentissimīs (bonus, malus, magnus, multus) subit suppletiōnem: thema comparātīvī/superlātīvī est omnīnō dīversum ā themate positīvī, exāctē sīcut Latīnum “bonus, melior, optimus” vel Anglicum “good, better, best”.",
+    "explanation": "<p>Comparātiō regulāris addit suffixum <span class=\"greek\">-τερος/-τέρα/-τερον</span> (comparātīvus, dēclīnātus ut adiectīvum classis prīmae, patrōnō καλός) ad thema adiectīvī positīvī, et <span class=\"greek\">-τατος/-τάτη/-τατον</span> (superlātīvus, eōdem patrōnō dēclīnātus) — patrōnus regulāris, applicābilis ad maiōrem partem adiectīvōrum Graecōrum.</p>",
+    "rules": [
+      {
+        "heading": "a) Comparātiō Regulāris",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Positīvus</th><th>Comparātīvus</th><th>Superlātīvus</th></tr></thead><tbody><tr><td class=\"greek\">σοφός</td><td class=\"greek\">σοφώτερος</td><td class=\"greek\">σοφώτατος</td></tr><tr><td class=\"greek\">δεινός</td><td class=\"greek\">δεινότερος</td><td class=\"greek\">δεινότατος</td></tr><tr><td class=\"greek\">δίκαιος</td><td class=\"greek\">δικαιότερος</td><td class=\"greek\">δικαιότατος</td></tr></tbody></table><p>Comparātīvus/superlātīvus dēclīnantur exāctē sīcut adiectīva classis prīmae (patrōnus καλός/καλή/καλόν, Gradū II): <span class=\"greek\">σοφώτερος, σοφωτέρου, σοφωτέρῳ...</span> — nūlla novitās morphologica praeter suffixum ipsum.</p>"
+      },
+      {
+        "heading": "b) Comparātiō Suppletīva (Themata Dīversa)",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Positīvus</th><th>Comparātīvus</th><th>Superlātīvus</th></tr></thead><tbody><tr><td class=\"greek\">ἀγαθός (bonus)</td><td class=\"greek\">ἀμείνων</td><td class=\"greek\">ἄριστος</td></tr><tr><td class=\"greek\">κακός (malus)</td><td class=\"greek\">κακίων / χείρων</td><td class=\"greek\">κάκιστος / χείριστος</td></tr><tr><td class=\"greek\">μέγας (magnus)</td><td class=\"greek\">μείζων</td><td class=\"greek\">μέγιστος</td></tr><tr><td class=\"greek\">πολύς (multus)</td><td class=\"greek\">πλείων</td><td class=\"greek\">πλεῖστος</td></tr></tbody></table><p>Comparā cum Latīnō “bonus, melior, optimus”: eadem logica suppletīva — themata comparātīvī/superlātīvī dērīvantur ā rādīcibus antīquīs dīversīs, memoriae mandandae sīgillātim (exāctē sīcut “bonus/melior/optimus” Latīnē). Fōrmae comparātīvae suppletīvae hīc (ἀμείνων, μείζων...) sequuntur patrōnum tertiae dēclīnātiōnis (thema in -ον-, similis ad patrōnōs iam nōtōs).</p>"
+      },
+      {
+        "heading": "c) Cāsus Post Comparātīvum",
+        "body": "<p>“Quam” post comparātīvum exprimitur duōbus modīs: (1) <strong>genetīvus comparātiōnis</strong>, sine coniūnctiōne: <span class=\"greek\">σοφώτερός ἐστιν ἐμοῦ</span> “sapientior est mē” (litt. “meī”); (2) <span class=\"greek\">ἤ</span> (“quam”) + eundem cāsum ac prīmum terminum comparātiōnis: <span class=\"greek\">σοφώτερός ἐστιν ἢ ἐγώ</span> “sapientior est quam ego” (ambō nōminātīvō, quia comparantur duo subiecta). Ambae cōnstrūctiōnēs sunt frequentēs et corrēctae; genetīvus est stylisticē concīsior.</p>"
+      }
+    ],
+    "examples": [
+      "ὁ Σωκράτης σοφώτερός ἐστι τῶν ἄλλων. — Sōcratēs sapientior est cēterīs. (genetīvus comparātiōnis)",
+      "αὕτη ἡ πόλις μεγίστη ἐστίν. — Haec urbs maxima est. (superlātīvus, dēmōnstrātīvum ex lēctiōne priōre)",
+      "ὁ ἀγαθὸς ἀνὴρ ἀμείνων ἐστὶ τοῦ κακοῦ. — Vir bonus melior est malō. (comparātiō suppletīva)",
+      "τίς ἄριστος τῶν στρατιωτῶν; — Quis optimus est mīlitum? (superlātīvus suppletīvus)",
+      "πλείονας φίλους ἔχω ἢ σύ. — Plūrēs amīcōs habeō quam tū. (ἤ + eundem cāsum)",
+      "τοῦτο τὸ βιβλίον δεινότερόν ἐστιν ἐκείνου. — Hic liber terribilior est illō. (comparātiō regulāris + dēmōnstrātīva)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Applicāre suffixum regulārem (-τερος/-τατος) ad ἀγαθός, κακός, μέγας, πολύς, prōdūcendō *ἀγαθότερος.",
+        "right": "Memoriae mandāre themata suppletīva huius classis frequentissimae, exāctē sīcut “bonus/melior/optimus” Latīnē.",
+        "why": "Adiectīva frequentissima Graeca (sīcut in maiōre parte linguārum Indoeuropaeārum) tendunt retinēre fōrmās antīquās suppletīvas."
+      },
+      {
+        "wrong": "Adhibēre ἤ SINE mūtāre cāsum ad eundem ac prīmus terminus comparātiōnis.",
+        "right": "Recordārī post ἤ, secundus terminus comparātiōnis accipit eundem cāsum ac prīmus (nōn genetīvum automatē).",
+        "why": "Discrīmen inter cōnstrūctiōnem genetīvī (sine ἤ) et cōnstrūctiōnem ἤ (cum cāsū concordante) est syntactica, nōn interconfūsibilis."
+      },
+      {
+        "wrong": "Crēdere comparātīvōs suppletīvōs (ἀμείνων, μείζων) esse indēclīnābilēs, propter fōrmam vīsū irregulārem.",
+        "right": "Dēclīnāre eōs sequēns patrōnum tertiae dēclīnātiōnis (thema in -ον-), sīcut cēterī comparātīvī hōc themate.",
+        "why": "Suppletiō afficit tantum thema lexicāle, nōn processum morphologicum ipsum dēclīnātiōnis."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "iii-comp1-mc",
+      "type": "multiple-choice",
+      "title": "Comparātiō: Rēgulae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "comp1a",
+          "prompt": "Quod suffixum fōrmat comparātīvum regulārem?",
+          "options": [
+            "-τατος",
+            "-τερος",
+            "-ιστος"
+          ],
+          "answerIndex": 1,
+          "explanation": "-τερος/-τέρα/-τερον fōrmat comparātīvum."
+        },
+        {
+          "id": "comp1b",
+          "prompt": "Quae est fōrma comparātīva suppletīva ἀγαθός?",
+          "options": [
+            "ἀγαθότερος",
+            "ἀμείνων",
+            "ἄριστος"
+          ],
+          "answerIndex": 1,
+          "explanation": "Ἀμείνων est comparātīvus suppletīvus; ἄριστος est superlātīvus."
+        },
+        {
+          "id": "comp1c",
+          "prompt": "Quōmodo exprimitur “quam” post comparātīvum, SINE coniūnctiōne?",
+          "options": [
+            "accūsātīvō",
+            "genetīvō comparātiōnis",
+            "datīvō"
+          ],
+          "answerIndex": 1,
+          "explanation": "Genetīvus comparātiōnis exprimit “quam” sine coniūnctiōne ἤ."
+        },
+        {
+          "id": "comp1d",
+          "prompt": "Quem cāsum accipit secundus terminus post ἤ?",
+          "options": [
+            "semper genetīvum",
+            "eundem cāsum ac prīmus terminus",
+            "semper accūsātīvum"
+          ],
+          "answerIndex": 1,
+          "explanation": "Post ἤ, ambō terminī comparātiōnis accipiunt eundem cāsum."
+        },
+        {
+          "id": "comp1e",
+          "prompt": "Quam dēclīnātiōnem sequuntur comparātīvī suppletīvī (ἀμείνων, μείζων)?",
+          "options": [
+            "prīmam",
+            "tertiam (thema -ον-)",
+            "secundam"
+          ],
+          "answerIndex": 1,
+          "explanation": "Sequuntur tertiam dēclīnātiōnem, thema cōnsonanticum in -ον-."
+        }
+      ]
+    },
+    {
+      "id": "iii-comp1-fill",
+      "type": "fill-blank",
+      "title": "Complē cum Fōrmā Rēctā",
+      "instructions": "Comple spatia cum fōrmā rēctā comparātīvī vel superlātīvī.",
+      "items": [
+        {
+          "id": "comp1f",
+          "prompt": "ὁ Σωκράτης ___ ἐστι τῶν ἄλλων. (comparātīvus, σοφός)",
+          "options": [
+            "σοφώτερος",
+            "σοφότατος",
+            "σοφός"
+          ],
+          "answers": [
+            "σοφώτερος"
+          ],
+          "explanation": "Comparātīvus regulāris: σοφώτερος."
+        },
+        {
+          "id": "comp1g",
+          "prompt": "αὕτη ἡ πόλις ___ ἐστιν. (superlātīvus, μέγας, “maxima”)",
+          "options": [
+            "μεγίστη",
+            "μείζων",
+            "μεγάλη"
+          ],
+          "answers": [
+            "μεγίστη"
+          ],
+          "explanation": "Superlātīvus suppletīvus (fem.): μεγίστη."
+        },
+        {
+          "id": "comp1h",
+          "prompt": "ὁ ἀγαθὸς ἀνὴρ ___ ἐστι τοῦ κακοῦ. (comparātīvus, ἀγαθός, “melior”)",
+          "options": [
+            "ἀμείνων",
+            "ἀγαθότερος",
+            "ἄριστος"
+          ],
+          "answers": [
+            "ἀμείνων"
+          ],
+          "explanation": "Comparātīvus suppletīvus: ἀμείνων."
+        },
+        {
+          "id": "comp1i",
+          "prompt": "τίς ___ τῶν στρατιωτῶν; (superlātīvus, ἀγαθός, “optimus”)",
+          "options": [
+            "ἄριστος",
+            "ἀμείνων",
+            "ἀγαθώτατος"
+          ],
+          "answers": [
+            "ἄριστος"
+          ],
+          "explanation": "Superlātīvus suppletīvus: ἄριστος."
+        },
+        {
+          "id": "comp1j",
+          "prompt": "πλείονας φίλους ἔχω ___ σύ. (“quam”, cum eōdem cāsū)",
+          "options": [
+            "ἤ",
+            "τοῦ",
+            "καί"
+          ],
+          "answers": [
+            "ἤ"
+          ],
+          "explanation": "Ἤ intrōdūcit secundum terminum comparātiōnis cum eōdem cāsū."
+        }
+      ]
+    },
+    {
+      "id": "iii-comp1-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "comp1k",
+          "statement": "Ἀγαθός, κακός, μέγας, πολύς fōrmant comparātīvum/superlātīvum suum cum themate omnīnō dīversō (suppletiō).",
+          "answer": true,
+          "explanation": "Corrēctum: patrōnus suppletīvus, comparābilis “bonus/melior/optimus” Latīnō."
+        },
+        {
+          "id": "comp1l",
+          "statement": "Comparātīvī/superlātīvī regulārēs dēclīnantur exāctē sīcut adiectīva classis prīmae.",
+          "answer": true,
+          "explanation": "Corrēctum: patrōnus καλός/καλή/καλόν applicātur."
+        },
+        {
+          "id": "comp1m",
+          "statement": "Genetīvus comparātiōnis requīrit semper coniūnctiōnem ἤ.",
+          "answer": false,
+          "explanation": "Falsum: genetīvus comparātiōnis exprimit “quam” SINE coniūnctiōne; ἤ est alternātīva syntactica."
+        },
+        {
+          "id": "comp1n",
+          "statement": "Comparātīvī suppletīvī (ἀμείνων) sunt indēclīnābilēs.",
+          "answer": false,
+          "explanation": "Falsum: dēclīnantur sequēns patrōnum tertiae dēclīnātiōnis."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Comparātiō regulāris: -τερος/-τέρα/-τερον (comparātīvus), -τατος/-τάτη/-τατον (superlātīvus) — dēclīnātī ut adiectīva classis prīmae.",
+    "Comparātiō suppletīva (ἀγαθός→ἀμείνων→ἄριστος, κακός, μέγας, πολύς): themata dīversa, memoriae mandanda sīgillātim.",
+    "“Quam” post comparātīvum: genetīvus comparātiōnis (sine coniūnctiōne) VEL ἤ + eundem cāsum ac prīmus terminus.",
+    "Gradus III conclūditur: dēclīnātiō tertia (cōnsonantica/vōcālica), adiectīva tertiae dēclīnātiōnis, verba contracta, imperfectum, futūrum, relātīvum, dēmōnstrātīva, comparātiō — fundāmentum prō lēctiōne prōsae adaptātae (Gradus VI) iam positum."
+  ],
+  "related": [
+    {
+      "lessonId": "iii-pronomina-demonstrativa",
+      "label": "Prōnōmina Dēmōnstrātīva"
+    },
+    {
+      "lessonId": "ii-adverbia-et-negatio",
+      "label": "Adverbia et Negātiō (Gradus II)"
+    }
+  ]
+}

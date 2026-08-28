@@ -1,0 +1,249 @@
+{
+  "id": "iii-declinatio-tertia-consonantica",
+  "level": "III",
+  "unit": "1",
+  "order": 1,
+  "skill": "grammatica",
+  "strand": "declinatio-tertia",
+  "title": "Dēclīnātiō Tertia: Themata Cōnsonantica",
+  "subtitle": "Nōmina tertiae dēclīnātiōnis cum themate cōnsonanticō: velāria/labiālia (φύλαξ), dentālia neutra in -μα (σῶμα), et liquida/nāsālia (ῥήτωρ).",
+  "prerequisites": [
+    "ii-numeri-cardinales-1-100"
+  ],
+  "objectives": [
+    "Recitāre dēsinentiās commūnēs tertiae dēclīnātiōnis (-ος, -ι, -α/-ν, -ες, -ων, -σι(ν), -ας)",
+    "Dēclīnāre plēnē nōmen cōnsonāns velāre (φύλαξ) et neutrum in -μα (σῶμα)",
+    "Explicāre cūr nōminātīvus singulāris saepe differt ā themate vīsibilī in cāsibus obliquīs (κ+ς→ξ, τ cadit ante σ)",
+    "Recognōscere tertiam dēclīnātiōnem esse maximē varia ex tribus dēclīnātiōnibus, sed sequī tamen patrōnum dēsinentiārum commūnem"
+  ],
+  "content": {
+    "intro": "Tertia dēclīnātiō — ultima et maximē varia trium dēclīnātiōnum Graecārum — continet nōmina cuiuslibet generis, dēclīnāta nōn per vōcālem thematicam (ut -ος/-η/-α), sed per <strong>thema cōnsonanticum vel vōcālicum antīquum</strong> plus dēsinentiās commūnēs. Prīma impressiō (multa themata dīversa) potest vidērī chaotica, sed omnēs subclassēs sequuntur eāsdem dēsinentiās fundāmentālēs — sōlum interāctiō inter thema et dēsinentiam variat.",
+    "explanation": "<p>Dēsinentiae commūnēs tertiae dēclīnātiōnis (applicandae ad thema cōnsonanticum vel vōcālicum): gen. sg. <span class=\"greek\">-ος</span>, dat. sg. <span class=\"greek\">-ι</span>, acc. sg. <span class=\"greek\">-α</span> (masc./fem.) vel nihil-additum (neutrum), nōm./gen./acc. pl. <span class=\"greek\">-ες/-ων/-ας</span>, dat. pl. <span class=\"greek\">-σι(ν)</span>. Nōminātīvus singulāris est saepe fōrma modificāta (per rēgulās phōnologicās) themae + ς, vel thema sōlum sine dēsinentiā — hinc variātiō vīsibilis inter “fōrmam citātiōnis” (nōminātīvum) et thema reāle vīsibile in cēterīs cāsibus.</p>",
+    "rules": [
+      {
+        "heading": "a) Thema Velāre: φύλαξ, φύλακος (cūstōs)",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Cāsus</th><th>Singulāris</th><th>Plūrālis</th></tr></thead><tbody><tr><td>Nōm.</td><td class=\"greek\">φύλαξ</td><td class=\"greek\">φύλακες</td></tr><tr><td>Gen.</td><td class=\"greek\">φύλακος</td><td class=\"greek\">φυλάκων</td></tr><tr><td>Dat.</td><td class=\"greek\">φύλακι</td><td class=\"greek\">φύλαξι(ν)</td></tr><tr><td>Acc.</td><td class=\"greek\">φύλακα</td><td class=\"greek\">φύλακας</td></tr><tr><td>Voc.</td><td class=\"greek\">φύλαξ</td><td class=\"greek\">φύλακες</td></tr></tbody></table><p>Thema reāle est <span class=\"greek\">φυλακ-</span> (vīsibile in genetīvō, datīvō, accūsātīvō); nōminātīvus singulāris combīnat thema + ς, sed κ+ς fundītur in ξ (comparā ψ=πς/βς/φς, ex Gradū I) — hinc <span class=\"greek\">φύλαξ</span>, nōn *φύλακς. Idem occurrit in datīvō plūrālī: κ+σι → ξι.</p>"
+      },
+      {
+        "heading": "b) Neutrum in -μα: σῶμα, σώματος (corpus)",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Cāsus</th><th>Singulāris</th><th>Plūrālis</th></tr></thead><tbody><tr><td>Nōm./Acc./Voc.</td><td class=\"greek\">σῶμα</td><td class=\"greek\">σώματα</td></tr><tr><td>Gen.</td><td class=\"greek\">σώματος</td><td class=\"greek\">σωμάτων</td></tr><tr><td>Dat.</td><td class=\"greek\">σώματι</td><td class=\"greek\">σώμασι(ν)</td></tr></tbody></table><p>Thema reāle est <span class=\"greek\">σωματ-</span> (nōtā τ vīsibile in genetīvō/datīvō/plūrālī). Nōminātīvus singulāris neutrum omittit dēsinentiam et τ fīnāle simul (thema nūdum: <span class=\"greek\">σῶμα</span>, nōn *σῶματ) — rēgula aurea neutrōrum (nōm.=acc.=voc.) valet hīc quoque. Datīvus plūrālis: τ cadit ante σ (<span class=\"greek\">σώματ-σι</span> → <span class=\"greek\">σώμασι</span>), phaenomenon commūne omnibus themātibus dentālibus (τ, δ, θ) ante σ. Haec classis (-μα, genetīvus -ματος) est EXTRĒME frequēns: <span class=\"greek\">ὄνομα</span> (nōmen, iam vīsum Gradū I), <span class=\"greek\">πρᾶγμα</span> (rēs, negōtium), <span class=\"greek\">γράμμα</span> (littera).</p>"
+      },
+      {
+        "heading": "c) Thema Liquidum/Nāsāle: ῥήτωρ, ῥήτορος (ōrātor)",
+        "body": "<p>Themata fīnīta λ, ρ, ν sequuntur patrōnum similem, sine mūtātiōne cōnsonantis in nōminātīvō (quia λ/ρ/ν nōn fundunt cum ς sīcut occlūsīvae): <span class=\"greek\">ῥήτωρ, ῥήτορος, ῥήτορι, ῥήτορα</span> (sg.) — <span class=\"greek\">ῥήτορες, ῥητόρων, ῥήτορσι(ν), ῥήτορας</span> (pl.). Nōminātīvus hīc saepe monstrat vōcālem allongātam (ω prō ο, vestīgium historicum) comparātum cum themate obliquō (ρήτορ-) — patrōnus commūnis in nōminibus agentis huius classis.</p>"
+      }
+    ],
+    "examples": [
+      "ὁ φύλαξ τῆς πόλεως. — Cūstōs urbis. (φύλαξ nōm.; nōtā πόλεως, vōcālicum, quam mox vidēbis)",
+      "τὸ σῶμα τοῦ ἀνθρώπου. — Corpus hominis.",
+      "τὰ σώματα τῶν στρατιωτῶν. — Corpora mīlitum. (plūrāle neutrum)",
+      "ὁ ῥήτωρ καλῶς λέγει. — Ōrātor bene loquitur. (adverbium ex Gradū II)",
+      "τοῖς φύλαξι πιστεύομεν. — Cūstōdibus crēdimus/cōnfīdimus. (datīvus plūrālis)",
+      "τὰ πράγματα τῆς πόλεως. — Rēs/negōtia urbis. (alia -μα-classis)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Crēdere nōminātīvum singulārem (φύλαξ) monstrāre thema reāle, quaerendō genetīvum *φύλαξος prō φύλακος.",
+        "right": "Semper cōnsīderāre genetīvum (vel aliōs cāsūs obliquōs) ut fontem themātis reālis; nōminātīvus subit saepe mūtātiōnēs phōnologicās.",
+        "why": "Tertia dēclīnātiō requīrit discere thema (nōn sōlum nōminātīvum) cum quōque nōmine novō — convention dictiōnāriōrum reflectit hoc, citandō nōm. + gen."
+      },
+      {
+        "wrong": "Retinēre τ in nōminātīvō singulārī nōminum in -μα, scrībendo *σῶματ prō σῶμα.",
+        "right": "Recordārī nōminātīvus/accūsātīvus/vocātīvus neutrī omittit τ fīnāle themātis: σῶμα, nōn σῶματ.",
+        "why": "Combīnātiō consonantium τ+nihil (sine vōcālī sequente) nōn est permissa in fine verbī Graecī classicī."
+      },
+      {
+        "wrong": "Retinēre τ ante σ in datīvō plūrālī, scrībendo *σώματσι prō σώμασι.",
+        "right": "Recordārī cōnsonantēs dentālēs (τ, δ, θ) semper cadunt ante σ, per tōtam morphologiam Graecam.",
+        "why": "Combīnātiō τσ nōn exsistit in Graecō prōnūntiātō; simplificātiō ad σ sōlam est rēgula sine exceptiōne."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "iii-dec3-mc",
+      "type": "multiple-choice",
+      "title": "Dēclīnātiō Tertia Cōnsonantica: Rēgulae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "dec3a",
+          "prompt": "Quod est thema reāle nōminis φύλαξ (vīsibile in genetīvō)?",
+          "options": [
+            "φυλαξ-",
+            "φυλακ-",
+            "φυλα-"
+          ],
+          "answerIndex": 1,
+          "explanation": "Genetīvus φύλακος revēlat thema φυλακ-; nōminātīvus fundit κ+ς in ξ."
+        },
+        {
+          "id": "dec3b",
+          "prompt": "Cūr σῶμα nōn scrībitur *σῶματ in nōminātīvō?",
+          "options": [
+            "error orthographicus antīquus",
+            "τ fīnāle cadit in nōm./acc./voc. neutrī, rēgula phōnologica",
+            "σῶμα nōn est nōmen tertiae dēclīnātiōnis"
+          ],
+          "answerIndex": 1,
+          "explanation": "Cōnsonāns dentālis fīnālis (τ) nōn potest stāre sōla in fine verbī sine vōcālī sequente."
+        },
+        {
+          "id": "dec3c",
+          "prompt": "Quae dēsinentia est datīvus plūrālis tertiae dēclīnātiōnis?",
+          "options": [
+            "-οις",
+            "-σι(ν)",
+            "-ων"
+          ],
+          "answerIndex": 1,
+          "explanation": "-σι(ν) est dēsinentia commūnis datīvī plūrālis tertiae dēclīnātiōnis, distīncta ā secundā (-οις)."
+        },
+        {
+          "id": "dec3d",
+          "prompt": "Quid accidit τ ante σ (ut in σώματ-σι)?",
+          "options": [
+            "nihil, manet τ",
+            "τ cadit: σώμασι",
+            "τ fit σ geminātum"
+          ],
+          "answerIndex": 1,
+          "explanation": "Cōnsonantēs dentālēs cadunt semper ante σ."
+        },
+        {
+          "id": "dec3e",
+          "prompt": "Quae classis nōminum est ὄνομα, πρᾶγμα, γράμμα?",
+          "options": [
+            "prīma dēclīnātiō",
+            "neutra tertiae dēclīnātiōnis in -μα (gen. -ματος)",
+            "secunda dēclīnātiō"
+          ],
+          "answerIndex": 1,
+          "explanation": "Omnia sunt exempla frequentia classis neutrae -μα/-ματος."
+        }
+      ]
+    },
+    {
+      "id": "iii-dec3-fill",
+      "type": "fill-blank",
+      "title": "Complē Fōrmam Rēctam",
+      "instructions": "Comple spatia cum fōrmā rēctā dēclīnātiōnis tertiae.",
+      "items": [
+        {
+          "id": "dec3f",
+          "prompt": "φύλαξ, genetīvus singulāris: ___",
+          "options": [
+            "φύλακος",
+            "φύλαξος",
+            "φύλακι"
+          ],
+          "answers": [
+            "φύλακος"
+          ],
+          "explanation": "Genetīvus revēlat thema φυλακ-: φύλακος."
+        },
+        {
+          "id": "dec3g",
+          "prompt": "σῶμα, genetīvus plūrālis: ___",
+          "options": [
+            "σωμάτων",
+            "σωμάτων",
+            "σωμάτος"
+          ],
+          "answers": [
+            "σωμάτων"
+          ],
+          "explanation": "Genetīvus plūrālis: σωμάτων."
+        },
+        {
+          "id": "dec3h",
+          "prompt": "φύλαξ, datīvus plūrālis: ___",
+          "options": [
+            "φύλαξι",
+            "φύλακσι",
+            "φύλακοις"
+          ],
+          "answers": [
+            "φύλαξι"
+          ],
+          "explanation": "Κ+σι → ξι: φύλαξι(ν)."
+        },
+        {
+          "id": "dec3i",
+          "prompt": "σῶμα, nōminātīvus plūrālis: ___",
+          "options": [
+            "σώματα",
+            "σώματοι",
+            "σώματος"
+          ],
+          "answers": [
+            "σώματα"
+          ],
+          "explanation": "Nōminātīvus plūrālis neutrī: -α (σώματα)."
+        },
+        {
+          "id": "dec3j",
+          "prompt": "ῥήτωρ, genetīvus singulāris: ___",
+          "options": [
+            "ῥήτορος",
+            "ῥήτωρος",
+            "ῥήτορι"
+          ],
+          "answers": [
+            "ῥήτορος"
+          ],
+          "explanation": "Genetīvus revēlat thema ρητορ-: ῥήτορος (ω nōminātīvī reducitur ad ο)."
+        }
+      ]
+    },
+    {
+      "id": "iii-dec3-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "dec3k",
+          "statement": "Nōminātīvus singulāris tertiae dēclīnātiōnis semper monstrat thema reāle sine mūtātiōne.",
+          "answer": false,
+          "explanation": "Falsum: nōminātīvus subit frequenter mūtātiōnēs phōnologicās (κ+ς→ξ, τ cadit, etc.)."
+        },
+        {
+          "id": "dec3l",
+          "statement": "Datīvus plūrālis tertiae dēclīnātiōnis fīnītur semper -σι(ν).",
+          "answer": true,
+          "explanation": "Corrēctum: -σι(ν) est dēsinentia commūnis, distīncta ā secundā/prīmā dēclīnātiōne."
+        },
+        {
+          "id": "dec3m",
+          "statement": "Nōmina neutra in -μα fīniunt genetīvum singulārem -ματος.",
+          "answer": true,
+          "explanation": "Corrēctum: patrōnum commūne huius classis extrēmē frequentis."
+        },
+        {
+          "id": "dec3n",
+          "statement": "Cōnsonantēs dentālēs (τ, δ, θ) manent inalterātae ante σ in fōrmīs tertiae dēclīnātiōnis.",
+          "answer": false,
+          "explanation": "Falsum: semper cadunt ante σ."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Dēsinentiae commūnēs tertiae dēclīnātiōnis: gen. -ος, dat. -ι, acc. -α (m./f.), nōm./gen./acc. pl. -ες/-ων/-ας, dat. pl. -σι(ν).",
+    "Φύλαξ (thema φυλακ-): κ+ς fundītur in ξ in nōminātīvō/datīvō plūrālī.",
+    "Σῶμα (thema σωματ-): τ cadit in nōm./acc./voc. sg. (rēgula aurea neutrōrum) et ante σ in datīvō plūrālī.",
+    "Ῥήτωρ (thema liquidum/nāsāle): nōminātīvus saepe monstrat vōcālem allongātam (ω) vs. thema obliquum (ο).",
+    "Thema reāle (nōn nōminātīvus) est fundamentum ā quō omnēs cāsūs obliquī fōrmantur — semper cōnsīderāre genetīvum prīmum."
+  ],
+  "related": [
+    {
+      "lessonId": "iii-declinatio-tertia-vocalica",
+      "label": "Dēclīnātiō Tertia Vōcālica"
+    },
+    {
+      "lessonId": "iii-adiectiva-tertiae-declinationis",
+      "label": "Adiectīva Tertiae Dēclīnātiōnis"
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "id": "iii-verba-contracta-in-eo",
+  "level": "III",
+  "unit": "1",
+  "order": 4,
+  "skill": "grammatica",
+  "strand": "verba-contracta",
+  "title": "Verba Contracta in -έω",
+  "subtitle": "Verba cūius thema fīnītur ε contractum cum dēsinentiā (φιλέω → φιλῶ); rēgulae contractiōnis ε + vōcālis.",
+  "prerequisites": [
+    "iii-adiectiva-tertiae-declinationis"
+  ],
+  "objectives": [
+    "Coniugāre plēnē praesēns indicātīvum āctīvum verbī φιλέω (φιλῶ, amō, dīligō)",
+    "Applicāre rēgulās contractiōnis fundāmentālēs: ε+ε→ει, ε+ο→ου, ε+ω→ω, ε+ει→ει, ε+ου→ου",
+    "Reconhōscere fōrmam contractam ut identicam sonō/fōrmā dēsinentiīs iam nōtīs (λύω), differentem sōlum in accentū/scrīptūrā propter contractiōnem",
+    "Formāre īnfīnītīvum contractum (φιλεῖν) et intellegere cūr fōrma vīsa differat ā λύειν"
+  ],
+  "content": {
+    "intro": "Multa verba Graeca frequentissima — <span class=\"greek\">φιλέω</span> (amō), <span class=\"greek\">ποιέω</span> (faciō), <span class=\"greek\">ζητέω</span> (quaerō) — habent thema fīnītum vōcālī brevī (ε, α, vel ο) quae CONTRAHITUR cum vōcālī thematicā/dēsinentiā sequente, prōdūcēns fōrmās vīsū dīversās ā λύω sed subiacentī eandem dēsinentiam. Dictiōnāria citant hoc verbum fōrmā nōn-contractā (φιλέω, prō claritāte historicā), sed ūsus classicus semper adhibet fōrmam CONTRACTAM (φιλῶ).",
+    "explanation": "<p>Contractiō occurrit quandō duae vōcālēs adiacentēs (thema in ε + vōcālis initiālis dēsinentiae) fundunt in ūnam vōcālem vel diphthongum, secundum rēgulās phōnēticas fīxās. Semel rēgulae discitae, coniugātiō integra derivātur mechanicē ā fōrmā nōn-contractā (quam dictiōnāria dant) applicandō rēgulās.</p>",
+    "rules": [
+      {
+        "heading": "a) Praesēns Āctīvum Contractum: φιλέω → φιλῶ",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Persōna</th><th>Fōrma Nōn-Contracta</th><th>Fōrma Contracta</th></tr></thead><tbody><tr><td>1ª sg.</td><td class=\"greek\">φιλέω</td><td class=\"greek\">φιλῶ</td></tr><tr><td>2ª sg.</td><td class=\"greek\">φιλέεις</td><td class=\"greek\">φιλεῖς</td></tr><tr><td>3ª sg.</td><td class=\"greek\">φιλέει</td><td class=\"greek\">φιλεῖ</td></tr><tr><td>1ª pl.</td><td class=\"greek\">φιλέομεν</td><td class=\"greek\">φιλοῦμεν</td></tr><tr><td>2ª pl.</td><td class=\"greek\">φιλέετε</td><td class=\"greek\">φιλεῖτε</td></tr><tr><td>3ª pl.</td><td class=\"greek\">φιλέουσι(ν)</td><td class=\"greek\">φιλοῦσι(ν)</td></tr></tbody></table><p>Īnfīnītīvus: <span class=\"greek\">φιλέειν</span> → <span class=\"greek\">φιλεῖν</span>. Ūsus classicus adhibet SEMPER fōrmam contractam; fōrma nōn-contracta hīc data est sōlum ut auxilium prō rēgulā, nōn ut fōrma authentica reāliter scrīpta.</p>"
+      },
+      {
+        "heading": "b) Rēgulae Contractiōnis (ε + vōcālis)",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Combīnātiō</th><th>Resultat</th></tr></thead><tbody><tr><td class=\"greek\">ε + ε</td><td class=\"greek\">ει</td></tr><tr><td class=\"greek\">ε + ο</td><td class=\"greek\">ου</td></tr><tr><td class=\"greek\">ε + ει</td><td class=\"greek\">ει</td></tr><tr><td class=\"greek\">ε + ου</td><td class=\"greek\">ου</td></tr><tr><td class=\"greek\">ε + ω</td><td class=\"greek\">ω</td></tr></tbody></table><p>Mnēmonicum simplex: ε “cēdit” ferē semper vōcālī sequentī, praeter cum illa est ipsa ε (→ ει) — regula generālis “vōcālis longior/posterior vincit”. Nōn est necesse memoriae mandāre omnem combīnātiōnem sīgillātim sī haec logica intellēcta est.</p>"
+      },
+      {
+        "heading": "c) Cūr Contractiō Exsistit",
+        "body": "<p>Historicē, thema huius classis verbōrum fīniēbātur cōnsonante (nunc perditā, ut *φιλεσ- vel similis), quae inter duās vōcālēs periit (comparā σ intervōcālicum in vōce mediā, Gradū II) — relinquēns duās vōcālēs adiacentēs quae posteā contractae sunt. Sōnus contractus sonat “pondus” metricum ūnīus longae syllabae, etsī scrīptūra combīnat duo elementa historica — phaenomenon idem quod diphthongī falsae (ει, ου) ex cursū Latīnō/Graecō āthomologum antīquitātī phōnologiae.</p>"
+      }
+    ],
+    "examples": [
+      "φιλῶ τὴν πατρίδα. — Amō patriam. (1ª sg. contracta)",
+      "τί ποιεῖς; — Quid facis? (2ª sg., ποιέω → ποιεῖς)",
+      "ζητοῦμεν τὴν ἀλήθειαν. — Quaerimus vēritātem. (1ª pl., ζητέω → ζητοῦμεν)",
+      "οἱ πολῖται φιλοῦσι τὴν πόλιν. — Cīvēs amant urbem. (3ª pl.)",
+      "βούλεται ποιεῖν τὸ ἀγαθόν. — Vult facere bonum. (īnfīnītīvus contractus)",
+      "φιλεῖς με; — Amāsne mē? (2ª sg., interrogātiō)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Scrībere fōrmam nōn-contractam (φιλέω, φιλέεις...) tamquam fōrmam authenticam ūsūs classicī.",
+        "right": "Semper adhibēre fōrmam contractam (φιλῶ, φιλεῖς...) — fōrma nōn-contracta est tantum auxilium didacticum.",
+        "why": "Fōrma nōn-contracta nōn appāret in prōsā Atticā classicā; est reconstructiō/citātiō ā dictiōnāriīs, nōn fōrma reāliter scrīpta."
+      },
+      {
+        "wrong": "Cōnfundere φιλῶ (1ª sg. praesentis) cum φιλῶν (participium, quod posteā vidēbis) propter similitūdinem vīsuālem.",
+        "right": "Attendere accentum et contextum: φιλῶ (verbum fīnītum, oxytonum) vs. φιλῶν (participium, fōrma dīversa).",
+        "why": "Similitūdō superficiālis inter fōrmās contractas potest crēāre cōnfūsiōnem sine attentiōne ad contextum."
+      },
+      {
+        "wrong": "Applicāre rēgulam ε+ο→ου etiam ubi vōcālis sequēns est ω, prōdūcendō *φιλοῦ prō φιλῶ.",
+        "right": "Recordārī ε+ω→ω (ω vincit, nōn contrahitur in ου); rēgula distīncta ā ε+ο→ου.",
+        "why": "Discrīmen inter ο breve et ω longum in dēsinentiā prōdūcit resultāta contractiōnis dīversa."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "iii-con3-fill",
+      "type": "fill-blank",
+      "title": "Coniugā φιλέω (Contractum)",
+      "instructions": "Comple spatia cum fōrmā contractā rēctā.",
+      "items": [
+        {
+          "id": "con3a",
+          "prompt": "Ἐγὼ ___ τὴν πατρίδα. (1ª sg.)",
+          "options": [
+            "φιλῶ",
+            "φιλεῖς",
+            "φιλοῦμεν"
+          ],
+          "answers": [
+            "φιλῶ"
+          ],
+          "explanation": "Prīma persōna singulāris contracta: φιλῶ (ε+ω→ω)."
+        },
+        {
+          "id": "con3b",
+          "prompt": "Σὺ τί ___; (2ª sg.)",
+          "options": [
+            "ποιεῖς",
+            "ποιῶ",
+            "ποιοῦμεν"
+          ],
+          "answers": [
+            "ποιεῖς"
+          ],
+          "explanation": "Secunda persōna singulāris: ποιεῖς (ε+εις→εις)."
+        },
+        {
+          "id": "con3c",
+          "prompt": "Ὁ διδάσκαλος ___ τὴν ἀλήθειαν. (3ª sg.)",
+          "options": [
+            "ζητεῖ",
+            "ζητοῦσιν",
+            "ζητῶ"
+          ],
+          "answers": [
+            "ζητεῖ"
+          ],
+          "explanation": "Tertia persōna singulāris: ζητεῖ (ε+ει→ει)."
+        },
+        {
+          "id": "con3d",
+          "prompt": "Ἡμεῖς ___ τὸ ἀγαθόν. (1ª pl.)",
+          "options": [
+            "ποιοῦμεν",
+            "ποιεῖτε",
+            "ποιῶ"
+          ],
+          "answers": [
+            "ποιοῦμεν"
+          ],
+          "explanation": "Prīma persōna plūrālis: ποιοῦμεν (ε+ομεν→οῦμεν)."
+        },
+        {
+          "id": "con3e",
+          "prompt": "Οἱ πολῖται τὴν πόλιν ___. (3ª pl.)",
+          "options": [
+            "φιλοῦσιν",
+            "φιλεῖ",
+            "φιλῶμεν"
+          ],
+          "answers": [
+            "φιλοῦσιν"
+          ],
+          "explanation": "Tertia persōna plūrālis: φιλοῦσιν (ε+ουσι→οῦσι)."
+        }
+      ]
+    },
+    {
+      "id": "iii-con3-mc",
+      "type": "multiple-choice",
+      "title": "Verba Contracta: Rēgulae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "con3f",
+          "prompt": "Quid resultat ā contractiōne ε + ο?",
+          "options": [
+            "ει",
+            "ου",
+            "ω"
+          ],
+          "answerIndex": 1,
+          "explanation": "Ε+ο→ου, ut in φιλέομεν→φιλοῦμεν."
+        },
+        {
+          "id": "con3g",
+          "prompt": "Adhibeturne fōrma nōn-contracta (φιλέω) in prōsā Atticā classicā?",
+          "options": [
+            "sīc, frequenter",
+            "nōn, sōlum fōrma contracta (φιλῶ) est authentica",
+            "sōlum in poēsī"
+          ],
+          "answerIndex": 1,
+          "explanation": "Fōrma nōn-contracta est tantum auxilium didacticum, nōn ūsus reālis."
+        },
+        {
+          "id": "con3h",
+          "prompt": "Quae est fōrma īnfīnītīvī contractī verbī φιλέω?",
+          "options": [
+            "φιλεῖν",
+            "φιλέειν",
+            "φιλῶν"
+          ],
+          "answerIndex": 0,
+          "explanation": "Φιλέειν contrahitur in φιλεῖν."
+        },
+        {
+          "id": "con3i",
+          "prompt": "Quid resultat ā contractiōne ε + ω?",
+          "options": [
+            "ω",
+            "ου",
+            "ει"
+          ],
+          "answerIndex": 0,
+          "explanation": "Ε+ω→ω: vōcālis longior/posterior (ω) vincit."
+        },
+        {
+          "id": "con3j",
+          "prompt": "Unde orītur necessitās contractiōnis?",
+          "options": [
+            "error scrīptōrum antīquōrum",
+            "cōnsonāns thematis periit historicē, relinquēns vōcālēs adiacentēs",
+            "Graecum semper habuit fōrmās contractas, sine explicātiōne"
+          ],
+          "answerIndex": 1,
+          "explanation": "Perditiō cōnsonantis intervōcālicae historicē prōdūxit vōcālēs adiacentēs, posteā contractās."
+        }
+      ]
+    },
+    {
+      "id": "iii-con3-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "con3k",
+          "statement": "Verba contracta in -έω adhibent semper fōrmam contractam in ūsū classicō.",
+          "answer": true,
+          "explanation": "Corrēctum: fōrma nōn-contracta est tantum auxilium theōricum."
+        },
+        {
+          "id": "con3l",
+          "statement": "Ε + ει contrahitur in ω.",
+          "answer": false,
+          "explanation": "Falsum: ε+ει→ει (ει manet, nōn mūtātur in ω)."
+        },
+        {
+          "id": "con3m",
+          "statement": "Φιλέω et λύω sequuntur fundāmentāliter easdem dēsinentiās, sōlum aliquantum contractās in φιλέω.",
+          "answer": true,
+          "explanation": "Corrēctum: dēsinentiae subiacentēs sunt identicae; contractiō est sōlum effectus phōnologicus superficiālis."
+        },
+        {
+          "id": "con3n",
+          "statement": "Ε + ο contrahitur in ει.",
+          "answer": false,
+          "explanation": "Falsum: ε+ο→ου, nōn ει."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Verba in -έω contrahunt: φιλῶ, φιλεῖς, φιλεῖ // φιλοῦμεν, φιλεῖτε, φιλοῦσι(ν). Īnfīnītīvus: φιλεῖν.",
+    "Rēgulae: ε+ε→ει, ε+ο→ου, ε+ει→ει, ε+ου→ου, ε+ω→ω.",
+    "Ūsus classicus adhibet semper fōrmam contractam; fōrma nōn-contracta est tantum auxilium didacticum.",
+    "Contractiō orītur ex perditiōne historicā cōnsonantis intervōcālicae — phaenomenon parallēlum diphthongīs falsīs (Gradū I)."
+  ],
+  "related": [
+    {
+      "lessonId": "iii-verba-contracta-in-ao-et-oo",
+      "label": "Verba Contracta in -άω et -όω"
+    },
+    {
+      "lessonId": "ii-coniugatio-praesentis-activi",
+      "label": "Coniugātiō Praesentis Āctīvī (Gradus II)"
+    }
+  ]
+}

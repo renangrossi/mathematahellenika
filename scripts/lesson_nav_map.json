@@ -98,7 +98,58 @@
       "ty": "numeri-cardinales-1-100"
     }
   ],
-  "progressus": [],
+  "progressus": [
+    {
+      "slug": "declinatio-tertia-consonantica",
+      "title": "Dēclīnātiō Tertia: Themata Cōnsonantica",
+      "ty": "declinatio-tertia-consonantica"
+    },
+    {
+      "slug": "declinatio-tertia-vocalica",
+      "title": "Dēclīnātiō Tertia: Themata Vōcālica",
+      "ty": "declinatio-tertia-vocalica"
+    },
+    {
+      "slug": "adiectiva-tertiae-declinationis",
+      "title": "Adiectīva Tertiae Dēclīnātiōnis",
+      "ty": "adiectiva-tertiae-declinationis"
+    },
+    {
+      "slug": "verba-contracta-in-eo",
+      "title": "Verba Contracta in -έω",
+      "ty": "verba-contracta-in-eo"
+    },
+    {
+      "slug": "verba-contracta-in-ao-et-oo",
+      "title": "Verba Contracta in -άω et -όω",
+      "ty": "verba-contracta-in-ao-et-oo"
+    },
+    {
+      "slug": "tempus-imperfectum",
+      "title": "Tempus Imperfectum",
+      "ty": "tempus-imperfectum"
+    },
+    {
+      "slug": "tempus-futurum-activum-et-medium",
+      "title": "Tempus Futūrum: Āctīvum et Medium",
+      "ty": "tempus-futurum-activum-et-medium"
+    },
+    {
+      "slug": "pronomen-relativum",
+      "title": "Prōnōmen Relātīvum",
+      "ty": "pronomen-relativum"
+    },
+    {
+      "slug": "pronomina-demonstrativa",
+      "title": "Prōnōmina Dēmōnstrātīva",
+      "ty": "pronomina-demonstrativa"
+    },
+    {
+      "slug": "comparatio-adiectivorum",
+      "title": "Comparātiō Adiectīvōrum",
+      "ty": "comparatio-adiectivorum"
+    }
+  ],
   "media": [],
   "provectus": [],
   "altior": [],

@@ -1,0 +1,248 @@
+{
+  "id": "iii-pronomina-demonstrativa",
+  "level": "III",
+  "unit": "1",
+  "order": 9,
+  "skill": "grammatica",
+  "strand": "pronomina",
+  "title": "Prōnōmina Dēmōnstrātīva",
+  "subtitle": "Οὗτος (hic/iste), ἐκεῖνος (ille), et ὅδε (hic, proximior) — trēs gradūs dēmōnstrātiōnis, cum ūsū attribūtīvō speciālī.",
+  "prerequisites": [
+    "iii-pronomen-relativum"
+  ],
+  "objectives": [
+    "Dēclīnāre plēnē οὗτος, αὕτη, τοῦτο (hic/iste) per omnēs cāsūs, utrōque numerō",
+    "Dēclīnāre ἐκεῖνος, ἐκείνη, ἐκεῖνο (ille), sequēns patrōnum regulārem classis prīmae iam nōtum",
+    "Distinguere trēs gradūs dēmōnstrātiōnis: ὅδε (hic, proximus locūtōrī), οὗτος (iste, proximus audītōrī/contextuī), ἐκεῖνος (ille, distāns)",
+    "Applicāre rēgulam positiōnis speciālem dēmōnstrātīvōrum: semper EXTRĀ articulum-nōmen, numquam intrā (dīversē ab adiectīvīs normālibus)"
+  ],
+  "content": {
+    "intro": "Graecum distinguit TRĒS gradūs dēmōnstrātiōnis, ubi Latīnum classicum habet duo prīncipālia (hic/ille) et Anglicum/Lūsitānicum modernum ūnum sōlum discrīmen (this/that): <span class=\"greek\">ὅδε</span> (“hic”, proximus locūtōrī ipsī, saepe “sequēns” in discursū), <span class=\"greek\">οὗτος</span> (“iste”, proximus audītōrī vel iam mentiōnātus in contextū), et <span class=\"greek\">ἐκεῖνος</span> (“ille”, distāns spatiō vel tempore).",
+    "explanation": "<p>Οὗτος est constrūctum ex articulō (τ-) plūs elementō dēmōnstrātīvō (-αυτ-/-ουτ-), unde fōrmae videntur combīnāre spīritum asperum initiālem cum τ mediāle — patrōnus proprius memoriae mandandus. Ἐκεῖνος, contrā, dēclīnātur exāctē sīcut adiectīvum classis prīmae regulāre (Gradū II, patrōnus καλός), sine ūllā irregulāritāte.</p>",
+    "rules": [
+      {
+        "heading": "a) Οὗτος, Αὕτη, Τοῦτο (hic, iste)",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Cāsus</th><th>Masc. sg.</th><th>Fem. sg.</th><th>Neut. sg.</th></tr></thead><tbody><tr><td>Nōm.</td><td class=\"greek\">οὗτος</td><td class=\"greek\">αὕτη</td><td class=\"greek\">τοῦτο</td></tr><tr><td>Gen.</td><td class=\"greek\">τούτου</td><td class=\"greek\">ταύτης</td><td class=\"greek\">τούτου</td></tr><tr><td>Dat.</td><td class=\"greek\">τούτῳ</td><td class=\"greek\">ταύτῃ</td><td class=\"greek\">τούτῳ</td></tr><tr><td>Acc.</td><td class=\"greek\">τοῦτον</td><td class=\"greek\">ταύτην</td><td class=\"greek\">τοῦτο</td></tr></tbody></table><p>Plūrālis: masc. <span class=\"greek\">οὗτοι, τούτων, τούτοις, τούτους</span> — fem. <span class=\"greek\">αὗται, τούτων, ταύταις, ταύτας</span> — neut. <span class=\"greek\">ταῦτα, τούτων, τούτοις, ταῦτα</span>. Mnēmonicum: quandōcumque τ+ vōcālis long apparet, spīritus est semper lēnis (τούτου); quandōcumque nōn est τ initiāle (nōminātīvus tantum), spīritus est asper (οὗτος, αὕτη).</p>"
+      },
+      {
+        "heading": "b) Ἐκεῖνος, Ἐκείνη, Ἐκεῖνο (ille) — Regulāre",
+        "body": "<p>Dēclīnātur exāctē sīcut adiectīvum classis prīmae regulāre (patrōnus καλός/καλή/καλόν, Gradū II): <span class=\"greek\">ἐκεῖνος, ἐκείνου, ἐκείνῳ, ἐκεῖνον</span> (masc. sg.); <span class=\"greek\">ἐκείνη, ἐκείνης, ἐκείνῃ, ἐκείνην</span> (fem. sg.); <span class=\"greek\">ἐκεῖνο, ἐκείνου, ἐκείνῳ, ἐκεῖνο</span> (neut. sg.) — plūrālis sequēns idem patrōnum (ἐκεῖνοι, ἐκεῖναι, ἐκεῖνα, etc.). Nūlla irregulāritās hīc, distīnctē ab οὗτος.</p>"
+      },
+      {
+        "heading": "c) Rēgula Positiōnis Speciālis",
+        "body": "<p>Omnia trīa dēmōnstrātīva (ὅδε, οὗτος, ἐκεῖνος) requīrunt positiōnem <strong>praedicātīvam</strong> cum articulō — id est, extrā structūram articulum-nōmen, numquam intrā (dīversē ab adiectīvīs normālibus classis prīmae, Gradū II): <span class=\"greek\">οὗτος ὁ ἀνήρ</span> vel <span class=\"greek\">ὁ ἀνὴρ οὗτος</span> (“hic vir”) — NUMQUAM *ὁ οὗτος ἀνήρ. Comparā cum πᾶς (Gradū III priōre), quod monstrat similem flexibilitātem positiōnis cum nuance semantica propria.</p>"
+      }
+    ],
+    "examples": [
+      "οὗτος ὁ ἀνὴρ σοφός ἐστιν. — Hic vir sapiēns est. (dēmōnstrātīvum extrā articulum-nōmen)",
+      "ταύτην τὴν πόλιν φιλῶ. — Hanc urbem amō. (accūsātīvus fēminīnus)",
+      "ἐκεῖνοι οἱ στρατιῶται ἀνδρεῖοι ἦσαν. — Illī mīlitēs fortēs erant.",
+      "τοῦτο τὸ βιβλίον καλόν ἐστιν. — Hic liber pulcher est. (neutrum)",
+      "ταῦτα λέγω. — Haec dīcō. (neutrum plūrāle, referēns ad quae modo dicta sunt)",
+      "ἐκείνης τῆς ἡμέρας. — Illīus dieī. (genetīvus temporis, fēminīnum)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Collocāre dēmōnstrātīvum intrā articulum-nōmen (ut adiectīvum normāle), scrībendo *ὁ οὗτος ἀνήρ.",
+        "right": "Semper collocāre dēmōnstrātīvum EXTRĀ structūram articulum-nōmen: οὗτος ὁ ἀνήρ vel ὁ ἀνὴρ οὗτος.",
+        "why": "Rēgula positiōnis speciālis distinguit dēmōnstrātīva ab adiectīvīs normālibus — error hīc est frequēns apud incipientēs quī applicant regulam adiectīvī normālis."
+      },
+      {
+        "wrong": "Applicāre patrōnum irregulārem οὗτος ad ἐκεῖνος, quaerendō fōrmās speciālēs quae nōn exsistunt.",
+        "right": "Recordārī ἐκεῖνος est prōrsus regulāre, sequēns exāctē patrōnum καλός classis prīmae adiectīvōrum.",
+        "why": "Discipulus, doctus irregulāritātem οὗτος, potest incorrēcte suppōnere omnia dēmōnstrātīva esse irregulāria."
+      },
+      {
+        "wrong": "Cōnfundere trēs gradūs dēmōnstrātiōnis (ὅδε/οὗτος/ἐκεῖνος), tractandō eōs ut synōnyma perfecta.",
+        "right": "Distinguere: ὅδε = proximus locūtōrī, οὗτος = proximus audītōrī/contextuī, ἐκεῖνος = distāns.",
+        "why": "Discrīmen trichotomicum reflectit nuance semantica genuīnē absentem in linguīs modernīs bīnāriīs (this/that)."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "iii-dem1-mc",
+      "type": "multiple-choice",
+      "title": "Prōnōmina Dēmōnstrātīva: Rēgulae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "dem1a",
+          "prompt": "Quae est fōrma nōminātīvī singulāris fēminīnī οὗτος?",
+          "options": [
+            "αὕτη",
+            "ταύτη",
+            "οὕτη"
+          ],
+          "answerIndex": 0,
+          "explanation": "Nōminātīvus fēminīnus: αὕτη (spīritus asper, τ absēns)."
+        },
+        {
+          "id": "dem1b",
+          "prompt": "Quam dēclīnātiōnem sequitur ἐκεῖνος?",
+          "options": [
+            "irregulārem, sīcut οὗτος",
+            "regulārem classis prīmae (ut καλός)",
+            "tertiam dēclīnātiōnem"
+          ],
+          "answerIndex": 1,
+          "explanation": "Ἐκεῖνος sequitur exāctē patrōnum καλός/καλή/καλόν."
+        },
+        {
+          "id": "dem1c",
+          "prompt": "Ubi collocātur dēmōnstrātīvum relātīvē ad articulum-nōmen?",
+          "options": [
+            "intrā, sīcut adiectīvum normāle",
+            "extrā, semper (ante vel post tōtam structūram)",
+            "positiō est indifferēns"
+          ],
+          "answerIndex": 1,
+          "explanation": "Rēgula speciālis: dēmōnstrātīva semper extrā articulum-nōmen."
+        },
+        {
+          "id": "dem1d",
+          "prompt": "Quid significat ἐκεῖνος?",
+          "options": [
+            "hic (proximus)",
+            "iste (contextuālis)",
+            "ille (distāns)"
+          ],
+          "answerIndex": 2,
+          "explanation": "Ἐκεῖνος indicat distantiam maximam trium gradūum."
+        },
+        {
+          "id": "dem1e",
+          "prompt": "Quae fōrma est genetīvus singulāris masculīnus οὗτος?",
+          "options": [
+            "τούτου",
+            "τοῦτο",
+            "τούτῳ"
+          ],
+          "answerIndex": 0,
+          "explanation": "Genetīvus singulāris masculīnus: τούτου."
+        }
+      ]
+    },
+    {
+      "id": "iii-dem1-fill",
+      "type": "fill-blank",
+      "title": "Complē cum Fōrmā Rēctā",
+      "instructions": "Comple spatia cum fōrmā rēctā prōnōminis dēmōnstrātīvī.",
+      "items": [
+        {
+          "id": "dem1f",
+          "prompt": "___ ὁ ἀνὴρ σοφός ἐστιν. (nōm. sg. masc., “hic vir”, οὗτος)",
+          "options": [
+            "οὗτος",
+            "τοῦτον",
+            "τούτου"
+          ],
+          "answers": [
+            "οὗτος"
+          ],
+          "explanation": "Nōminātīvus singulāris masculīnus: οὗτος."
+        },
+        {
+          "id": "dem1g",
+          "prompt": "___ τὴν πόλιν φιλῶ. (acc. sg. fem., “hanc urbem”, οὗτος)",
+          "options": [
+            "ταύτην",
+            "αὕτη",
+            "ταύτης"
+          ],
+          "answers": [
+            "ταύτην"
+          ],
+          "explanation": "Accūsātīvus singulāris fēminīnus: ταύτην."
+        },
+        {
+          "id": "dem1h",
+          "prompt": "___ οἱ στρατιῶται ἀνδρεῖοι ἦσαν. (nōm. pl. masc., “illī mīlitēs”, ἐκεῖνος)",
+          "options": [
+            "ἐκεῖνοι",
+            "ἐκείνων",
+            "ἐκείνους"
+          ],
+          "answers": [
+            "ἐκεῖνοι"
+          ],
+          "explanation": "Nōminātīvus plūrālis masculīnus: ἐκεῖνοι."
+        },
+        {
+          "id": "dem1i",
+          "prompt": "___ τὸ βιβλίον καλόν ἐστιν. (nōm. sg. neut., “hic liber”, οὗτος)",
+          "options": [
+            "τοῦτο",
+            "τούτου",
+            "ταῦτα"
+          ],
+          "answers": [
+            "τοῦτο"
+          ],
+          "explanation": "Nōminātīvus/accūsātīvus singulāris neutrī: τοῦτο."
+        },
+        {
+          "id": "dem1j",
+          "prompt": "___ τῆς ἡμέρας. (gen. sg. fem., “illīus dieī”, ἐκεῖνος)",
+          "options": [
+            "ἐκείνης",
+            "ἐκεῖνο",
+            "ἐκείνῃ"
+          ],
+          "answers": [
+            "ἐκείνης"
+          ],
+          "explanation": "Genetīvus singulāris fēminīnus: ἐκείνης."
+        }
+      ]
+    },
+    {
+      "id": "iii-dem1-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "dem1k",
+          "statement": "Graecum distinguit trēs gradūs dēmōnstrātiōnis (ὅδε/οὗτος/ἐκεῖνος), ubi linguae modernae saepe distinguunt sōlum duōs.",
+          "answer": true,
+          "explanation": "Corrēctum: trichotomia Graeca (proximus locūtōrī/audītōrī/distāns) est magis fīna quam “this/that”."
+        },
+        {
+          "id": "dem1l",
+          "statement": "Dēmōnstrātīva possunt collocārī intrā structūram articulum-nōmen, sīcut adiectīva normālia.",
+          "answer": false,
+          "explanation": "Falsum: dēmōnstrātīva requīrunt positiōnem extrā, semper."
+        },
+        {
+          "id": "dem1m",
+          "statement": "Ἐκεῖνος habet fōrmās irregulārēs sīmilēs illīs οὗτος.",
+          "answer": false,
+          "explanation": "Falsum: ἐκεῖνος est prōrsus regulāre."
+        },
+        {
+          "id": "dem1n",
+          "statement": "Nōminātīvus plūrālis neutrī οὗτος est ταῦτα.",
+          "answer": true,
+          "explanation": "Corrēctum: ταῦτα, frequentissimum in textibus (“haec”)."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Οὗτος, αὕτη, τοῦτο (hic/iste): fōrmae combinant spīritum asperum (nōm.) cum τ mediāle (cāsūs obliquī) — patrōnus memoriae mandandus.",
+    "Ἐκεῖνος, ἐκείνη, ἐκεῖνο (ille): prōrsus regulāre, sequēns patrōnum καλός classis prīmae.",
+    "Trēs gradūs: ὅδε (proximus locūtōrī), οὗτος (proximus audītōrī/contextuī), ἐκεῖνος (distāns).",
+    "Dēmōnstrātīva semper collocantur EXTRĀ articulum-nōmen, numquam intrā — rēgula speciālis distīncta ab adiectīvīs normālibus."
+  ],
+  "related": [
+    {
+      "lessonId": "iii-pronomen-relativum",
+      "label": "Prōnōmen Relātīvum"
+    },
+    {
+      "lessonId": "iii-comparatio-adiectivorum",
+      "label": "Comparātiō Adiectīvōrum"
+    }
+  ]
+}

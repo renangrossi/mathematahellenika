@@ -1,0 +1,248 @@
+{
+  "id": "iii-pronomen-relativum",
+  "level": "III",
+  "unit": "1",
+  "order": 8,
+  "skill": "grammatica",
+  "strand": "pronomina",
+  "title": "Prōnōmen Relātīvum",
+  "subtitle": "Dēclīnātiō plēna ὅς, ἥ, ὅ (quī, quae, quod), similis articulō sed cum spīritū aspero constanti; rēgula attractiōnis.",
+  "prerequisites": [
+    "iii-tempus-futurum-activum-et-medium"
+  ],
+  "objectives": [
+    "Dēclīnāre plēnē prōnōmen relātīvum ὅς, ἥ, ὅ per omnēs cāsūs, utrōque numerō",
+    "Distinguere ὅς relātīvum (spīritū aspero, accentū ubīque) ab articulō ὁ (spīritū aspero etiam, sed prōclīticō) per contextum syntacticum",
+    "Formāre clausulās relātīvās simplicēs, applicandō concordantiam relātīvī cum antecedente in genere/numerō (nōn in cāsū)",
+    "Recognōscere rēgulam attractiōnis: relātīvum interdum “attrahitur” in cāsum antecedentis, contrā logicam propriam clausulae"
+  ],
+  "content": {
+    "intro": "Clausula relātīva (“vir QUI vēnit”, “urbs QUAM vīdimus”) requīrit prōnōmen relātīvum, quod in Graecō est <span class=\"greek\">ὅς, ἥ, ὅ</span>. Fōrmae sunt valdē similēs articulō (Gradū II), sed cum discrīmine phōnologicō praecipuō: relātīvum retinet <strong>spīritum asperum</strong> et accentum PROPRIUM in omnibus fōrmīs, nōn ūnīs quibusdam ut articulus.",
+    "explanation": "<p>Concordantia relātīvī sequitur rēgulam duplicem: relātīvum concordat cum antecedente (nōmen ad quod refert) in <strong>genere</strong> et <strong>numerō</strong>, sed cāsus relātīvī est dētermīnātus ā FŪNCTIŌNE SUĀ PROPRIĀ intrā clausulam relātīvam ipsam (subiectum, obiectum, etc.), NŌN ā cāsū antecedentis. Comparā Latīnum: eadem rēgula fundāmentālis valet.</p>",
+    "rules": [
+      {
+        "heading": "a) Ὅς, Ἥ, Ὅ: Dēclīnātiō Plēna",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Cāsus</th><th>Masc. sg.</th><th>Fem. sg.</th><th>Neut. sg.</th></tr></thead><tbody><tr><td>Nōm.</td><td class=\"greek\">ὅς</td><td class=\"greek\">ἥ</td><td class=\"greek\">ὅ</td></tr><tr><td>Gen.</td><td class=\"greek\">οὗ</td><td class=\"greek\">ἧς</td><td class=\"greek\">οὗ</td></tr><tr><td>Dat.</td><td class=\"greek\">ᾧ</td><td class=\"greek\">ᾗ</td><td class=\"greek\">ᾧ</td></tr><tr><td>Acc.</td><td class=\"greek\">ὅν</td><td class=\"greek\">ἥν</td><td class=\"greek\">ὅ</td></tr></tbody></table><p>Plūrālis: masc. <span class=\"greek\">οἵ, ὧν, οἷς, οὕς</span> — fem. <span class=\"greek\">αἵ, ὧν, αἷς, ἅς</span> — neut. <span class=\"greek\">ἅ, ὧν, οἷς, ἅ</span>. Comparā cum articulō (ὁ, ἡ, τό): fōrmae sunt phōnēticē propinquae sed relātīvum semper accipit accentum proprium (interdum acūtum, interdum circumflexum), NUMQUAM prōclīticum.</p>"
+      },
+      {
+        "heading": "b) Rēgula Concordantiae Fundāmentālis",
+        "body": "<p><strong>Genus et numerus</strong> relātīvī sequuntur antecedentem; <strong>cāsus</strong> sequitur fūnctiōnem propriam intrā clausulam relātīvam: <span class=\"greek\">ὁ ἀνὴρ ὃν ὁρῶ</span> “vir quem videō” (ὁρῶ requīrit accūsātīvum, ergō ὅν, quamquam ἀνήρ ipse est nōminātīvus in clausulā prīncipālī). <span class=\"greek\">ἡ γυνὴ ἧς τὸ βιβλίον ἐστίν</span> “mulier cuius liber est” (ἧς genetīvus possessīvus, dēterminātus ā fūnctiōne intrā clausulam relātīvam).</p>"
+      },
+      {
+        "heading": "c) Rēgula Attractiōnis (Nōta Avanceāta)",
+        "body": "<p>Frequenter — praesertim cum antecedēns est in genetīvō vel datīvō, et relātīvum “dēberet” esse in accūsātīvō — relātīvum “attrahitur” in cāsum antecedentis, contrā rēgulam normālem: <span class=\"greek\">τῆς πόλεως ἧς ὁρῶ</span> (litt. “urbis, quam videō”, ubi ἧς genetīvus est attrāctus ex accūsātīvō expectātō ἥν, propter genetīvum antecedentis πόλεως). Haec est ēlegantia stylistica frequēns in prōsā Atticā, magis quam error — nōta eam nunc, sed nōlī sentīre obligātus applicāre eam tuā ipsīus scrīptiōne adhūc.</p>"
+      }
+    ],
+    "examples": [
+      "ὁ ἀνὴρ ὃς λέγει σοφός ἐστιν. — Vir quī loquitur sapiēns est. (ὅς nōm., subiectum clausulae relātīvae)",
+      "ἡ γυνὴ ἣν ὁρῶ καλή ἐστιν. — Mulier quam videō pulchra est. (ἥν acc., obiectum)",
+      "ὁ δοῦλος ᾧ δίδωμι τὸ βιβλίον. — Servus cui dō librum. (ᾧ dat.)",
+      "οἱ πολῖται οὓς φιλῶ ἀγαθοί εἰσιν. — Cīvēs quōs amō bonī sunt. (οὕς acc. pl.)",
+      "τὰ δῶρα ἃ ἔπεμψας καλά ἐστιν. — Dōna quae mīsistī pulchra sunt. (ἅ nōm./acc. pl. neut.)",
+      "ἡ πόλις ἧς τοὺς νόμους τιμῶμεν. — Urbs cuius lēgēs honōrāmus. (ἧς gen.)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Cōnfundere prōnōmen relātīvum ὅς cum articulō ὁ, propter fōrmam phōnēticē similem.",
+        "right": "Distinguere per accentum: relātīvum semper habet accentum proprium vīsibilem; articulus ὁ/ἡ/οἱ/αἱ est prōclīticus (sine accentū) in fōrmīs nōminātīvīs.",
+        "why": "Cōnfūsiō hīc impedit intellēctum syntacticum: articulus intrōdūcit nōmen, relātīvum intrōdūcit clausulam integram."
+      },
+      {
+        "wrong": "Dēterminā cāsum relātīvī ā cāsū antecedentis, potius quam ā fūnctiōne relātīvī intrā clausulam suam.",
+        "right": "Semper analyzāre: quid facit relātīvum intrā clausulam relātīvam ipsam (subiectum? obiectum? possessor?) — id dētermīnat cāsum, nōn cāsus antecedentis.",
+        "why": "Error frequēns apud incipientēs quī applicant analogiam falsam cum concordantiā adiectīvī-nōminis (ubi cāsus semper concordat)."
+      },
+      {
+        "wrong": "Crēdere attractiōnem esse error grammaticus quandō occurrit in textū authenticō.",
+        "right": "Recognōscere attractiōnem ut phaenomenon stylisticum lēgitimum et frequēns, nōn errōrem.",
+        "why": "Discipulus quī nōn nōvit hoc phaenomenon potest cōnfundī legendō textūs authenticōs ubi attractiō occurrit."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "iii-rel1-mc",
+      "type": "multiple-choice",
+      "title": "Prōnōmen Relātīvum: Rēgulae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "rel1a",
+          "prompt": "Quid dētermīnat cāsum prōnōminis relātīvī?",
+          "options": [
+            "cāsus antecedentis semper",
+            "fūnctiō relātīvī intrā clausulam relātīvam ipsam",
+            "genus antecedentis"
+          ],
+          "answerIndex": 1,
+          "explanation": "Cāsus sequitur fūnctiōnem propriam intrā clausulam relātīvam."
+        },
+        {
+          "id": "rel1b",
+          "prompt": "Quid dētermīnat genus/numerum prōnōminis relātīvī?",
+          "options": [
+            "fūnctiō intrā clausulam relātīvam",
+            "antecedēns (nōmen ad quod refert)",
+            "positiō in sententiā"
+          ],
+          "answerIndex": 1,
+          "explanation": "Genus et numerus semper concordant cum antecedente."
+        },
+        {
+          "id": "rel1c",
+          "prompt": "Quid distinguit ὅς relātīvum ab ὁ articulō?",
+          "options": [
+            "nihil, sunt identica",
+            "accentus: relātīvum semper accentuātum, articulus prōclīticus in fōrmīs nōminātīvīs",
+            "genus grammaticum"
+          ],
+          "answerIndex": 1,
+          "explanation": "Discrīmen praecipuum est accentuāle/syntacticum."
+        },
+        {
+          "id": "rel1d",
+          "prompt": "Quid est “attractiō” relātīvī?",
+          "options": [
+            "error commūnis scrīptōrum",
+            "phaenomenon ubi relātīvum accipit cāsum antecedentis, contrā rēgulam normālem",
+            "fōrma alia nōminis relātīvī"
+          ],
+          "answerIndex": 1,
+          "explanation": "Attractiō est phaenomenon stylisticum lēgitimum, frequēns in prōsā Atticā."
+        },
+        {
+          "id": "rel1e",
+          "prompt": "Quae est fōrma genetīvī singulāris fēminīnī ὅς/ἥ/ὅ?",
+          "options": [
+            "ἧς",
+            "οὗ",
+            "ᾗ"
+          ],
+          "answerIndex": 0,
+          "explanation": "Genetīvus singulāris fēminīnus: ἧς."
+        }
+      ]
+    },
+    {
+      "id": "iii-rel1-fill",
+      "type": "fill-blank",
+      "title": "Complē cum Fōrmā Rēctā",
+      "instructions": "Comple spatia cum fōrmā rēctā prōnōminis relātīvī.",
+      "items": [
+        {
+          "id": "rel1f",
+          "prompt": "ὁ ἀνὴρ ___ λέγει σοφός ἐστιν. (nōm. sg. masc., subiectum clausulae)",
+          "options": [
+            "ὅς",
+            "ὅν",
+            "οὗ"
+          ],
+          "answers": [
+            "ὅς"
+          ],
+          "explanation": "Nōminātīvus singulāris masculīnus, subiectum: ὅς."
+        },
+        {
+          "id": "rel1g",
+          "prompt": "ἡ γυνὴ ___ ὁρῶ. (acc. sg. fem., obiectum, “quam videō”)",
+          "options": [
+            "ἥν",
+            "ἥ",
+            "ἧς"
+          ],
+          "answers": [
+            "ἥν"
+          ],
+          "explanation": "Accūsātīvus singulāris fēminīnus, obiectum: ἥν."
+        },
+        {
+          "id": "rel1h",
+          "prompt": "ὁ δοῦλος ___ δίδωμι τὸ δῶρον. (dat. sg. masc., “cui dō”)",
+          "options": [
+            "ᾧ",
+            "ὅν",
+            "οὗ"
+          ],
+          "answers": [
+            "ᾧ"
+          ],
+          "explanation": "Datīvus singulāris masculīnus: ᾧ."
+        },
+        {
+          "id": "rel1i",
+          "prompt": "οἱ πολῖται ___ φιλῶ. (acc. pl. masc., “quōs amō”)",
+          "options": [
+            "οὕς",
+            "οἵ",
+            "ὧν"
+          ],
+          "answers": [
+            "οὕς"
+          ],
+          "explanation": "Accūsātīvus plūrālis masculīnus: οὕς."
+        },
+        {
+          "id": "rel1j",
+          "prompt": "τὰ δῶρα ___ ἔπεμψας. (nōm./acc. pl. neut., “quae mīsistī”)",
+          "options": [
+            "ἅ",
+            "ὅ",
+            "ὧν"
+          ],
+          "answers": [
+            "ἅ"
+          ],
+          "explanation": "Nōminātīvus/accūsātīvus plūrālis neutrī: ἅ."
+        }
+      ]
+    },
+    {
+      "id": "iii-rel1-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "rel1k",
+          "statement": "Relātīvum concordat cum antecedente in genere et numerō, sed nōn necessāriē in cāsū.",
+          "answer": true,
+          "explanation": "Corrēctum: cāsus est dētermīnātus ā fūnctiōne relātīvī intrā suam propriam clausulam."
+        },
+        {
+          "id": "rel1l",
+          "statement": "Prōnōmen relātīvum ὅς est prōclīticum, sīcut articulus ὁ.",
+          "answer": false,
+          "explanation": "Falsum: relātīvum semper accipit accentum proprium."
+        },
+        {
+          "id": "rel1m",
+          "statement": "Attractiō relātīvī est semper error grammaticus, quod discipulus dēbet ēvītāre in scrīptiōne propriā.",
+          "answer": false,
+          "explanation": "Falsum: est phaenomenon stylisticum lēgitimum in textibus authenticīs, quamquam nōn requīsītum in scrīptiōne discipulī."
+        },
+        {
+          "id": "rel1n",
+          "statement": "Dēclīnātiō ὅς/ἥ/ὅ est phōnēticē similis articulō, differēns praecipuē in spīritū et accentū.",
+          "answer": true,
+          "explanation": "Corrēctum: ambō adhibent spīritum asperum, sed accentus differt (proprius vs. prōclīticus)."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Ὅς, ἥ, ὅ (relātīvum): nōm. ὅς/ἥ/ὅ, gen. οὗ/ἧς/οὗ, dat. ᾧ/ᾗ/ᾧ, acc. ὅν/ἥν/ὅ — plūrālis οἵ/αἵ/ἅ, ὧν, οἷς/αἷς/οἷς, οὕς/ἅς/ἅ.",
+    "Genus et numerus dē relātīvō sequuntur antecedentem; cāsus sequitur fūnctiōnem intrā clausulam relātīvam ipsam.",
+    "Discrīmen ab articulō: relātīvum semper habet accentum proprium (numquam prōclīticum).",
+    "Attractiō: relātīvum interdum accipit cāsum antecedentis (praesertim gen./dat.) prō stylō, phaenomenon lēgitimum, nōn error."
+  ],
+  "related": [
+    {
+      "lessonId": "iii-tempus-futurum-activum-et-medium",
+      "label": "Tempus Futūrum"
+    },
+    {
+      "lessonId": "iii-pronomina-demonstrativa",
+      "label": "Prōnōmina Dēmōnstrātīva"
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "id": "iv-recognitio-systema-verbi",
+  "level": "IV",
+  "unit": "1",
+  "order": 11,
+  "skill": "grammatica",
+  "strand": "recognitio",
+  "title": "Recognitiō: Systēma Verbī Latīnī Graecī",
+  "subtitle": "Sex fōrmae prīncipālēs (principal parts) ut īnstrūmentum organizāns; cōnspectus complētus λύω et verbōrum irregulārium frequentium Gradūs IV.",
+  "prerequisites": [
+    "iv-genetivus-absolutus"
+  ],
+  "objectives": [
+    "Recitāre et explicāre sex fōrmās prīncipālēs (principal parts) quibus omne verbum Graecum regulāre organizātur",
+    "Recitāre sex fōrmās prīncipālēs verbī λύω, ut paradigma summum tōtīus Gradūs IV",
+    "Recitāre fōrmās prīncipālēs verbōrum irregulārium frequentium vīsōrum per hunc gradum (λαμβάνω, ἔρχομαι, ὁράω, λέγω, γίγνομαι)",
+    "Concludere Gradum IV: sentīre nunc capācitātem legendī prōsam Graecam simplicem cum omnibus temporibus/vōcibus/participiīs/īnfīnītīvīs"
+  ],
+  "content": {
+    "intro": "Gradus IV explicāvit systēma verbī Graecī plēnē: aoristus (prīmus, secundus, passīvus), perfectum (āctīvum, medium-passīvum), participia (praesentis, aoristī), īnfīnītīvī omnium temporum, dēpōnentia, genetīvus absolūtus. Haec lēctiō ultima organizat tōtam hanc īnfōrmātiōnem sub ūnō īnstrūmentō mnēmonicō classicō: <strong>sex fōrmae prīncipālēs</strong> (Anglicē “principal parts”), quibus omne dictiōnārium bonum Graecum indicat quōque verbō suō.",
+    "explanation": "<p>Sex fōrmae prīncipālēs sunt: (1) praesēns āctīvum indicātīvum (1ª sg.), (2) futūrum āctīvum, (3) aoristus āctīvus, (4) perfectum āctīvum, (5) perfectum medium-passīvum, (6) aoristus passīvus. Ab hīs sex fōrmīs, omnis alia fōrma coniugāta (omne tempus, modus, participium, īnfīnītīvus) potest dērīvārī mechanicē per rēgulās iam discitās (Gradibus II-IV).</p>",
+    "rules": [
+      {
+        "heading": "a) Sex Fōrmae Prīncipālēs: λύω (Regulāre)",
+        "body": "<table class=\"ref-table\"><thead><tr><th>1. Praes. Āct.</th><th>2. Fut. Āct.</th><th>3. Aor. Āct.</th><th>4. Perf. Āct.</th><th>5. Perf. M.-P.</th><th>6. Aor. Pass.</th></tr></thead><tbody><tr><td class=\"greek\">λύω</td><td class=\"greek\">λύσω</td><td class=\"greek\">ἔλυσα</td><td class=\"greek\">λέλυκα</td><td class=\"greek\">λέλυμαι</td><td class=\"greek\">ἐλύθην</td></tr></tbody></table><p>Λύω est “regulāre” praecīsē quia omnēs sex fōrmae sequuntur patrōnum praedictīvum ā themate sōlō (λυ-) — maior pars verbōrum Graecōrum NŌN est tam regulāris, ut vidēbis in tabulā sequentī.</p>"
+      },
+      {
+        "heading": "b) Sex Fōrmae Prīncipālēs: Verba Irregulāria Frequentia",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Verbum</th><th>1. Praes.</th><th>3. Aor. Āct.</th><th>Nota</th></tr></thead><tbody><tr><td>capiō</td><td class=\"greek\">λαμβάνω</td><td class=\"greek\">ἔλαβον</td><td>aoristus secundus</td></tr><tr><td>veniō</td><td class=\"greek\">ἔρχομαι</td><td class=\"greek\">ἦλθον</td><td>dēpōnēns + suppletiō</td></tr><tr><td>videō</td><td class=\"greek\">ὁράω</td><td class=\"greek\">εἶδον</td><td>aoristus secundus suppletīvus</td></tr><tr><td>dīcō</td><td class=\"greek\">λέγω</td><td class=\"greek\">εἶπον</td><td>aoristus secundus suppletīvus</td></tr><tr><td>fīō</td><td class=\"greek\">γίγνομαι</td><td class=\"greek\">ἐγενόμην</td><td>dēpōnēns medium</td></tr><tr><td>volō</td><td class=\"greek\">βούλομαι</td><td>(ἐβουλήθην)</td><td>dēpōnēns passīvum</td></tr></tbody></table><p>Nōtā: quantō frequentius est verbum in ūsū cotīdiānō, tantō probābilius habet fōrmās irregulārēs/suppletīvās — patrōnus reperītur in omnī lingua nātūrālī (comparā Anglicum “go/went”, Latīnum “ferō/tulī”, Lūsitānicum “ir/fui”).</p>"
+      },
+      {
+        "heading": "c) Cōnspectus Fīnālis: Quod Iam Potes Legere",
+        "body": "<p>Cum omnibus sex fōrmīs prīncipālibus, participiīs (praesentis/aoristī, omnium generum), īnfīnītīvīs (omnium temporum), et genetīvō absolūtō — iam habēs īnstrūmenta grammatica sufficientia ad legere prōsam Graecam nārrātīvam simplicem sine simplificātiōne artificiālī māiōre. Gradus V addet modum coniūnctīvum et optātīvum (rēctiōnem clausulārum subōrdinātārum plēnē); Gradus VI/VII tē dūcent ad prōsam adaptātam et deinde authenticam.</p>"
+      }
+    ],
+    "examples": [
+      "λύω, λύσω, ἔλυσα, λέλυκα, λέλυμαι, ἐλύθην. — Sex fōrmae prīncipālēs λύω, memoriae mandandae ut paradigma summum.",
+      "ὁ στρατηγός, τῶν πολεμίων προσιόντων, τοὺς στρατιώτας ἔλυσε τῶν δεσμῶν. — Dux, hostibus appropinquantibus, mīlitēs solvit ē vinculīs. (genetīvus absolūtus + aoristus)",
+      "λέγομεν τοὺς πολίτας, ταῦτα ἀκούσαντας, φοβηθῆναι. — Dīcimus cīvēs, postquam haec audīvērunt, timuisse. (participium aor. + ōrātiō oblīqua)",
+      "βουληθέντες μαθεῖν, ἦλθον. — Cum voluissent discere, vēnērunt. (participium aor. dēpōnentis + suppletīvum)",
+      "λελυκότες τὸν νόμον, οἱ πολῖται ἐχάρησαν. — Cum abrogāvissent lēgem, cīvēs gāvīsī sunt. (participium perfectī, patrōnus novus sed praedictibilis)",
+      "τοῦτο εἰπὼν καὶ λύσας τὰς πύλας, ἀπῆλθεν. — Postquam hoc dīxit et portās solvit, discessit. (duo participia aoristī coniūncta)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Crēdere sex fōrmās prīncipālēs esse arbitrāriās vel opera memoriae sine ūtilitāte practicā.",
+        "right": "Recognōscere sex fōrmae sunt fundāmentum ā quō omnēs fōrmae coniugātae (indicātīvus, participium, īnfīnītīvus, cuiuslibet temporis/modī/vōcis) dērīvantur mechanicē.",
+        "why": "Discipulus quī memoriae mandat sex fōrmās prīncipālēs prō verbō novō potest recōnstruere īnstanter omnem fōrmam coniugātam eius."
+      },
+      {
+        "wrong": "Suppōnere omnia verba Graeca esse tam regulāria quam λύω, sine expectāre suppletiōnem/irregulāritātem in verbīs frequentissimīs.",
+        "right": "Expectāre praecīsē inversē: verba MAGIS frequentia sunt PROBABILIUS irregulāria/suppletīva, nōn minus.",
+        "why": "Patrōnus līnguisticus ūniversālis: frequentia ūsūs corrēlat cum retentiōne fōrmārum antīquārum irregulārium."
+      },
+      {
+        "wrong": "Sentīre necesse esse discere omnem fōrmam coniugātam sīgillātim, sine ūtī sex fōrmās prīncipālēs ut scaffold organizāns.",
+        "right": "Adhibēre sex fōrmās prīncipālēs ut īnstrūmentum āctīvum studendī: discere illās sex, deinde dērīvāre cētera per rēgulās iam nōtās.",
+        "why": "Strategia studendī efficāx reducit onus memoriae immēnsē, comparātā cum temptāre memorāre omnem fōrmam sīgillātim."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "iv-rec1-mc",
+      "type": "multiple-choice",
+      "title": "Recognitiō: Systēma Verbī",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "rec1a",
+          "prompt": "Quot sunt fōrmae prīncipālēs (principal parts) verbī Graecī?",
+          "options": [
+            "quattuor",
+            "sex",
+            "octō"
+          ],
+          "answerIndex": 1,
+          "explanation": "Sex: praes. āct., fut. āct., aor. āct., perf. āct., perf. m.-p., aor. pass."
+        },
+        {
+          "id": "rec1b",
+          "prompt": "Quae est tertia fōrma prīncipālis (aoristus āctīvus) verbī λύω?",
+          "options": [
+            "ἔλυσα",
+            "λέλυκα",
+            "ἐλύθην"
+          ],
+          "answerIndex": 0,
+          "explanation": "Tertia fōrma: ἔλυσα."
+        },
+        {
+          "id": "rec1c",
+          "prompt": "Cūr verba frequentissima (λαμβάνω, ἔρχομαι, λέγω) tendunt esse irregulāria?",
+          "options": [
+            "error scrīptōrum antīquōrum",
+            "patrōnus ūniversālis: frequentia ūsūs corrēlat cum retentiōne fōrmārum antīquārum",
+            "sunt errōrēs discipulōrum antīquōrum"
+          ],
+          "answerIndex": 1,
+          "explanation": "Patrōnus reperītur trāns linguās nātūrālēs."
+        },
+        {
+          "id": "rec1d",
+          "prompt": "Quae est quīnta fōrma prīncipālis (perfectum medium-passīvum) verbī λύω?",
+          "options": [
+            "λέλυμαι",
+            "λέλυκα",
+            "λύσομαι"
+          ],
+          "answerIndex": 0,
+          "explanation": "Quīnta fōrma: λέλυμαι."
+        },
+        {
+          "id": "rec1e",
+          "prompt": "Quid additur in Gradū V, secundum hanc lēctiōnem?",
+          "options": [
+            "nihil novum",
+            "modus coniūnctīvus et optātīvus, rēctiō clausulārum subōrdinātārum",
+            "sōlum vocābulum novum"
+          ],
+          "answerIndex": 1,
+          "explanation": "Gradus V introdūcit systēma modōrum coniūnctīvī/optātīvī plēnē."
+        }
+      ]
+    },
+    {
+      "id": "iv-rec1-fill",
+      "type": "fill-blank",
+      "title": "Complē Sex Fōrmās Prīncipālēs",
+      "instructions": "Comple spatia cum fōrmā prīncipālī rēctā verbī λύω.",
+      "items": [
+        {
+          "id": "rec1f",
+          "prompt": "1ª fōrma (praes. āct.): ___",
+          "options": [
+            "λύω",
+            "λύσω",
+            "ἔλυσα"
+          ],
+          "answers": [
+            "λύω"
+          ],
+          "explanation": "Prīma fōrma prīncipālis: λύω."
+        },
+        {
+          "id": "rec1g",
+          "prompt": "2ª fōrma (fut. āct.): ___",
+          "options": [
+            "λύσω",
+            "λύω",
+            "λέλυκα"
+          ],
+          "answers": [
+            "λύσω"
+          ],
+          "explanation": "Secunda fōrma prīncipālis: λύσω."
+        },
+        {
+          "id": "rec1h",
+          "prompt": "4ª fōrma (perf. āct.): ___",
+          "options": [
+            "λέλυκα",
+            "ἔλυσα",
+            "λέλυμαι"
+          ],
+          "answers": [
+            "λέλυκα"
+          ],
+          "explanation": "Quārta fōrma prīncipālis: λέλυκα."
+        },
+        {
+          "id": "rec1i",
+          "prompt": "6ª fōrma (aor. pass.): ___",
+          "options": [
+            "ἐλύθην",
+            "λέλυμαι",
+            "λυθήσομαι"
+          ],
+          "answers": [
+            "ἐλύθην"
+          ],
+          "explanation": "Sexta fōrma prīncipālis: ἐλύθην."
+        },
+        {
+          "id": "rec1j",
+          "prompt": "Aoristus āctīvus verbī λέγω (irregulāre): ___",
+          "options": [
+            "εἶπον",
+            "ἔλεξα",
+            "λέγησα"
+          ],
+          "answers": [
+            "εἶπον"
+          ],
+          "explanation": "Λέγω → εἶπον, aoristus secundus suppletīvus."
+        }
+      ]
+    },
+    {
+      "id": "iv-rec1-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "rec1k",
+          "statement": "Ab sex fōrmīs prīncipālibus, omnis alia fōrma coniugāta verbī potest dērīvārī per rēgulās iam discitās.",
+          "answer": true,
+          "explanation": "Corrēctum: hoc est praecīsē ūtilitās huius īnstrūmentī mnēmonicī."
+        },
+        {
+          "id": "rec1l",
+          "statement": "Maior pars verbōrum Graecōrum est tam regulāris quam λύω, sine ūllā irregulāritāte.",
+          "answer": false,
+          "explanation": "Falsum: verba frequentissima tendunt esse irregulāria/suppletīva."
+        },
+        {
+          "id": "rec1m",
+          "statement": "Post Gradum IV, discipulus habet iam īnstrūmenta grammatica sufficientia ad legere prōsam nārrātīvam simplicem.",
+          "answer": true,
+          "explanation": "Corrēctum: tempora, vōcēs, participia, īnfīnītīvī sunt omnēs iam nōtī."
+        },
+        {
+          "id": "rec1n",
+          "statement": "Fōrmae prīncipālēs sunt septem, nōn sex.",
+          "answer": false,
+          "explanation": "Falsum: sunt sex, exāctē."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Sex fōrmae prīncipālēs organizant tōtum systēma verbī: praes. āct. / fut. āct. / aor. āct. / perf. āct. / perf. m.-p. / aor. pass.",
+    "Λύω (regulāre): λύω, λύσω, ἔλυσα, λέλυκα, λέλυμαι, ἐλύθην — paradigma summum tōtīus Gradūs IV.",
+    "Verba frequentissima (λαμβάνω, ἔρχομαι, ὁράω, λέγω, γίγνομαι, βούλομαι) tendunt esse irregulāria/suppletīva/dēpōnentia — patrōnus ūniversālis linguārum nātūrālium.",
+    "Gradus IV conclūditur: aoristus (I/II/passīvus), perfectum (āct./m.-p.), participia (praes./aor.), īnfīnītīvī omnium temporum, dēpōnentia, genetīvus absolūtus — fundāmentum plēnum prō lēctiōne prōsae Gradibus VI-VII.",
+    "Gradus V sequēns addet modum coniūnctīvum/optātīvum plēnē, complens systēma modōrum verbī Graecī."
+  ],
+  "related": [
+    {
+      "lessonId": "iv-genetivus-absolutus",
+      "label": "Genetīvus Absolūtus"
+    },
+    {
+      "lessonId": "iii-tempus-imperfectum",
+      "label": "Tempus Imperfectum (Gradus III)"
+    }
+  ]
+}

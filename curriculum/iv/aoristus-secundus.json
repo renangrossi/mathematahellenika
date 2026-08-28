@@ -1,0 +1,248 @@
+{
+  "id": "iv-aoristus-secundus",
+  "level": "IV",
+  "unit": "1",
+  "order": 2,
+  "skill": "grammatica",
+  "strand": "aoristus",
+  "title": "Aoristus Secundus",
+  "subtitle": "Aoristus “secundus” (fortis): thema mūtātum (λείπω → ἔλιπον), dēsinentiae identicae imperfectō; necessitās discendī sīgillātim.",
+  "prerequisites": [
+    "iv-aoristus-activus-et-medius-primus"
+  ],
+  "objectives": [
+    "Coniugāre plēnē aoristum secundum āctīvum et medium verbī λείπω (relinquō) → ἔλιπον",
+    "Explicāre cūr aoristus secundus adhibeat dēsinentiās identicās imperfectō, distīnctus sōlum per thema mūtātum",
+    "Recognōscere necessitātem discendī thema aoristī secundī sīgillātim prō quōque verbō (nōn est regula praedictīva)",
+    "Recitāre themata aoristī secundī frequentissima: λαμβάνω/ἔλαβον, ἔρχομαι/ἦλθον, ὁράω/εἶδον, λέγω/εἶπον"
+  ],
+  "content": {
+    "intro": "Multa verba Graeca frequentissima — praesertim thema brevī vel antīquō — nōn adhibent σ prō aoristō, sed <strong>mūtant thema ipsum</strong>, adhibentēs dēsinentiās IDENTICAS illīs imperfectī (Gradū III). Hic patrōnus vocātur “aoristus secundus” (vel “fortis”): λείπω (relinquō, praesēns) → <span class=\"greek\">ἔλιπον</span> (relīquī, aoristus) — comparā Anglicum “sing/sang”, “eat/ate” (mūtātiō vōcālis interna), vel Latīnum “videō/vīdī”.",
+    "explanation": "<p>Fōrmātiō: augmentum + THEMA MŪTĀTUM (nōn thema praesentis) + dēsinentiae SECUNDĀRIAE (identicae imperfectō: -ον, -ες, -ε, -ομεν, -ετε, -ον). Nūllum σ hīc adest. Discrīmen ā praesentī/imperfectō est SŌLUM in themate ipsō (λειπ- praesēns/imperf. vs. λιπ- aoristus), nōn in dēsinentiīs.</p>",
+    "rules": [
+      {
+        "heading": "a) Aoristus Secundus Āctīvus: ἔλιπον",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Persōna</th><th>Singulāris</th><th>Plūrālis</th></tr></thead><tbody><tr><td>1ª</td><td class=\"greek\">ἔλιπον</td><td class=\"greek\">ἐλίπομεν</td></tr><tr><td>2ª</td><td class=\"greek\">ἔλιπες</td><td class=\"greek\">ἐλίπετε</td></tr><tr><td>3ª</td><td class=\"greek\">ἔλιπε(ν)</td><td class=\"greek\">ἔλιπον</td></tr></tbody></table><p>Compara cum imperfectō ἔλυον (Gradū III): dēsinentiae -ον, -ες, -ε(ν)... sunt IDENTICAE. Sōlum thema differt (λιπ- hīc, dērīvātum ā λειπ- per mūtātiōnem vōcālis, ει→ι). Īnfīnītīvus: <span class=\"greek\">λιπεῖν</span> (accentū -εῖν, sīcut praesēns, dīversē ab -αι aoristī prīmī).</p>"
+      },
+      {
+        "heading": "b) Aoristus Secundus Medius: ἐλιπόμην",
+        "body": "<p>Medium sequitur idem patrōnum: <span class=\"greek\">ἐλιπόμην, ἐλίπου, ἐλίπετο</span> (sg.) — <span class=\"greek\">ἐλιπόμεθα, ἐλίπεσθε, ἐλίποντο</span> (pl.). Dēsinentiae sunt identicae imperfectō mediō-passīvō (Gradū III); sōlum thema (λιπ- prō λυ-) differt. Īnfīnītīvus: <span class=\"greek\">λιπέσθαι</span>.</p>"
+      },
+      {
+        "heading": "c) Themata Frequentissima Discenda Sīgillātim",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Praesēns</th><th>Aoristus Secundus</th><th>Sēnsus</th></tr></thead><tbody><tr><td class=\"greek\">λαμβάνω</td><td class=\"greek\">ἔλαβον</td><td>capiō, sūmō</td></tr><tr><td class=\"greek\">ἔρχομαι</td><td class=\"greek\">ἦλθον</td><td>veniō, eō</td></tr><tr><td class=\"greek\">ὁράω</td><td class=\"greek\">εἶδον</td><td>videō</td></tr><tr><td class=\"greek\">λέγω</td><td class=\"greek\">εἶπον</td><td>dīcō</td></tr><tr><td class=\"greek\">βάλλω</td><td class=\"greek\">ἔβαλον</td><td>iaciō</td></tr></tbody></table><p>Nōn exsistit rēgula praedictīva quae themata revēlet ab fōrmā praesentis sōlā — thema aoristī secundī est parte “fōrmārum prīncipālium” (principal parts) verbī, discendum et memoriae mandandum cum ipsō verbō, sīcut fōrmae irregulārēs Anglicae (“go/went”) vel Latīnae (“ferō/tulī”).</p>"
+      }
+    ],
+    "examples": [
+      "ἔλιπον τὴν πόλιν. — Relīquī urbem.",
+      "ἔλαβε τὸ βιβλίον. — Cēpit/sūmpsit librum. (3ª sg., λαμβάνω → ἔλαβον)",
+      "ἦλθομεν εἰς τὴν ἀγοράν. — Vēnimus ad forum. (1ª pl., ἔρχομαι → ἦλθον)",
+      "εἶδες τὸν βασιλέα; — Vīdistīne rēgem? (2ª sg., ὁράω → εἶδον)",
+      "τί εἶπεν ὁ ῥήτωρ; — Quid dīxit ōrātor? (3ª sg., λέγω → εἶπον)",
+      "οἱ στρατιῶται ἔβαλον λίθους. — Mīlitēs iēcērunt lapidēs. (βάλλω → ἔβαλον)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Quaerere σ in aoristō secundō, applicandō patrōnum aoristī prīmī indiscrīminātim ad omne verbum.",
+        "right": "Recordārī aoristus secundus NUMQUAM habet σ; identificātur per thema mūtātum + dēsinentiae imperfectī-similēs.",
+        "why": "Verba frequentissima (λαμβάνω, ἔρχομαι, ὁράω, λέγω) sunt praecīsē illa quae adhibent hunc patrōnum, ergō error hīc afficit ūsum cotīdiānum."
+      },
+      {
+        "wrong": "Temptāre dērīvāre thema aoristī secundī ā themate praesentis per rēgulam generālem, sine memoriā speciālī.",
+        "right": "Discere thema aoristī secundī sīgillātim, ut pars fōrmārum prīncipālium verbī, exāctē sīcut fōrmās irregulārēs linguārum modernārum.",
+        "why": "Themata haec dērīvant ā fōrmīs Indoeuropaeīs antīquīs sine patrōnō praedictīvō synchronicō."
+      },
+      {
+        "wrong": "Crēdere aoristum secundum significāre aliquid dīversum aspectuāliter ab aoristō prīmō.",
+        "right": "Recordārī ambō genera (prīmus/secundus) significant idem aspectum (āctiō simplex) — discrīmen est purē morphologicum.",
+        "why": "Repetītiō necessāria ex lēctiōne priōre: terminologia refert ad classem fōrmālem, nōn ad sēnsum."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "iv-aor2-fill",
+      "type": "fill-blank",
+      "title": "Coniugā Aoristum Secundum",
+      "instructions": "Comple spatia cum fōrmā rēctā aoristī secundī.",
+      "items": [
+        {
+          "id": "aor2a",
+          "prompt": "Ἐγὼ τὴν πόλιν ___. (1ª sg. aor., λείπω, “relīquī”)",
+          "options": [
+            "ἔλιπον",
+            "ἔλειψα",
+            "λείπω"
+          ],
+          "answers": [
+            "ἔλιπον"
+          ],
+          "explanation": "Aoristus secundus, 1ª sg.: ἔλιπον (thema mūtātum, sine σ)."
+        },
+        {
+          "id": "aor2b",
+          "prompt": "Σὺ τὸ βιβλίον ___. (2ª sg. aor., λαμβάνω, “cēpistī”)",
+          "options": [
+            "ἔλαβες",
+            "ἐλάμβανες",
+            "λήψῃ"
+          ],
+          "answers": [
+            "ἔλαβες"
+          ],
+          "explanation": "Aoristus secundus, 2ª sg.: ἔλαβες."
+        },
+        {
+          "id": "aor2c",
+          "prompt": "Ἡμεῖς εἰς τὴν ἀγορὰν ___. (1ª pl. aor., ἔρχομαι, “vēnimus”)",
+          "options": [
+            "ἤλθομεν",
+            "ἠρχόμεθα",
+            "ἐλεύσομεν"
+          ],
+          "answers": [
+            "ἤλθομεν"
+          ],
+          "explanation": "Aoristus secundus, 1ª pl.: ἤλθομεν (thema ἐλθ-, augmentum vocālicum)."
+        },
+        {
+          "id": "aor2d",
+          "prompt": "Ὁ ῥήτωρ τί ___; (3ª sg. aor., λέγω, “dīxit”)",
+          "options": [
+            "εἶπε(ν)",
+            "ἔλεξε(ν)",
+            "λέγει"
+          ],
+          "answers": [
+            "εἶπε(ν)"
+          ],
+          "explanation": "Aoristus secundus, 3ª sg.: εἶπε(ν) (thema speciāle)."
+        },
+        {
+          "id": "aor2e",
+          "prompt": "Βούλομαι ___ τὸν βασιλέα. (īnfīnītīvus aor., ὁράω, “vidēre”)",
+          "options": [
+            "ἰδεῖν",
+            "ὁρᾶν",
+            "ὄψεσθαι"
+          ],
+          "answers": [
+            "ἰδεῖν"
+          ],
+          "explanation": "Īnfīnītīvus aoristī secundī: ἰδεῖν (thema ιδ-, sine augmentō in īnfīnītīvō)."
+        }
+      ]
+    },
+    {
+      "id": "iv-aor2-mc",
+      "type": "multiple-choice",
+      "title": "Aoristus Secundus: Rēgulae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "aor2f",
+          "prompt": "Adhibetne aoristus secundus σ characteristicum?",
+          "options": [
+            "sīc, semper",
+            "nōn, numquam",
+            "sōlum in plūrālī"
+          ],
+          "answerIndex": 1,
+          "explanation": "Aoristus secundus numquam habet σ; distinguitur per thema mūtātum."
+        },
+        {
+          "id": "aor2g",
+          "prompt": "Quae dēsinentiae adhibet aoristus secundus?",
+          "options": [
+            "fōrmās novās, prōpriās sōlī aoristō secundō",
+            "dēsinentiās identicās imperfectō",
+            "dēsinentiās praesentis"
+          ],
+          "answerIndex": 1,
+          "explanation": "Dēsinentiae sunt identicae imperfectō (-ον, -ες, -ε...)."
+        },
+        {
+          "id": "aor2h",
+          "prompt": "Potestne thema aoristī secundī praedīcī ā themate praesentis per rēgulam generālem?",
+          "options": [
+            "sīc, rēgula fīxa exsistit",
+            "nōn, dēbet discī sīgillātim prō quōque verbō",
+            "sōlum in verbīs contractīs"
+          ],
+          "answerIndex": 1,
+          "explanation": "Thema aoristī secundī nōn est praedictibile; est pars fōrmārum prīncipālium discendārum."
+        },
+        {
+          "id": "aor2i",
+          "prompt": "Quod est aoristus secundus verbī λαμβάνω?",
+          "options": [
+            "ἔλαβον",
+            "ἐλάμβανον",
+            "λήψομαι"
+          ],
+          "answerIndex": 0,
+          "explanation": "Λαμβάνω → ἔλαβον, cāsus classicus aoristī secundī."
+        },
+        {
+          "id": "aor2j",
+          "prompt": "Significant aoristus prīmus et secundus aspectūs dīversōs?",
+          "options": [
+            "sīc",
+            "nōn, ambō significant āctiōnem simplicem; discrīmen est morphologicum",
+            "aoristus secundus est semper plūs formālis"
+          ],
+          "answerIndex": 1,
+          "explanation": "Repetītiō necessāria: sōlum morphologia differt, nōn sēnsus."
+        }
+      ]
+    },
+    {
+      "id": "iv-aor2-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "aor2k",
+          "statement": "Aoristus secundus adhibet thema mūtātum ā themate praesentis, sine σ.",
+          "answer": true,
+          "explanation": "Corrēctum: λείπω → ἔλιπον, mūtātiō vōcālis interna."
+        },
+        {
+          "id": "aor2l",
+          "statement": "Dēsinentiae aoristī secundī sunt identicae illīs imperfectī.",
+          "answer": true,
+          "explanation": "Corrēctum: -ον, -ες, -ε(ν), -ομεν, -ετε, -ον."
+        },
+        {
+          "id": "aor2m",
+          "statement": "Verbum λέγω fōrmat aoristum suum sigmaticē (cum σ), sīcut λύω.",
+          "answer": false,
+          "explanation": "Falsum: λέγω habet aoristum secundum (εἶπον), sine σ, thema speciāle."
+        },
+        {
+          "id": "aor2n",
+          "statement": "Themata aoristī secundī possunt semper dērīvārī ā regulā generālī phōnologicā.",
+          "answer": false,
+          "explanation": "Falsum: dēbent discī sīgillātim, sīcut fōrmae irregulārēs cuiuslibet linguae."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Aoristus secundus (λείπω → ἔλιπον): thema mūtātum, SINE σ, dēsinentiae identicae imperfectō.",
+    "Ἔλιπον, ἔλιπες, ἔλιπε(ν) // ἐλίπομεν, ἐλίπετε, ἔλιπον. Īnfīnītīvus: λιπεῖν.",
+    "Themata frequentissima: λαμβάνω/ἔλαβον, ἔρχομαι/ἦλθον, ὁράω/εἶδον, λέγω/εἶπον, βάλλω/ἔβαλον — discenda sīgillātim.",
+    "Aoristus prīmus et secundus sunt aspectuāliter identicī (āctiō simplex); discrīmen est purē morphologicum, sīcut classificātiō fōrmārum prīncipālium irregulārium."
+  ],
+  "related": [
+    {
+      "lessonId": "iv-aoristus-activus-et-medius-primus",
+      "label": "Aoristus Prīmus"
+    },
+    {
+      "lessonId": "iv-aoristus-passivus",
+      "label": "Aoristus Passīvus"
+    }
+  ]
+}

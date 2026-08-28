@@ -1,0 +1,249 @@
+{
+  "id": "iv-verba-deponentia",
+  "level": "IV",
+  "unit": "1",
+  "order": 9,
+  "skill": "vocabularium",
+  "strand": "verba-deponentia",
+  "title": "Verba Dēpōnentia",
+  "subtitle": "Verba fōrmā mediā/passīvā, sēnsū āctīvō — γίγνομαι, ἔρχομαι, βούλομαι, δύναμαι; discrīmen inter dēpōnentia media et dēpōnentia passīva in aoristō.",
+  "prerequisites": [
+    "iv-infinitivi-omnium-temporum"
+  ],
+  "objectives": [
+    "Dēfīnīre verbum dēpōnēns: fōrma mediī-passīvī, sēnsus āctīvus — cōnceptus iam nōtus ex Gradū Latīnō (deponent verbs)",
+    "Coniugāre plēnē βούλομαι (volō) in praesentī, notandō fōrmam speciālem 2ae persōnae (βούλει, nōn βούλῃ)",
+    "Distinguere dēpōnentia media (aoristus in fōrmā mediā: γίγνομαι → ἐγενόμην) ā dēpōnentibus passīvīs (aoristus in fōrmā passīvā: βούλομαι → ἐβουλήθην)",
+    "Recitāre verba dēpōnentia frequentissima: γίγνομαι, ἔρχομαι, βούλομαι, δύναμαι, δέχομαι, ἀποκρίνομαι"
+  ],
+  "content": {
+    "intro": "Discipulus Latīnē doctus iam nōvit cōnceptum “verbī dēpōnentis” (Latīnē: <em>loquor, hortor, sequor</em> — fōrma passīva, sēnsus āctīvus). Graecum habet cōnceptum plānē analogum, sed magis frequentem: multa verba GRAECA frequentissima — inclūsīs illīs iam adhibitīs per tōtum hunc cursum (<span class=\"greek\">βούλομαι, ἔρχομαι, γίγνομαι, δύναμαι</span>) — exsistunt SŌLUM in fōrmā mediā-passīvā, numquam āctīvā, cum sēnsū tamen āctīvō.",
+    "explanation": "<p>Terminus “dēpōnēns” (Latīnē <em>dēpōnere</em>, “dēpōnere/relinquere”) refert ad ideam antīquam grammaticōrum: verbum “dēposuit” fōrmam āctīvam suam, retinēns sōlum fōrmam mediam-passīvam. In Graecō, dēpōnentia sunt EXTRĒME frequentia — nōn phaenomenon rārum vel margināle, sed pars normāle vocābulī fundāmentālis.</p>",
+    "rules": [
+      {
+        "heading": "a) Βούλομαι (volō): Coniugātiō Praesentis",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Persōna</th><th>Singulāris</th><th>Plūrālis</th></tr></thead><tbody><tr><td>1ª</td><td class=\"greek\">βούλομαι</td><td class=\"greek\">βουλόμεθα</td></tr><tr><td>2ª</td><td class=\"greek\">βούλει</td><td class=\"greek\">βούλεσθε</td></tr><tr><td>3ª</td><td class=\"greek\">βούλεται</td><td class=\"greek\">βούλονται</td></tr></tbody></table><p>Nōtā 2ª sg. <span class=\"greek\">βούλει</span> (NŌN *βούλῃ, contrā rēgulam contractiōnis normālem ex Gradū II): fōrma antīqua irregulāris, retenta ex ratiōnibus historicīs, sīcut <span class=\"greek\">οἴει</span> (ab οἴομαι, “putō”).</p>"
+      },
+      {
+        "heading": "b) Dēpōnentia Media vs. Passīva (in Aoristō)",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Praesēns</th><th>Aoristus</th><th>Genus</th><th>Sēnsus</th></tr></thead><tbody><tr><td class=\"greek\">γίγνομαι</td><td class=\"greek\">ἐγενόμην</td><td>medium</td><td>fīō, ēvenio</td></tr><tr><td class=\"greek\">ἔρχομαι</td><td class=\"greek\">ἦλθον</td><td>(aoristus secundus āctīvus, suppletīvus)</td><td>veniō, eō</td></tr><tr><td class=\"greek\">βούλομαι</td><td class=\"greek\">ἐβουλήθην</td><td>passīvum</td><td>volō</td></tr><tr><td class=\"greek\">δύναμαι</td><td class=\"greek\">ἐδυνήθην</td><td>passīvum</td><td>possum</td></tr></tbody></table><p>Nōtā: γίγνομαι fōrmat aoristum suum in FŌRMĀ MEDIĀ (ἐγενόμην, comparā λυσάμην); βούλομαι et δύναμαι fōrmant aoristum suum in FŌRMĀ PASSĪVĀ (ἐβουλήθην, ἐδυνήθην, comparā ἐλύθην) — quamvīs sēnsus manet āctīvus in ambōbus cāsibus! Ἔρχομαι est cāsus adhūc speciālior: aoristus eius (ἦλθον) est vērē āctīvus in fōrmā (Gradū IV priōre, aoristus secundus), quamquam praesēns est medium-passīvum fōrmā — īnstantia suppletiōnis (thema omnīnō dīversum) simul cum dēpōnentiā.</p>"
+      },
+      {
+        "heading": "c) Cūr Discere Genus Aoristī Sīgillātim",
+        "body": "<p>Nūlla rēgula praedictīva revēlat utrum verbum dēpōnēns fōrmet aoristum suum mediē an passīvē — haec informātiō est pars fōrmārum prīncipālium (principal parts) discendārum cum quōque verbō, exāctē sīcut aoristus secundus (Gradū IV priōre). Dictiōnāria bona semper indicant hoc explicitē.</p>"
+      }
+    ],
+    "examples": [
+      "βούλομαι μαθεῖν τὴν ἀλήθειαν. — Volō discere vēritātem.",
+      "ἐγενόμην ἐν τῇ πόλει. — Fuī/advēnī in urbe. (γίγνομαι aoristus, sēnsus “fīō, sum”)",
+      "ἦλθον εἰς τὴν ἀγοράν. — Vēnī ad forum. (ἔρχομαι aoristus, suppletīvus)",
+      "ἐβουλήθημεν μαθεῖν. — Voluimus discere. (βούλομαι aoristus, fōrma passīva, sēnsus āctīvus)",
+      "οὐκ ἐδυνήθη λῦσαι τὸν δοῦλον. — Nōn potuit solvere servum. (δύναμαι aoristus)",
+      "ἀπεκρίνατο σοφῶς. — Respondit sapienter. (ἀποκρίνομαι, dēpōnēns medium, cum adverbiō ex Gradū II)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Quaerere fōrmam āctīvam prō verbīs dēpōnentibus (ut *βούλω prō βούλομαι), suppōnendō omne verbum dēbēre habēre fōrmam āctīvam.",
+        "right": "Recordārī dēpōnentia EXSISTUNT SŌLUM in fōrmā mediā-passīvā — nūlla fōrma āctīva exsistit umquam, in ūllō tempore.",
+        "why": "Idem cōnceptus quem discipulus iam nōvit ex Latīnō (deponent verbs) applicātur hīc, sed cum vocābulō dīversō."
+      },
+      {
+        "wrong": "Applicāre patrōnum medium (ut in ἐγενόμην) indiscrīminātim ad omne aoristum dēpōnentis, prōdūcendō *ἐβουλόμην prō ἐβουλήθην.",
+        "right": "Discere sīgillātim utrum quōque verbum dēpōnēns fōrmet aoristum suum mediē an passīvē — pars fōrmārum prīncipālium.",
+        "why": "Nūlla rēgula generālis dēterminat hoc; error hīc est frequēns sine memoriā speciālī prō quōque verbō."
+      },
+      {
+        "wrong": "Trānsferre verbum dēpōnēns cum sēnsū passīvō (“volor” prō “volō”), propter fōrmam mediam-passīvam vīsam.",
+        "right": "Recordārī sēnsus dēpōnentium est semper āctīvus, quamquam fōrma est media-passīva.",
+        "why": "Nōmen ipsum “dēpōnēns” significat exāctē hoc: verbum quod dēposuit fōrmam āctīvam sed retinet sēnsum āctīvum."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "iv-dep1-mc",
+      "type": "multiple-choice",
+      "title": "Verba Dēpōnentia: Rēgulae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "dep1a",
+          "prompt": "Quid est verbum dēpōnēns?",
+          "options": [
+            "verbum sine fōrmā ūllā",
+            "verbum fōrmā mediā-passīvā sed sēnsū āctīvō",
+            "verbum sōlum in modō imperātīvō"
+          ],
+          "answerIndex": 1,
+          "explanation": "Dēpōnēns = fōrma media-passīva, sēnsus āctīvus — cōnceptus parallēlus Latīnō."
+        },
+        {
+          "id": "dep1b",
+          "prompt": "Quae est fōrma irregulāris 2ae persōnae singulāris βούλομαι?",
+          "options": [
+            "βούλῃ",
+            "βούλει",
+            "βούλεις"
+          ],
+          "answerIndex": 1,
+          "explanation": "Βούλει (nōn βούλῃ) est fōrma antīqua retenta, contrā rēgulam contractiōnis normālem."
+        },
+        {
+          "id": "dep1c",
+          "prompt": "In quā fōrmā (mediā an passīvā) fōrmat γίγνομαι aoristum suum?",
+          "options": [
+            "mediā (ἐγενόμην)",
+            "passīvā (ἐγενήθην)",
+            "āctīvā"
+          ],
+          "answerIndex": 0,
+          "explanation": "Γίγνομαι est dēpōnēns medium."
+        },
+        {
+          "id": "dep1d",
+          "prompt": "In quā fōrmā fōrmat βούλομαι aoristum suum?",
+          "options": [
+            "mediā",
+            "passīvā (ἐβουλήθην)",
+            "āctīvā"
+          ],
+          "answerIndex": 1,
+          "explanation": "Βούλομαι est dēpōnēns passīvum."
+        },
+        {
+          "id": "dep1e",
+          "prompt": "Potestne rēgula generālis praedīcere utrum verbum dēpōnēns sit medium an passīvum in aoristō?",
+          "options": [
+            "sīc, rēgula fīxa exsistit",
+            "nōn, dēbet discī sīgillātim, ut pars fōrmārum prīncipālium",
+            "omnia dēpōnentia sunt semper media"
+          ],
+          "answerIndex": 1,
+          "explanation": "Nūlla rēgula praedictīva; informātiō pars vocābulī memorandī."
+        }
+      ]
+    },
+    {
+      "id": "iv-dep1-fill",
+      "type": "fill-blank",
+      "title": "Complē cum Fōrmā Rēctā",
+      "instructions": "Comple spatia cum fōrmā rēctā verbī dēpōnentis.",
+      "items": [
+        {
+          "id": "dep1f",
+          "prompt": "Ἐγὼ ___ μαθεῖν τὴν ἀλήθειαν. (1ª sg. praes., βούλομαι, “volō”)",
+          "options": [
+            "βούλομαι",
+            "βούλει",
+            "βούλεται"
+          ],
+          "answers": [
+            "βούλομαι"
+          ],
+          "explanation": "Prīma persōna singulāris: βούλομαι."
+        },
+        {
+          "id": "dep1g",
+          "prompt": "Σὺ τί ___; (2ª sg. praes., βούλομαι, “vīs”)",
+          "options": [
+            "βούλει",
+            "βούλῃ",
+            "βούλεσαι"
+          ],
+          "answers": [
+            "βούλει"
+          ],
+          "explanation": "Fōrma irregulāris: βούλει."
+        },
+        {
+          "id": "dep1h",
+          "prompt": "___ ἐν τῇ πόλει. (1ª sg. aor., γίγνομαι, “fuī”)",
+          "options": [
+            "ἐγενόμην",
+            "ἐγενήθην",
+            "γίγνομαι"
+          ],
+          "answers": [
+            "ἐγενόμην"
+          ],
+          "explanation": "Aoristus dēpōnēns medius: ἐγενόμην."
+        },
+        {
+          "id": "dep1i",
+          "prompt": "Οὐκ ___ λῦσαι τὸν δοῦλον. (3ª sg. aor., δύναμαι, “potuit”)",
+          "options": [
+            "ἐδυνήθη",
+            "ἐδύνατο",
+            "δύναται"
+          ],
+          "answers": [
+            "ἐδυνήθη"
+          ],
+          "explanation": "Aoristus dēpōnēns passīvus: ἐδυνήθη."
+        },
+        {
+          "id": "dep1j",
+          "prompt": "___ εἰς τὴν ἀγοράν. (1ª sg. aor., ἔρχομαι, “vēnī”)",
+          "options": [
+            "ἦλθον",
+            "ἠρχόμην",
+            "ἐλεύσομαι"
+          ],
+          "answers": [
+            "ἦλθον"
+          ],
+          "explanation": "Aoristus suppletīvus: ἦλθον."
+        }
+      ]
+    },
+    {
+      "id": "iv-dep1-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "dep1k",
+          "statement": "Verba dēpōnentia habent sēnsum passīvum, quamquam fōrmam mediam-passīvam.",
+          "answer": false,
+          "explanation": "Falsum: sēnsus est semper āctīvus, nōn passīvus."
+        },
+        {
+          "id": "dep1l",
+          "statement": "Cōnceptus “verbī dēpōnentis” exsistit etiam in Latīnō (loquor, sequor), parallēlus cōnceptuī Graecō.",
+          "answer": true,
+          "explanation": "Corrēctum: idem cōnceptus grammaticus, ambābus linguīs."
+        },
+        {
+          "id": "dep1m",
+          "statement": "Omnia verba dēpōnentia fōrmant aoristum suum eōdem modō (semper medium vel semper passīvum).",
+          "answer": false,
+          "explanation": "Falsum: variat sīgillātim per verbum; nūlla rēgula ūniversālis."
+        },
+        {
+          "id": "dep1n",
+          "statement": "Ἔρχομαι est cāsus speciālis quia coniungit dēpōnentiam (praesēns medium-passīvum) cum suppletiōne (aoristus āctīvus, thema dīversum).",
+          "answer": true,
+          "explanation": "Corrēctum: duo phaenomena coniūncta in ūnō verbō."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Verbum dēpōnēns: fōrma media-passīva, sēnsus āctīvus — cōnceptus parallēlus verbīs dēpōnentibus Latīnīs.",
+    "Βούλομαι, βούλει (irregulāre!), βούλεται // βουλόμεθα, βούλεσθε, βούλονται.",
+    "Dēpōnentia media (γίγνομαι → ἐγενόμην) vs. dēpōnentia passīva (βούλομαι → ἐβουλήθην, δύναμαι → ἐδυνήθην): genus aoristī discendum sīgillātim.",
+    "Ἔρχομαι combīnat dēpōnentiam praesentis cum suppletiōne aoristī (ἦλθον, fōrma āctīva, thema dīversum).",
+    "Dēpōnentia sunt extrēmē frequentia in vocābulō fundāmentālī Graecō — nōn phaenomenon rārum."
+  ],
+  "related": [
+    {
+      "lessonId": "iv-infinitivi-omnium-temporum",
+      "label": "Īnfīnītīvī Omnium Temporum"
+    },
+    {
+      "lessonId": "iv-genetivus-absolutus",
+      "label": "Genetīvus Absolūtus"
+    }
+  ]
+}

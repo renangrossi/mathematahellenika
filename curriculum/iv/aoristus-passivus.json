@@ -1,0 +1,249 @@
+{
+  "id": "iv-aoristus-passivus",
+  "level": "IV",
+  "unit": "1",
+  "order": 3,
+  "skill": "grammatica",
+  "strand": "aoristus",
+  "title": "Aoristus Passīvus",
+  "subtitle": "Aoristus passīvus (θη-fōrmātiō): λύω → ἐλύθην, fōrma prōrsus distīncta ā mediō — hīc dēmum media et passīva vērē dīvergunt.",
+  "prerequisites": [
+    "iv-aoristus-secundus"
+  ],
+  "objectives": [
+    "Coniugāre plēnē aoristum passīvum verbī λύω (ἐλύθην)",
+    "Recordārī hoc est locus ubi media et passīva, morphologicē identica in praesentī/imperfectō/futūrō mediō (Gradibus II/III), fīnāliter DĪVERGUNT",
+    "Identificāre signum characteristicum θη (vel η, prō quibusdam verbīs: aoristus passīvus “secundus”)",
+    "Formāre īnfīnītīvum aoristī passīvī (λυθῆναι)"
+  ],
+  "content": {
+    "intro": "Gradus II docuit: media et passīva sunt IDENTICA in praesentī/imperfectō. Gradus III addidit: futūrum medium ≠ futūrum passīvum (fōrmae iam distīnctae, sed illud futūrī passīvī ipsum nōn adhūc vīsum). Hodiē, in aoristō, vidēs fīnāliter fōrmam passīvam vērē propriam: <span class=\"greek\">ἐλύθην</span>, cōnstrūcta cum signō <strong>θη</strong>, prōrsus distīncta ā fōrmā mediā <span class=\"greek\">ἐλυσάμην</span>.",
+    "explanation": "<p>Aoristus passīvus adhibet thema + <span class=\"greek\">θη</span> + dēsinentiae speciālēs (quae sunt, historicē, dēsinentiae āctīvae, nōn mediae! — attentiō magna hīc). Discrīmen sēnsūs ā mediō (Gradū II) manet idem quam semper: passīvum = subiectum patitur āctiōnem ab aliō; medium = subiectum agit in/prō sē ipsō.</p>",
+    "rules": [
+      {
+        "heading": "a) Aoristus Passīvus: ἐλύθην",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Persōna</th><th>Singulāris</th><th>Plūrālis</th></tr></thead><tbody><tr><td>1ª</td><td class=\"greek\">ἐλύθην</td><td class=\"greek\">ἐλύθημεν</td></tr><tr><td>2ª</td><td class=\"greek\">ἐλύθης</td><td class=\"greek\">ἐλύθητε</td></tr><tr><td>3ª</td><td class=\"greek\">ἐλύθη</td><td class=\"greek\">ἐλύθησαν</td></tr></tbody></table><p>Fōrmātiō: augmentum + thema + θη + dēsinentiae (-ν, -ς, -∅, -μεν, -τε, -σαν) — hae dēsinentiae sunt HISTORICĒ āctīvae (comparā cum aoristō āctīvō themātum in -μι, quem posteā vidēbis), nōn mediae, quamquam sēnsus est passīvus. Nōn est necesse explicāre plēnē hanc irregulāritātem historicam — sōlum recognōscere patrōnum -θη- ut signum characteristicum passīvī.</p>"
+      },
+      {
+        "heading": "b) Īnfīnītīvus et Agēns",
+        "body": "<p>Īnfīnītīvus: <span class=\"greek\">λυθῆναι</span>. Agēns passīvus (“ab aliquō”), sī explicitus, adhibet <span class=\"greek\">ὑπό</span> + genetīvum, sīcut in praesentī (Gradū II): <span class=\"greek\">ἐλύθη ὑπὸ τοῦ δεσπότου</span> “solūtus est ā dominō”. Comparā trēs fōrmae nunc distīnctae verbī λύω in praeteritō/futūrō: āctīvum ἔλυσα (solvī), medium ἐλυσάμην (solvī/redēmī prō mē), passīvum ἐλύθην (solūtus sum).</p>"
+      },
+      {
+        "heading": "c) Aoristus Passīvus “Secundus” (Sine θ)",
+        "body": "<p>Sīcut aoristus āctīvus/medius habet duo genera (prīmus/secundus), aoristus passīvus habet variantem sine θ — “aoristus passīvus secundus” — ut in <span class=\"greek\">γράφω</span> (scrībō) → <span class=\"greek\">ἐγράφην</span> (scrīptus sum), nōn *ἐγράφθην. Rārior quam variāns θη, sed frequēns satis in verbīs commūnibus; dēsinentiae persōnālēs manent identicae (-ην, -ης, -η...).</p>"
+      }
+    ],
+    "examples": [
+      "ὁ δοῦλος ἐλύθη ὑπὸ τοῦ δεσπότου. — Servus solūtus est ā dominō. (aoristus passīvus, agēns explicitus)",
+      "ἐλύθημεν ἐκ τῶν δεσμῶν. — Solūtī sumus ē vinculīs. (1ª pl.)",
+      "ἐγράφη ἡ ἐπιστολή. — Scrīpta est epistula. (aoristus passīvus secundus, sine θ)",
+      "ἐβλήθης ὑπὸ τῶν πολεμίων; — Iactus/percussus es ab hostibus? (2ª sg., βάλλω → ἐβλήθην)",
+      "βούλεται λυθῆναι. — Vult sē solvī/līberārī. (īnfīnītīvus)",
+      "αἱ πύλαι ἐλύθησαν. — Portae solūtae sunt. (3ª pl.)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Cōnfundere aoristum medium (ἐλυσάμην) cum aoristō passīvō (ἐλύθην), crēdēns eōs esse eandem fōrmam.",
+        "right": "Recordārī hīc — dīversē ā praesentī/imperfectō — media et passīva DĪVERGUNT: fōrmae sunt prōrsus distīnctae in aoristō.",
+        "why": "Discrīmen praecipuum ab omnī cōnstrūctiōne praeteritī/praesentī iam vīsā; error hīc mūtat sēnsum fundāmentāliter (“redēmī” vs. “solūtus sum”)."
+      },
+      {
+        "wrong": "Applicāre dēsinentiās mediās (-μην, -σο, -το) ad aoristum passīvum, prōdūcendō *ἐλύθημην.",
+        "right": "Recordārī aoristus passīvus adhibet dēsinentiās speciālēs (-ην, -ης, -η...), historicē āctīvās, NŌN mediās.",
+        "why": "Error commūnis quia discipulus expectat “passīvum” significāre “dēsinentiās mediās”, sed nōn hīc."
+      },
+      {
+        "wrong": "Crēdere omne verbum adhibēre θ in aoristō passīvō, sine cōnsīderāre variantem “secundam” (sine θ).",
+        "right": "Recognōscere aliqua verba frequentia (γράφω/ἐγράφην, βάλλω/ἐβλήθην... nōn, βάλλω habet θ; exemplum melius: φαίνω/ἐφάνην) adhibent aoristum passīvum sine θ.",
+        "why": "Sīcut aoristus āctīvus, passīvus quoque habet duo patrōnī morphologicī prō eōdem sēnsū."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "iv-aor3-fill",
+      "type": "fill-blank",
+      "title": "Coniugā Aoristum Passīvum",
+      "instructions": "Comple spatia cum fōrmā rēctā aoristī passīvī.",
+      "items": [
+        {
+          "id": "aor3a",
+          "prompt": "Ὁ δοῦλος ___ ὑπὸ τοῦ δεσπότου. (3ª sg. aor. pass., λύω, “solūtus est”)",
+          "options": [
+            "ἐλύθη",
+            "ἐλύσατο",
+            "λύεται"
+          ],
+          "answers": [
+            "ἐλύθη"
+          ],
+          "explanation": "Aoristus passīvus, 3ª sg.: ἐλύθη."
+        },
+        {
+          "id": "aor3b",
+          "prompt": "Ἐγὼ ___ ἐκ τῶν δεσμῶν. (1ª sg. aor. pass., “solūtus sum”)",
+          "options": [
+            "ἐλύθην",
+            "ἐλυσάμην",
+            "λύομαι"
+          ],
+          "answers": [
+            "ἐλύθην"
+          ],
+          "explanation": "Aoristus passīvus, 1ª sg.: ἐλύθην."
+        },
+        {
+          "id": "aor3c",
+          "prompt": "Αἱ πύλαι ___. (3ª pl. aor. pass., “solūtae sunt”)",
+          "options": [
+            "ἐλύθησαν",
+            "ἐλύσαντο",
+            "ἐλύοντο"
+          ],
+          "answers": [
+            "ἐλύθησαν"
+          ],
+          "explanation": "Aoristus passīvus, 3ª pl.: ἐλύθησαν."
+        },
+        {
+          "id": "aor3d",
+          "prompt": "Βούλεται ___ . (īnfīnītīvus aor. pass., “sē solvī”)",
+          "options": [
+            "λυθῆναι",
+            "λύεσθαι",
+            "λύσασθαι"
+          ],
+          "answers": [
+            "λυθῆναι"
+          ],
+          "explanation": "Īnfīnītīvus aoristī passīvī: λυθῆναι."
+        },
+        {
+          "id": "aor3e",
+          "prompt": "Ἡ ἐπιστολὴ ___. (3ª sg. aor. pass. secundus, γράφω, “scrīpta est”)",
+          "options": [
+            "ἐγράφη",
+            "ἔγραψεν",
+            "ἐγράφθη"
+          ],
+          "answers": [
+            "ἐγράφη"
+          ],
+          "explanation": "Γράφω adhibet aoristum passīvum “secundum”, sine θ: ἐγράφη."
+        }
+      ]
+    },
+    {
+      "id": "iv-aor3-mc",
+      "type": "multiple-choice",
+      "title": "Aoristus Passīvus: Rēgulae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "aor3f",
+          "prompt": "Sunt aoristus medius et passīvus fōrmā identicī, sīcut in praesentī?",
+          "options": [
+            "sīc, semper identicī",
+            "nōn, hīc fīnāliter dīvergunt in fōrmā",
+            "sōlum in plūrālī"
+          ],
+          "answerIndex": 1,
+          "explanation": "Aoristus est locus praecipuus ubi media/passīva morphologicē dīvergunt."
+        },
+        {
+          "id": "aor3g",
+          "prompt": "Quod signum characteristicum distinguit aoristum passīvum?",
+          "options": [
+            "σα",
+            "θη",
+            "μαι"
+          ],
+          "answerIndex": 1,
+          "explanation": "Θη (vel η, prō variante secundā) est signum passīvī aoristī."
+        },
+        {
+          "id": "aor3h",
+          "prompt": "Sunt dēsinentiae aoristī passīvī (-ην, -ης, -η...) historicē mediae?",
+          "options": [
+            "sīc",
+            "nōn, sunt historicē āctīvae, quamquam sēnsus est passīvus",
+            "sunt fōrmae prōrsus novae, sine praecēdente"
+          ],
+          "answerIndex": 1,
+          "explanation": "Discrīmen surprēndēns sed vērum: dēsinentiae sunt āctīvae historicē."
+        },
+        {
+          "id": "aor3i",
+          "prompt": "Quae praepositiō + cāsus indicat agentem passīvum in aoristō, sīcut in praesentī?",
+          "options": [
+            "ὑπό + genetīvus",
+            "διά + accūsātīvus",
+            "ἐν + datīvus"
+          ],
+          "answerIndex": 0,
+          "explanation": "Ὑπό + genetīvus manet identicum per omnia tempora."
+        },
+        {
+          "id": "aor3j",
+          "prompt": "Exsistitne variāns aoristī passīvī sine θ (\"secundus\")?",
+          "options": [
+            "nōn, θ est semper obligātōrium",
+            "sīc, ut in γράφω → ἐγράφην",
+            "sōlum in singulārī"
+          ],
+          "answerIndex": 1,
+          "explanation": "Aoristus passīvus secundus (sine θ) exsistit prō aliquibus verbīs frequentibus."
+        }
+      ]
+    },
+    {
+      "id": "iv-aor3-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "aor3k",
+          "statement": "Aoristus passīvus adhibet dēsinentiās mediās (-μην, -σο, -το).",
+          "answer": false,
+          "explanation": "Falsum: adhibet dēsinentiās speciālēs (-ην, -ης, -η...), historicē āctīvās."
+        },
+        {
+          "id": "aor3l",
+          "statement": "In aoristō, media et passīva fīnāliter dīvergunt in fōrmā, dīversē ā praesentī/imperfectō.",
+          "answer": true,
+          "explanation": "Corrēctum: aoristus est locus praecipuus huius dīvergentiae."
+        },
+        {
+          "id": "aor3m",
+          "statement": "Agēns passīvus in aoristō exprimitur eōdem modō ac in praesentī (ὑπό + gen.).",
+          "answer": true,
+          "explanation": "Corrēctum: cōnstrūctiō manet cōnstāns per omnia tempora."
+        },
+        {
+          "id": "aor3n",
+          "statement": "Omne verbum Graecum adhibet obligātōriē θ in aoristō passīvō, sine exceptiōne.",
+          "answer": false,
+          "explanation": "Falsum: exsistit variāns “secunda” sine θ prō aliquibus verbīs."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Aoristus passīvus λύω: ἐλύθην, ἐλύθης, ἐλύθη // ἐλύθημεν, ἐλύθητε, ἐλύθησαν. Īnfīnītīvus: λυθῆναι.",
+    "Signum characteristicum: θη (vel η prō variante “secundā”, ut γράφω → ἐγράφην).",
+    "Dēsinentiae aoristī passīvī sunt historicē āctīvae (-ην, -ης, -η...), nōn mediae — surprēnsa notābilis.",
+    "Aoristus est locus praecipuus ubi media/passīva DĪVERGUNT morphologicē (contrā praesēns/imperfectum, identicī): ἐλυσάμην (medium) ≠ ἐλύθην (passīvum).",
+    "Agēns passīvus: ὑπό + genetīvus, cōnstāns per omnia tempora."
+  ],
+  "related": [
+    {
+      "lessonId": "iv-aoristus-secundus",
+      "label": "Aoristus Secundus"
+    },
+    {
+      "lessonId": "iv-systema-perfecti-activi",
+      "label": "Systēma Perfectī Āctīvī"
+    }
+  ]
+}

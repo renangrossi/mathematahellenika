@@ -150,7 +150,63 @@
       "ty": "comparatio-adiectivorum"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "slug": "aoristus-activus-et-medius-primus",
+      "title": "Aoristus Prīmus: Āctīvus et Medius",
+      "ty": "aoristus-activus-et-medius-primus"
+    },
+    {
+      "slug": "aoristus-secundus",
+      "title": "Aoristus Secundus",
+      "ty": "aoristus-secundus"
+    },
+    {
+      "slug": "aoristus-passivus",
+      "title": "Aoristus Passīvus",
+      "ty": "aoristus-passivus"
+    },
+    {
+      "slug": "systema-perfecti-activi",
+      "title": "Systēma Perfectī Āctīvī",
+      "ty": "systema-perfecti-activi"
+    },
+    {
+      "slug": "systema-perfecti-medii-passivi",
+      "title": "Systēma Perfectī Mediī-Passīvī",
+      "ty": "systema-perfecti-medii-passivi"
+    },
+    {
+      "slug": "participium-praesentis",
+      "title": "Participium Praesentis",
+      "ty": "participium-praesentis"
+    },
+    {
+      "slug": "participium-aoristi",
+      "title": "Participium Aoristī",
+      "ty": "participium-aoristi"
+    },
+    {
+      "slug": "infinitivi-omnium-temporum",
+      "title": "Īnfīnītīvī Omnium Temporum",
+      "ty": "infinitivi-omnium-temporum"
+    },
+    {
+      "slug": "verba-deponentia",
+      "title": "Verba Dēpōnentia",
+      "ty": "verba-deponentia"
+    },
+    {
+      "slug": "genetivus-absolutus",
+      "title": "Genetīvus Absolūtus",
+      "ty": "genetivus-absolutus"
+    },
+    {
+      "slug": "recognitio-systema-verbi",
+      "title": "Recognitiō: Systēma Verbī Latīnī Graecī",
+      "ty": "recognitio-systema-verbi"
+    }
+  ],
   "provectus": [],
   "altior": [],
   "auctores": []

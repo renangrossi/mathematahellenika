@@ -1,0 +1,248 @@
+{
+  "id": "iv-participium-praesentis",
+  "level": "IV",
+  "unit": "1",
+  "order": 6,
+  "skill": "grammatica",
+  "strand": "participia",
+  "title": "Participium Praesentis",
+  "subtitle": "Participium praesēns āctīvum (λύων, -ουσα, -ον) et medium-passīvum (λυόμενος, -η, -ον); ūsūs syntacticī fundāmentālēs.",
+  "prerequisites": [
+    "iv-systema-perfecti-medii-passivi"
+  ],
+  "objectives": [
+    "Dēclīnāre plēnē participium praesēns āctīvum λύων, λύουσα, λῦον per omnēs cāsūs, omnia genera",
+    "Dēclīnāre participium praesēns medium-passīvum λυόμενος, λυομένη, λυόμενον (patrōnus regulāris classis prīmae)",
+    "Distinguere ūsum attribūtīvum (cum articulō, “ille quī...”) ab ūsū circumstantiālī (sine articulō, clausula adverbiālis implicita)",
+    "Trānsferre participium Graecum correcte, saepe per clausulam Latīnā/vernāculā (“dum...”, “quī...”, “quamquam...”)"
+  ],
+  "content": {
+    "intro": "Participium est fōrma verbālis-adiectīva — sīcut Latīnum “amāns, amantis” vel Anglicum “-ing” — extrēmē frequēns et versātile in Graecō, magis etiam quam in Latīnō: Graecum adhibet participia ubi linguae modernae adhibērent saepe clausulās subordinātās integrās. Participium praesēns significat āctiōnem SIMULTANEAM cum verbō prīncipālī (aspectus, nōn tempus absolūtum).",
+    "explanation": "<p>Participium concordat cum nōmine suō in genere/numerō/cāsū (sīcut adiectīvum), sed retinet quoque prōprietātēs verbālēs (vōx, complementa). Participium praesēns āctīvum sequitur patrōnum tertiae dēclīnātiōnis (masc./neut., thema -οντ-) et prīmae (fem.) — patrōnus mixtus, comparābilis πᾶς (Gradū III).</p>",
+    "rules": [
+      {
+        "heading": "a) Participium Praesēns Āctīvum: λύων, λύουσα, λῦον",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Cāsus</th><th>Masc. sg.</th><th>Fem. sg.</th><th>Neut. sg.</th></tr></thead><tbody><tr><td>Nōm.</td><td class=\"greek\">λύων</td><td class=\"greek\">λύουσα</td><td class=\"greek\">λῦον</td></tr><tr><td>Gen.</td><td class=\"greek\">λύοντος</td><td class=\"greek\">λυούσης</td><td class=\"greek\">λύοντος</td></tr><tr><td>Dat.</td><td class=\"greek\">λύοντι</td><td class=\"greek\">λυούσῃ</td><td class=\"greek\">λύοντι</td></tr><tr><td>Acc.</td><td class=\"greek\">λύοντα</td><td class=\"greek\">λύουσαν</td><td class=\"greek\">λῦον</td></tr></tbody></table><p>Masc./neut. sequuntur tertiam dēclīnātiōnem (thema λυοντ-, cōnsonanticum, patrōnus ex Gradū III); fēminīnum sequitur prīmam (λυουσ-, patrōnus τιμή). Plūrālis masc.: <span class=\"greek\">λύοντες, λυόντων, λύουσι(ν), λύοντας</span>.</p>"
+      },
+      {
+        "heading": "b) Participium Praesēns Medium-Passīvum: λυόμενος",
+        "body": "<p>Multō simplicius: dēclīnātur exāctē sīcut adiectīvum classis prīmae regulāre (patrōnus καλός/καλή/καλόν): <span class=\"greek\">λυόμενος, λυομένου, λυομένῳ, λυόμενον</span> (masc.); <span class=\"greek\">λυομένη, λυομένης...</span> (fem.); <span class=\"greek\">λυόμενον, λυομένου...</span> (neut.). Nūlla irregulāritās, dīversē ab āctīvō.</p>"
+      },
+      {
+        "heading": "c) Duo Ūsūs Fundāmentālēs",
+        "body": "<p><strong>Attribūtīvum</strong> (cum articulō, “ille quī...”): <span class=\"greek\">ὁ λύων τὸν δοῦλον</span> “is quī servum solvit” (litt. “solvēns servum”). <strong>Circumstantiālis</strong> (sine articulō, valet ut clausula adverbiālis implicita — temporālis, causālis, concessīva, condiciōnālis, secundum contextum): <span class=\"greek\">λύων τὸν δοῦλον, ὁ ἀνὴρ ἀπῆλθεν</span> “solvēns servum [dum solvit / postquam solvit], vir discessit”. Sēnsus praecīsus (dum/quia/quamquam) dēterminātur ā contextū, nōn ā fōrmā ipsā.</p>"
+      }
+    ],
+    "examples": [
+      "ὁ λύων τὸν δοῦλον σοφός ἐστιν. — Is quī servum solvit sapiēns est. (attribūtīvum)",
+      "λύων τὸν δοῦλον, ὁ ἀνὴρ ἐχάρη. — Dum/postquam servum solvit, vir gāvīsus est. (circumstantiālis temporālis)",
+      "ἡ γυνὴ ἡ λύουσα τὸν δοῦλον. — Mulier quae servum solvit. (fēminīnum attribūtīvum)",
+      "οἱ δοῦλοι λυόμενοι χαίρουσιν. — Servī, dum solvuntur, gaudent. (medium-passīvum, circumstantiālis)",
+      "τὸ βιβλίον τὸ λυόμενον. — Liber quī solvitur [passīvē]. (neutrum attribūtīvum)",
+      "σοφὸς ὢν οὐ λέγει πάντα. — Cum sit sapiēns, nōn dīcit omnia. (participium εἰμί, ὤν/οὖσα/ὄν, concessīvum implicitum)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Trānsferre omne participium circumstantiāle exāctē eōdem modō (semper “dum”), ignōrandō variātiōnem sēnsūs secundum contextum.",
+        "right": "Cōnsīderāre contextum tōtīus sententiae ad dēterminandum sēnsum implicitum (temporālis/causālis/concessīvus/condiciōnālis).",
+        "why": "Participium circumstantiāle Graecum est ambiguum ex dēsignō — flexibilitās est trāctus stilisticus, nōn dēfectus."
+      },
+      {
+        "wrong": "Dēclīnāre participium mediī-passīvī sīcut āctīvum (thema -οντ-, tertia dēclīnātiō), applicandō patrōnum incorrēctum.",
+        "right": "Recordārī participium mediī-passīvī (λυόμενος) sequitur patrōnum SIMPLICEM classis prīmae adiectīvōrum, tōtē dīversum ab āctīvō.",
+        "why": "Duo patrōnī participiī praesentis (āctīvus complexus, medius-passīvus simplex) sunt facile cōnfundibilēs sine attentiōne."
+      },
+      {
+        "wrong": "Omittere articulum in ūsū attribūtīvō, crēdēns participium sōlum posse esse circumstantiāle.",
+        "right": "Recognōscere participium CUM articulō (ὁ λύων) fūnctiōnat sīcut clausula relātīva substantīvāta (“is quī solvit”).",
+        "why": "Ūsus attribūtīvus est extrēmē frequēns et distīnctus syntacticē ab ūsū circumstantiālī."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "iv-part1-mc",
+      "type": "multiple-choice",
+      "title": "Participium Praesentis: Rēgulae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "part1a",
+          "prompt": "Quam dēclīnātiōnem sequitur masculīnum participiī praesentis āctīvī (λύων)?",
+          "options": [
+            "prīmam",
+            "tertiam (thema -οντ-)",
+            "secundam"
+          ],
+          "answerIndex": 1,
+          "explanation": "Masc./neut. sequuntur tertiam dēclīnātiōnem, thema λυοντ-."
+        },
+        {
+          "id": "part1b",
+          "prompt": "Quam dēclīnātiōnem sequitur λυόμενος (participium mediī-passīvī)?",
+          "options": [
+            "tertiam, sīcut āctīvum",
+            "patrōnum regulārem classis prīmae (καλός)",
+            "irregulārem, sine patrōnō"
+          ],
+          "answerIndex": 1,
+          "explanation": "Participium mediī-passīvī est simplex, sequēns καλός/καλή/καλόν."
+        },
+        {
+          "id": "part1c",
+          "prompt": "Quid significat ὁ λύων τὸν δοῦλον?",
+          "options": [
+            "“dum solvit servum” (circumstantiālis)",
+            "“is quī solvit servum” (attribūtīvum, cum articulō)",
+            "“sī solvat servum”"
+          ],
+          "answerIndex": 1,
+          "explanation": "Cum articulō, participium fūnctiōnat attribūtīvē, sīcut clausula relātīva."
+        },
+        {
+          "id": "part1d",
+          "prompt": "Quid dētermīnat sēnsum praecīsum (temporālis/causālis/concessīvus) participiī circumstantiālis?",
+          "options": [
+            "fōrma ipsa participiī",
+            "contextus tōtīus sententiae",
+            "genus participiī"
+          ],
+          "answerIndex": 1,
+          "explanation": "Fōrma est ambigua; contextus sōlus dēcernit sēnsum praecīsum."
+        },
+        {
+          "id": "part1e",
+          "prompt": "Quae est fōrma genetīvī singulāris fēminīnī λύουσα?",
+          "options": [
+            "λυούσης",
+            "λύοντος",
+            "λυούσῃ"
+          ],
+          "answerIndex": 0,
+          "explanation": "Genetīvus singulāris fēminīnus: λυούσης."
+        }
+      ]
+    },
+    {
+      "id": "iv-part1-fill",
+      "type": "fill-blank",
+      "title": "Complē cum Fōrmā Rēctā",
+      "instructions": "Comple spatia cum fōrmā rēctā participiī praesentis.",
+      "items": [
+        {
+          "id": "part1f",
+          "prompt": "ὁ ___ τὸν δοῦλον σοφός ἐστιν. (nōm. sg. masc., “solvēns”)",
+          "options": [
+            "λύων",
+            "λύουσα",
+            "λῦον"
+          ],
+          "answers": [
+            "λύων"
+          ],
+          "explanation": "Nōminātīvus singulāris masculīnus: λύων."
+        },
+        {
+          "id": "part1g",
+          "prompt": "ἡ γυνὴ ἡ ___ τὸν δοῦλον. (nōm. sg. fem., “solvēns”)",
+          "options": [
+            "λύουσα",
+            "λύων",
+            "λυομένη"
+          ],
+          "answers": [
+            "λύουσα"
+          ],
+          "explanation": "Nōminātīvus singulāris fēminīnus: λύουσα."
+        },
+        {
+          "id": "part1h",
+          "prompt": "οἱ δοῦλοι ___ χαίρουσιν. (nōm. pl. masc. mediī-passīvī, “dum solvuntur”)",
+          "options": [
+            "λυόμενοι",
+            "λύοντες",
+            "λελυμένοι"
+          ],
+          "answers": [
+            "λυόμενοι"
+          ],
+          "explanation": "Nōminātīvus plūrālis masculīnus mediī-passīvī: λυόμενοι."
+        },
+        {
+          "id": "part1i",
+          "prompt": "τὸ βιβλίον τὸ ___. (nōm. sg. neut. mediī-passīvī, “solūtum/quod solvitur”)",
+          "options": [
+            "λυόμενον",
+            "λῦον",
+            "λύον"
+          ],
+          "answers": [
+            "λυόμενον"
+          ],
+          "explanation": "Nōminātīvus singulāris neutrī mediī-passīvī: λυόμενον."
+        },
+        {
+          "id": "part1j",
+          "prompt": "τῆς ___ γυναικός. (gen. sg. fem., “solvēntis”)",
+          "options": [
+            "λυούσης",
+            "λύοντος",
+            "λυούσῃ"
+          ],
+          "answers": [
+            "λυούσης"
+          ],
+          "explanation": "Genetīvus singulāris fēminīnus: λυούσης."
+        }
+      ]
+    },
+    {
+      "id": "iv-part1-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "part1k",
+          "statement": "Participium āctīvum praesentis masc./neut. sequitur tertiam dēclīnātiōnem, fēminīnum sequitur prīmam.",
+          "answer": true,
+          "explanation": "Corrēctum: patrōnus mixtus, comparābilis πᾶς."
+        },
+        {
+          "id": "part1l",
+          "statement": "Participium mediī-passīvī (λυόμενος) est morphologicē complexius quam āctīvum.",
+          "answer": false,
+          "explanation": "Falsum: est simplicius, sequēns patrōnum regulārem classis prīmae."
+        },
+        {
+          "id": "part1m",
+          "statement": "Participium sine articulō semper significat causam explicitam.",
+          "answer": false,
+          "explanation": "Falsum: sēnsus circumstantiālis est ambiguus, dēterminātus ā contextū (potest esse temporālis, causālis, concessīvus, etc.)."
+        },
+        {
+          "id": "part1n",
+          "statement": "Participium cum articulō fūnctiōnat similiter clausulae relātīvae substantīvātae.",
+          "answer": true,
+          "explanation": "Corrēctum: ὁ λύων ≈ “is quī solvit”."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Participium praesēns āctīvum: λύων, λύουσα, λῦον (masc./neut. tertia dēclīnātiō, fem. prīma) — gen. λύοντος/λυούσης/λύοντος.",
+    "Participium praesēns medium-passīvum: λυόμενος, λυομένη, λυόμενον — patrōnus simplex classis prīmae adiectīvōrum.",
+    "Ūsus attribūtīvus (cum articulō): “is quī solvit”. Ūsus circumstantiālis (sine articulō): clausula adverbiālis implicita, sēnsus dēpendēns ā contextū.",
+    "Participium est fōrma extrēmē frequēns et versātile in prōsā Graecā, saepe substituēns clausulās subordinātās integrās."
+  ],
+  "related": [
+    {
+      "lessonId": "iv-systema-perfecti-medii-passivi",
+      "label": "Systēma Perfectī Mediī-Passīvī"
+    },
+    {
+      "lessonId": "iv-participium-aoristi",
+      "label": "Participium Aoristī"
+    }
+  ]
+}

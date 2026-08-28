@@ -1,0 +1,249 @@
+{
+  "id": "iv-participium-aoristi",
+  "level": "IV",
+  "unit": "1",
+  "order": 7,
+  "skill": "grammatica",
+  "strand": "participia",
+  "title": "Participium Aoristī",
+  "subtitle": "Participium aoristī āctīvum (λύσας), medium (λυσάμενος), passīvum (λυθείς); sēnsus aspectuālis: āctiō ANTERIOR, nōn simultanea.",
+  "prerequisites": [
+    "iv-participium-praesentis"
+  ],
+  "objectives": [
+    "Dēclīnāre plēnē participium aoristī āctīvum λύσας, λύσασα, λῦσαν",
+    "Dēclīnāre participium aoristī medium λυσάμενος (patrōnus simplex, ut medium-passīvum praesentis)",
+    "Recognōscere participium aoristī passīvum λυθείς, λυθεῖσα, λυθέν (patrōnus novus, dignus notandō)",
+    "Applicāre discrīmen aspectuāle fundāmentāle: participium praesentis = āctiō SIMULTANEA; participium aoristī = āctiō ANTERIOR (\"postquam fēcit\")"
+  ],
+  "content": {
+    "intro": "Sīcut indicātīvus, participium quoque distinguit aspectum: participium praesentis (lēctiō priōre) significat āctiōnem SIMULTANEAM cum verbō prīncipālī (\"dum facit\"); participium aoristī significat āctiōnem ANTERIOR, complēta ANTE āctiōnem verbī prīncipālis (\"postquam fēcit\", \"cum fēcisset\").",
+    "explanation": "<p>Discrīmen nōn est tempus absolūtum (ambō participia possunt referre ad praesēns, praeteritum, vel futūrum contextuāle) sed relātiō temporālis RELATĪVA ad verbum prīncipāle: participium praesentis = simultaneum; participium aoristī = anteriōre. Comparā: <span class=\"greek\">λύων τὸν δοῦλον, ἀπῆλθεν</span> \"solvēns servum [DUM solvit], discessit\" vs. <span class=\"greek\">λύσας τὸν δοῦλον, ἀπῆλθεν</span> \"solvēns servum [POSTQUAM solvit / cum solvisset], discessit\".</p>",
+    "rules": [
+      {
+        "heading": "a) Participium Aoristī Āctīvum: λύσας, λύσασα, λῦσαν",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Cāsus</th><th>Masc. sg.</th><th>Fem. sg.</th><th>Neut. sg.</th></tr></thead><tbody><tr><td>Nōm.</td><td class=\"greek\">λύσας</td><td class=\"greek\">λύσασα</td><td class=\"greek\">λῦσαν</td></tr><tr><td>Gen.</td><td class=\"greek\">λύσαντος</td><td class=\"greek\">λυσάσης</td><td class=\"greek\">λύσαντος</td></tr><tr><td>Dat.</td><td class=\"greek\">λύσαντι</td><td class=\"greek\">λυσάσῃ</td><td class=\"greek\">λύσαντι</td></tr><tr><td>Acc.</td><td class=\"greek\">λύσαντα</td><td class=\"greek\">λύσασαν</td><td class=\"greek\">λῦσαν</td></tr></tbody></table><p>Patrōnus identicus participiō praesentis (masc./neut. tertia dēclīnātiō thema -αντ-, fem. prīma), sōlum thema aoristī (λυσα-) substituēns thema praesentis (λυο-). Nōtā: participium NUMQUAM habet augmentum (augmentum est exclūsīvus modī indicātīvī) — sōlum σα characteristicum indicat aoristum hīc.</p>"
+      },
+      {
+        "heading": "b) Participium Aoristī Medium: λυσάμενος",
+        "body": "<p>Sequitur patrōnum simplicem classis prīmae, sīcut participium mediī-passīvī praesentis: <span class=\"greek\">λυσάμενος, λυσαμένου, λυσαμένῳ, λυσάμενον</span> (masc.); fem. <span class=\"greek\">λυσαμένη</span>; neut. <span class=\"greek\">λυσάμενον</span>. Nūlla novitās morphologica praeter thema aoristī (λυσα-).</p>"
+      },
+      {
+        "heading": "c) Participium Aoristī Passīvum: λυθείς, λυθεῖσα, λυθέν",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Cāsus</th><th>Masc. sg.</th><th>Fem. sg.</th><th>Neut. sg.</th></tr></thead><tbody><tr><td>Nōm.</td><td class=\"greek\">λυθείς</td><td class=\"greek\">λυθεῖσα</td><td class=\"greek\">λυθέν</td></tr><tr><td>Gen.</td><td class=\"greek\">λυθέντος</td><td class=\"greek\">λυθείσης</td><td class=\"greek\">λυθέντος</td></tr></tbody></table><p>Thema passīvum (λυθε-, ex aoristō passīvō ἐλύθην, Gradū IV priōre) + patrōnus similis participiō āctīvō (masc./neut. tertia dēclīnātiō thema -εντ-, fem. prīma). Sēnsus: \"postquam solūtus est\" / \"cum solūtus esset\".</p>"
+      }
+    ],
+    "examples": [
+      "λύσας τὸν δοῦλον, ὁ ἀνὴρ ἀπῆλθεν. — Postquam servum solvit, vir discessit. (anteriōre, āctīvum)",
+      "ταῦτα εἰπών, ἐσίγησεν. — Cum haec dīxisset, tacuit. (εἶπον → εἰπών, aoristus secundus participiī)",
+      "λυσάμενος τὸν δοῦλον, ᾤχετο. — Cum sē redēmisset [prō sē], abiit. (medium)",
+      "ὁ δοῦλος, λυθείς, ἔφυγεν. — Servus, postquam solūtus est, fūgit. (passīvum)",
+      "οἱ στρατιῶται, νικήσαντες, ἐπανῆλθον. — Mīlitēs, postquam vīcērunt, revertērunt. (νικάω → νικήσας, verbum contractum)",
+      "ἡ γυνὴ ἡ λύσασα τὸν δοῦλον. — Mulier quae solvit servum [ānte]. (attribūtīvum aoristī)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Addere augmentum ad participium aoristī, scrībendo *ἔλυσας prō λύσας.",
+        "right": "Recordārī participium NUMQUAM habet augmentum — augmentum est exclūsīvus modī indicātīvī; sōlum σα (vel thema aoristī secundī, vel θε) signat aoristum in participiō.",
+        "why": "Idem error quem discipulus posset committere in īnfīnītīvō (Gradū IV, lēctiō futūra) — augmentum est signum modī, nōn temporis abstractī."
+      },
+      {
+        "wrong": "Trānsferre participium aoristī sīcut sī esset simultaneum cum verbō prīncipālī (\"dum solvit\"), ignōrandō aspectum anteriōrem.",
+        "right": "Trānsferre participium aoristī cum sēnsū anteriōre: \"postquam solvit\", \"cum solvisset\".",
+        "why": "Discrīmen aspectuāle praesēns/aoristus in participiō parallēlum est illī iam nōtō in indicātīvō (Gradū III/IV) et est semanticē significāns."
+      },
+      {
+        "wrong": "Cōnfundere participium aoristī passīvum (λυθείς) cum participiō praesentis āctīvī (λύων), propter patrōnum tertiae dēclīnātiōnis commūnem ambōbus.",
+        "right": "Attendere thema (λυθε- vs. λυο-) et dēsinentiam nōminātīvī (-είς vs. -ων) ut signa distīnctīva.",
+        "why": "Ambō sequuntur patrōnum tertiae dēclīnātiōnis mixtum, sed themata et fōrmae praecīsae differunt significanter."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "iv-part2-mc",
+      "type": "multiple-choice",
+      "title": "Participium Aoristī: Rēgulae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "part2a",
+          "prompt": "Quid significat aspectuāliter participium aoristī, comparātum cum participiō praesentis?",
+          "options": [
+            "āctiōnem simultaneam",
+            "āctiōnem anteriōrem (\"postquam fēcit\")",
+            "āctiōnem futūram"
+          ],
+          "answerIndex": 1,
+          "explanation": "Participium aoristī indicat āctiōnem complētam ANTE āctiōnem verbī prīncipālis."
+        },
+        {
+          "id": "part2b",
+          "prompt": "Habet participium aoristī augmentum?",
+          "options": [
+            "sīc, semper",
+            "numquam — augmentum est exclūsīvus modī indicātīvī",
+            "sōlum in vōce passīvā"
+          ],
+          "answerIndex": 1,
+          "explanation": "Participium, sīcut īnfīnītīvus, numquam accipit augmentum."
+        },
+        {
+          "id": "part2c",
+          "prompt": "Quod thema fundat participium aoristī passīvum?",
+          "options": [
+            "λυο-",
+            "λυσα-",
+            "λυθε-"
+          ],
+          "answerIndex": 2,
+          "explanation": "Λυθείς dērīvat ā themate passīvō λυθε- (ex ἐλύθην)."
+        },
+        {
+          "id": "part2d",
+          "prompt": "Quam dēclīnātiōnem sequitur participium aoristī medium (λυσάμενος)?",
+          "options": [
+            "tertiam, sīcut āctīvum",
+            "patrōnum simplicem classis prīmae",
+            "irregulārem, sine patrōnō"
+          ],
+          "answerIndex": 1,
+          "explanation": "Sequitur idem patrōnum simplex ac participium mediī-passīvī praesentis."
+        },
+        {
+          "id": "part2e",
+          "prompt": "Quae est fōrma nōminātīvī singulāris fēminīnī participiī aoristī passīvī?",
+          "options": [
+            "λυθεῖσα",
+            "λύσασα",
+            "λυομένη"
+          ],
+          "answerIndex": 0,
+          "explanation": "Nōminātīvus fēminīnus aoristī passīvī: λυθεῖσα."
+        }
+      ]
+    },
+    {
+      "id": "iv-part2-fill",
+      "type": "fill-blank",
+      "title": "Complē cum Fōrmā Rēctā",
+      "instructions": "Comple spatia cum fōrmā rēctā participiī aoristī.",
+      "items": [
+        {
+          "id": "part2f",
+          "prompt": "___ τὸν δοῦλον, ὁ ἀνὴρ ἀπῆλθεν. (nōm. sg. masc. aor. āct., \"postquam solvit\")",
+          "options": [
+            "λύσας",
+            "λύων",
+            "λυθείς"
+          ],
+          "answers": [
+            "λύσας"
+          ],
+          "explanation": "Nōminātīvus singulāris masculīnus, participium aoristī āctīvī: λύσας."
+        },
+        {
+          "id": "part2g",
+          "prompt": "ὁ δοῦλος, ___, ἔφυγεν. (nōm. sg. masc. aor. pass., \"postquam solūtus est\")",
+          "options": [
+            "λυθείς",
+            "λυόμενος",
+            "λύσας"
+          ],
+          "answers": [
+            "λυθείς"
+          ],
+          "explanation": "Nōminātīvus singulāris masculīnus, participium aoristī passīvī: λυθείς."
+        },
+        {
+          "id": "part2h",
+          "prompt": "ἡ γυνὴ ἡ ___ τὸν δοῦλον. (nōm. sg. fem. aor. āct., \"quae solvit\")",
+          "options": [
+            "λύσασα",
+            "λύουσα",
+            "λυθεῖσα"
+          ],
+          "answers": [
+            "λύσασα"
+          ],
+          "explanation": "Nōminātīvus singulāris fēminīnus, participium aoristī āctīvī: λύσασα."
+        },
+        {
+          "id": "part2i",
+          "prompt": "___ τὸν δοῦλον, ᾤχετο. (nōm. sg. masc. aor. med., \"cum sē redēmisset\")",
+          "options": [
+            "λυσάμενος",
+            "λυόμενος",
+            "λύσας"
+          ],
+          "answers": [
+            "λυσάμενος"
+          ],
+          "explanation": "Nōminātīvus singulāris masculīnus, participium aoristī mediī: λυσάμενος."
+        },
+        {
+          "id": "part2j",
+          "prompt": "τῆς ___ γυναικός. (gen. sg. fem. aor. āct., \"quae solvit\")",
+          "options": [
+            "λυσάσης",
+            "λυούσης",
+            "λυθείσης"
+          ],
+          "answers": [
+            "λυσάσης"
+          ],
+          "explanation": "Genetīvus singulāris fēminīnus, participium aoristī āctīvī: λυσάσης."
+        }
+      ]
+    },
+    {
+      "id": "iv-part2-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "part2k",
+          "statement": "Participium aoristī significat āctiōnem anteriōrem verbī prīncipālis, dīversē ā participiō praesentis (simultaneum).",
+          "answer": true,
+          "explanation": "Corrēctum: discrīmen aspectuāle relātīvum fundāmentāle."
+        },
+        {
+          "id": "part2l",
+          "statement": "Participium aoristī āctīvum accipit augmentum, sīcut indicātīvus.",
+          "answer": false,
+          "explanation": "Falsum: participium numquam habet augmentum."
+        },
+        {
+          "id": "part2m",
+          "statement": "Λυθείς, λυθεῖσα, λυθέν est participium aoristī passīvum, dērīvātum ā themate λυθε-.",
+          "answer": true,
+          "explanation": "Corrēctum."
+        },
+        {
+          "id": "part2n",
+          "statement": "Participium aoristī medium (λυσάμενος) sequitur patrōnum complexum tertiae dēclīnātiōnis, sīcut āctīvum.",
+          "answer": false,
+          "explanation": "Falsum: sequitur patrōnum simplicem classis prīmae, sīcut medium-passīvum praesentis."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Participium aoristī āctīvum: λύσας, λύσασα, λῦσαν — gen. λύσαντος/λυσάσης/λύσαντος.",
+    "Participium aoristī medium: λυσάμενος, λυσαμένη, λυσάμενον — patrōnus simplex classis prīmae.",
+    "Participium aoristī passīvum: λυθείς, λυθεῖσα, λυθέν — gen. λυθέντος/λυθείσης/λυθέντος, thema λυθε-.",
+    "Aspectus: participium praesentis = SIMULTANEUM (\"dum facit\"); participium aoristī = ANTERIOR (\"postquam fēcit\").",
+    "Participium NUMQUAM accipit augmentum, in ūllō tempore — augmentum est exclūsīvus modī indicātīvī."
+  ],
+  "related": [
+    {
+      "lessonId": "iv-participium-praesentis",
+      "label": "Participium Praesentis"
+    },
+    {
+      "lessonId": "iv-infinitivi-omnium-temporum",
+      "label": "Īnfīnītīvī Omnium Temporum"
+    }
+  ]
+}

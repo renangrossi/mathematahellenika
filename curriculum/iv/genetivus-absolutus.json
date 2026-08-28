@@ -1,0 +1,205 @@
+{
+  "id": "iv-genetivus-absolutus",
+  "level": "IV",
+  "unit": "1",
+  "order": 10,
+  "skill": "grammatica",
+  "strand": "participia",
+  "title": "Genetīvus Absolūtus",
+  "subtitle": "Cōnstrūctiō participiālis independēns (nōmen/prōnōmen + participium, ambō genetīvō) — homologum Graecum ablātīvī absolūtī Latīnī.",
+  "prerequisites": [
+    "iv-verba-deponentia"
+  ],
+  "objectives": [
+    "Fōrmāre genetīvum absolūtum: nōmen/prōnōmen + participium, ambō in genetīvō, concordantēs in genere/numerō",
+    "Explicāre QUANDO genetīvus absolūtus est requīsītus: cum subiectum participiī DIFFERT ā subiectō clausulae prīncipālis",
+    "Comparāre dīrēctē cum ablātīvō absolūtō Latīnō (cōnstrūctiō homologa, sōlum cāsus differt: genetīvus Graecē, ablātīvus Latīnē)",
+    "Trānsferre genetīvum absolūtum flexibiliter (temporāliter/causāliter/concessīvē), sīcut participium circumstantiāle normāle"
+  ],
+  "content": {
+    "intro": "Discipulus Latīnē doctus iam nōvit ablātīvum absolūtum (<em>duce mortuō, mīlitēs fūgērunt</em>). Graecum habet cōnstrūctiōnem EXACTĒ homologam — sōlum cāsus differt: <strong>genetīvus</strong>, nōn ablātīvus (quia Graecum classicum nūllum cāsum ablātīvum sēparātum habet; fūnctiōnēs ablātīvī Latīnī sunt distribūtae inter genetīvum et datīvum Graecōs, ex ratiōnibus historicīs).",
+    "explanation": "<p>Genetīvus absolūtus cōnsistit ex nōmine/prōnōmine PLUS participium, ambō in genetīvō, concordantēs inter sē in genere/numerō — grammaticē “absolūtī” (indepēndentēs) ā reliquā sententiā, id est, SINE aliā fūnctiōne syntacticā in clausulā prīncipālī. Adhibētur PRAECĪSĒ cum subiectum āctiōnis participiālis DIFFERT ā subiectō (vel obiectō) clausulae prīncipālis — aliter, participium circumstantiāle normāle (concordāns cum nōmine iam praesentī in clausulā, Gradū IV priōre) sufficit.</p>",
+    "rules": [
+      {
+        "heading": "a) Fōrmātiō et Exemplum Basicum",
+        "body": "<p><span class=\"greek\">τοῦ στρατηγοῦ ἀποθανόντος, οἱ στρατιῶται ἔφυγον.</span> — “Duce mortuō, mīlitēs fūgērunt” (litt. “strategō mortuō...”). Nōtā: <span class=\"greek\">στρατηγοῦ</span> (genetīvus) nōn est subiectum, obiectum, neque ūllus complementum clausulae prīncipālis (<span class=\"greek\">οἱ στρατιῶται ἔφυγον</span>) — tōta phrāsis genetīva est \"absolūta\", grammaticē sēparāta, cōnstruēns propriam suam micro-clausulam.</p>"
+      },
+      {
+        "heading": "b) Quandō Genetīvus Absolūtus Est Requīsītus",
+        "body": "<p>Comparā duōs cāsūs: (1) subiectum participiī = subiectum clausulae prīncipālis → participium concordāns NŌMINĀTĪVŌ (participium circumstantiāle normāle, Gradū IV priōre): <span class=\"greek\">ὁ στρατηγὸς ἀποθανὼν οὐκ ἐμάχετο</span> “dux, moriēns, nōn pugnābat” [dux ipse est subiectum ambārum āctiōnum]. (2) subiectum participiī ≠ subiectum clausulae prīncipālis → genetīvus absolūtus requīritur: <span class=\"greek\">τοῦ στρατηγοῦ ἀποθανόντος, οἱ στρατιῶται ἔφυγον</span> [dux moritur; mīlitēs fugiunt — duo subiecta dīversa].</p>"
+      },
+      {
+        "heading": "c) Sēnsus Flexibilis (Sīcut Participium Normāle)",
+        "body": "<p>Genetīvus absolūtus retinet eandem ambiguitātem/flexibilitātem sēmantica quam participium circumstantiāle normāle — sēnsus praecīsus (temporālis, causālis, concessīvus, condiciōnālis) dēpendet ā contextū: <span class=\"greek\">χειμῶνος ὄντος, οὐκ ἐστρατεύσαμεν</span> potest significāre “CUM hiems esset...” (temporālis/causālis) vel, cum particulā <span class=\"greek\">καίπερ</span> addita, “QUAMQUAM hiems esset...” (concessīvum explicitum).</p>"
+      }
+    ],
+    "examples": [
+      "τοῦ ἡλίου δύντος, ἀνεχωρήσαμεν. — Sōle occidente, discessimus. (temporālis)",
+      "τῶν πολεμίων προσιόντων, οἱ πολῖται ἐφοβοῦντο. — Hostibus appropinquantibus, cīvēs timēbant.",
+      "καίπερ χειμῶνος ὄντος, ἐστρατεύσαμεν. — Quamquam hiems erat, mīlitāvimus. (concessīvum, cum καίπερ)",
+      "τῆς νυκτὸς γενομένης, ἐπαύσαντο μαχόμενοι. — Nocte factā, dēstitērunt pugnāre. (γίγνομαι, dēpōnēns, Gradū IV priōre)",
+      "ταῦτα εἰπόντος τοῦ ῥήτορος, ὁ δῆμος ἐσίγησεν. — Hīs dictīs ab ōrātōre [litt. \"ōrātōre haec dīcente\"], populus tacuit.",
+      "ἐμοῦ ἀπόντος, τί ἐποίησας; — Mē absente, quid fēcistī?"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Adhibēre genetīvum absolūtum etiam cum subiectum participiī est idem ac subiectum clausulae prīncipālis.",
+        "right": "Adhibēre genetīvum absolūtum SŌLUM cum subiecta differunt; aliter, participium normāle nōminātīvō concordāns sufficit et est stylisticē praeferendum.",
+        "why": "Redundantia grammatica (genetīvus absolūtus ubi participium normāle sufficeret) est error stylisticus notābilis in Graecō classicō."
+      },
+      {
+        "wrong": "Trānsferre genetīvum absolūtum semper eōdem modō (semper “cum”), ignōrandō variātiōnem sēnsūs contextuālem.",
+        "right": "Cōnsīderāre contextum, sīcut cum quōlibet participiō circumstantiālī, ad dēterminandum sēnsum praecīsum (temporālis/causālis/concessīvus).",
+        "why": "Genetīvus absolūtus est sōlum varietās syntactica participiī circumstantiālis (cāsū genetīvō, subiectō explicitō) — nōn cōnstrūctiō sēmanticē distīncta."
+      },
+      {
+        "wrong": "Crēdere Latīnum et Graecum adhibēre eundem cāsum in hāc cōnstrūctiōne (ambō ablātīvum, vel ambō genetīvum).",
+        "right": "Recordārī: Latīnum adhibet ABLĀTĪVUM absolūtum; Graecum adhibet GENETĪVUM absolūtum — cōnstrūctiō homologa, cāsus dīversus.",
+        "why": "Graecum classicum caret cāsū ablātīvō sēparātō (fūnctiōnēs eius distribūtae inter genetīvum/datīvum), ideōque genetīvus assūmit hanc fūnctiōnem."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "iv-gena-mc",
+      "type": "multiple-choice",
+      "title": "Genetīvus Absolūtus: Rēgulae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "gena-a",
+          "prompt": "Quem cāsum adhibet Graecum in cōnstrūctiōne homologā ablātīvō absolūtō Latīnō?",
+          "options": [
+            "ablātīvum (nōn exsistēns in Graecō)",
+            "genetīvum",
+            "datīvum"
+          ],
+          "answerIndex": 1,
+          "explanation": "Graecum adhibet genetīvum absolūtum, quia caret cāsū ablātīvō sēparātō."
+        },
+        {
+          "id": "gena-b",
+          "prompt": "Quandō est requīsītus genetīvus absolūtus (potius quam participium normāle)?",
+          "options": [
+            "semper, cum participium adest",
+            "cum subiectum participiī differt ā subiectō clausulae prīncipālis",
+            "sōlum in aoristō"
+          ],
+          "answerIndex": 1,
+          "explanation": "Genetīvus absolūtus servit prō subiectō DĪVERSŌ ab illō clausulae prīncipālis."
+        },
+        {
+          "id": "gena-c",
+          "prompt": "Quid significat τοῦ στρατηγοῦ ἀποθανόντος?",
+          "options": [
+            "“dux moriēns” (participium normāle, dux = subiectum utrīusque āctiōnis)",
+            "“duce mortuō” (genetīvus absolūtus, dux ≠ subiectum clausulae prīncipālis)",
+            "“dux mortuus est” (indicātīvus)"
+          ],
+          "answerIndex": 1,
+          "explanation": "Fōrma genetīva indicat cōnstrūctiōnem absolūtam, cum subiectō sēparātō."
+        },
+        {
+          "id": "gena-d",
+          "prompt": "Adhibēturne particula καίπερ aliquandō cum genetīvō absolūtō?",
+          "options": [
+            "nōn, numquam",
+            "sīc, ad clārificandum sēnsum concessīvum explicitē",
+            "sōlum cum verbō εἰμί"
+          ],
+          "answerIndex": 1,
+          "explanation": "Καίπερ potest addī prō clāritāte, sīgnificāns explicitē sēnsum “quamquam”."
+        },
+        {
+          "id": "gena-e",
+          "prompt": "Cōnsistit genetīvus absolūtus ex duōbus elementīs — quibus?",
+          "options": [
+            "nōmine/prōnōmine + participium, ambō genetīvō",
+            "duōbus verbīs fīnītīs",
+            "articulō + adiectīvō sōlum"
+          ],
+          "answerIndex": 0,
+          "explanation": "Nōmen/prōnōmen genetīvum + participium genetīvum, concordantēs in genere/numerō."
+        }
+      ]
+    },
+    {
+      "id": "iv-gena-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "gena-f",
+          "statement": "Genetīvus absolūtus est cōnstrūctiō homologa ablātīvō absolūtō Latīnō, differēns sōlum in cāsū adhibitō.",
+          "answer": true,
+          "explanation": "Corrēctum: eadem logica syntactica, cāsus dīversus."
+        },
+        {
+          "id": "gena-g",
+          "statement": "Genetīvus absolūtus dēbet adhibērī etiam cum subiectum participiī est idem ac subiectum clausulae prīncipālis.",
+          "answer": false,
+          "explanation": "Falsum: in illō cāsū, participium normāle (nōminātīvō) sufficit et est praeferendum."
+        },
+        {
+          "id": "gena-h",
+          "statement": "Sēnsus genetīvī absolūtī est fīxus (semper temporālis), sine variātiōne contextuālī.",
+          "answer": false,
+          "explanation": "Falsum: sēnsus est flexibilis, dēpendēns ā contextū, sīcut participium circumstantiāle normāle."
+        },
+        {
+          "id": "gena-i",
+          "statement": "Graecum classicum habet cāsum ablātīvum sēparātum, sīcut Latīnum.",
+          "answer": false,
+          "explanation": "Falsum: Graecum caret ablātīvō; fūnctiōnēs eius distribūtae inter genetīvum et datīvum."
+        }
+      ]
+    },
+    {
+      "id": "iv-gena-match",
+      "type": "matching",
+      "title": "Iunge Genetīvum Absolūtum cum Sēnsū",
+      "instructions": "Iunge quamque phrasim Graecam cum sēnsū Latīnō suō.",
+      "items": [
+        {
+          "id": "gena-j",
+          "pairs": [
+            {
+              "left": "τοῦ ἡλίου δύντος",
+              "right": "sōle occidente"
+            },
+            {
+              "left": "τῶν πολεμίων προσιόντων",
+              "right": "hostibus appropinquantibus"
+            },
+            {
+              "left": "τῆς νυκτὸς γενομένης",
+              "right": "nocte factā"
+            },
+            {
+              "left": "ἐμοῦ ἀπόντος",
+              "right": "mē absente"
+            }
+          ],
+          "explanation": "Omnēs hae phrasēs sunt genetīvī absolūtī: nōmen/prōnōmen + participium, ambō genetīvō, subiectum dīversum ā clausulā prīncipālī."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Genetīvus absolūtus: nōmen/prōnōmen + participium, ambō genetīvō, concordantēs in genere/numerō — grammaticē indepēndēns ā clausulā prīncipālī.",
+    "Adhibētur cum subiectum participiī DIFFERT ā subiectō clausulae prīncipālis; aliter, participium normāle (nōminātīvō) sufficit.",
+    "Homologus exāctus ablātīvō absolūtō Latīnō — Graecum adhibet genetīvum quia caret cāsū ablātīvō sēparātō.",
+    "Sēnsus flexibilis (temporālis/causālis/concessīvus/condiciōnālis), dēpendēns ā contextū; καίπερ potest addī prō clāritāte concessīvā."
+  ],
+  "related": [
+    {
+      "lessonId": "iv-verba-deponentia",
+      "label": "Verba Dēpōnentia"
+    },
+    {
+      "lessonId": "iv-recognitio-systema-verbi",
+      "label": "Recognitiō: Systēma Verbī"
+    }
+  ]
+}

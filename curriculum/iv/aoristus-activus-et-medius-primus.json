@@ -1,0 +1,248 @@
+{
+  "id": "iv-aoristus-activus-et-medius-primus",
+  "level": "IV",
+  "unit": "1",
+  "order": 1,
+  "skill": "grammatica",
+  "strand": "aoristus",
+  "title": "Aoristus Prīmus: Āctīvus et Medius",
+  "subtitle": "Aoristus “prīmus” (sigmaticus, regulāris): λύω → ἔλυσα; sēnsus fundāmentālis aoristī (āctiō simplex, singulāris, sine referentiā ad continuitātem).",
+  "prerequisites": [
+    "iii-comparatio-adiectivorum"
+  ],
+  "objectives": [
+    "Coniugāre plēnē aoristum āctīvum et medium “prīmum” (sigmaticum) verbī λύω",
+    "Explicāre sēnsum aspectuālem aoristī: āctiō vīsa ut PŪNCTUM simplex, opposita imperfectō (āctiō continua)",
+    "Formāre īnfīnītīvum aoristī āctīvī (λῦσαι) et medium (λύσασθαι), notandō accentum speciālem īnfīnītīvī āctīvī",
+    "Distinguere augmentum + thema + σα (aoristus) ā augmentō + thema (imperfectum, sine σα)"
+  ],
+  "content": {
+    "intro": "Praeteritum Graecum nōn est ūnum sōlum tempus (dīversē ā Latīnō, ubi perfectum servit ambōbus sēnsibus): imperfectum (Gradū III, āctiō continua) et <strong>aoristus</strong> (hodiē, āctiō simplex/pūnctuālis) sunt DUO tempora praeteritī distīncta, cum sēnsibus aspectuālibus dīversīs, nōn temporālibus. “Aoristus” (Graecē <span class=\"greek\">ἀόριστος</span>, “illīmitātus/indefinitus”) significat āctiōnem vīsam ut ēventum simplicem, sine attentiōne ad ducātiōnem vel repetitiōnem.",
+    "explanation": "<p>Discrīmen aoristī ab imperfectō nōn est QUANDO āctiō facta est, sed QUŌMODO loquēns eam videt: <span class=\"greek\">ἔλυον</span> (imperfectum) = “solvēbam” (continuē, per tempus); <span class=\"greek\">ἔλυσα</span> (aoristus) = “solvī” (semel, ut ēventus simplex). Discrīmen aspectuāle, nōn temporāle stricte — comparā discrīmen imperfectō/perfectō simplicī Lūsitānicō (“eu soltava” vs. “eu soltei”).</p>",
+    "rules": [
+      {
+        "heading": "a) Aoristus Āctīvus: ἔλυσα",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Persōna</th><th>Singulāris</th><th>Plūrālis</th></tr></thead><tbody><tr><td>1ª</td><td class=\"greek\">ἔλυσα</td><td class=\"greek\">ἐλύσαμεν</td></tr><tr><td>2ª</td><td class=\"greek\">ἔλυσας</td><td class=\"greek\">ἐλύσατε</td></tr><tr><td>3ª</td><td class=\"greek\">ἔλυσε(ν)</td><td class=\"greek\">ἔλυσαν</td></tr></tbody></table><p>Fōrmātiō: augmentum + thema + <strong>σα</strong> (signum aoristī “prīmī”) + dēsinentia. Compara cum imperfectō (ἔλυον, sine σα): differentia vīsibilis est praecīsē hoc σα īnsertum. Īnfīnītīvus: <span class=\"greek\">λῦσαι</span> — nōtā accentum recessīvum speciālem in ultimā (paenultimā hīc, quia -αι fīnāle est “brevis” prō rēgulīs accentūs, exceptiō notābilis).</p>"
+      },
+      {
+        "heading": "b) Aoristus Medius: ἐλυσάμην",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Persōna</th><th>Singulāris</th><th>Plūrālis</th></tr></thead><tbody><tr><td>1ª</td><td class=\"greek\">ἐλυσάμην</td><td class=\"greek\">ἐλυσάμεθα</td></tr><tr><td>2ª</td><td class=\"greek\">ἐλύσω</td><td class=\"greek\">ἐλύσασθε</td></tr><tr><td>3ª</td><td class=\"greek\">ἐλύσατο</td><td class=\"greek\">ἐλύσαντο</td></tr></tbody></table><p>Nōtā <span class=\"greek\">ἐλύσω</span> (2ª sg.): fōrma historica *ἐλύσασο contracta (σ intervōcālicum periit, ασο→ω) — patrōnus iam nōtus ex praesentī/futūrō mediō (Gradibus II/III). Īnfīnītīvus medius: <span class=\"greek\">λύσασθαι</span>.</p>"
+      },
+      {
+        "heading": "c) “Prīmus” vs. “Secundus”: Praevīsiō",
+        "body": "<p>Hic aoristus vocātur “prīmus” (vel “sigmaticus”, “dēbilis”) quia adhibet σ ut signum characteristicum, applicābile ad maiōrem partem verbōrum. Multa verba frequentissima (praesertim brevia, thema monosyllabicum) adhibent in locō aoristum “secundum” (vel “fortem”), sine σ, cum thema ipsō mūtātō — patrōnus quem proximā lēctiōne vidēbis. Ambō genera significant idem aspectum (āctiō simplex); differunt sōlum morphologicē, nōn semanticē.</p>"
+      }
+    ],
+    "examples": [
+      "ἔλυσα τὸν δοῦλον χθές. — Solvī servum herī. (āctiō simplex, ūnō mōmentō)",
+      "ἐλύσαμεν τὴν πόλιν ἐκ τῶν πολεμίων. — Līberāvimus urbem ab hostibus.",
+      "ἐλύσω σεαυτόν; — Līberāvistīne tē ipsum? (medium reflexīvum, 2ª sg.)",
+      "βουλόμεθα λῦσαι τὸν νόμον. — Volumus solvere/abrogāre lēgem. (īnfīnītīvus)",
+      "οἱ στρατιῶται ἔλυσαν τὰς πύλας. — Mīlitēs solvērunt portās.",
+      "τί ἐποίησας; — Quid fēcistī? (aoristus verbī contractī, augmentum + contractiō + σα)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Cōnfundere sēnsum aoristī cum sēnsū imperfectī, crēdēns ambō significāre sōlum “praeteritum” sine discrīmine aspectūs.",
+        "right": "Distinguere: imperfectum = āctiō continua/repetīta; aoristus = āctiō simplex, vīsa ut pūnctum.",
+        "why": "Discrīmen aspectuāle est fundāmentāle prō intellēctū prōsae Graecae; error hīc distorquet sēnsum nārrātīvum."
+      },
+      {
+        "wrong": "Omittere σ characteristicum, cōnfundendō aoristum āctīvum prīmum cum imperfectō (ἔλυον vs. ἔλυσα).",
+        "right": "Attendere σα (vel σ sōlum ante vōcālem) ut signum distīnctīvum morphologicum aoristī prīmī.",
+        "why": "Sine hōc signō, discipulus nōn potest distinguere tempora morphologicē, sōlum contextuāliter (minus fīdēle)."
+      },
+      {
+        "wrong": "Applicāre eundem sēnsum ad omne verbum cuius aoristus est “secundus” (sine σ), crēdēns eōs esse aspectuāliter dīversōs ab aoristō prīmō.",
+        "right": "Recordārī aoristus prīmus et secundus sunt purē morphologicē dīversī; sēnsus aspectuālis (āctiō simplex) est identicus in ambōbus.",
+        "why": "Terminologia “prīmus/secundus” refert ad classem morphologicam, nōn ad differentiam significātiōnis."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "iv-aor1-fill",
+      "type": "fill-blank",
+      "title": "Coniugā Aoristum Prīmum",
+      "instructions": "Comple spatia cum fōrmā rēctā aoristī prīmī.",
+      "items": [
+        {
+          "id": "aor1a",
+          "prompt": "Ἐγὼ τὸν δοῦλον ___ χθές. (1ª sg. aor. āctīvī, λύω)",
+          "options": [
+            "ἔλυσα",
+            "ἔλυον",
+            "λύσω"
+          ],
+          "answers": [
+            "ἔλυσα"
+          ],
+          "explanation": "Aoristus āctīvus, 1ª sg.: ἔλυσα."
+        },
+        {
+          "id": "aor1b",
+          "prompt": "Σὺ τὴν πόλιν ___. (2ª sg. aor., “līberāvistī”)",
+          "options": [
+            "ἔλυσας",
+            "ἔλυες",
+            "λύσεις"
+          ],
+          "answers": [
+            "ἔλυσας"
+          ],
+          "explanation": "Aoristus āctīvus, 2ª sg.: ἔλυσας."
+        },
+        {
+          "id": "aor1c",
+          "prompt": "Ὁ στρατηγὸς τὰς πύλας ___. (3ª sg. aor., “solvit”)",
+          "options": [
+            "ἔλυσε(ν)",
+            "ἔλυε(ν)",
+            "λύσει"
+          ],
+          "answers": [
+            "ἔλυσε(ν)"
+          ],
+          "explanation": "Aoristus āctīvus, 3ª sg.: ἔλυσε(ν)."
+        },
+        {
+          "id": "aor1d",
+          "prompt": "Ἡμεῖς ἑαυτοὺς ___. (1ª pl. aor. mediī, “līberāvimus nōs ipsōs”)",
+          "options": [
+            "ἐλυσάμεθα",
+            "ἐλυόμεθα",
+            "λυσόμεθα"
+          ],
+          "answers": [
+            "ἐλυσάμεθα"
+          ],
+          "explanation": "Aoristus medius, 1ª pl.: ἐλυσάμεθα."
+        },
+        {
+          "id": "aor1e",
+          "prompt": "Βούλομαι ___ τὸν νόμον. (īnfīnītīvus aor. āctīvī, “solvere”)",
+          "options": [
+            "λῦσαι",
+            "λύειν",
+            "λύσειν"
+          ],
+          "answers": [
+            "λῦσαι"
+          ],
+          "explanation": "Īnfīnītīvus aoristī āctīvī: λῦσαι."
+        }
+      ]
+    },
+    {
+      "id": "iv-aor1-mc",
+      "type": "multiple-choice",
+      "title": "Aoristus Prīmus: Rēgulae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "aor1f",
+          "prompt": "Quid dēscrībit aoristus, aspectuāliter?",
+          "options": [
+            "āctiōnem continuam/repetītam",
+            "āctiōnem simplicem, vīsam ut pūnctum",
+            "āctiōnem futūram"
+          ],
+          "answerIndex": 1,
+          "explanation": "Aoristus vidēt āctiōnem ut ēventum simplex, sine attentiōne ad ducātiōnem."
+        },
+        {
+          "id": "aor1g",
+          "prompt": "Quod signum morphologicum distinguit aoristum prīmum ab imperfectō?",
+          "options": [
+            "augmentum (praesēns in ambōbus)",
+            "σ characteristicum (σα)",
+            "dēsinentia persōnālis dīversa in omnī fōrmā"
+          ],
+          "answerIndex": 1,
+          "explanation": "Σα (vel σ sōlum) est signum distīnctīvum vīsibile aoristī prīmī."
+        },
+        {
+          "id": "aor1h",
+          "prompt": "Unde orītur fōrma ἐλύσω (2ª sg. aor. mediī)?",
+          "options": [
+            "ā fōrmā historicā *ἐλύσασο, contracta",
+            "est fōrma prīmāria, sine contractiōne",
+            "ā verbō distīnctō"
+          ],
+          "answerIndex": 0,
+          "explanation": "Σ intervōcālicum periit, ασο→ω, patrōnus iam nōtus."
+        },
+        {
+          "id": "aor1i",
+          "prompt": "Sunt aoristus prīmus et secundus dīversī semanticē (in sēnsū aspectuālī)?",
+          "options": [
+            "sīc, significant āctiōnēs dīversās",
+            "nōn, sunt purē morphologicē dīversī; sēnsus est identicus",
+            "aoristus secundus nōn exsistit"
+          ],
+          "answerIndex": 1,
+          "explanation": "Discrīmen “prīmus/secundus” est purē morphologicum."
+        },
+        {
+          "id": "aor1j",
+          "prompt": "Quae est fōrma īnfīnītīvī aoristī mediī verbī λύω?",
+          "options": [
+            "λύσασθαι",
+            "λύεσθαι",
+            "λῦσαι"
+          ],
+          "answerIndex": 0,
+          "explanation": "Īnfīnītīvus aoristī mediī: λύσασθαι."
+        }
+      ]
+    },
+    {
+      "id": "iv-aor1-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "aor1k",
+          "statement": "Aoristus et imperfectum differunt praecipuē in aspectū (continuitāte vs. simplicitāte āctiōnis), nōn sōlum in tempore chronologicō.",
+          "answer": true,
+          "explanation": "Corrēctum: discrīmen aspectuāle est fundāmentāle."
+        },
+        {
+          "id": "aor1l",
+          "statement": "Aoristus prīmus adhibet σ ut signum morphologicum, quod imperfectum nōn habet.",
+          "answer": true,
+          "explanation": "Corrēctum: ἔλυσα (aor.) vs. ἔλυον (imperf.)."
+        },
+        {
+          "id": "aor1m",
+          "statement": "Aoristus, sīcut futūrum, numquam accipit augmentum.",
+          "answer": false,
+          "explanation": "Falsum: aoristus EST tempus praeteritum indicātīvum, ergō requīrit augmentum (dīversē ā futūrō)."
+        },
+        {
+          "id": "aor1n",
+          "statement": "Terminologia “aoristus prīmus/secundus” refert ad discrīmen semanticum (sēnsūs dīversī).",
+          "answer": false,
+          "explanation": "Falsum: refert ad classem morphologicam; sēnsus aspectuālis est identicus."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Aoristus āctīvus λύω: ἔλυσα, ἔλυσας, ἔλυσε(ν) // ἐλύσαμεν, ἐλύσατε, ἔλυσαν. Īnfīnītīvus: λῦσαι.",
+    "Aoristus medius: ἐλυσάμην, ἐλύσω, ἐλύσατο // ἐλυσάμεθα, ἐλύσασθε, ἐλύσαντο. Īnfīnītīvus: λύσασθαι.",
+    "Aoristus vidēt āctiōnem ut PŪNCTUM simplex (aspectus), opposita imperfectō (āctiō continua) — discrīmen aspectuāle, nōn tantum temporāle.",
+    "Aoristus “prīmus” (sigmaticus, σα) est patrōnus regulāris; aoristus “secundus” (proxima lēctiō) est alius patrōnus morphologicus prō eōdem aspectū."
+  ],
+  "related": [
+    {
+      "lessonId": "iv-aoristus-secundus",
+      "label": "Aoristus Secundus"
+    },
+    {
+      "lessonId": "iv-aoristus-passivus",
+      "label": "Aoristus Passīvus"
+    }
+  ]
+}

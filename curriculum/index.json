@@ -155,47 +155,47 @@
           "lessons": [
             {
               "id": "iv-aoristus-activus-et-medius-primus",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "iv-aoristus-secundus",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "iv-aoristus-passivus",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "iv-systema-perfecti-activi",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "iv-systema-perfecti-medii-passivi",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "iv-participium-praesentis",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "iv-participium-aoristi",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "iv-infinitivi-omnium-temporum",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "iv-verba-deponentia",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "iv-genetivus-absolutus",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "iv-recognitio-systema-verbi",
-              "status": "planned"
+              "status": "published"
             }
           ]
         }

@@ -1,0 +1,248 @@
+{
+  "id": "iv-infinitivi-omnium-temporum",
+  "level": "IV",
+  "unit": "1",
+  "order": 8,
+  "skill": "grammatica",
+  "strand": "infinitivi",
+  "title": "Īnfīnītīvī Omnium Temporum",
+  "subtitle": "Cōnspectus complētus īnfīnītīvōrum (praesēns, futūrum, aoristus, perfectum); negātiō μή; ōrātiō oblīqua cum accūsātīvō + īnfīnītīvō.",
+  "prerequisites": [
+    "iv-participium-aoristi"
+  ],
+  "objectives": [
+    "Recitāre omnem īnfīnītīvum verbī λύω, per omnia tempora et vōcēs (novem fōrmās tōtās)",
+    "Applicāre rēgulam negātiōnis: īnfīnītīvus adhibet typicē μή (nōn οὐ), EXCEPTĪS īnfīnītīvīs ōrātiōnis oblīquae",
+    "Cōnstruere ōrātiōnem oblīquam cum accūsātīvō + īnfīnītīvō post verba dīcendī/putandī, comparandō dīrēctē cum eādem cōnstrūctiōne Latīnā",
+    "Explicāre cūr īnfīnītīvus ōrātiōnis oblīquae retineat tempus (nōn absolūtum) rēlātīvum ad verbum prīncipāle, et adhibeat οὐ (nōn μή) sī negātus"
+  ],
+  "content": {
+    "intro": "Concludēns theoriam verbī, cōnspicimus omnēs novem fōrmās īnfīnītīvī simul — plūrimae iam vīsae lēctiōnibus antecēdentibus, hīc reūnītae in ūnā tabulā prō studiō et repetitiōne. Deinde tractāmus ūsum syntacticum maximē notābilem īnfīnītīvī: ōrātiō oblīqua cum accūsātīvō + īnfīnītīvō — cōnstrūctiō quam discipulus Latīnē doctus iam nōvit perfectē (AcI, “accūsātīvus cum īnfīnītīvō”)!",
+    "explanation": "<p>Ōrātiō oblīqua Graeca post verba dīcendī, putandī, crēdendī (<span class=\"greek\">λέγω, νομίζω, οἴομαι</span>) adhibet EXACTĒ eandem cōnstrūctiōnem ac Latīnum: subiectum ōrātiōnis oblīquae in ACCŪSĀTĪVŌ, verbum in ĪNFĪNĪTĪVŌ. <span class=\"greek\">λέγω τὸν ἄνδρα σοφὸν εἶναι</span> = Latīnē <em>dīcō virum sapientem esse</em> — cōnstrūctiō, ōrdō verbōrum, et logica sunt notābiliter parallēlae.</p>",
+    "rules": [
+      {
+        "heading": "a) Cōnspectus: Omnēs Īnfīnītīvī Verbī λύω",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Tempus</th><th>Āctīvum</th><th>Medium</th><th>Passīvum</th></tr></thead><tbody><tr><td>Praesēns</td><td class=\"greek\">λύειν</td><td colspan=\"2\" class=\"greek\">λύεσθαι</td></tr><tr><td>Futūrum</td><td class=\"greek\">λύσειν</td><td class=\"greek\">λύσεσθαι</td><td>—</td></tr><tr><td>Aoristus</td><td class=\"greek\">λῦσαι</td><td class=\"greek\">λύσασθαι</td><td class=\"greek\">λυθῆναι</td></tr><tr><td>Perfectum</td><td class=\"greek\">λελυκέναι</td><td colspan=\"2\" class=\"greek\">λελύσθαι</td></tr></tbody></table><p>Nōtā patrōnum recurrentem, iam vīsum in indicātīvō: praesēns/perfectum unificant medium/passīvum; aoristus (et futūrum) eōs distinguit.</p>"
+      },
+      {
+        "heading": "b) Negātiō: Μή, NŌN Οὐ",
+        "body": "<p>Īnfīnītīvus (praeter ōrātiōnem oblīquam, dē quā mox) adhibet TYPICĒ <span class=\"greek\">μή</span>, nōn <span class=\"greek\">οὐ</span>, applicandō rēgulam generālem ex Gradū II (μή prō voluntāte/hypothesī/nōn-indicātīvō): <span class=\"greek\">βούλομαι μὴ λύειν</span> “volō nōn solvere”. Hoc reflectit factum quod īnfīnītīvus (extrā ōrātiōnem oblīquam) nōn affirmat factum, sed exprimit intentiōnem/possibilitātem.</p>"
+      },
+      {
+        "heading": "c) Ōrātiō Oblīqua: Accūsātīvus + Īnfīnītīvus",
+        "body": "<p>Post verba dīcendī/putandī (<span class=\"greek\">λέγω, φημί, νομίζω, οἴομαι, ἡγοῦμαι</span>): subiectum ōrātiōnis oblīquae → accūsātīvus (OMITTITUR sī idem ac subiectum verbī prīncipālis); verbum → īnfīnītīvus, cuius TEMPUS reflectit tempus RELĀTĪVUM ad verbum prīncipāle (praesēns īnf. = simultaneum, aoristus īnf. = anteriōre, futūrum īnf. = posteriōre) — NŌN tempus absolūtum. Negātiō hīc est <span class=\"greek\">οὐ</span> (nōn μή), quia ōrātiō oblīqua affirmat/negat FACTUM: <span class=\"greek\">λέγω τὸν ἄνδρα οὐκ εἶναι σοφόν</span> “dīcō virum nōn esse sapientem”.</p>"
+      }
+    ],
+    "examples": [
+      "λέγω τὸν ἄνδρα σοφὸν εἶναι. — Dīcō virum sapientem esse. (ōrātiō oblīqua, praesēns simultaneum)",
+      "νομίζω αὐτὸν λῦσαι τὸν δοῦλον. — Putō eum solvisse servum. (aoristus, anteriōre)",
+      "οἴεται τὴν πόλιν λύσεσθαι. — Putat urbem futūram esse solūtam/līberandam. (futūrum, posteriōre)",
+      "βούλομαι μὴ λύειν τὸν νόμον. — Volō nōn solvere/abrogāre lēgem. (μή, nōn ōrātiō oblīqua)",
+      "φησὶν οὐκ ἐλθεῖν. — Negat sē vēnisse / dīcit sē nōn vēnisse. (οὐ in ōrātiōne oblīquā, aoristī ἐλθεῖν)",
+      "ἡγούμεθα τοὺς πολίτας ἀγαθοὺς εἶναι. — Exīstimāmus cīvēs bonōs esse."
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Adhibēre οὐ ubīque cum īnfīnītīvō, ignōrandō discrīmen inter ōrātiōnem oblīquam et cēterōs ūsūs īnfīnītīvī.",
+        "right": "Adhibēre μή prō maiōre parte ūsuum īnfīnītīvī; adhibēre οὐ SŌLUM in ōrātiōne oblīquā (post dīcendī/putandī verba).",
+        "why": "Discrīmen οὐ/μή, iam nōtum ex Gradū II, applicātur systēmatice etiam hīc, cum ūnā exceptiōne notābilī (ōrātiō oblīqua)."
+      },
+      {
+        "wrong": "Interpretārī tempus īnfīnītīvī in ōrātiōne oblīquā ut tempus absolūtum (chronologicum), nōn relātīvum ad verbum prīncipāle.",
+        "right": "Recordārī: praesēns īnf. = simultaneum CUM verbō prīncipālī; aoristus īnf. = ANTE verbum prīncipāle; futūrum īnf. = POST.",
+        "why": "Error hīc mūtat sēnsum temporālem tōtīus sententiae — praesēns īnfīnītīvī in ōrātiōne oblīquā praeteritā nōn significat “praesēns absolūtum”, sed “simultaneum cum illō praeteritō”."
+      },
+      {
+        "wrong": "Nōn omittere subiectum accūsātīvī ōrātiōnis oblīquae cum idem est ac subiectum verbī prīncipālis, scrībendo *λέγω ἐμὲ εἶναι σοφός.",
+        "right": "Omittere subiectum (implicitum) cum identicum: λέγω εἶναι σοφός “dīcō mē esse sapientem” — sī explicitum necesse, adhibēre prōnōmen reflexīvum vel nōminātīvum cum concordantiā adiectīvī.",
+        "why": "Cōnstrūctiō cum subiecto omittendō, cum idem ac prīncipāle, est parallēla convention Latīnae AcI reflexīvae."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "iv-inf1-mc",
+      "type": "multiple-choice",
+      "title": "Īnfīnītīvī: Cōnspectus et Ōrātiō Oblīqua",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "inf1a",
+          "prompt": "Quae negātiō typicē adhibētur cum īnfīnītīvō (extrā ōrātiōnem oblīquam)?",
+          "options": [
+            "οὐ",
+            "μή",
+            "utraque indifferenter"
+          ],
+          "answerIndex": 1,
+          "explanation": "Μή est negātiō typica īnfīnītīvī, sequēns rēgulam generālem ex Gradū II."
+        },
+        {
+          "id": "inf1b",
+          "prompt": "Quae negātiō adhibētur in ōrātiōne oblīquā (post λέγω, νομίζω)?",
+          "options": [
+            "μή, semper",
+            "οὐ, quia affirmat/negat factum",
+            "nūlla negātiō permittitur hīc"
+          ],
+          "answerIndex": 1,
+          "explanation": "Ōrātiō oblīqua est exceptiō: adhibet οὐ quia refert ad factum affirmātum/negātum."
+        },
+        {
+          "id": "inf1c",
+          "prompt": "Quid indicat tempus aoristī īnfīnītīvī in ōrātiōne oblīquā?",
+          "options": [
+            "tempus absolūtum praeteritum",
+            "āctiōnem ANTE verbum prīncipāle (relātīvum)",
+            "āctiōnem futūram"
+          ],
+          "answerIndex": 1,
+          "explanation": "Tempus īnfīnītīvī ōrātiōnis oblīquae est RELĀTĪVUM, nōn absolūtum."
+        },
+        {
+          "id": "inf1d",
+          "prompt": "Quae fōrma est īnfīnītīvus perfectī āctīvī verbī λύω?",
+          "options": [
+            "λελυκέναι",
+            "λελύσθαι",
+            "λῦσαι"
+          ],
+          "answerIndex": 0,
+          "explanation": "Perfectum āctīvum: λελυκέναι."
+        },
+        {
+          "id": "inf1e",
+          "prompt": "Quid est cōnstrūctiō ‘accūsātīvus + īnfīnītīvus’ post verba dīcendī, comparāta cum Latīnō?",
+          "options": [
+            "cōnstrūctiō omnīnō dīversa, sine parallēlum",
+            "parallēla cōnstrūctiōnī AcI Latīnae",
+            "existit sōlum in Graecō"
+          ],
+          "answerIndex": 1,
+          "explanation": "Ambae linguae (Graeca et Latīna) adhibent cōnstrūctiōnem structūrāliter identicam."
+        }
+      ]
+    },
+    {
+      "id": "iv-inf1-fill",
+      "type": "fill-blank",
+      "title": "Complē cum Fōrmā Rēctā",
+      "instructions": "Comple spatia cum fōrmā rēctā īnfīnītīvī vel negātiōnis.",
+      "items": [
+        {
+          "id": "inf1f",
+          "prompt": "λέγω τὸν ἄνδρα σοφὸν ___. (īnfīnītīvus praesēns, “esse”)",
+          "options": [
+            "εἶναι",
+            "ἦν",
+            "ἔσεσθαι"
+          ],
+          "answers": [
+            "εἶναι"
+          ],
+          "explanation": "Ōrātiō oblīqua, praesēns simultaneum: εἶναι."
+        },
+        {
+          "id": "inf1g",
+          "prompt": "νομίζω αὐτὸν ___ τὸν δοῦλον. (īnfīnītīvus aor. āct., “solvisse”)",
+          "options": [
+            "λῦσαι",
+            "λύειν",
+            "λύσειν"
+          ],
+          "answers": [
+            "λῦσαι"
+          ],
+          "explanation": "Aoristus īnfīnītīvī, āctiō anteriōre: λῦσαι."
+        },
+        {
+          "id": "inf1h",
+          "prompt": "βούλομαι ___ λύειν τὸν νόμον. (negātiō, “nōlō”)",
+          "options": [
+            "μή",
+            "οὐ",
+            "οὐκ"
+          ],
+          "answers": [
+            "μή"
+          ],
+          "explanation": "Μή est negātiō typica īnfīnītīvī extrā ōrātiōnem oblīquam."
+        },
+        {
+          "id": "inf1i",
+          "prompt": "φησὶν ___ ἐλθεῖν. (negātiō, ōrātiō oblīqua, “negat sē vēnisse”)",
+          "options": [
+            "οὐκ",
+            "μή",
+            "μηδέ"
+          ],
+          "answers": [
+            "οὐκ"
+          ],
+          "explanation": "Ōrātiō oblīqua adhibet οὐ(κ), nōn μή."
+        },
+        {
+          "id": "inf1j",
+          "prompt": "οἴεται τὴν πόλιν ___. (īnfīnītīvus fut. med., “futūram esse solūtam”)",
+          "options": [
+            "λύσεσθαι",
+            "λύεσθαι",
+            "λύσασθαι"
+          ],
+          "answers": [
+            "λύσεσθαι"
+          ],
+          "explanation": "Futūrum īnfīnītīvī mediī, āctiō posteriōre: λύσεσθαι."
+        }
+      ]
+    },
+    {
+      "id": "iv-inf1-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "inf1k",
+          "statement": "Ōrātiō oblīqua Graeca (accūsātīvus + īnfīnītīvus) est structūrāliter parallēla cōnstrūctiōnī AcI Latīnae.",
+          "answer": true,
+          "explanation": "Corrēctum: ambae linguae partagent hanc cōnstrūctiōnem syntacticam."
+        },
+        {
+          "id": "inf1l",
+          "statement": "Tempus īnfīnītīvī in ōrātiōne oblīquā indicat semper tempus absolūtum, chronologicum.",
+          "answer": false,
+          "explanation": "Falsum: indicat tempus RELĀTĪVUM ad verbum prīncipāle."
+        },
+        {
+          "id": "inf1m",
+          "statement": "Praesēns et perfectum īnfīnītīvī unificant fōrmās mediam/passīvam, sīcut in indicātīvō.",
+          "answer": true,
+          "explanation": "Corrēctum: patrōnus identicus per tōtum systēma verbāle."
+        },
+        {
+          "id": "inf1n",
+          "statement": "Ōrātiō oblīqua semper adhibet μή, sīcut cēterī ūsūs īnfīnītīvī.",
+          "answer": false,
+          "explanation": "Falsum: ōrātiō oblīqua est exceptiō, adhibēns οὐ."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Novem īnfīnītīvī λύω: praes. λύειν/λύεσθαι, fut. λύσειν/λύσεσθαι, aor. λῦσαι/λύσασθαι/λυθῆναι, perf. λελυκέναι/λελύσθαι.",
+    "Negātiō typica īnfīnītīvī: μή (nōn οὐ) — reflectēns rēgulam generālem οὐ/μή ex Gradū II.",
+    "Ōrātiō oblīqua (post λέγω, νομίζω, οἴομαι): accūsātīvus (subiectum) + īnfīnītīvus, parallēla exāctē AcI Latīnō.",
+    "In ōrātiōne oblīquā, tempus īnfīnītīvī est RELĀTĪVUM (simultaneum/anteriōre/posteriōre), et negātiō est EXCEPTIŌNĀLITER οὐ, nōn μή."
+  ],
+  "related": [
+    {
+      "lessonId": "iv-participium-aoristi",
+      "label": "Participium Aoristī"
+    },
+    {
+      "lessonId": "iv-verba-deponentia",
+      "label": "Verba Dēpōnentia"
+    }
+  ]
+}

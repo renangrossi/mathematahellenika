@@ -1,0 +1,248 @@
+{
+  "id": "iv-systema-perfecti-medii-passivi",
+  "level": "IV",
+  "unit": "1",
+  "order": 5,
+  "skill": "grammatica",
+  "strand": "perfectum",
+  "title": "Systēma Perfectī Mediī-Passīvī",
+  "subtitle": "Perfectum medium-passīvum (λέλυμαι): dēsinentiae adiūnctae DĪRECTĒ themātī reduplicātō, sine vōcālī iūnctīvā — cāsus āthemāticus.",
+  "prerequisites": [
+    "iv-systema-perfecti-activi"
+  ],
+  "objectives": [
+    "Coniugāre plēnē perfectum medium-passīvum verbī λύω (λέλυμαι)",
+    "Explicāre cūr hoc paradigma sit ‘āthemāticum’: dēsinentiae adiūnctae dīrēctē themātī, sine vōcālī thematicā -ο-/-ε-",
+    "Recognōscere hīc — sīcut in aoristō — media et passīva sunt IDENTICA morphologicē (dīversē ab aoristō, ubi dīvergēbant)",
+    "Formāre īnfīnītīvum perfectī mediī-passīvī (λελύσθαι)"
+  ],
+  "content": {
+    "intro": "Perfectum medium-passīvum retinet eundem sēnsum status-praesentis (Gradū IV priōre), applicātum nunc sēnsibus mediō/passīvō (sīcut praesēns mediī-passīvī, Gradū II, sed hīc cum resultātō persistente): <span class=\"greek\">λέλυμαι</span> = “solūtus sum [et manet status ille]” vel “mē solvī prō mē ipsō [et manet]”.",
+    "explanation": "<p>Discrīmen morphologicum notābile: perfectum medium-passīvum NŌN adhibet vōcālem thematicam (-ο-/-ε-, ut in praesentī λύ<strong>ο</strong>μαι) — dēsinentiae adiunguntur DĪRECTĒ themātī reduplicātō: <span class=\"greek\">λέλυ-μαι</span> (nōn *λέλυ-ο-μαι). Hoc vocātur patrōnus “āthemāticus” — patrōnus antīquior, quem plēnius vidēbis cum verba in -μι tractantur (posteā).</p>",
+    "rules": [
+      {
+        "heading": "a) Perfectum Medium-Passīvum: λέλυμαι",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Persōna</th><th>Singulāris</th><th>Plūrālis</th></tr></thead><tbody><tr><td>1ª</td><td class=\"greek\">λέλυμαι</td><td class=\"greek\">λελύμεθα</td></tr><tr><td>2ª</td><td class=\"greek\">λέλυσαι</td><td class=\"greek\">λέλυσθε</td></tr><tr><td>3ª</td><td class=\"greek\">λέλυται</td><td class=\"greek\">λέλυνται</td></tr></tbody></table><p>Compara cum praesentī mediō-passīvō (λύομαι, Gradū II): dēsinentiae -μαι, -σαι, -ται, -μεθα, -σθε, -νται sunt praesentēs in ambōbus, sed HĪC adiunctae DĪRECTĒ themātī (λελυ-), sine vōcālī thematicā intermediā. Nōtā etiam 2ª sg. <span class=\"greek\">λέλυσαι</span> (NŌN contracta, dīversē ā λύῃ praesentis!) — nūlla contractiō occurrit hīc quia nūlla vōcālis thematica intervenit inter thema et σαι.</p>"
+      },
+      {
+        "heading": "b) Īnfīnītīvus et Sēnsus",
+        "body": "<p>Īnfīnītīvus: <span class=\"greek\">λελύσθαι</span> (etiam āthemāticus, dēsinentia -σθαι adiūncta dīrēctē). Sēnsus: <span class=\"greek\">λέλυμαι</span> potest significāre “solūtus sum” (passīvum, status persistēns) VEL “mē solvī/redēmī prō mē ipsō [et manet]” (medium, status persistēns) — contextus sōlus, sīcut in praesentī, dēcernit inter media/passīva. Discrīmen ab aoristō (Gradū IV priōre, ubi media/passīva DĪVERGĒBANT): hīc, sīcut praesēns, RECONVENIUNT.</p>"
+      },
+      {
+        "heading": "c) Cōnspectus: Trēs Systēmata Verbī λύω",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Systēma</th><th>Āctīvum</th><th>Medium</th><th>Passīvum</th></tr></thead><tbody><tr><td>Praesēns</td><td class=\"greek\">λύω</td><td colspan=\"2\" class=\"greek\">λύομαι (identica)</td></tr><tr><td>Futūrum</td><td class=\"greek\">λύσω</td><td class=\"greek\">λύσομαι</td><td>(fōrma distīncta, nōn hīc tractāta)</td></tr><tr><td>Aoristus</td><td class=\"greek\">ἔλυσα</td><td class=\"greek\">ἐλυσάμην</td><td class=\"greek\">ἐλύθην</td></tr><tr><td>Perfectum</td><td class=\"greek\">λέλυκα</td><td colspan=\"2\" class=\"greek\">λέλυμαι (identica)</td></tr></tbody></table><p>Patrōnus: praesēns/perfectum reūniunt media/passīva; aoristus (et futūrum, partim) eōs distinguit. Recordāre hanc tabulam adiuvat immensē organizāre tōtum systēma verbāle Graecum in mente.</p>"
+      }
+    ],
+    "examples": [
+      "ὁ δοῦλος λέλυται. — Servus solūtus est [et manet līber]. (perfectum passīvum, status)",
+      "λελύμεθα ἐκ τῶν δεσμῶν. — Solūtī sumus ē vinculīs [et manēmus līberī]. (1ª pl.)",
+      "τί λέλυσαι; — Quārē solūtus es? (2ª sg., nōn contracta)",
+      "αἱ πύλαι λέλυνται. — Portae solūtae sunt [et manent apertae]. (3ª pl.)",
+      "βούλεται λελύσθαι. — Vult esse solūtum [status]. (īnfīnītīvus)",
+      "γέγραπται ὁ νόμος. — Scrīptum est lēx [et manet scrīpta, ergō valida]. (γράφω → γέγραπται, ūsus frequēns cum scrīptīs legālibus)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Applicāre contractiōnem ad λέλυσαι (2ª sg.), suppōnendō patrōnum identicum praesentis λύῃ.",
+        "right": "Recordārī perfectum est āthemāticum: nūlla vōcālis thematica interest, ergō nūlla contractiō occurrit — λέλυσαι manet incontracta.",
+        "why": "Discrīmen morphologicum notābile inter systēma perfectī (āthemāticum) et praesentis (themāticum) affectat directē fōrmam vīsibilem."
+      },
+      {
+        "wrong": "Crēdere perfectum medium et passīvum dīvergunt fōrmā, sīcut in aoristō.",
+        "right": "Recordārī perfectum RECONVENIT media/passīva in ūnam fōrmam, sīcut praesēns — aoristus est locus ūnicus dīvergentiae.",
+        "why": "Patrōnus alternāns (praesēns identicum, aoristus distīnctum, perfectum identicum rūrsus) est facilē cōnfundibilis sine tabulā organizātā clārā."
+      },
+      {
+        "wrong": "Addere vōcālem thematicam (-ο-/-ε-) ante dēsinentiam perfectī, prōdūcendō *λελύομαι.",
+        "right": "Recordārī dēsinentiae perfectī mediī-passīvī adiunguntur DĪRECTĒ themātī, sine vōcālī intermediā.",
+        "why": "Error hīc orītur ab analogiā incorrēctā cum patrōnō themāticō (praesēns/futūrum/aoristus), quem discipulus iam nōvit melius."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "iv-perf2-fill",
+      "type": "fill-blank",
+      "title": "Coniugā Perfectum Medium-Passīvum",
+      "instructions": "Comple spatia cum fōrmā rēctā perfectī mediī-passīvī.",
+      "items": [
+        {
+          "id": "perf2a",
+          "prompt": "Ἐγὼ ___ ἐκ τῶν δεσμῶν. (1ª sg. perf. mp., “solūtus sum”)",
+          "options": [
+            "λέλυμαι",
+            "ἐλύθην",
+            "λύομαι"
+          ],
+          "answers": [
+            "λέλυμαι"
+          ],
+          "explanation": "Perfectum medium-passīvum, 1ª sg.: λέλυμαι."
+        },
+        {
+          "id": "perf2b",
+          "prompt": "Σὺ τί ___; (2ª sg. perf. mp., “solūtus es”, sine contractiōne)",
+          "options": [
+            "λέλυσαι",
+            "λύῃ",
+            "λέλυσο"
+          ],
+          "answers": [
+            "λέλυσαι"
+          ],
+          "explanation": "Perfectum medium-passīvum, 2ª sg., āthemāticum, incontractum: λέλυσαι."
+        },
+        {
+          "id": "perf2c",
+          "prompt": "Ὁ δοῦλος ___. (3ª sg. perf. mp., “solūtus est”)",
+          "options": [
+            "λέλυται",
+            "ἐλύθη",
+            "λύεται"
+          ],
+          "answers": [
+            "λέλυται"
+          ],
+          "explanation": "Perfectum medium-passīvum, 3ª sg.: λέλυται."
+        },
+        {
+          "id": "perf2d",
+          "prompt": "Αἱ πύλαι ___. (3ª pl. perf. mp., “solūtae sunt”)",
+          "options": [
+            "λέλυνται",
+            "ἐλύθησαν",
+            "λύονται"
+          ],
+          "answers": [
+            "λέλυνται"
+          ],
+          "explanation": "Perfectum medium-passīvum, 3ª pl.: λέλυνται."
+        },
+        {
+          "id": "perf2e",
+          "prompt": "Βούλεται ___. (īnfīnītīvus perf. mp., “esse solūtum”)",
+          "options": [
+            "λελύσθαι",
+            "λύεσθαι",
+            "λυθῆναι"
+          ],
+          "answers": [
+            "λελύσθαι"
+          ],
+          "explanation": "Īnfīnītīvus perfectī mediī-passīvī: λελύσθαι."
+        }
+      ]
+    },
+    {
+      "id": "iv-perf2-mc",
+      "type": "multiple-choice",
+      "title": "Perfectum Medium-Passīvum: Rēgulae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "perf2f",
+          "prompt": "Adiunguntur dēsinentiae perfectī mediī-passīvī per vōcālem thematicam, sīcut praesēns?",
+          "options": [
+            "sīc, exāctē sīcut praesēns",
+            "nōn, adiunguntur dīrēctē themātī (āthemāticum)",
+            "sōlum in singulārī"
+          ],
+          "answerIndex": 1,
+          "explanation": "Perfectum medium-passīvum est āthemāticum, dīversē ā praesentī themāticō."
+        },
+        {
+          "id": "perf2g",
+          "prompt": "Dīvergunt media et passīva in perfectō, sīcut in aoristō?",
+          "options": [
+            "sīc, semper dīvergunt",
+            "nōn, reconveniunt in ūnam fōrmam (sīcut praesēns)",
+            "sōlum in plūrālī"
+          ],
+          "answerIndex": 1,
+          "explanation": "Perfectum, sīcut praesēns, nōn distinguit media ā passīvīs morphologicē."
+        },
+        {
+          "id": "perf2h",
+          "prompt": "Cūr λέλυσαι nōn est fōrma contracta, dīversē ā λύῃ praesentis?",
+          "options": [
+            "error scrīptōrum antīquōrum",
+            "quia nūlla vōcālis thematica interest quae possit contrahī",
+            "quia est fōrma plūrālis"
+          ],
+          "answerIndex": 1,
+          "explanation": "Sine vōcālī thematicā, nūlla contractiō potest occurrere."
+        },
+        {
+          "id": "perf2i",
+          "prompt": "Quae est fōrma perfectī mediī-passīvī 1ª persōnae plūrālis?",
+          "options": [
+            "λελύμεθα",
+            "λυόμεθα",
+            "ἐλυόμεθα"
+          ],
+          "answerIndex": 0,
+          "explanation": "1ª pl. perfectī mediī-passīvī: λελύμεθα."
+        },
+        {
+          "id": "perf2j",
+          "prompt": "Quid significat γέγραπται ὁ νόμος?",
+          "options": [
+            "“scrīptus erit lēx”",
+            "“scrīpta est lēx [et manet valida]”",
+            "“scrībitur lēx nunc”"
+          ],
+          "answerIndex": 1,
+          "explanation": "Perfectum passīvum indicat status persistēns: lēx scrīpta manet, ergō valida."
+        }
+      ]
+    },
+    {
+      "id": "iv-perf2-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "perf2k",
+          "statement": "Perfectum medium-passīvum est āthemāticum: dēsinentiae adiunguntur dīrēctē themātī.",
+          "answer": true,
+          "explanation": "Corrēctum: nūlla vōcālis thematica interest."
+        },
+        {
+          "id": "perf2l",
+          "statement": "Media et passīva sunt distīnctae fōrmā in perfectō, sīcut in aoristō.",
+          "answer": false,
+          "explanation": "Falsum: perfectum reconvenit media/passīva, sīcut praesēns."
+        },
+        {
+          "id": "perf2m",
+          "statement": "Λέλυσαι est fōrma contracta, analoga λύῃ praesentis.",
+          "answer": false,
+          "explanation": "Falsum: λέλυσαι manet incontracta, quia est āthemātica."
+        },
+        {
+          "id": "perf2n",
+          "statement": "In tōtō systemate verbī λύω, praesēns et perfectum reconveniunt media/passīva, ubi aoristus (et partim futūrum) eōs distinguit.",
+          "answer": true,
+          "explanation": "Corrēctum: patrōnus alternāns per tōtum systēma verbāle."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Perfectum medium-passīvum λέλυμαι: λέλυμαι, λέλυσαι, λέλυται // λελύμεθα, λέλυσθε, λέλυνται. Īnfīnītīvus: λελύσθαι.",
+    "Systēma āthemāticum: dēsinentiae adiūnctae DĪRECTĒ themātī reduplicātō, sine vōcālī thematicā — ideōque 2ª sg. (λέλυσαι) manet incontracta.",
+    "Perfectum, sīcut praesēns, RECONVENIT media/passīva in ūnam fōrmam (dīversē ab aoristō, ubi dīvergunt).",
+    "Cōnspectus verbī λύω: praesēns/perfectum unificant media-passīva; aoristus (et futūrum, partim) eōs distinguit — patrōnus organizāns tōtum systēma."
+  ],
+  "related": [
+    {
+      "lessonId": "iv-systema-perfecti-activi",
+      "label": "Systēma Perfectī Āctīvī"
+    },
+    {
+      "lessonId": "iv-participium-praesentis",
+      "label": "Participium Praesentis"
+    }
+  ]
+}

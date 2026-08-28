@@ -1,0 +1,248 @@
+{
+  "id": "iv-systema-perfecti-activi",
+  "level": "IV",
+  "unit": "1",
+  "order": 4,
+  "skill": "grammatica",
+  "strand": "perfectum",
+  "title": "Systēma Perfectī Āctīvī",
+  "subtitle": "Perfectum āctīvum (λέλυκα): reduplicātiō, et sēnsus proprius — status praesēns resultāns ex āctiōne praeteritā, dīversus ab aoristō.",
+  "prerequisites": [
+    "iv-aoristus-passivus"
+  ],
+  "objectives": [
+    "Coniugāre plēnē perfectum āctīvum indicātīvum verbī λύω (λέλυκα)",
+    "Applicāre rēgulam reduplicātiōnis: cōnsonāns initiālis + ε praefīxa (λύω → λε-λυκ-α)",
+    "Explicāre sēnsum proprium perfectī: status praesēns resultāns ex āctiōne praeteritā (“habeō id solūtum” magis quam “solvī”)",
+    "Distinguere sēnsum perfectī ab aoristō, comparandō cum discrīmine analogō in Anglicō (“I have solved” vs. “I solved”)"
+  ],
+  "content": {
+    "intro": "Tertium et ultimum tempus praeteritī-related Graecum est <strong>perfectum</strong>, cum sēnsū prōrsus proprium: nōn “solvī” (aoristus, āctiō praeteritī simplex) neque “solvēbam” (imperfectum, āctiō continua), sed <strong>“solvī et adhūc status ille manet”</strong> — status praesēns, resultāns ex āctiōne iam factā. Graecum distinguit hoc systemāticē per fōrmam propriam, ubi Anglicum adhibet “have/has” + participium (“I have solved”), Lūsitānicum saepe locūtiōnem similem.",
+    "explanation": "<p>Perfectum indicat: āctiō est COMPLĒTA, et RESULTĀTUM eius persistit in praesentī. <span class=\"greek\">λέλυκα τὸν δοῦλον</span> nōn sōlum “solvī servum [aliquandō]” (quod esset aoristus, ἔλυσα), sed “habeō servum solūtum [nunc]” — attentiō ad statum praesentem, nōn ad ēventum praeteritum ipsum.</p>",
+    "rules": [
+      {
+        "heading": "a) Perfectum Āctīvum: λέλυκα",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Persōna</th><th>Singulāris</th><th>Plūrālis</th></tr></thead><tbody><tr><td>1ª</td><td class=\"greek\">λέλυκα</td><td class=\"greek\">λελύκαμεν</td></tr><tr><td>2ª</td><td class=\"greek\">λέλυκας</td><td class=\"greek\">λελύκατε</td></tr><tr><td>3ª</td><td class=\"greek\">λέλυκε(ν)</td><td class=\"greek\">λελύκασι(ν)</td></tr></tbody></table><p>Fōrmātiō: REDUPLICĀTIŌ (nōn augmentum!) + thema + κα + dēsinentiae speciālēs. Īnfīnītīvus: <span class=\"greek\">λελυκέναι</span>.</p>"
+      },
+      {
+        "heading": "b) Rēgula Reduplicātiōnis",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Genus</th><th>Rēgula</th><th>Exemplum</th></tr></thead><tbody><tr><td>Cōnsonāns simplex</td><td>cōnsonāns + ε praefīxa</td><td class=\"greek\">λύω → λέλυκα</td></tr><tr><td>Vōcālis initiālis</td><td>allongātiō (sīcut augmentum temporāle)</td><td class=\"greek\">ἀκούω → ἀκήκοα (specialis) / plērumque = augmentum temporāle simplex</td></tr><tr><td>Duae cōnsonantēs vel σ/ζ initiālēs</td><td>ε- sōlum (sīcut augmentum syllabicum)</td><td class=\"greek\">γράφω → γέγραφα (sed στρατεύω → ἐστράτευκα)</td></tr></tbody></table><p>Reduplicātiō (nōn “augmentum”, terminus reservātus praeteritō) est signum characteristicum PROPRIUM perfectī, praesēns in OMNĪ fōrmā perfectī (indicātīvō, īnfīnītīvō, participiō) — dīversē ab augmentō, quod appāret sōlum in modō indicātīvō.</p>"
+      },
+      {
+        "heading": "c) Perfectum vs. Aoristus: Discrīmen Semanticum",
+        "body": "<p>Comparā: <span class=\"greek\">ἔλυσα τὸν δοῦλον</span> (aoristus) = “solvī servum” (ēventus praeteritus simplex, sine attentiōne ad statum praesentem — fortasse servus iterum captus est posteā). <span class=\"greek\">λέλυκα τὸν δοῦλον</span> (perfectum) = “habeō servum solūtum” (status praesēns explicitus: servus ADHŪC est līber, nunc, dum loquor). Discrīmen est subtīlis sed reāle, et frequenter ūtile in argūmentātiōne rhētoricā/philosophicā Graecā (“probāvī” [aoristus, ēventus] vs. “dēmōnstrāvī et status manet vērus” [perfectum]).</p>"
+      }
+    ],
+    "examples": [
+      "λέλυκα τὸν δοῦλον· νῦν ἐλεύθερός ἐστιν. — Solvī servum; nunc līber est. (perfectum, status persistēns)",
+      "γέγραφα τὴν ἐπιστολήν. — Scrīpsī epistulam [et iam exstat, complēta]. (γράφω → γέγραφα)",
+      "πέπαυμαι — ita, sed hoc est medium; exemplum āctīvum melius: λελύκασι τὰς πύλας. — Solvērunt portās [et iam apertae manent].",
+      "οἶδα τὴν ἀλήθειαν. — Sciō vēritātem. (perfectum verbī εἴδω, sēnsū praesentī, forma valdē irregulāris et frequēns)",
+      "τί πέπραχας; — Quid fēcistī/ēgistī [et quō in statū nunc es propter id]? (πράττω → πέπραχα)",
+      "λελύκαμεν τὸν νόμον. — Abrogāvimus lēgem [et manet abrogāta]."
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Cōnfundere reduplicātiōnem cum augmentō, crēdēns ambō esse idem phaenomenon morphologicum.",
+        "right": "Distinguere: augmentum appāret sōlum in indicātīvō praeteritī; reduplicātiō appāret in OMNĪ fōrmā perfectī (indicātīvō, īnfīnītīvō, participiō).",
+        "why": "Terminologia distīncta reflectit fūnctiōnem distīnctam: reduplicātiō est pars ipsīus themae perfectī, nōn signum modī indicātīvī."
+      },
+      {
+        "wrong": "Trānsferre perfectum Graecum exāctē sīcut aoristum (“solvī”), ignōrandō nuance status-praesentis.",
+        "right": "Trānsferre perfectum cum attentiōne ad resultātum persistēns: “habeō solūtum” magis quam sōlum “solvī”.",
+        "why": "Perdere hanc nuance impedit intellēctum plēnum argūmentātiōnis Graecae, ubi discrīmen perfectī/aoristī saepe est rhētoricē significāns."
+      },
+      {
+        "wrong": "Crēdere reduplicātiōnem esse semper simplex ε- praefīxum, sine cōnsīderāre variāns.",
+        "right": "Applicāre rēgulam secundum initium verbī: cōnsonāns simplex → cōnsonāns+ε; vōcālis → allongātiō; duae cōnsonantēs/σ/ζ → ε- sōlum.",
+        "why": "Variātiō reduplicātiōnis sequitur logicam similem augmentō, sed est technicē phaenomenon distīnctum."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "iv-perf1-fill",
+      "type": "fill-blank",
+      "title": "Coniugā Perfectum Āctīvum",
+      "instructions": "Comple spatia cum fōrmā rēctā perfectī āctīvī.",
+      "items": [
+        {
+          "id": "perf1a",
+          "prompt": "Ἐγὼ τὸν δοῦλον ___. (1ª sg. perf., λύω, “solvī [et manet solūtus]”)",
+          "options": [
+            "λέλυκα",
+            "ἔλυσα",
+            "λύω"
+          ],
+          "answers": [
+            "λέλυκα"
+          ],
+          "explanation": "Perfectum āctīvum, 1ª sg.: λέλυκα."
+        },
+        {
+          "id": "perf1b",
+          "prompt": "Σὺ τὴν ἐπιστολὴν ___. (2ª sg. perf., γράφω, “scrīpsistī”)",
+          "options": [
+            "γέγραφας",
+            "ἔγραψας",
+            "γράφεις"
+          ],
+          "answers": [
+            "γέγραφας"
+          ],
+          "explanation": "Perfectum āctīvum, 2ª sg.: γέγραφας."
+        },
+        {
+          "id": "perf1c",
+          "prompt": "Ὁ στρατηγὸς τὰς πύλας ___. (3ª sg. perf., λύω, “solvit [et manent apertae]”)",
+          "options": [
+            "λέλυκε(ν)",
+            "ἔλυσε(ν)",
+            "λύσει"
+          ],
+          "answers": [
+            "λέλυκε(ν)"
+          ],
+          "explanation": "Perfectum āctīvum, 3ª sg.: λέλυκε(ν)."
+        },
+        {
+          "id": "perf1d",
+          "prompt": "Ἡμεῖς τὸν νόμον ___. (1ª pl. perf., “abrogāvimus [et manet abrogātus]”)",
+          "options": [
+            "λελύκαμεν",
+            "ἐλύσαμεν",
+            "λύομεν"
+          ],
+          "answers": [
+            "λελύκαμεν"
+          ],
+          "explanation": "Perfectum āctīvum, 1ª pl.: λελύκαμεν."
+        },
+        {
+          "id": "perf1e",
+          "prompt": "Οἱ πολῖται τὰς πύλας ___. (3ª pl. perf.)",
+          "options": [
+            "λελύκασι(ν)",
+            "ἔλυσαν",
+            "λύουσι(ν)"
+          ],
+          "answers": [
+            "λελύκασι(ν)"
+          ],
+          "explanation": "Perfectum āctīvum, 3ª pl.: λελύκασι(ν)."
+        }
+      ]
+    },
+    {
+      "id": "iv-perf1-mc",
+      "type": "multiple-choice",
+      "title": "Perfectum: Rēgulae et Sēnsus",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "perf1f",
+          "prompt": "Quid dēscrībit perfectum, aspectuāliter?",
+          "options": [
+            "āctiōnem simplicem praeteritam, sine resultātō",
+            "statum praesentem resultāns ex āctiōne praeteritā complētā",
+            "āctiōnem futūram"
+          ],
+          "answerIndex": 1,
+          "explanation": "Perfectum indicat status praesēns, nōn sōlum ēventum praeteritum."
+        },
+        {
+          "id": "perf1g",
+          "prompt": "Quid distinguit reduplicātiōnem ab augmentō?",
+          "options": [
+            "nihil, sunt idem phaenomenon",
+            "reduplicātiō appāret in omnī fōrmā perfectī; augmentum sōlum in indicātīvō praeteritī",
+            "reduplicātiō sōlum in plūrālī"
+          ],
+          "answerIndex": 1,
+          "explanation": "Reduplicātiō pertinet ad thema ipsum perfectī, persistēns per omnēs modī."
+        },
+        {
+          "id": "perf1h",
+          "prompt": "Quod signum characteristicum distinguit perfectum āctīvum?",
+          "options": [
+            "θη",
+            "reduplicātiō + κα",
+            "σα"
+          ],
+          "answerIndex": 1,
+          "explanation": "Reduplicātiō (λε-) + κα (λέλυκα) est patrōnus perfectī āctīvī."
+        },
+        {
+          "id": "perf1i",
+          "prompt": "Quae est fōrma reduplicāta correcta verbī cuius thema incipit cōnsonante simplicī (λύω)?",
+          "options": [
+            "λύ-λυκα",
+            "λέ-λυκα (cōnsonāns+ε)",
+            "ἐ-λυκα"
+          ],
+          "answerIndex": 1,
+          "explanation": "Cōnsonāns initiālis repetītur cum ε: λε-."
+        },
+        {
+          "id": "perf1j",
+          "prompt": "Quae est fōrma īnfīnītīvī perfectī āctīvī verbī λύω?",
+          "options": [
+            "λελυκέναι",
+            "λῦσαι",
+            "λύειν"
+          ],
+          "answerIndex": 0,
+          "explanation": "Īnfīnītīvus perfectī āctīvī: λελυκέναι."
+        }
+      ]
+    },
+    {
+      "id": "iv-perf1-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "perf1k",
+          "statement": "Perfectum Graecum significat exāctē idem ac aoristus, sine differentiā aspectuālī.",
+          "answer": false,
+          "explanation": "Falsum: perfectum attendit ad status praesēns resultāns; aoristus, ad ēventum simplex."
+        },
+        {
+          "id": "perf1l",
+          "statement": "Reduplicātiō appāret sōlum in modō indicātīvō perfectī.",
+          "answer": false,
+          "explanation": "Falsum: reduplicātiō appāret in omnī fōrmā perfectī (īnfīnītīvō, participiō, quaslibet modīs)."
+        },
+        {
+          "id": "perf1m",
+          "statement": "Perfectum āctīvum verbī λύω est λέλυκα.",
+          "answer": true,
+          "explanation": "Corrēctum."
+        },
+        {
+          "id": "perf1n",
+          "statement": "Perfectum, comparātum cum Anglicō, correspondet magis “I have solved” quam “I solved”.",
+          "answer": true,
+          "explanation": "Corrēctum: attentiō ad resultātum/statum praesentem parallēla est perfectō compositō Anglicō."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Perfectum āctīvum λύω: λέλυκα, λέλυκας, λέλυκε(ν) // λελύκαμεν, λελύκατε, λελύκασι(ν). Īnfīnītīvus: λελυκέναι.",
+    "Reduplicātiō (cōnsonāns+ε, vel allongātiō vōcālis) est signum characteristicum, praesēns in OMNĪ fōrmā perfectī — dīversa ab augmentō.",
+    "Sēnsus perfectī: status praesēns resultāns ex āctiōne praeteritā complētā (“habeō solūtum”), nōn sōlum ēventum praeteritum simplex (aoristus, “solvī”).",
+    "Discrīmen perfectī/aoristī parallēlum discrīminī Anglicō “have solved” vs. “solved”."
+  ],
+  "related": [
+    {
+      "lessonId": "iv-aoristus-passivus",
+      "label": "Aoristus Passīvus"
+    },
+    {
+      "lessonId": "iv-systema-perfecti-medii-passivi",
+      "label": "Systēma Perfectī Mediī-Passīvī"
+    }
+  ]
+}

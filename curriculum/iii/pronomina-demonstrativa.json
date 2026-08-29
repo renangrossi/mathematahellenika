@@ -98,6 +98,18 @@
       ]
     },
     {
+      "id": "iii-dem1-recognize",
+      "type": "true-false",
+      "title": "Quid Vērē Dīcitur? (Ex Sēnsū)",
+      "instructions": "Relege sententiās suprā. Dēcerne utrum vērum an falsum sit, ex sēnsū, nōn ex nōmine dēmōnstrātīvī.",
+      "items": [
+        { "id": "dem1-rec1", "statement": "Ἀγάθων dīcit illum virum (nōn hunc) esse sapientem.", "answer": false, "explanation": "Falsum: “οὗτος ὁ ἀνήρ” significat “hic vir”, nōn “ille vir”." },
+        { "id": "dem1-rec2", "statement": "Μελίτη hanc urbem amat.", "answer": true, "explanation": "“Ταύτην τὴν πόλιν φιλῶ.”" },
+        { "id": "dem1-rec3", "statement": "Illī mīlitēs, illō diē, fuērunt timidī.", "answer": false, "explanation": "Falsum: “ἀνδρεῖοι ἦσαν” — fortēs, nōn timidī." },
+        { "id": "dem1-rec4", "statement": "Hic liber, secundum Ἀγάθωνem, est malus.", "answer": false, "explanation": "Falsum: “τοῦτο τὸ βιβλίον καλόν ἐστιν” — bonus/pulcher." }
+      ]
+    },
+    {
       "id": "iii-dem1-mc",
       "type": "multiple-choice",
       "title": "Prōnōmina Dēmōnstrātīva: Rēgulae",

@@ -98,6 +98,18 @@
       ]
     },
     {
+      "id": "iii-con3-recognize",
+      "type": "true-false",
+      "title": "Quid Vērē Dīcitur? (Ex Sēnsū)",
+      "instructions": "Relege sententiās suprā. Dēcerne utrum vērum an falsum sit, ex sēnsū, nōn ex nōmine coniugātiōnis.",
+      "items": [
+        { "id": "con3-rec1", "statement": "Ἀγάθων patriam ōdit.", "answer": false, "explanation": "Falsum: “φιλεῖ τὴν πατρίδα” — amat." },
+        { "id": "con3-rec2", "statement": "Ἀγάθων pecūniam quaerit, nōn vēritātem.", "answer": false, "explanation": "Falsum: “ζητῶ τὴν ἀλήθειαν” — vēritātem quaerit." },
+        { "id": "con3-rec3", "statement": "Cīvēs urbem ōdērunt.", "answer": false, "explanation": "Falsum: “φιλοῦσι τὴν πόλιν” — amant." },
+        { "id": "con3-rec4", "statement": "Cīvēs malum facere volunt.", "answer": false, "explanation": "Falsum: “βούλονται ποιεῖν τὸ ἀγαθόν” — bonum, nōn malum." }
+      ]
+    },
+    {
       "id": "iii-con3-fill",
       "type": "fill-blank",
       "title": "Coniugā φιλέω (Contractum)",

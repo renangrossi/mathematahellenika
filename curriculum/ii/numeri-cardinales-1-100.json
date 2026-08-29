@@ -91,6 +91,38 @@
       ]
     },
     {
+      "id": "ii-num2-recognize",
+      "type": "true-false",
+      "title": "Quid Vērē Dīcitur? (Ex Sēnsū)",
+      "instructions": "Relege sententiās suprā. Dēcerne utrum vērum an falsum sit, ex sēnsū, nōn ex memoriā sōlā numerōrum.",
+      "items": [
+        {
+          "id": "num2-rec1",
+          "statement": "Secundum magistrum, sunt centum servī in urbe.",
+          "answer": true,
+          "explanation": "“Ἑκατὸν δοῦλοι ἐν τῇ πόλει εἰσίν.”"
+        },
+        {
+          "id": "num2-rec2",
+          "statement": "Ἀγάθων rogat num vīgintī virī sint, et magister affirmat.",
+          "answer": false,
+          "explanation": "Falsum: magister negat (“οὐχί”) et corrigit: trīgintā quīnque cīvēs, nōn vīgintī virī."
+        },
+        {
+          "id": "num2-rec3",
+          "statement": "Cīvium numerus, secundum magistrum, est trīgintā quīnque.",
+          "answer": true,
+          "explanation": "“Τριάκοντα καὶ πέντε πολῖται.”"
+        },
+        {
+          "id": "num2-rec4",
+          "statement": "Melitē exclāmat sē centum diēs habuisse.",
+          "answer": false,
+          "explanation": "Falsum: “μία καὶ εἴκοσι ἡμέραι” significat vīgintī ūnum diem, nōn centum."
+        }
+      ]
+    },
+    {
       "id": "ii-num2-mc",
       "type": "multiple-choice",
       "title": "Numerī Compositī: Rēgulae",

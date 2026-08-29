@@ -98,6 +98,38 @@
       ]
     },
     {
+      "id": "ii-adv1-recognize",
+      "type": "true-false",
+      "title": "Quid Vērē Dīcitur? (Ex Sēnsū)",
+      "instructions": "Relege sententiās suprā. Dēcerne utrum vērum an falsum sit, ex sēnsū, nōn ex nōmine fōrmae.",
+      "items": [
+        {
+          "id": "adv1-rec1",
+          "statement": "Magister male loquitur, secundum textum.",
+          "answer": false,
+          "explanation": "Falsum: “καλῶς λέγει” significat “bene loquitur”."
+        },
+        {
+          "id": "adv1-rec2",
+          "statement": "Ἀγάθων vult manēre.",
+          "answer": false,
+          "explanation": "Falsum: “οὐκ ἐθέλω μένειν” significat “nōlō manēre”."
+        },
+        {
+          "id": "adv1-rec3",
+          "statement": "Melitē videt urbem clārē.",
+          "answer": false,
+          "explanation": "Falsum: “οὐχ ὁρῶ τὴν πόλιν” significat “nōn videō urbem”."
+        },
+        {
+          "id": "adv1-rec4",
+          "statement": "Magister prohibet Ἀγάθωνem servum solvere.",
+          "answer": true,
+          "explanation": "“Μὴ λύε τὸν δοῦλον” est prohibitiō (μή + imperātīvus): “nōlī solvere”."
+        }
+      ]
+    },
+    {
       "id": "ii-adv1-mc",
       "type": "multiple-choice",
       "title": "Adverbia et Negātiō: Rēgulae",

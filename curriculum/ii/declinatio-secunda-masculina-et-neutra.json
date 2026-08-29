@@ -98,6 +98,38 @@
       ]
     },
     {
+      "id": "ii-dec2-recognize",
+      "type": "true-false",
+      "title": "Quid Vērē Dīcitur? (Ex Sēnsū)",
+      "instructions": "Relege sententiās suprā. Dēcerne utrum vērum an falsum sit, ex sēnsū, nōn ex nōmine cāsūs.",
+      "items": [
+        {
+          "id": "dec2-rec1",
+          "statement": "“Ὁρῶ τὰ δῶρα” — Melitē dōna videt, nōn Ἀγάθων.",
+          "answer": true,
+          "explanation": "Ὁρῶ est prīma persōna; Melitē ipsa loquitur, videns dōna."
+        },
+        {
+          "id": "dec2-rec2",
+          "statement": "Cum Melitē dīcit “τῷ λόγῳ σου πείθομαι”, crēdit verbīs Ἀγάθωνος.",
+          "answer": true,
+          "explanation": "Πείθομαι (“crēdō, persuādeor”) + datīvus (τῷ λόγῳ) indicat cui rei crēditur."
+        },
+        {
+          "id": "dec2-rec3",
+          "statement": "Δῶρα (neutrum plūrāle) habet fōrmam accūsātīvam dīversam ā fōrmā nōminātīvā.",
+          "answer": false,
+          "explanation": "Falsum: in omnī nōmine neutrō, nōminātīvus et accūsātīvus sunt identicī — δῶρα servit ambōbus."
+        },
+        {
+          "id": "dec2-rec4",
+          "statement": "Verbum “ἐστίν” (singulāre) cum subiectō “τὰ δῶρα” (plūrāle) est error grammaticus in hōc textū.",
+          "answer": false,
+          "explanation": "Falsum: subiectum neutrum plūrāle regulāriter accipit verbum singulāre in Graecō — nōn est error."
+        }
+      ]
+    },
+    {
       "id": "ii-dec2-mc",
       "type": "multiple-choice",
       "title": "Dēclīnātiō Secunda: Rēgulae",

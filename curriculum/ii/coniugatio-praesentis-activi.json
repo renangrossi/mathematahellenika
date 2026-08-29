@@ -98,6 +98,38 @@
       ]
     },
     {
+      "id": "ii-con1-recognize",
+      "type": "true-false",
+      "title": "Quid Vērē Dīcitur? (Ex Sēnsū)",
+      "instructions": "Relege sententiās suprā. Dēcerne utrum vērum an falsum sit, ex sēnsū, nōn ex nōmine persōnae.",
+      "items": [
+        {
+          "id": "con1-rec1",
+          "statement": "“Τί λύεις;” — Melitē rogat quid Ἀγάθων faciat.",
+          "answer": true,
+          "explanation": "Λύεις (2ª persōna) refert ad Ἀγάθωνα, ad quem Melitē loquitur."
+        },
+        {
+          "id": "con1-rec2",
+          "statement": "“Ὁ διδάσκαλος λύει τὴν ἀπορίαν” — Ἀγάθων ipse solvit quaestiōnem.",
+          "answer": false,
+          "explanation": "Falsum: λύει (3ª persōna) refert ad ὁ διδάσκαλος (magister), nōn ad Ἀγάθωνα ipsum."
+        },
+        {
+          "id": "con1-rec3",
+          "statement": "“Ἡμεῖς λύομεν τὰς πύλας” — sōla Melitē portās aperit.",
+          "answer": false,
+          "explanation": "Falsum: λύομεν (1ª persōna plūrālis) significat “nōs”, id est Ἀγάθων ET Melitē simul."
+        },
+        {
+          "id": "con1-rec4",
+          "statement": "Cīvēs, secundum Melitēn, volunt lēgem solvere/abrogāre, nōn servāre.",
+          "answer": true,
+          "explanation": "“Βούλονται λύειν τὸν νόμον” — λύειν hīc significat “solvere/abrogāre”, nōn “servāre”."
+        }
+      ]
+    },
+    {
       "id": "ii-con1-fill",
       "type": "fill-blank",
       "title": "Coniugā λύω",

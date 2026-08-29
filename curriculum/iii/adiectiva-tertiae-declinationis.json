@@ -98,6 +98,18 @@
       ]
     },
     {
+      "id": "iii-adi2-recognize",
+      "type": "true-false",
+      "title": "Quid Vērē Dīcitur? (Ex Sēnsū)",
+      "instructions": "Relege sententiās suprā. Dēcerne utrum vērum an falsum sit, ex sēnsū, nōn ex nōmine dēclīnātiōnis.",
+      "items": [
+        { "id": "adi2-rec1", "statement": "Omnēs cīvēs rēgem ōdērunt, nōn amāvērunt.", "answer": false, "explanation": "Falsum: “πάντες οἱ πολῖται τὸν βασιλέα φιλοῦσιν” — amant, nōn ōdērunt." },
+        { "id": "adi2-rec2", "statement": "Melitē dīcit verbum rēgis esse vērum et pulchrum.", "answer": true, "explanation": "“Ὁ ἀληθὴς λόγος τοῦ βασιλέως καλός ἐστιν.”" },
+        { "id": "adi2-rec3", "statement": "Ἀγάθων dīcit tōtam urbem esse īnfēlīcem.", "answer": false, "explanation": "Falsum: “πᾶσα ἡ πόλις εὐτυχής ἐστιν” — fēlīx, nōn īnfēlīx." },
+        { "id": "adi2-rec4", "statement": "Rēx semper vēra dīcit, secundum textum.", "answer": true, "explanation": "“Ὁ βασιλεὺς τὰ ἀληθῆ λέγει.”" }
+      ]
+    },
+    {
       "id": "iii-adi2-mc",
       "type": "multiple-choice",
       "title": "Adiectīva Tertiae Dēclīnātiōnis: Rēgulae",

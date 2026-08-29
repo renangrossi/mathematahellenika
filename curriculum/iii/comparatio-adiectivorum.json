@@ -98,6 +98,18 @@
       ]
     },
     {
+      "id": "iii-comp1-recognize",
+      "type": "true-false",
+      "title": "Quid Vērē Dīcitur? (Ex Sēnsū)",
+      "instructions": "Relege sententiās suprā. Dēcerne utrum vērum an falsum sit, ex sēnsū, nōn ex nōmine gradūs.",
+      "items": [
+        { "id": "comp1-rec1", "statement": "Ἀγάθων dīcit Sōcratem esse stultiōrem cēterīs.", "answer": false, "explanation": "Falsum: “σοφώτερός ἐστι” — sapientiōrem, nōn stultiōrem." },
+        { "id": "comp1-rec2", "statement": "Melitē dīcit hanc urbem esse minimam.", "answer": false, "explanation": "Falsum: “μεγίστη ἐστίν” — maxima, nōn minima." },
+        { "id": "comp1-rec3", "statement": "Ἀγάθων dīcit virum malum esse meliōrem virō bonō.", "answer": false, "explanation": "Falsum: inversē — “ὁ ἀγαθὸς ἀνὴρ ἀμείνων ἐστὶ τοῦ κακοῦ” (bonus melior est malō)." },
+        { "id": "comp1-rec4", "statement": "Melitē affirmat sē plūrēs amīcōs habēre quam Ἀγάθων.", "answer": true, "explanation": "“Πλείονας φίλους ἔχω ἢ σύ!”" }
+      ]
+    },
+    {
       "id": "iii-comp1-mc",
       "type": "multiple-choice",
       "title": "Comparātiō: Rēgulae",

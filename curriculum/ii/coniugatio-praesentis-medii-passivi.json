@@ -98,6 +98,38 @@
       ]
     },
     {
+      "id": "ii-con2-recognize",
+      "type": "true-false",
+      "title": "Quid Vērē Dīcitur? (Ex Sēnsū)",
+      "instructions": "Relege sententiās suprā. Dēcerne utrum vērum an falsum sit, ex sēnsū, nōn ex nōmine vōcis.",
+      "items": [
+        {
+          "id": "con2-rec1",
+          "statement": "“Λουόμεθα” — Ἀγάθων et Μελίτη sē ipsōs lavant.",
+          "answer": true,
+          "explanation": "Λουόμεθα (medium, 1ª pl.) significat “nōs ipsōs lavāmus” — āctiō in sē ipsōs."
+        },
+        {
+          "id": "con2-rec2",
+          "statement": "“Ὁ δοῦλος λύεται ὑπὸ τοῦ δεσπότου” — servus sē ipse līberat.",
+          "answer": false,
+          "explanation": "Falsum: ὑπὸ τοῦ δεσπότου (“ā dominō”) indicat agentem externum — passīvum, nōn medium reflexīvum."
+        },
+        {
+          "id": "con2-rec3",
+          "statement": "Ἀγάθων dīcit sē nōlle līberārī.",
+          "answer": false,
+          "explanation": "Falsum: “βούλομαι λύεσθαι” significat “volō līberārī” — vult, nōn nōn vult."
+        },
+        {
+          "id": "con2-rec4",
+          "statement": "“Καλόν ἐστι τὸ ὕδωρ” explicat cūr Ἀγάθων et Μελίτη in flūmine sunt.",
+          "answer": true,
+          "explanation": "Melitē dat ratiōnem (ὅτι, “quia”) cūr sē lavent: aqua est pulchra/agreeābilis."
+        }
+      ]
+    },
+    {
       "id": "ii-con2-fill",
       "type": "fill-blank",
       "title": "Coniugā λύομαι",

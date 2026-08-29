@@ -98,6 +98,18 @@
       ]
     },
     {
+      "id": "iii-dec4-recognize",
+      "type": "true-false",
+      "title": "Quid Vērē Dīcitur? (Ex Sēnsū)",
+      "instructions": "Relege sententiās suprā. Dēcerne utrum vērum an falsum sit, ex sēnsū, nōn ex nōmine dēclīnātiōnis.",
+      "items": [
+        { "id": "dec4-rec1", "statement": "Lēgēs urbis sunt iniūstae.", "answer": false, "explanation": "Falsum: “οἱ νόμοι δίκαιοί εἰσιν” — iūstae." },
+        { "id": "dec4-rec2", "statement": "Rēx ipse regiōnem regit.", "answer": true, "explanation": "“Ὁ βασιλεὺς τῆς χώρας ἄρχει.”" },
+        { "id": "dec4-rec3", "statement": "Ἀγάθων rēgem salūtat, tamquam persōnam agnōscēns, nōn rem.", "answer": true, "explanation": "“Χαῖρε, ὦ βασιλεῦ” — vocātīvus, adhibitus ad hominem alloquendum." },
+        { "id": "dec4-rec4", "statement": "Rēx Ἀγάθωνī et Μελίτῃ tacet, nihil respondēns.", "answer": false, "explanation": "Falsum: rēx respondet “χαίρετε, ὦ φίλοι.”" }
+      ]
+    },
+    {
       "id": "iii-dec4-mc",
       "type": "multiple-choice",
       "title": "Dēclīnātiō Tertia Vōcālica: Rēgulae",

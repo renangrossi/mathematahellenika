@@ -98,6 +98,18 @@
       ]
     },
     {
+      "id": "iii-fut1-recognize",
+      "type": "true-false",
+      "title": "Quid Vērē Dīcitur? (Ex Sēnsū)",
+      "instructions": "Relege sententiās suprā. Dēcerne utrum vērum an falsum sit, ex sēnsū, nōn ex nōmine temporis.",
+      "items": [
+        { "id": "fut1-rec1", "statement": "Ἀγάθων iam herī servum solvit.", "answer": false, "explanation": "Falsum: “λύσω... αὔριον” — crās, factum futūrum, nōn iam factum." },
+        { "id": "fut1-rec2", "statement": "Mīlitēs tēla retinēbunt, nōn mittent.", "answer": false, "explanation": "Falsum: “πέμψουσι τὰ ὅπλα” — mittent." },
+        { "id": "fut1-rec3", "statement": "Ἀγάθων populō persuādēre vult.", "answer": true, "explanation": "“Πείσω τὸν δῆμον” — persuādēbō, id est vult persuādēre." },
+        { "id": "fut1-rec4", "statement": "Mīlitēs captīvōs dūcent.", "answer": true, "explanation": "“Ἄξομεν τοὺς αἰχμαλώτους.”" }
+      ]
+    },
+    {
       "id": "iii-fut1-fill",
       "type": "fill-blank",
       "title": "Coniugā Futūrum",

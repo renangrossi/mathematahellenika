@@ -98,6 +98,18 @@
       ]
     },
     {
+      "id": "iii-imp1-recognize",
+      "type": "true-false",
+      "title": "Quid Vērē Dīcitur? (Ex Sēnsū)",
+      "instructions": "Relege sententiās suprā. Dēcerne utrum vērum an falsum sit, ex sēnsū, nōn ex nōmine temporis.",
+      "items": [
+        { "id": "imp1-rec1", "statement": "Magister discipulōs numquam docēbat.", "answer": false, "explanation": "Falsum: “ἐδίδασκε τοὺς μαθητὰς καθ' ἡμέραν” — cōtīdiē docēbat." },
+        { "id": "imp1-rec2", "statement": "Ἀγάθων et Μελίτη verba magistrī ignōrābant.", "answer": false, "explanation": "Falsum: “ἤκουον τὸν λόγον αὐτοῦ” — audiēbant." },
+        { "id": "imp1-rec3", "statement": "Magister, cum iuvenis esset, patriam ōderat.", "answer": false, "explanation": "Falsum: “ἐφίλουν τὴν πατρίδα” — amābat." },
+        { "id": "imp1-rec4", "statement": "Μελίτη magistrum rogat quid ōlim faceret.", "answer": true, "explanation": "“Τί ἐποίεις τότε, ὦ διδάσκαλε;”" }
+      ]
+    },
+    {
       "id": "iii-imp1-fill",
       "type": "fill-blank",
       "title": "Coniugā Imperfectum",

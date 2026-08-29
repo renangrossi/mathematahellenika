@@ -98,6 +98,18 @@
       ]
     },
     {
+      "id": "iii-con4-recognize",
+      "type": "true-false",
+      "title": "Quid Vērē Dīcitur? (Ex Sēnsū)",
+      "instructions": "Relege sententiās suprā. Dēcerne utrum vērum an falsum sit, ex sēnsū, nōn ex nōmine coniugātiōnis.",
+      "items": [
+        { "id": "con4-rec1", "statement": "Ἀγάθων et Μελίτη deōs nōn honōrant.", "answer": false, "explanation": "Falsum: “τιμῶμεν τοὺς θεούς” — honōrāmus." },
+        { "id": "con4-rec2", "statement": "Μελίτη Ἀγάθωνem rogat num patrem honōret.", "answer": true, "explanation": "“Καὶ τιμᾷς τὸν πατέρα;”" },
+        { "id": "con4-rec3", "statement": "Ἀγάθων parentēs honōrāre nōn vult.", "answer": false, "explanation": "Falsum: “βούλομαι τιμᾶν τοὺς γονεῖς” — vult." },
+        { "id": "con4-rec4", "statement": "Ōrātor in forō vēritātem cēlat, nōn ostendit.", "answer": false, "explanation": "Falsum: “τὴν ἀλήθειαν δηλοῖ” — ostendit/dēclārat." }
+      ]
+    },
+    {
       "id": "iii-con4-fill",
       "type": "fill-blank",
       "title": "Coniugā τιμάω et δηλόω",

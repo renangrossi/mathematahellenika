@@ -8,26 +8,26 @@ i-salutationes-et-verbum-sum,I,Salūtātiōnēs et Εἰμί (Verbum Essendi),gr
 i-articulus-et-numeri,I,Articulus (Fōrmae Nōminātīvae) et Numerī,grammatica,5,23,1,0.04,True,False,True,False,True,3,2,5,A,curriculum/i/articulus-et-numeri.json
 i-pronomina-personalia,I,Prōnōmina Persōnālia,grammatica,5,22,0,0.0,True,False,True,False,True,3,2,5,A,curriculum/i/pronomina-personalia.json
 i-lectio-prima,I,Lēctiō Prīma,lectio,3,9,0,0.0,False,True,True,False,True,2,1,3,A,curriculum/i/lectio-prima.json
-ii-declinatio-prima,II,Dēclīnātiō Prīma,grammatica,4,17,3,0.18,True,False,True,False,True,3,2,5,A,curriculum/ii/declinatio-prima.json
-ii-declinatio-secunda-masculina-et-neutra,II,Dēclīnātiō Secunda: Masculīna et Neutra,grammatica,4,18,3,0.17,True,False,True,False,True,3,2,5,A,curriculum/ii/declinatio-secunda-masculina-et-neutra.json
-ii-articulus-plenus,II,Articulus Plēnus,grammatica,4,17,1,0.06,True,False,True,False,True,3,2,5,A,curriculum/ii/articulus-plenus.json
-ii-adiectiva-classis-primae,II,Adiectīva Classis Prīmae,grammatica,4,18,2,0.11,True,False,True,False,True,3,2,5,A,curriculum/ii/adiectiva-classis-primae.json
-ii-coniugatio-praesentis-activi,II,Coniugātiō Praesentis Āctīvī,grammatica,4,18,0,0.0,True,False,True,False,True,3,2,5,A,curriculum/ii/coniugatio-praesentis-activi.json
-ii-coniugatio-praesentis-medii-passivi,II,Coniugātiō Praesentis Mediī-Passīvī,grammatica,4,18,0,0.0,True,False,True,False,True,3,2,5,A,curriculum/ii/coniugatio-praesentis-medii-passivi.json
-ii-praepositiones-fundamentales,II,Praepositiōnēs Fundāmentālēs,grammatica,4,18,0,0.0,True,False,True,False,True,3,2,5,A,curriculum/ii/praepositiones-fundamentales.json
-ii-adverbia-et-negatio,II,Adverbia et Negātiō,grammatica,4,18,0,0.0,True,False,True,False,True,3,2,5,A,curriculum/ii/adverbia-et-negatio.json
-ii-interrogativa-fundamentalia,II,Interrogātīva Fundāmentālia,grammatica,4,18,0,0.0,True,False,True,False,True,3,2,5,A,curriculum/ii/interrogativa-fundamentalia.json
-ii-numeri-cardinales-1-100,II,Numerī Cardinālēs I–C,vocabularium,4,17,3,0.18,True,False,True,False,True,3,2,5,A,curriculum/ii/numeri-cardinales-1-100.json
-iii-declinatio-tertia-consonantica,III,Dēclīnātiō Tertia: Themata Cōnsonantica,grammatica,4,18,6,0.33,True,False,True,False,True,3,2,5,A,curriculum/iii/declinatio-tertia-consonantica.json
-iii-declinatio-tertia-vocalica,III,Dēclīnātiō Tertia: Themata Vōcālica,grammatica,4,18,0,0.0,True,False,True,False,True,3,2,5,A,curriculum/iii/declinatio-tertia-vocalica.json
-iii-adiectiva-tertiae-declinationis,III,Adiectīva Tertiae Dēclīnātiōnis,grammatica,4,18,2,0.11,True,False,True,False,True,3,2,5,A,curriculum/iii/adiectiva-tertiae-declinationis.json
-iii-verba-contracta-in-eo,III,Verba Contracta in -έω,grammatica,4,18,0,0.0,True,False,True,False,True,3,2,5,A,curriculum/iii/verba-contracta-in-eo.json
-iii-verba-contracta-in-ao-et-oo,III,Verba Contracta in -άω et -όω,grammatica,4,18,0,0.0,True,False,True,False,True,3,2,5,A,curriculum/iii/verba-contracta-in-ao-et-oo.json
-iii-tempus-imperfectum,III,Tempus Imperfectum,grammatica,4,18,0,0.0,True,False,True,False,True,3,2,5,A,curriculum/iii/tempus-imperfectum.json
-iii-tempus-futurum-activum-et-medium,III,Tempus Futūrum: Āctīvum et Medium,grammatica,4,18,1,0.06,True,False,True,False,True,3,2,5,A,curriculum/iii/tempus-futurum-activum-et-medium.json
-iii-pronomen-relativum,III,Prōnōmen Relātīvum,grammatica,4,18,1,0.06,True,False,True,False,True,3,2,5,A,curriculum/iii/pronomen-relativum.json
-iii-pronomina-demonstrativa,III,Prōnōmina Dēmōnstrātīva,grammatica,4,18,1,0.06,True,False,True,False,True,3,2,5,A,curriculum/iii/pronomina-demonstrativa.json
-iii-comparatio-adiectivorum,III,Comparātiō Adiectīvōrum,grammatica,4,18,2,0.11,True,False,True,False,True,3,2,5,A,curriculum/iii/comparatio-adiectivorum.json
+ii-declinatio-prima,II,Dēclīnātiō Prīma,grammatica,5,23,3,0.13,True,False,True,False,True,3,2,5,A,curriculum/ii/declinatio-prima.json
+ii-declinatio-secunda-masculina-et-neutra,II,Dēclīnātiō Secunda: Masculīna et Neutra,grammatica,5,22,3,0.14,True,False,True,False,True,3,2,5,A,curriculum/ii/declinatio-secunda-masculina-et-neutra.json
+ii-articulus-plenus,II,Articulus Plēnus,grammatica,5,21,1,0.05,True,False,True,False,True,3,2,5,A,curriculum/ii/articulus-plenus.json
+ii-adiectiva-classis-primae,II,Adiectīva Classis Prīmae,grammatica,5,22,2,0.09,True,False,True,False,True,3,2,5,A,curriculum/ii/adiectiva-classis-primae.json
+ii-coniugatio-praesentis-activi,II,Coniugātiō Praesentis Āctīvī,grammatica,5,22,0,0.0,True,False,True,False,True,3,2,5,A,curriculum/ii/coniugatio-praesentis-activi.json
+ii-coniugatio-praesentis-medii-passivi,II,Coniugātiō Praesentis Mediī-Passīvī,grammatica,5,22,0,0.0,True,False,True,False,True,3,2,5,A,curriculum/ii/coniugatio-praesentis-medii-passivi.json
+ii-praepositiones-fundamentales,II,Praepositiōnēs Fundāmentālēs,grammatica,5,22,0,0.0,True,False,True,False,True,3,2,5,A,curriculum/ii/praepositiones-fundamentales.json
+ii-adverbia-et-negatio,II,Adverbia et Negātiō,grammatica,5,22,0,0.0,True,False,True,False,True,3,2,5,A,curriculum/ii/adverbia-et-negatio.json
+ii-interrogativa-fundamentalia,II,Interrogātīva Fundāmentālia,grammatica,5,22,0,0.0,True,False,True,False,True,3,2,5,A,curriculum/ii/interrogativa-fundamentalia.json
+ii-numeri-cardinales-1-100,II,Numerī Cardinālēs I–C,vocabularium,5,21,3,0.14,True,False,True,False,True,3,2,5,A,curriculum/ii/numeri-cardinales-1-100.json
+iii-declinatio-tertia-consonantica,III,Dēclīnātiō Tertia: Themata Cōnsonantica,grammatica,5,22,6,0.27,True,False,True,False,True,3,2,5,A,curriculum/iii/declinatio-tertia-consonantica.json
+iii-declinatio-tertia-vocalica,III,Dēclīnātiō Tertia: Themata Vōcālica,grammatica,5,22,0,0.0,True,False,True,False,True,3,2,5,A,curriculum/iii/declinatio-tertia-vocalica.json
+iii-adiectiva-tertiae-declinationis,III,Adiectīva Tertiae Dēclīnātiōnis,grammatica,5,22,2,0.09,True,False,True,False,True,3,2,5,A,curriculum/iii/adiectiva-tertiae-declinationis.json
+iii-verba-contracta-in-eo,III,Verba Contracta in -έω,grammatica,5,22,0,0.0,True,False,True,False,True,3,2,5,A,curriculum/iii/verba-contracta-in-eo.json
+iii-verba-contracta-in-ao-et-oo,III,Verba Contracta in -άω et -όω,grammatica,5,22,0,0.0,True,False,True,False,True,3,2,5,A,curriculum/iii/verba-contracta-in-ao-et-oo.json
+iii-tempus-imperfectum,III,Tempus Imperfectum,grammatica,5,22,0,0.0,True,False,True,False,True,3,2,5,A,curriculum/iii/tempus-imperfectum.json
+iii-tempus-futurum-activum-et-medium,III,Tempus Futūrum: Āctīvum et Medium,grammatica,5,22,1,0.05,True,False,True,False,True,3,2,5,A,curriculum/iii/tempus-futurum-activum-et-medium.json
+iii-pronomen-relativum,III,Prōnōmen Relātīvum,grammatica,5,22,1,0.05,True,False,True,False,True,3,2,5,A,curriculum/iii/pronomen-relativum.json
+iii-pronomina-demonstrativa,III,Prōnōmina Dēmōnstrātīva,grammatica,5,22,1,0.05,True,False,True,False,True,3,2,5,A,curriculum/iii/pronomina-demonstrativa.json
+iii-comparatio-adiectivorum,III,Comparātiō Adiectīvōrum,grammatica,5,22,2,0.09,True,False,True,False,True,3,2,5,A,curriculum/iii/comparatio-adiectivorum.json
 iv-aoristus-activus-et-medius-primus,IV,Aoristus Prīmus: Āctīvus et Medius,grammatica,3,14,0,0.0,False,False,True,False,False,3,1,1,B,curriculum/iv/aoristus-activus-et-medius-primus.json
 iv-aoristus-secundus,IV,Aoristus Secundus,grammatica,3,14,0,0.0,False,False,True,False,False,3,1,1,B,curriculum/iv/aoristus-secundus.json
 iv-aoristus-passivus,IV,Aoristus Passīvus,grammatica,3,14,0,0.0,False,False,True,False,False,3,1,1,B,curriculum/iv/aoristus-passivus.json

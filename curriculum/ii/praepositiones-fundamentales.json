@@ -98,6 +98,38 @@
       ]
     },
     {
+      "id": "ii-prep-recognize",
+      "type": "true-false",
+      "title": "Quid Vērē Dīcitur? (Ex Sēnsū)",
+      "instructions": "Relege sententiās suprā. Dēcerne utrum vērum an falsum sit, ex sēnsū, nōn ex nōmine cāsūs.",
+      "items": [
+        {
+          "id": "prep-rec1",
+          "statement": "“Ἐν τῇ πόλει μένουσιν” significat “manent”, id est nōn movent sē.",
+          "answer": true,
+          "explanation": "Μένουσιν (“manent”) + ἐν (“in”, dat.) indicat statum, nōn mōtum."
+        },
+        {
+          "id": "prep-rec2",
+          "statement": "“Πρὸς τὴν ἀγοράν” indicat ubi Ἀγάθων et Μελίτη iam sunt, nōn quō eunt.",
+          "answer": false,
+          "explanation": "Falsum: πρός + acc. indicat mōtum VERSUS forum — quō eunt, nōn ubi iam sunt."
+        },
+        {
+          "id": "prep-rec3",
+          "statement": "“Ἐκ τῆς οἰκίας” indicat unde exeunt.",
+          "answer": true,
+          "explanation": "Ἐκ + gen. indicat orīginem/sēparātiōnem: “ē domō”."
+        },
+        {
+          "id": "prep-rec4",
+          "statement": "Post iter, Ἀγάθων et Μελίτη in agorā manent semper, numquam domum redeunt.",
+          "answer": false,
+          "explanation": "Falsum: “πάλιν εἰς τὴν οἰκίαν βαίνουσιν” — rūrsus in domum eunt."
+        }
+      ]
+    },
+    {
       "id": "ii-prep-mc",
       "type": "multiple-choice",
       "title": "Praepositiōnēs: Cāsūs et Sēnsūs",

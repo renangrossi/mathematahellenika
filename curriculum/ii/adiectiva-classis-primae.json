@@ -100,6 +100,38 @@
       ]
     },
     {
+      "id": "ii-adi1-recognize",
+      "type": "true-false",
+      "title": "Quid Vērē Dīcitur? (Ex Sēnsū)",
+      "instructions": "Relege sententiās suprā. Dēcerne utrum vērum an falsum sit, ex sēnsū, nōn ex nōmine cāsūs.",
+      "items": [
+        {
+          "id": "adi1-rec1",
+          "statement": "“Ἡ οἰκία τῆς Μελίτης μικρά ἐστιν” — domus Melitēs est magna.",
+          "answer": false,
+          "explanation": "Falsum: μικρά significat “parva”, nōn “magna”."
+        },
+        {
+          "id": "adi1-rec2",
+          "statement": "Cum Ἀγάθων dīcit “ἡ μικρὰ οἰκία καλή ἐστιν”, laudat domum Melitēs.",
+          "answer": true,
+          "explanation": "Καλή (“pulchra”) est iūdicium positīvum Ἀγάθωνος dē domō."
+        },
+        {
+          "id": "adi1-rec3",
+          "statement": "“Οἱ μικροὶ παῖδες” refert ad Ἀγάθωνα et Μελίτην ipsōs.",
+          "answer": false,
+          "explanation": "Falsum: παῖδες (puerī) sunt aliae persōnae, mentiōnātae tertiā persōnā plūrālī."
+        },
+        {
+          "id": "adi1-rec4",
+          "statement": "Dōnum Melitēs, secundum textum, est turpe.",
+          "answer": false,
+          "explanation": "Falsum: dōnum vocātur “τὸ καλὸν δῶρον” — pulchrum, nōn turpe."
+        }
+      ]
+    },
+    {
       "id": "ii-adi1-mc",
       "type": "multiple-choice",
       "title": "Adiectīva Classis Prīmae: Rēgulae",

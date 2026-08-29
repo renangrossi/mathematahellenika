@@ -92,6 +92,38 @@
       ]
     },
     {
+      "id": "ii-art2-recognize",
+      "type": "true-false",
+      "title": "Quid Vērē Dīcitur? (Ex Sēnsū)",
+      "instructions": "Relege sententiās suprā. Dēcerne utrum vērum an falsum sit, ex sēnsū, nōn ex nōmine cāsūs.",
+      "items": [
+        {
+          "id": "art2-rec1",
+          "statement": "“Ὁ σοφός” refert ad Ἀγάθωνα ipsum, quamvīs nōmen eius nōn repetātur in illā phrasī.",
+          "answer": true,
+          "explanation": "Substantīvātiō: articulus + adiectīvum sōlus significat “ille sapiēns” — hīc, Ἀγάθων ipse."
+        },
+        {
+          "id": "art2-rec2",
+          "statement": "“Τὸ καλὸν καὶ τὸ ἀγαθόν” sunt nōmina propria persōnārum in hōc dialogō.",
+          "answer": false,
+          "explanation": "Falsum: sunt adiectīva substantīvāta, referentia ad nōtiōnēs abstractās (pulchrum, bonum), nōn persōnae."
+        },
+        {
+          "id": "art2-rec3",
+          "statement": "Cum Ἀγάθων dīcit “ναί”, respondet affirmātīvē quaestiōnī Melitēs.",
+          "answer": true,
+          "explanation": "Ναί (“ita”) affirmat id quod Melitē modo rogāverat."
+        },
+        {
+          "id": "art2-rec4",
+          "statement": "“Αἱ τῶν γυναικῶν ἀρεταί” significat virtūtēs quās Ἀγάθων ipse habet.",
+          "answer": false,
+          "explanation": "Falsum: τῶν γυναικῶν (genetīvus) indicat cuius sunt virtūtēs — mulierum, nōn Ἀγάθωνος."
+        }
+      ]
+    },
+    {
       "id": "ii-art2-mc",
       "type": "multiple-choice",
       "title": "Articulus Plēnus: Fōrmae et Ūsūs",

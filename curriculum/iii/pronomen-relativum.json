@@ -98,6 +98,18 @@
       ]
     },
     {
+      "id": "iii-rel1-recognize",
+      "type": "true-false",
+      "title": "Quid Vērē Dīcitur? (Ex Sēnsū)",
+      "instructions": "Relege sententiās suprā. Dēcerne utrum vērum an falsum sit, ex sēnsū, nōn ex nōmine cāsūs relātīvī.",
+      "items": [
+        { "id": "rel1-rec1", "statement": "Vir quī loquitur est stultus, secundum Ἀγάθωνem.", "answer": false, "explanation": "Falsum: “ὁ ἀνὴρ ὃς λέγει σοφός ἐστιν” — sapiēns, nōn stultus." },
+        { "id": "rel1-rec2", "statement": "Cīvēs quōs Μελίτη amat sunt malī.", "answer": false, "explanation": "Falsum: “οἱ πολῖται οὓς φιλῶ ἀγαθοί εἰσιν” — bonī." },
+        { "id": "rel1-rec3", "statement": "Dōna quae Μελίτη mīsit sunt turpia.", "answer": false, "explanation": "Falsum: “τὰ δῶρα ἃ ἔπεμψας καλά ἐστιν” — pulchra." },
+        { "id": "rel1-rec4", "statement": "Urbs cuius lēgēs honōrāmus est fēlīx.", "answer": true, "explanation": "“Ἡ πόλις ἧς τοὺς νόμους τιμῶμεν εὐτυχής ἐστιν.”" }
+      ]
+    },
+    {
       "id": "iii-rel1-mc",
       "type": "multiple-choice",
       "title": "Prōnōmen Relātīvum: Rēgulae",

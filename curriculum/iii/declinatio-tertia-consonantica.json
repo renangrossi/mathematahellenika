@@ -98,6 +98,18 @@
       ]
     },
     {
+      "id": "iii-dec3-recognize",
+      "type": "true-false",
+      "title": "Quid Vērē Dīcitur? (Ex Sēnsū)",
+      "instructions": "Relege sententiās suprā. Dēcerne utrum vērum an falsum sit, ex sēnsū, nōn ex nōmine dēclīnātiōnis.",
+      "items": [
+        { "id": "dec3-rec1", "statement": "Cūstōs parvus est.", "answer": false, "explanation": "Falsum: “τὸ σῶμα αὐτοῦ μέγα ἐστίν” — magnus, nōn parvus." },
+        { "id": "dec3-rec2", "statement": "Ōrātor in agorā male loquitur.", "answer": false, "explanation": "Falsum: “ὁ ῥήτωρ καλῶς λέγει” — bene, nōn male." },
+        { "id": "dec3-rec3", "statement": "Melitē verba ōrātōris ignōrat, nōn audit.", "answer": false, "explanation": "Falsum: “ἡ Μελίτη τοὺς λόγους αὐτοῦ ἀκούει” — audit." },
+        { "id": "dec3-rec4", "statement": "Cūstōs et Ἀγάθων/Μελίτη sunt in eādem urbe.", "answer": true, "explanation": "Omnēs sunt “ἐν τῇ πόλει”." }
+      ]
+    },
+    {
       "id": "iii-dec3-mc",
       "type": "multiple-choice",
       "title": "Dēclīnātiō Tertia Cōnsonantica: Rēgulae",

@@ -164,12 +164,42 @@ extending — the goal is more *sentences* using what's already known,
 not more new words.
 
 This was applied retroactively to `i-articulus-et-numeri`,
-`i-pronomina-personalia`, and `i-salutationes-et-verbum-sum` (all
-previously A, all restructured this pass) and must be applied going
-forward to every Gradus II-VII lesson as it's touched or re-touched —
-Gradus II/III's existing A-lessons have NOT yet been re-audited against
-this specific rule and may need the same retrofit; check the first
-grammar-question exercise in each when next revisiting that level.
+`i-pronomina-personalia`, and `i-salutationes-et-verbum-sum` first, then
+— since the same violation turned out to be systemic — to **every one**
+of the other 19 Gradus II/III lessons (all 10 of Gradus II including
+the original `ii-declinatio-prima` pilot, and all 10 of Gradus III).
+Each got a new `true-false` "recognize" block titled "Quid Vērē
+Dīcitur? (Ex Sēnsū)" inserted directly after the story block and before
+whichever grammar-naming block (`multiple-choice` or `fill-blank`) came
+first — 4 items per block, built entirely from the story's own
+sentences, phrased as comprehension/reasoning statements ("Cīvēs,
+secundum Melitēn, volunt lēgem solvere, nōn servāre" — true/false) never
+as "what case/form is this". `ii-declinatio-prima` (the pilot) and the
+three Gradus I lessons additionally got their `fill-blank` prompts
+rewritten from bare noun-phrases/paradigm-labels into full clauses, and
+their `multiple-choice` grammar-naming block moved to *after* the
+fill-blank stage and retitled toward consolidation ("Nunc Nōmina
+Rēgulam"); the other 18 lessons' fill-blank/multiple-choice ordering
+and prompts were left as they were (a smaller remaining gap — see
+below) since the primary violation (nothing but a single story between
+"meaning" and "name the grammar") is what the recognize-block insertion
+directly fixes, and doing so for all 20 lessons was judged higher
+priority than perfecting the remaining stages on the 3 flagship lessons
+alone. **Gradus I, II, and III are now believed fully compliant with
+this rule; Gradus IV-VII have not been checked against it at all** —
+budget the same treatment (recognize block first, applied everywhere
+the pattern repeats) into that work rather than treating it as a
+separate pass at the end.
+
+**Remaining lower-priority gap on the 18 non-flagship lessons**: their
+`fill-blank` blocks still have some bare paradigm-label prompts (e.g.
+"τιμή, genetīvus singulāris: ___" with no clause), and their
+`multiple-choice` grammar-naming block still comes immediately after
+the new recognize block rather than after a contextual fill-blank
+stage. This is a real but smaller gap than the one just closed — worth
+tightening opportunistically when a lesson is next touched for other
+reasons, following the fuller treatment `ii-declinatio-prima` got as
+the model.
 
 ## The pattern, adapted for Greek
 

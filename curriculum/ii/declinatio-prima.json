@@ -18,8 +18,8 @@
     "Dēclīnāre nōmen masculīnum in -ης (ut πολίτης), notandō genetīvum in -ου et vocātīvum speciālem"
   ],
   "content": {
-    "intro": "Ἀγάθων ἐν τῇ οἰκίᾳ ἐστίν. Ἡ οἰκία καλή ἐστιν. Μελίτη τὴν δόξαν φιλεῖ, καὶ Ἀγάθων πολίτης ἐστίν. Notāvistī: οἰκίᾳ, οἰκία, δόξαν, πολίτης — idem nōmen (vel nōmina cognāta) mūtat fīnem secundum officium. Hodiē discis hanc dēclīnātiōnem prīmam plēnē.",
-    "explanation": "<p><span class=\"greek\">Ἀγάθων ἐν τῇ οἰκίᾳ ἐστίν. Ἡ οἰκία καλή ἐστιν. Μελίτη τὴν δόξαν φιλεῖ, καὶ Ἀγάθων πολίτης ἐστίν.</span> (Agathōn in domō est. Domus pulchra est. Melitē glōriam amat, et Agathōn cīvis est.)</p><p>Notāvistīne: <span class=\"greek\">οἰκίᾳ</span> (datīvus, post ἐν), <span class=\"greek\">οἰκία</span> (nōminātīvus), <span class=\"greek\">δόξαν</span> (accūsātīvus), <span class=\"greek\">πολίτης</span> (nōminātīvus masculīnum)? Dēclīnātiō est sēriēs dēsinentiārum (endings) quae nōmen per cāsūs et numerōs mūtant, sīcut in Latīnō prīma dēclīnātiō (-a, -ae, -ae, -am...). Graecum habet trēs dēclīnātiōnēs nōminum; haec lēctiō tractat prīmam: nōmina in <strong>-η</strong> (semper eōdem modō dēclīnāta) AUT in <strong>-α</strong> (“pūrum” et “impūrum”), AUT MASCULĪNA in <strong>-ης</strong>/<strong>-ας</strong>.</p>",
+    "intro": "Ἀγάθων ἐν τῇ οἰκίᾳ ἐστίν. Ἡ οἰκία καλή ἐστιν. Μελίτη τὴν δόξαν φιλεῖ, καὶ Ἀγάθων πολίτης ἐστίν. Ἡ τιμὴ τοῦ πολίτου μεγάλη ἐστίν. Notāvistī: οἰκίᾳ, οἰκία, δόξαν, πολίτης, πολίτου — idem nōmen (vel nōmina cognāta) mūtat fīnem secundum officium. Hodiē discis hanc dēclīnātiōnem prīmam plēnē — legendō prīmum multās sententiās, antequam ūllam rēgulam nōminēs.",
+    "explanation": "<p><span class=\"greek\">Ἀγάθων ἐν τῇ οἰκίᾳ ἐστίν. Ἡ οἰκία καλή ἐστιν. Μελίτη τὴν δόξαν φιλεῖ, καὶ Ἀγάθων πολίτης ἐστίν. Ἡ τιμὴ τοῦ πολίτου μεγάλη ἐστίν. “Ὦ πολῖτα, χαῖρε,” λέγει Μελίτη.</span> (Agathōn in domō est. Domus pulchra est. Melitē glōriam amat, et Agathōn cīvis est. Honor cīvis magnus est. “Ō cīvis, salvē,” dīcit Melitē.)</p><p>Notāvistīne: <span class=\"greek\">οἰκίᾳ</span> (datīvus, post ἐν), <span class=\"greek\">οἰκία</span> (nōminātīvus), <span class=\"greek\">δόξαν</span> (accūsātīvus), <span class=\"greek\">πολίτης</span> (nōminātīvus masculīnum), <span class=\"greek\">πολίτου</span> (genetīvus), <span class=\"greek\">ὦ πολῖτα</span> (vocātīvus)? Dēclīnātiō est sēriēs dēsinentiārum (endings) quae nōmen per cāsūs et numerōs mūtant, sīcut in Latīnō prīma dēclīnātiō (-a, -ae, -ae, -am...). Graecum habet trēs dēclīnātiōnēs nōminum; haec lēctiō tractat prīmam: nōmina in <strong>-η</strong> (semper eōdem modō dēclīnāta) AUT in <strong>-α</strong> (“pūrum” et “impūrum”), AUT MASCULĪNA in <strong>-ης</strong>/<strong>-ας</strong>.</p>",
     "rules": [
       {
         "heading": "a) Fōrmae in -η: Paradigma τιμή (honor)",
@@ -66,7 +66,7 @@
       "type": "reading-comprehension",
       "title": "Ἀγάθων ἐν τῇ Οἰκίᾳ",
       "instructions": "Lege, deinde responde secundum sensum, non verbum singulum.",
-      "passage": "<p><span class=\"greek\">Ἀγάθων ἐν τῇ οἰκίᾳ ἐστίν. Ἡ οἰκία καλή ἐστιν. Μελίτη τὴν δόξαν φιλεῖ, καὶ Ἀγάθων πολίτης ἐστίν.</span></p>",
+      "passage": "<p><span class=\"greek\">Ἀγάθων ἐν τῇ οἰκίᾳ ἐστίν. Ἡ οἰκία καλή ἐστιν. Μελίτη τὴν δόξαν φιλεῖ, καὶ Ἀγάθων πολίτης ἐστίν. Ἡ τιμὴ τοῦ πολίτου μεγάλη ἐστίν. “Ὦ πολῖτα, χαῖρε,” λέγει Μελίτη.</span></p>",
       "items": [
         {
           "id": "dec1-story1",
@@ -88,14 +88,133 @@
           "options": ["glōriam (τὴν δόξαν)", "pecūniam", "librum"],
           "answerIndex": 0,
           "explanation": "Μελίτη τὴν δόξαν φιλεῖ — δόξαν est accūsātīvus, obiectum dīrēctum."
+        },
+        {
+          "id": "dec1-story4",
+          "prompt": "Cuius honor magnus est?",
+          "options": ["cīvis (τοῦ πολίτου)", "Melitēs", "rēgis"],
+          "answerIndex": 0,
+          "explanation": "Ἡ τιμὴ τοῦ πολίτου μεγάλη ἐστίν — πολίτου est genetīvus, “cīvis”."
+        },
+        {
+          "id": "dec1-story5",
+          "prompt": "Quem Melitē salūtat?",
+          "options": ["Agathōnem, vocātum “ὦ πολῖτα”", "magistrum", "nēminem"],
+          "answerIndex": 0,
+          "explanation": "“Ὦ πολῖτα, χαῖρε,” λέγει Μελίτη — dīcēns hoc ad Agathōnem, quī modo dictus est πολίτης."
+        }
+      ]
+    },
+    {
+      "id": "ii-dec1-recognize",
+      "type": "true-false",
+      "title": "Quod Officium? (Ex Sēnsū)",
+      "instructions": "Relege sententiās suprā. Dēcerne utrum vērum an falsum sit, ex sēnsū, nōn ex nōmine cāsūs.",
+      "items": [
+        {
+          "id": "dec1-rec1",
+          "statement": "In “Ἀγάθων ἐν τῇ οἰκίᾳ ἐστίν”, οἰκίᾳ indicat locum ubi Agathōn est — nōn quis vel quid agit.",
+          "answer": true,
+          "explanation": "Post praepositiōnem ἐν (“in”), οἰκίᾳ indicat locum: “in domō”."
+        },
+        {
+          "id": "dec1-rec2",
+          "statement": "In “Μελίτη τὴν δόξαν φιλεῖ”, δόξαν est id quod Melitē facit (subiectum āctiōnis).",
+          "answer": false,
+          "explanation": "Falsum: Μελίτη est subiectum (facit āctiōnem “amat”); δόξαν est obiectum, id quod amātur."
+        },
+        {
+          "id": "dec1-rec3",
+          "statement": "In “ἡ τιμὴ τοῦ πολίτου”, πολίτου indicat CUIUS est honor — sīcut Latīnum genetīvum possessīvum.",
+          "answer": true,
+          "explanation": "Πολίτου (genetīvus) respondet quaestiōnī “cuius?” — honor pertinet ad cīvem."
+        },
+        {
+          "id": "dec1-rec4",
+          "statement": "Cum Melitē dīcit “ὦ πολῖτα”, loquitur DE Agathōne tertiā persōnā, nōn AD eum.",
+          "answer": false,
+          "explanation": "Falsum: ὦ πολῖτα est vocātīvus, adhibitus AD alloquendum Agathōnem ipsum, nōn dē eō loquendō."
+        }
+      ]
+    },
+    {
+      "id": "ii-dec1-fill",
+      "type": "fill-blank",
+      "title": "Complē Sententiam (Ex Sēnsū)",
+      "instructions": "Comple spatia cum fōrmā rēctā, cōgitāns prīmum quid sententia significet.",
+      "items": [
+        {
+          "id": "dec1f",
+          "prompt": "Ἀγάθων τῆς ___ ἄξιός ἐστιν. (“Agathon is worthy of honor” — τιμή, gen. sg.)",
+          "options": [
+            "τιμῆς",
+            "τιμήν",
+            "τιμαί"
+          ],
+          "answers": [
+            "τιμῆς"
+          ],
+          "explanation": "Genetīvus singulāris fōrmārum -η est -ης, cum circumflexō (τιμῆς)."
+        },
+        {
+          "id": "dec1g",
+          "prompt": "Μελίτη τὴν ___ βλέπει. (“Melite sees the house” — οἰκία, acc. sg.)",
+          "options": [
+            "οἰκίας",
+            "οἰκίαν",
+            "οἰκίᾳ"
+          ],
+          "answers": [
+            "οἰκίαν"
+          ],
+          "explanation": "Accūsātīvus singulāris -α pūrum: οἰκίαν."
+        },
+        {
+          "id": "dec1h",
+          "prompt": "Ἀγάθων τῇ ___ χαίρει. (“Agathon rejoices in glory” — δόξα, dat. sg.)",
+          "options": [
+            "δόξῃ",
+            "δόξᾳ",
+            "δόξης"
+          ],
+          "answers": [
+            "δόξῃ"
+          ],
+          "explanation": "Datīvus singulāris -α impūrum mūtat in η: δόξῃ."
+        },
+        {
+          "id": "dec1i",
+          "prompt": "Ὁ διδάσκαλος τοὺς ___ φιλεῖ. (“the teacher loves the citizens” — πολίτης, acc. pl.)",
+          "options": [
+            "πολίτας",
+            "πολίτου",
+            "πολῖται"
+          ],
+          "answers": [
+            "πολίτας"
+          ],
+          "explanation": "Accūsātīvus plūrālis sequitur patrōnum commūnem prīmae dēclīnātiōnis: πολίτας."
+        },
+        {
+          "id": "dec1j",
+          "prompt": "Αἱ ___ τῶν πολιτῶν μεγάλαι εἰσίν. (“the citizens' honors are great” — τιμή, gen. pl.)",
+          "options": [
+            "τιμῶν",
+            "τιμάων",
+            "τιμαῖς"
+          ],
+          "answers": [
+            "τιμῶν"
+          ],
+          "explanation": "Genetīvus plūrālis, sīcut semper in prīmā dēclīnātiōne: -ῶν."
         }
       ]
     },
     {
       "id": "ii-dec1-mc",
       "type": "multiple-choice",
-      "title": "Dēclīnātiō Prīma: Rēgulae",
-      "instructions": "Ēlige respōnsum rēctum.",
+      "title": "Dēclīnātiō Prīma: Nunc Nōmina Rēgulam",
+      "instructions": "Postquam sententiās intellēxistī, nōmina explicitē rēgulam.",
       "items": [
         {
           "id": "dec1a",
@@ -151,79 +270,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Plūrālis est identicus in omnibus subclassibus prīmae dēclīnātiōnis: -αι, -ῶν, -αις, -ας."
-        }
-      ]
-    },
-    {
-      "id": "ii-dec1-fill",
-      "type": "fill-blank",
-      "title": "Complē Fōrmam Rēctam",
-      "instructions": "Comple spatia cum fōrmā rēctā dēclīnātiōnis, secundum cāsum indicātum.",
-      "items": [
-        {
-          "id": "dec1f",
-          "prompt": "τιμή, genetīvus singulāris: ___",
-          "options": [
-            "τιμῆς",
-            "τιμήν",
-            "τιμαί"
-          ],
-          "answers": [
-            "τιμῆς"
-          ],
-          "explanation": "Genetīvus singulāris fōrmārum -η est -ης, cum circumflexō (τιμῆς)."
-        },
-        {
-          "id": "dec1g",
-          "prompt": "οἰκία, accūsātīvus singulāris: ___",
-          "options": [
-            "οἰκίας",
-            "οἰκίαν",
-            "οἰκίᾳ"
-          ],
-          "answers": [
-            "οἰκίαν"
-          ],
-          "explanation": "Accūsātīvus singulāris -α pūrum: οἰκίαν."
-        },
-        {
-          "id": "dec1h",
-          "prompt": "δόξα, datīvus singulāris: ___",
-          "options": [
-            "δόξῃ",
-            "δόξᾳ",
-            "δόξης"
-          ],
-          "answers": [
-            "δόξῃ"
-          ],
-          "explanation": "Datīvus singulāris -α impūrum mūtat in η: δόξῃ."
-        },
-        {
-          "id": "dec1i",
-          "prompt": "πολίτης, accūsātīvus plūrālis: ___",
-          "options": [
-            "πολίτας",
-            "πολίτου",
-            "πολῖται"
-          ],
-          "answers": [
-            "πολίτας"
-          ],
-          "explanation": "Accūsātīvus plūrālis sequitur patrōnum commūnem prīmae dēclīnātiōnis: πολίτας."
-        },
-        {
-          "id": "dec1j",
-          "prompt": "τιμή, genetīvus plūrālis: ___",
-          "options": [
-            "τιμῶν",
-            "τιμάων",
-            "τιμαῖς"
-          ],
-          "answers": [
-            "τιμῶν"
-          ],
-          "explanation": "Genetīvus plūrālis, sīcut semper in prīmā dēclīnātiōne: -ῶν."
         }
       ]
     },

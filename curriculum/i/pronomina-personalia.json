@@ -18,8 +18,8 @@
     "Legere sententiās simplicēs cum hīs prōnōminibus in variīs cāsibus"
   ],
   "content": {
-    "intro": "Lēctiō <em>Salūtātiōnēs et Εἰμί</em> iam ostendit fōrmās nōminātīvās (<span class=\"greek\">ἐγώ, σύ, αὐτός/ή/ό</span>), prōmittēns dēclīnātiōnem plēnam hīc. Theoria cāsuum plēna (cūr cāsus exsistant, quōmodo nōmina ipsa dēclīnentur) pertinet ad Gradum II; hīc disce sōlum fōrmās ipsās prōnōminum <span class=\"greek\">ἐγώ</span> et <span class=\"greek\">σύ</span> ut vocābula memoranda — ita ut sententiās simplicēs cum “mihi”, “tē”, “meī” iam legere possīs, antequam theoria cāsuum tōta explicētur.",
-    "explanation": "<p>Sīcut Latīnum habet <em>ego, mē, meī, mihi</em>, Graecum habet fōrmās analogās prō <span class=\"greek\">ἐγώ</span> et <span class=\"greek\">σύ</span> — sed cum discrīmine additō: <strong>duplex sēriēs</strong>, fōrmae “fortēs” (cum accentū proprio, adhibitae prō ēmphasī vel post praepositiōnem) et fōrmae “encliticae” (sine accentū proprio, ex lēctiōne priōre, adhibitae in ūsū normālī nōn-ēmphaticō). Comparā Anglicum: “give it to ME [ēmphasis]” versus “give me [normāle] the book”.</p>",
+    "intro": "<span class=\"greek\">Μελίτη τὸ βιβλίον ἔχει. Ἀγάθων λέγει· δίδωσί μοι τὸ βιβλίον; Μελίτη λέγει· οὐχί, τοῦτο ἐμόν ἐστιν, οὐ σόν.</span> Notāvistī: <span class=\"greek\">μοι, ἐμόν, σόν</span> — “mihi”, “meum”, “tuum”. Hodiē discis fōrmās plēnās prōnōminum <span class=\"greek\">ἐγώ</span> et <span class=\"greek\">σύ</span>, ut sententiās sīcut hanc iam plēnē intellegās.",
+    "explanation": "<p><span class=\"greek\">Μελίτη τὸ βιβλίον ἔχει. Ἀγάθων λέγει· “Δίδωσί μοι τὸ βιβλίον;” Μελίτη λέγει· “Οὐχί· τοῦτο ἐμόν ἐστιν, οὐ σόν.” Ἀγάθων λέγει· “Ἀλλὰ ἐμοὶ δίδωσιν ὁ διδάσκαλος, οὐ σοί!” Μελίτη λέγει· “Σὲ φιλῶ, ὦ φίλε, ἀλλὰ τὸ βιβλίον ἐμόν ἐστιν.”</span> (Melitē librum habet. Agathōn dīcit: “Dat mihi librum?” Melitē dīcit: “Nōn — hic meus est, nōn tuus.” Agathōn dīcit: “Sed mihi dat magister, nōn tibi!” Melitē dīcit: “Tē amō, amīce, sed liber meus est.”)</p><p>Notāvistīne <span class=\"greek\">μοι</span> (enclīticum, ūsus normālis) versus <span class=\"greek\">ἐμοί/ἐμόν</span> (fortis, cum ēmphasī vel post praepositiōnem)? Sīcut Latīnum habet <em>ego, mē, meī, mihi</em>, Graecum habet fōrmās analogās prō <span class=\"greek\">ἐγώ</span> et <span class=\"greek\">σύ</span> — sed cum discrīmine additō: <strong>duplex sēriēs</strong>, fōrmae “fortēs” (cum accentū proprio, adhibitae prō ēmphasī vel post praepositiōnem) et fōrmae “encliticae” (sine accentū proprio, ex lēctiōne priōre, adhibitae in ūsū normālī nōn-ēmphaticō). Comparā Anglicum: “give it to ME [ēmphasis]” versus “give me [normāle] the book”.</p>",
     "rules": [
       {
         "heading": "a) Ἐγώ (Ego): Fōrmae per Cāsūs",
@@ -61,6 +61,43 @@
     ]
   },
   "exercises": [
+    {
+      "id": "i-pron-story",
+      "type": "reading-comprehension",
+      "title": "Τὸ Βιβλίον: Ἐμὸν ἢ Σόν;",
+      "instructions": "Lege, deinde responde secundum sensum, non verbum singulum.",
+      "passage": "<p><span class=\"greek\">Μελίτη τὸ βιβλίον ἔχει. Ἀγάθων λέγει· “Δίδωσί μοι τὸ βιβλίον;” Μελίτη λέγει· “Οὐχί· τοῦτο ἐμόν ἐστιν, οὐ σόν.” Ἀγάθων λέγει· “Ἀλλὰ ἐμοὶ δίδωσιν ὁ διδάσκαλος, οὐ σοί!” Μελίτη λέγει· “Σὲ φιλῶ, ὦ φίλε, ἀλλὰ τὸ βιβλίον ἐμόν ἐστιν.”</span></p>",
+      "items": [
+        {
+          "id": "pron-story1",
+          "prompt": "Quis librum habet initiō?",
+          "options": ["Melitē", "Agathōn", "magister"],
+          "answerIndex": 0,
+          "explanation": "Μελίτη τὸ βιβλίον ἔχει."
+        },
+        {
+          "id": "pron-story2",
+          "prompt": "Quid Melitē dīcit dē librō?",
+          "options": ["meus est, nōn tuus (ἐμόν, οὐ σόν)", "tuus est", "nescit cuius sit"],
+          "answerIndex": 0,
+          "explanation": "“Τοῦτο ἐμόν ἐστιν, οὐ σόν.”"
+        },
+        {
+          "id": "pron-story3",
+          "prompt": "Quis, secundum Agathōnem, eī librum dat?",
+          "options": ["magister (ὁ διδάσκαλος)", "Melitē", "nēmō"],
+          "answerIndex": 0,
+          "explanation": "“Ἐμοὶ δίδωσιν ὁ διδάσκαλος, οὐ σοί!”"
+        },
+        {
+          "id": "pron-story4",
+          "prompt": "Dīligitne Melitē Agathōnem?",
+          "options": ["ita (σὲ φιλῶ)", "nōn", "nescītur"],
+          "answerIndex": 0,
+          "explanation": "“Σὲ φιλῶ, ὦ φίλε.”"
+        }
+      ]
+    },
     {
       "id": "i-pron-mc",
       "type": "multiple-choice",

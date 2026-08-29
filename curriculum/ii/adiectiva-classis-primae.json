@@ -19,8 +19,8 @@
     "Distinguere positiōnem attribūtīvam (cum articulō repetītō vel adiectīvō intrā articulum-nōmen) ā positiōne praedicātīvā"
   ],
   "content": {
-    "intro": "Adiectīva classis prīmae (dicta etiam “adiectīva -ος/-η/-ον”) sunt classis maxima et frequentissima adiectīvōrum Graecōrum. Masculīnum et neutrum sequuntur exāctē dēclīnātiōnem secundam (Gradū II iam nōtam), fēminīnum sequitur dēclīnātiōnem prīmam — sed cum sōlum duābus, nōn tribus, variantibus (ā lēctiōne <em>Dēclīnātiō Prīma</em> memor esto rēgulam simpliciōrem hīc applicandam).",
-    "explanation": "<p>Adiectīvum Graecum, sīcut Latīnum, concordat cum nōmine suō in genere, numerō, et cāsū — sed NŌN necesse est dēclīnātiōnem eandem sequī: nōmen potest esse tertiae dēclīnātiōnis (quam in Gradū III vidēbis) et adiectīvum eius manet classis prīmae, sī tantum genus/numerus/cāsus concordant. Fēminīnum adiectīvōrum classis prīmae sequitur rēgulam simpliciōrem quam nōmina: SI thema (stem) fīnītur ε, ι, vel ρ, fēminīnum est in <span class=\"greek\">-α</span> per tōtam dēclīnātiōnem (nūlla mūtātiō in η, umquam); ALITER, fēminīnum est in <span class=\"greek\">-η</span> per tōtam dēclīnātiōnem. Nūllum adiectīvum monstrat patrōnum “impūrum mixtum” (α in nōm./acc., η in gen./dat.) quem nōmina ut δόξα monstrant — ista mixtūra est phaenomenon proprium tantum nōminum, nōn adiectīvōrum.</p>",
+    "intro": "<span class=\"greek\">Ἡ οἰκία τῆς Μελίτης μικρά ἐστιν. Ἡ μικρὰ οἰκία καλή ἐστιν!</span> Notāvistī: <span class=\"greek\">μικρά</span> post nōmen (“parva est”) et <span class=\"greek\">ἡ μικρὰ οἰκία</span> (“illa parva domus”) — eadem fōrma, positiō dīversa, sēnsus dīversus? Hodiē discis adiectīva classis prīmae (-ος/-η/-ον), maximam et frequentissimam classem adiectīvōrum Graecōrum.",
+    "explanation": "<p><span class=\"greek\">Ἡ οἰκία τῆς Μελίτης μικρά ἐστιν. Ἀγάθων λέγει· “Ἡ μικρὰ οἰκία καλή ἐστιν!” Μελίτη λέγει· “Ναί, καὶ τὸ δῶρόν σου καλόν ἐστιν — τὸ καλὸν δῶρον.” Οἱ μικροὶ παῖδες ἐν τῇ οἰκίᾳ εἰσίν.</span> (Domus Melitēs parva est. Agathōn dīcit: “Illa parva domus pulchra est!” Melitē dīcit: “Ita, et dōnum tuum pulchrum est — illud pulchrum dōnum.” Puerī parvī in domō sunt.)</p><p>Notāvistīne <span class=\"greek\">μικρά</span> sōla post nōmen (“ἡ οἰκία...μικρά ἐστιν”, praedicātīvum: “domus est parva”) versus <span class=\"greek\">ἡ μικρὰ οἰκία</span> (attribūtīvum, intrā articulum-nōmen: “illa parva domus”)? Adiectīvum Graecum, sīcut Latīnum, concordat cum nōmine suō in genere, numerō, et cāsū — sed NŌN necesse est dēclīnātiōnem eandem sequī: nōmen potest esse tertiae dēclīnātiōnis (quam in Gradū III vidēbis) et adiectīvum eius manet classis prīmae, sī tantum genus/numerus/cāsus concordant. Fēminīnum adiectīvōrum classis prīmae sequitur rēgulam simpliciōrem quam nōmina: SI thema (stem) fīnītur ε, ι, vel ρ, fēminīnum est in <span class=\"greek\">-α</span> per tōtam dēclīnātiōnem (nūlla mūtātiō in η, umquam); ALITER, fēminīnum est in <span class=\"greek\">-η</span> per tōtam dēclīnātiōnem. Nūllum adiectīvum monstrat patrōnum “impūrum mixtum” (α in nōm./acc., η in gen./dat.) quem nōmina ut δόξα monstrant — ista mixtūra est phaenomenon proprium tantum nōminum, nōn adiectīvōrum.</p>",
     "rules": [
       {
         "heading": "a) Adiectīvum in -η: Paradigma καλός, καλή, καλόν (pulcher)",
@@ -62,6 +62,43 @@
     ]
   },
   "exercises": [
+    {
+      "id": "ii-adi1-story",
+      "type": "reading-comprehension",
+      "title": "Ἡ Μικρὰ Οἰκία",
+      "instructions": "Lege, deinde responde secundum sensum, non verbum singulum.",
+      "passage": "<p><span class=\"greek\">Ἡ οἰκία τῆς Μελίτης μικρά ἐστιν. Ἀγάθων λέγει· “Ἡ μικρὰ οἰκία καλή ἐστιν!” Μελίτη λέγει· “Ναί, καὶ τὸ δῶρόν σου καλόν ἐστιν — τὸ καλὸν δῶρον.” Οἱ μικροὶ παῖδες ἐν τῇ οἰκίᾳ εἰσίν.</span></p>",
+      "items": [
+        {
+          "id": "adi1-story1",
+          "prompt": "Quālis est domus Melitēs?",
+          "options": ["parva (μικρά)", "magna", "nova"],
+          "answerIndex": 0,
+          "explanation": "Ἡ οἰκία τῆς Μελίτης μικρά ἐστιν."
+        },
+        {
+          "id": "adi1-story2",
+          "prompt": "Quid Agathōn dē domō dīcit?",
+          "options": ["pulchra est", "turpis est", "antīqua est"],
+          "answerIndex": 0,
+          "explanation": "“Ἡ μικρὰ οἰκία καλή ἐστιν!”"
+        },
+        {
+          "id": "adi1-story3",
+          "prompt": "Ubi sunt puerī parvī?",
+          "options": ["in domō (ἐν τῇ οἰκίᾳ)", "in agrō", "in forō"],
+          "answerIndex": 0,
+          "explanation": "Οἱ μικροὶ παῖδες ἐν τῇ οἰκίᾳ εἰσίν."
+        },
+        {
+          "id": "adi1-story4",
+          "prompt": "In “ἡ μικρὰ οἰκία καλή ἐστιν”, quae est positiō adiectīvī “μικρά”?",
+          "options": ["attribūtīva (intrā articulum-nōmen)", "praedicātīva", "nūlla, error est"],
+          "answerIndex": 0,
+          "explanation": "Ἡ μικρὰ οἰκία = articulus + adiectīvum + nōmen: positiō attribūtīva."
+        }
+      ]
+    },
     {
       "id": "ii-adi1-mc",
       "type": "multiple-choice",

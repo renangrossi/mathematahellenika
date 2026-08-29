@@ -17,8 +17,8 @@
     "Recordārī plūrālem neutrum semper fīnīrī -α, etiam sī nōminātīvus singulāris nōn indicat hoc prīmā speciē"
   ],
   "content": {
-    "intro": "Post prīmam dēclīnātiōnem (praecipuē fēminīnam), secunda dēclīnātiō intrōdūcit duo genera nova: masculīnum in <span class=\"greek\">-ος</span> (maior pars nōminum secundae dēclīnātiōnis, ut <span class=\"greek\">λόγος</span> verbum/ratiō, <span class=\"greek\">ἄνθρωπος</span> homō, iam vīsa in exemplīs Gradūs I) et neutrum in <span class=\"greek\">-ον</span> (ut <span class=\"greek\">δῶρον</span> dōnum, <span class=\"greek\">βιβλίον</span> liber, iam vīsum in Gradū I). Comparā cum secundā dēclīnātiōne Latīnā (-us/-um): rēs valdē similis, sed cum ūnā rēgulā neutrīus omnīnō absentī in Latīnō in hāc fōrmā simplicī.",
-    "explanation": "<p>Secunda dēclīnātiō Graeca continet praecipuē nōmina masculīna (in <span class=\"greek\">-ος</span>) et neutra (in <span class=\"greek\">-ον</span>); pauca nōmina fēminīna existunt quoque in hāc dēclīnātiōne (ut <span class=\"greek\">ἡ ὁδός</span> via) sed dēclīnantur exāctē ut masculīna — genus est arbitrārium hīc, fōrma dēclīnātiōnis nōn mūtātur. Discrīmen praecipuum inter masculīnum et neutrum: <strong>omne nōmen neutrum, in quālibet dēclīnātiōne, habet nōminātīvum, accūsātīvum, et vocātīvum identicōs</strong> — rēgula absoluta, sine exceptiōne, per tōtam linguam Graecam (et etiam Latīnam! comparā “templum” nōm./acc.).</p>",
+    "intro": "<span class=\"greek\">Ἀγάθων δῶρα ἔχει. Ὁρῶ τὰ δῶρα, λέγει Μελίτη, καλά ἐστιν!</span> Notāvistī: <span class=\"greek\">δῶρα...καλά ἐστιν</span> — plūrāle neutrum, sed verbum <em>singulāre</em>? Hodiē discis secundam dēclīnātiōnem: masculīnum in <span class=\"greek\">-ος</span> (ut λόγος) et neutrum in <span class=\"greek\">-ον</span> (ut δῶρον) — cum ūnā rēgulā neutrīus quae hoc mīrum explicābit.",
+    "explanation": "<p><span class=\"greek\">Ἀγάθων δῶρα ἔχει. “Ὁρῶ τὰ δῶρα,” λέγει Μελίτη, “καλά ἐστιν!” Τὰ δῶρα βιβλία ἐστίν· τὰ βιβλία καλά ἐστιν. Μελίτη λέγει· “Χαῖρε, ὦ φίλε — τῷ λόγῳ σου πείθομαι, ὅτι καλὸς εἶ.”</span> (Agathōn dōna habet. “Videō dōna,” dīcit Melitē, “pulchra sunt!” Dōna librī sunt; librī pulchrī sunt. Melitē dīcit: “Salvē, amīce — verbō tuō crēdō, quia bonus es.”)</p><p>Notāvistīne <span class=\"greek\">τὰ δῶρα...καλά ἐστιν</span> et <span class=\"greek\">τὰ βιβλία καλά ἐστιν</span> — subiectum plūrāle neutrum, sed verbum ἐστίν manet <em>singulāre</em>? Nōn est error: Graecum permittit hoc cum neutrīs plūrālibus (rem plēnius vidēbis īnfrā). Secunda dēclīnātiō Graeca continet praecipuē nōmina masculīna (in <span class=\"greek\">-ος</span>) et neutra (in <span class=\"greek\">-ον</span>); pauca nōmina fēminīna existunt quoque in hāc dēclīnātiōne (ut <span class=\"greek\">ἡ ὁδός</span> via) sed dēclīnantur exāctē ut masculīna — genus est arbitrārium hīc, fōrma dēclīnātiōnis nōn mūtātur. Discrīmen praecipuum inter masculīnum et neutrum: <strong>omne nōmen neutrum, in quālibet dēclīnātiōne, habet nōminātīvum, accūsātīvum, et vocātīvum identicōs</strong> — rēgula absoluta, sine exceptiōne, per tōtam linguam Graecam (et etiam Latīnam! comparā “templum” nōm./acc.).</p>",
     "rules": [
       {
         "heading": "a) Masculīnum: Paradigma λόγος (verbum, ratiō)",
@@ -37,7 +37,7 @@
       "ὁ λόγος τοῦ ἀνθρώπου. — Verbum hominis. (λόγος nōm., ἀνθρώπου gen. sg.)",
       "τὰ δῶρα τῶν θεῶν. — Dōna deōrum. (δῶρα nōm./acc. plūrāle neutrum; θεῶν gen. pl.)",
       "τῷ λόγῳ πείθομαι. — Verbō persuādeor / verbō crēdō. (datīvus post verbum)",
-      "ὦ λόγε... — Ō verbum... (vocātīvus speciālis masculīnus)",
+      "χαῖρε, ὦ φίλε. — Salvē, amīce. (vocātīvus speciālis masculīnus, adhibitus ad hominem)",
       "τὸ βιβλίον καλόν ἐστιν. — Liber pulcher est. (nōm./acc. neutrum identicum)",
       "ὁρῶ τὰ δῶρα. — Videō dōna. (accūsātīvus plūrālis neutrum = nōminātīvus)"
     ],
@@ -60,6 +60,43 @@
     ]
   },
   "exercises": [
+    {
+      "id": "ii-dec2-story",
+      "type": "reading-comprehension",
+      "title": "Τὰ Δῶρα τοῦ Ἀγάθωνος",
+      "instructions": "Lege, deinde responde secundum sensum, non verbum singulum.",
+      "passage": "<p><span class=\"greek\">Ἀγάθων δῶρα ἔχει. “Ὁρῶ τὰ δῶρα,” λέγει Μελίτη, “καλά ἐστιν!” Τὰ δῶρα βιβλία ἐστίν· τὰ βιβλία καλά ἐστιν. Μελίτη λέγει· “Χαῖρε, ὦ φίλε — τῷ λόγῳ σου πείθομαι, ὅτι καλὸς εἶ.”</span></p>",
+      "items": [
+        {
+          "id": "dec2-story1",
+          "prompt": "Quid Agathōn habet?",
+          "options": ["dōna (δῶρα)", "nihil", "ūnum librum tantum"],
+          "answerIndex": 0,
+          "explanation": "Ἀγάθων δῶρα ἔχει."
+        },
+        {
+          "id": "dec2-story2",
+          "prompt": "Quālia sunt dōna, secundum Melitēn?",
+          "options": ["pulchra (καλά)", "turpia", "parva"],
+          "answerIndex": 0,
+          "explanation": "“Ὁρῶ τὰ δῶρα... καλά ἐστιν!”"
+        },
+        {
+          "id": "dec2-story3",
+          "prompt": "Quid sunt dōna?",
+          "options": ["librī (βιβλία)", "flōrēs", "cibus"],
+          "answerIndex": 0,
+          "explanation": "Τὰ δῶρα βιβλία ἐστίν."
+        },
+        {
+          "id": "dec2-story4",
+          "prompt": "Cūr verbum singulāre “ἐστίν” adhibētur cum subiectō plūrālī “τὰ δῶρα”?",
+          "options": ["quia subiectum neutrum plūrāle saepe verbum singulāre accipit", "error est in textū", "quia dōna revērā singulāria sunt"],
+          "answerIndex": 0,
+          "explanation": "“Concordantia neutrīus plūrālis” — vidē rēgulam (c) īnfrā."
+        }
+      ]
+    },
     {
       "id": "ii-dec2-mc",
       "type": "multiple-choice",

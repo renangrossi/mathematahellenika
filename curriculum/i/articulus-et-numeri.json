@@ -17,8 +17,8 @@
     "Legere phrasēs simplicēs cum articulō et nōmine in nōminātīvō"
   ],
   "content": {
-    "intro": "Iam vīdistī articulum <span class=\"greek\">ὁ, ἡ</span> in exemplīs (<span class=\"greek\">ὁ ἄνθρωπος, ἡ ἡμέρα</span>) sine explicātiōne fōrmālī. Nunc articulum plēnē (in cāsū nōminātīvō) et prīmōs numerōs Graecōs discis — duo elementa frequentissima in quālibet sententiā Graecā simplicī. Dēclīnātiō plēna articulī per omnēs cāsūs (sīcut dēclīnātiō nōminum) pertinet ad Gradum II; hīc disce fōrmās nōminātīvās ut vocābula ipsa, ita ut prīmās lēctiōnēs legere possīs.",
-    "explanation": "<p>Articulus Graecus (“the” Anglicē) concordat cum nōmine suō in genere, numerō, et cāsū — plānē sīcut adiectīvum. Graecum <strong>nōn habet articulum indēfīnītum</strong> (“a/an” Anglicē, “um/uma” Lūsitānicē): <span class=\"greek\">ἄνθρωπος</span> sine articulō significat simpliciter “homō” vel “ūnus homō (quīdam)”; <span class=\"greek\">ὁ ἄνθρωπος</span> significat “ille homō, homō dē quō iam locūtī sumus” (sīcut Anglicum “the man”). Articulus est ūnum ex frequentissimīs verbīs in omnī textū Graecō — plūs quam decem prō centum omnium verbōrum in prōsā tȳpicā.</p>",
+    "intro": "<span class=\"greek\">Δέκα μαθηταί ἐσμεν,</span> dīcit Ἀγάθων, ut iam ex fābulā prīmā nōvistī. <span class=\"greek\">Ὁ ἄνθρωπος καλός ἐστιν, ἡ γυνὴ καλή ἐστιν.</span> Notāvistī: <span class=\"greek\">ὁ, ἡ</span> — parva verba, sed praesentia in paene omnī sententiā. Nunc articulum plēnē (in cāsū nōminātīvō) et prīmōs numerōs Graecōs discis.",
+    "explanation": "<p><span class=\"greek\">Ἀγάθων καὶ Μελίτη ἐν τῇ οἰκίᾳ εἰσίν. Δέκα μαθηταί εἰσιν ἐκεῖ, καὶ ὁ διδάσκαλος σοφός ἐστιν. Ὁ ἄνθρωπος καλός ἐστιν, ἡ γυνὴ καλή ἐστιν — οἱ ἄνθρωποι καὶ αἱ γυναῖκες ἐν τῇ οἰκίᾳ εἰσίν. Εἷς θεὸς ἀγαθός ἐστιν.</span> (Agathōn et Melitē in domō sunt. Decem discipulī ibi sunt, et magister sapiēns est. Homō pulcher est, mulier pulchra est — hominēs et mulierēs in domō sunt. Ūnus deus bonus est.)</p><p>Notāvistīne <span class=\"greek\">ὁ, ἡ, οἱ, αἱ</span> — parvum verbum quod praecēdit paene omne nōmen? Articulus Graecus (“the” Anglicē) concordat cum nōmine suō in genere, numerō, et cāsū — plānē sīcut adiectīvum. Graecum <strong>nōn habet articulum indēfīnītum</strong> (“a/an” Anglicē, “um/uma” Lūsitānicē): <span class=\"greek\">ἄνθρωπος</span> sine articulō significat simpliciter “homō” vel “ūnus homō (quīdam)”; <span class=\"greek\">ὁ ἄνθρωπος</span> significat “ille homō, homō dē quō iam locūtī sumus” (sīcut Anglicum “the man”). Articulus est ūnum ex frequentissimīs verbīs in omnī textū Graecō — plūs quam decem prō centum omnium verbōrum in prōsā tȳpicā.</p>",
     "rules": [
       {
         "heading": "a) Articulus: Fōrmae Nōminātīvae",
@@ -60,6 +60,43 @@
     ]
   },
   "exercises": [
+    {
+      "id": "i-art-story",
+      "type": "reading-comprehension",
+      "title": "Δέκα Μαθηταί",
+      "instructions": "Lege, deinde responde secundum sensum, non verbum singulum.",
+      "passage": "<p><span class=\"greek\">Ἀγάθων καὶ Μελίτη ἐν τῇ οἰκίᾳ εἰσίν. Δέκα μαθηταί εἰσιν ἐκεῖ, καὶ ὁ διδάσκαλος σοφός ἐστιν. Ὁ ἄνθρωπος καλός ἐστιν, ἡ γυνὴ καλή ἐστιν — οἱ ἄνθρωποι καὶ αἱ γυναῖκες ἐν τῇ οἰκίᾳ εἰσίν. Εἷς θεὸς ἀγαθός ἐστιν.</span></p>",
+      "items": [
+        {
+          "id": "art-story1",
+          "prompt": "Ubi sunt Agathōn et Melitē?",
+          "options": ["in domō (ἐν τῇ οἰκίᾳ)", "in agrō", "in forō"],
+          "answerIndex": 0,
+          "explanation": "Ἀγάθων καὶ Μελίτη ἐν τῇ οἰκίᾳ εἰσίν."
+        },
+        {
+          "id": "art-story2",
+          "prompt": "Quot discipulī ibi sunt?",
+          "options": ["decem (δέκα)", "quīnque", "centum"],
+          "answerIndex": 0,
+          "explanation": "Δέκα μαθηταί εἰσιν ἐκεῖ."
+        },
+        {
+          "id": "art-story3",
+          "prompt": "Quālis est magister?",
+          "options": ["sapiēns (σοφός)", "stultus", "ignōtus"],
+          "answerIndex": 0,
+          "explanation": "Ὁ διδάσκαλος σοφός ἐστιν."
+        },
+        {
+          "id": "art-story4",
+          "prompt": "Quid textus dē deō dīcit?",
+          "options": ["ūnus deus bonus est (εἷς θεὸς ἀγαθός)", "multī diī malī sunt", "nūllus deus est"],
+          "answerIndex": 0,
+          "explanation": "Εἷς θεὸς ἀγαθός ἐστιν."
+        }
+      ]
+    },
     {
       "id": "i-art-mc",
       "type": "multiple-choice",

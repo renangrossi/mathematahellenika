@@ -17,8 +17,8 @@
     "Recognōscere tertiam dēclīnātiōnem esse maximē varia ex tribus dēclīnātiōnibus, sed sequī tamen patrōnum dēsinentiārum commūnem"
   ],
   "content": {
-    "intro": "Tertia dēclīnātiō — ultima et maximē varia trium dēclīnātiōnum Graecārum — continet nōmina cuiuslibet generis, dēclīnāta nōn per vōcālem thematicam (ut -ος/-η/-α), sed per <strong>thema cōnsonanticum vel vōcālicum antīquum</strong> plus dēsinentiās commūnēs. Prīma impressiō (multa themata dīversa) potest vidērī chaotica, sed omnēs subclassēs sequuntur eāsdem dēsinentiās fundāmentālēs — sōlum interāctiō inter thema et dēsinentiam variat.",
-    "explanation": "<p>Dēsinentiae commūnēs tertiae dēclīnātiōnis (applicandae ad thema cōnsonanticum vel vōcālicum): gen. sg. <span class=\"greek\">-ος</span>, dat. sg. <span class=\"greek\">-ι</span>, acc. sg. <span class=\"greek\">-α</span> (masc./fem.) vel nihil-additum (neutrum), nōm./gen./acc. pl. <span class=\"greek\">-ες/-ων/-ας</span>, dat. pl. <span class=\"greek\">-σι(ν)</span>. Nōminātīvus singulāris est saepe fōrma modificāta (per rēgulās phōnologicās) themae + ς, vel thema sōlum sine dēsinentiā — hinc variātiō vīsibilis inter “fōrmam citātiōnis” (nōminātīvum) et thema reāle vīsibile in cēterīs cāsibus.</p>",
+    "intro": "<span class=\"greek\">Ἀγάθων καὶ Μελίτη ἐν τῇ πόλει εἰσίν. Ὁ φύλαξ τῆς πόλεως ἐκεῖ ἐστιν. Τὸ σῶμα αὐτοῦ μέγα ἐστίν.</span> (Agathōn et Melitē in urbe sunt. Cūstōs urbis ibi est. Corpus eius magnum est.) Notāvistī: <span class=\"greek\">φύλαξ</span> vs. <span class=\"greek\">φύλακος</span> — nōminātīvus et cāsūs oblīquī differunt plūs quam exspectās. Hodiē discis tertiam dēclīnātiōnem, thema cōnsonanticum.",
+    "explanation": "<p><span class=\"greek\">Ἀγάθων καὶ Μελίτη ἐν τῇ πόλει εἰσίν. Ὁ φύλαξ τῆς πόλεως ἐκεῖ ἐστιν· τὸ σῶμα αὐτοῦ μέγα ἐστίν. Ἐν τῇ ἀγορᾷ ὁ ῥήτωρ καλῶς λέγει περὶ τῶν πραγμάτων τῆς πόλεως. Ἡ Μελίτη τοὺς λόγους αὐτοῦ ἀκούει.</span> (Agathōn et Melitē in urbe sunt. Cūstōs urbis ibi est; corpus eius magnum est. In forō ōrātor bene loquitur dē rēbus urbis. Melitē verba eius audit.)</p><p>Notāvistīne: <span class=\"greek\">φύλαξ</span> (nōminātīvus) vs. <span class=\"greek\">φύλακος</span> (genetīvus), <span class=\"greek\">σῶμα</span> vs. <span class=\"greek\">σώματος</span>, <span class=\"greek\">ῥήτωρ</span> vs. <span class=\"greek\">ῥήτορος</span>? Dēsinentiae commūnēs tertiae dēclīnātiōnis (applicandae ad thema cōnsonanticum vel vōcālicum): gen. sg. <span class=\"greek\">-ος</span>, dat. sg. <span class=\"greek\">-ι</span>, acc. sg. <span class=\"greek\">-α</span> (masc./fem.) vel nihil-additum (neutrum), nōm./gen./acc. pl. <span class=\"greek\">-ες/-ων/-ας</span>, dat. pl. <span class=\"greek\">-σι(ν)</span>. Nōminātīvus singulāris est saepe fōrma modificāta (per rēgulās phōnologicās) themae + ς, vel thema sōlum sine dēsinentiā — hinc variātiō vīsibilis inter “fōrmam citātiōnis” (nōminātīvum) et thema reāle vīsibile in cēterīs cāsibus.</p>",
     "rules": [
       {
         "heading": "a) Thema Velāre: φύλαξ, φύλακος (cūstōs)",
@@ -60,6 +60,43 @@
     ]
   },
   "exercises": [
+    {
+      "id": "iii-dec3-story",
+      "type": "reading-comprehension",
+      "title": "Ὁ Φύλαξ τῆς Πόλεως",
+      "instructions": "Lege, deinde responde secundum sensum, non verbum singulum.",
+      "passage": "<p><span class=\"greek\">Ἀγάθων καὶ Μελίτη ἐν τῇ πόλει εἰσίν. Ὁ φύλαξ τῆς πόλεως ἐκεῖ ἐστιν· τὸ σῶμα αὐτοῦ μέγα ἐστίν. Ἐν τῇ ἀγορᾷ ὁ ῥήτωρ καλῶς λέγει περὶ τῶν πραγμάτων τῆς πόλεως. Ἡ Μελίτη τοὺς λόγους αὐτοῦ ἀκούει.</span></p>",
+      "items": [
+        {
+          "id": "dec3-story1",
+          "prompt": "Ubi sunt Agathōn et Melitē?",
+          "options": ["in urbe (ἐν τῇ πόλει)", "in agrō", "domī"],
+          "answerIndex": 0,
+          "explanation": "Ἀγάθων καὶ Μελίτη ἐν τῇ πόλει εἰσίν."
+        },
+        {
+          "id": "dec3-story2",
+          "prompt": "Quāle est corpus cūstōdis?",
+          "options": ["magnum (μέγα)", "parvum", "aegrum"],
+          "answerIndex": 0,
+          "explanation": "Τὸ σῶμα αὐτοῦ μέγα ἐστίν."
+        },
+        {
+          "id": "dec3-story3",
+          "prompt": "Quid ōrātor in forō facit?",
+          "options": ["bene loquitur dē rēbus urbis", "tacet", "abit statim"],
+          "answerIndex": 0,
+          "explanation": "Ὁ ῥήτωρ καλῶς λέγει περὶ τῶν πραγμάτων τῆς πόλεως."
+        },
+        {
+          "id": "dec3-story4",
+          "prompt": "Quid Melitē facit dum ōrātor loquitur?",
+          "options": ["verba eius audit", "abit", "cum cūstōde loquitur"],
+          "answerIndex": 0,
+          "explanation": "Ἡ Μελίτη τοὺς λόγους αὐτοῦ ἀκούει."
+        }
+      ]
+    },
     {
       "id": "iii-dec3-mc",
       "type": "multiple-choice",

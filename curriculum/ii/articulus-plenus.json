@@ -18,8 +18,8 @@
     "Distinguere ūsum Graecum articulī cum nōminibus abstractīs/genericīs (ubi Latīnum nūllum habet)"
   ],
   "content": {
-    "intro": "Gradus I dedit fōrmās nōminātīvās articulī (<span class=\"greek\">ὁ, ἡ, τό</span>); nunc, cum dēclīnātiō prīma et secunda nōtae sint, articulus plēnē dēclīnārī potest — et vidēbis eum sequī exāctē eāsdem dēsinentiās quās nōmina ipsa (<span class=\"greek\">ἡ, τῆς, τῇ, τήν</span> sequitur patrōnum τιμή; <span class=\"greek\">ὁ, τοῦ, τῷ, τόν</span> et <span class=\"greek\">τό, τοῦ, τῷ, τό</span> sequuntur patrōnum λόγος/δῶρον). Discere articulum nōn est ergō discere fōrmās prōrsus novās, sed reconhōscere fōrmās iam nōtās applicātās ad hanc parva sed frequentissima verba.",
-    "explanation": "<p>Articulus Graecus concordat semper in genere, numerō, et cāsū cum nōmine suō (sīcut adiectīvum), praecēdēns illud nōrmāliter. Fōrmae singulārēs nōminātīvae (ὁ, ἡ, τό) et plūrālēs (οἱ, αἱ, τά) sunt anōmalae (nōn sequuntur exāctē patrōnum nōminum, ex ratiōnibus historicīs — antīquitus erant prōnōmina dēmōnstrātīva); omnēs cēterae fōrmae sequuntur patrōnum dēclīnātiōnis prīmae/secundae plēnē.</p>",
+    "intro": "<span class=\"greek\">Ἀγάθων ὁ σοφὸς τὴν ἀλήθειαν φιλεῖ.</span> Notāvistī: <span class=\"greek\">ὁ σοφός</span> — articulus + adiectīvum, sine nōmine explicitō, tamen sēnsum complētum habet: “ille sapiēns”. Gradus I dedit fōrmās nōminātīvās articulī (<span class=\"greek\">ὁ, ἡ, τό</span>); nunc, cum dēclīnātiō prīma et secunda nōtae sint, articulus plēnē dēclīnārī potest.",
+    "explanation": "<p><span class=\"greek\">Ἀγάθων ὁ σοφὸς τὴν ἀλήθειαν φιλεῖ. Μελίτη λέγει· “Τὸ καλὸν καὶ τὸ ἀγαθὸν φιλεῖς, ὦ φίλε;” “Ναί,” λέγει Ἀγάθων, “καὶ αἱ τῶν γυναικῶν ἀρεταὶ καλαί εἰσιν.”</span> (Agathōn sapiēns vēritātem amat. Melitē dīcit: “Pulchrum et bonum amās, amīce?” “Ita,” dīcit Agathōn, “et mulierum virtūtēs pulchrae sunt.”)</p><p>Notāvistīne <span class=\"greek\">ὁ σοφός</span> (articulus + adiectīvum, sine nōmine, “ille sapiēns”) et <span class=\"greek\">τὸ καλόν, τὸ ἀγαθόν</span> (nōtiōnēs abstractae cum articulō)? Articulus Graecus concordat semper in genere, numerō, et cāsū cum nōmine suō (sīcut adiectīvum), praecēdēns illud nōrmāliter. Fōrmae singulārēs nōminātīvae (ὁ, ἡ, τό) et plūrālēs (οἱ, αἱ, τά) sunt anōmalae (nōn sequuntur exāctē patrōnum nōminum, ex ratiōnibus historicīs — antīquitus erant prōnōmina dēmōnstrātīva); omnēs cēterae fōrmae sequuntur patrōnum dēclīnātiōnis prīmae/secundae plēnē.</p>",
     "rules": [
       {
         "heading": "a) Articulus: Dēclīnātiō Plēna",
@@ -61,6 +61,36 @@
     ]
   },
   "exercises": [
+    {
+      "id": "ii-art2-story",
+      "type": "reading-comprehension",
+      "title": "Ὁ Σοφὸς τὴν Ἀλήθειαν Φιλεῖ",
+      "instructions": "Lege, deinde responde secundum sensum, non verbum singulum.",
+      "passage": "<p><span class=\"greek\">Ἀγάθων ὁ σοφὸς τὴν ἀλήθειαν φιλεῖ. Μελίτη λέγει· “Τὸ καλὸν καὶ τὸ ἀγαθὸν φιλεῖς, ὦ φίλε;” “Ναί,” λέγει Ἀγάθων, “καὶ αἱ τῶν γυναικῶν ἀρεταὶ καλαί εἰσιν.”</span></p>",
+      "items": [
+        {
+          "id": "art2-story1",
+          "prompt": "Quid Agathōn amat?",
+          "options": ["vēritātem (τὴν ἀλήθειαν)", "pecūniam", "glōriam"],
+          "answerIndex": 0,
+          "explanation": "Ἀγάθων ὁ σοφὸς τὴν ἀλήθειαν φιλεῖ."
+        },
+        {
+          "id": "art2-story2",
+          "prompt": "Quid Melitē Agathōnem rogat?",
+          "options": ["num pulchrum et bonum amet", "num pecūniam habeat", "num timeat"],
+          "answerIndex": 0,
+          "explanation": "“Τὸ καλὸν καὶ τὸ ἀγαθὸν φιλεῖς;”"
+        },
+        {
+          "id": "art2-story3",
+          "prompt": "Quid Agathōn dē virtūtibus mulierum dīcit?",
+          "options": ["pulchrae sunt (καλαί)", "turpēs sunt", "nūllae sunt"],
+          "answerIndex": 0,
+          "explanation": "“Αἱ τῶν γυναικῶν ἀρεταὶ καλαί εἰσιν.”"
+        }
+      ]
+    },
     {
       "id": "ii-art2-mc",
       "type": "multiple-choice",

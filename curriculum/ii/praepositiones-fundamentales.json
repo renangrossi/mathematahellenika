@@ -17,8 +17,8 @@
     "Trānsferre phrasēs praepositiōnālēs simplicēs correcte, attendendō semper cāsum"
   ],
   "content": {
-    "intro": "Praepositiō Graeca — sīcut Latīna — regit cāsum nōminis sequentis; sed discrīmen praecipuum ā Latīnō est: <strong>multae praepositiōnēs Graecae mūtant sēnsum secundum cāsum quem regunt</strong>, nōn sōlum sēnsum secundum ipsam praepositiōnem. Attendere cāsum est ergō omnīnō necesse ad sēnsum correctum legendum, nōn sōlum ad grammaticam correctam scrībendam.",
-    "explanation": "<p>Logica generālis (ūtilis ut mnēmonicum, nōn rēgula absolūta): <strong>genetīvus</strong> post praepositiōnem saepe indicat origine/sēparātiōnem (“ā/ex”, unde vēnit āctiō); <strong>datīvus</strong> indicat locum statūrium vel īnstrūmentum (“in, cum”, ubi vel quō īnstrūmentō āctiō fit); <strong>accūsātīvus</strong> indicat mōtum versus vel extēnsiōnem (“ad, per”, quō āctiō tendit). Haec logica nōn explicat omnem cāsum omnis praepositiōnis, sed adiuvat memoriam.</p>",
+    "intro": "<span class=\"greek\">Ἀγάθων καὶ Μελίτη ἐν τῇ πόλει μένουσιν. Βαίνουσι σὺν τοῖς φίλοις πρὸς τὴν ἀγοράν.</span> Notāvistī: <span class=\"greek\">ἐν τῇ πόλει</span> (status) vs. <span class=\"greek\">πρὸς τὴν ἀγοράν</span> (mōtus) — eadem “in” Latīnē, sed cāsus dīversus? Praepositiō Graeca — sīcut Latīna — regit cāsum nōminis sequentis; sed discrīmen praecipuum ā Latīnō est: <strong>multae praepositiōnēs Graecae mūtant sēnsum secundum cāsum quem regunt</strong>.",
+    "explanation": "<p><span class=\"greek\">Ἀγάθων καὶ Μελίτη ἐν τῇ πόλει μένουσιν. Βαίνουσι σὺν τοῖς φίλοις πρὸς τὴν ἀγοράν, ἐκ τῆς οἰκίας. Μετὰ τὴν ὁδόν, πάλιν εἰς τὴν οἰκίαν βαίνουσιν.</span> (Agathōn et Melitē in urbe manent. Eunt cum amīcīs ad forum, ē domō. Post iter, rūrsus in domum eunt.)</p><p>Notāvistīne <span class=\"greek\">ἐν τῇ πόλει</span> (dat., status), <span class=\"greek\">πρὸς τὴν ἀγοράν</span> (acc., mōtus versus), <span class=\"greek\">ἐκ τῆς οἰκίας</span> (gen., orīgō), <span class=\"greek\">εἰς τὴν οἰκίαν</span> (acc., mōtus versus)? Logica generālis (ūtilis ut mnēmonicum, nōn rēgula absolūta): <strong>genetīvus</strong> post praepositiōnem saepe indicat origine/sēparātiōnem (“ā/ex”, unde vēnit āctiō); <strong>datīvus</strong> indicat locum statūrium vel īnstrūmentum (“in, cum”, ubi vel quō īnstrūmentō āctiō fit); <strong>accūsātīvus</strong> indicat mōtum versus vel extēnsiōnem (“ad, per”, quō āctiō tendit). Haec logica nōn explicat omnem cāsum omnis praepositiōnis, sed adiuvat memoriam.</p>",
     "rules": [
       {
         "heading": "a) Praepositiōnēs cum Cāsū Fīxō",
@@ -60,6 +60,43 @@
     ]
   },
   "exercises": [
+    {
+      "id": "ii-prep-story",
+      "type": "reading-comprehension",
+      "title": "Πρὸς τὴν Ἀγοράν",
+      "instructions": "Lege, deinde responde secundum sensum, non verbum singulum.",
+      "passage": "<p><span class=\"greek\">Ἀγάθων καὶ Μελίτη ἐν τῇ πόλει μένουσιν. Βαίνουσι σὺν τοῖς φίλοις πρὸς τὴν ἀγοράν, ἐκ τῆς οἰκίας. Μετὰ τὴν ὁδόν, πάλιν εἰς τὴν οἰκίαν βαίνουσιν.</span></p>",
+      "items": [
+        {
+          "id": "prep-story1",
+          "prompt": "Ubi manent Agathōn et Melitē?",
+          "options": ["in urbe (ἐν τῇ πόλει)", "in agrō", "in nāve"],
+          "answerIndex": 0,
+          "explanation": "Ἀγάθων καὶ Μελίτη ἐν τῇ πόλει μένουσιν."
+        },
+        {
+          "id": "prep-story2",
+          "prompt": "Quōcum ad forum eunt?",
+          "options": ["cum amīcīs (σὺν τοῖς φίλοις)", "sōlī", "cum magistrō"],
+          "answerIndex": 0,
+          "explanation": "Βαίνουσι σὺν τοῖς φίλοις πρὸς τὴν ἀγοράν."
+        },
+        {
+          "id": "prep-story3",
+          "prompt": "Unde exeunt?",
+          "options": ["ē domō (ἐκ τῆς οἰκίας)", "ex urbe", "ex agrō"],
+          "answerIndex": 0,
+          "explanation": "Ἐκ τῆς οἰκίας."
+        },
+        {
+          "id": "prep-story4",
+          "prompt": "Quō post iter redeunt?",
+          "options": ["in domum (εἰς τὴν οἰκίαν)", "in forō semper manent", "in agrum"],
+          "answerIndex": 0,
+          "explanation": "Μετὰ τὴν ὁδόν, πάλιν εἰς τὴν οἰκίαν βαίνουσιν."
+        }
+      ]
+    },
     {
       "id": "ii-prep-mc",
       "type": "multiple-choice",

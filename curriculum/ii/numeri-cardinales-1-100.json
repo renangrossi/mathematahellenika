@@ -17,8 +17,8 @@
     "Concludere Gradum II: recognōscere quantam grammaticam iam acquīsīvistī ab initiō cursūs"
   ],
   "content": {
-    "intro": "Gradus I dedit numerōs 1–10; hīc Gradus II concluditur cum decadibus (20, 30... 90) et centum ipsō — omnēs, sīcut numerī 4–10, indēclīnābilēs. Cum hāc lēctiōne fīnītā, tōtum vocābulum numericum fundāmentāle Gradūs Elementāris (Gradūs II) est complētum.",
-    "explanation": "<p>Omnēs decadēs (20–90) et <span class=\"greek\">ἑκατόν</span> (100) sunt <strong>indēclīnābilēs</strong> — exāctē sīcut numerī 4–10 iam nōtī (Gradū I). Sōlum εἷς/μία/ἕν, δύο, et τρεῖς/τρία (et — quod posteā vidēbis — mīlle et cēnti-multiplicēs maiōrēs) dēclīnantur per cāsūs in tōtā linguā Graecā. Hoc simplificat memoriam multum: semel discitīs fōrmās fundāmentālēs indēclīnābilēs, numquam variandae sunt secundum cāsum.</p>",
+    "intro": "<span class=\"greek\">Ὁ διδάσκαλος λέγει· ἑκατὸν δοῦλοι ἐν τῇ πόλει εἰσίν.</span> Notāvistī <span class=\"greek\">ἑκατόν</span>? Gradus I dedit numerōs 1–10; hīc Gradus II concluditur cum decadibus (20, 30... 90) et centum ipsō — omnēs, sīcut numerī 4–10, indēclīnābilēs.",
+    "explanation": "<p><span class=\"greek\">Ὁ διδάσκαλος λέγει· “Ἑκατὸν δοῦλοι ἐν τῇ πόλει εἰσίν.” Ἀγάθων λέγει· “Καὶ εἴκοσι ἄνδρες;” Ὁ διδάσκαλος λέγει· “Οὐχί, ἀλλὰ τριάκοντα καὶ πέντε πολῖται.” Μελίτη λέγει· “Μία καὶ εἴκοσι ἡμέραι!”</span> (Magister dīcit: “Centum servī in urbe sunt.” Agathōn dīcit: “Et vīgintī virī?” Magister dīcit: “Nōn, sed trīgintā quīnque cīvēs.” Melitē dīcit: “Vīgintī ūna diēs!”)</p><p>Notāvistīne <span class=\"greek\">ἑκατόν, εἴκοσι, τριάκοντα καὶ πέντε</span>? Omnēs decadēs (20–90) et <span class=\"greek\">ἑκατόν</span> (100) sunt <strong>indēclīnābilēs</strong> — exāctē sīcut numerī 4–10 iam nōtī (Gradū I). Sōlum εἷς/μία/ἕν, δύο, et τρεῖς/τρία (et — quod posteā vidēbis — mīlle et cēnti-multiplicēs maiōrēs) dēclīnantur per cāsūs in tōtā linguā Graecā. Hoc simplificat memoriam multum: semel discitīs fōrmās fundāmentālēs indēclīnābilēs, numquam variandae sunt secundum cāsum.</p>",
     "rules": [
       {
         "heading": "a) Decadēs et Centum",
@@ -60,6 +60,36 @@
     ]
   },
   "exercises": [
+    {
+      "id": "ii-num2-story",
+      "type": "reading-comprehension",
+      "title": "Ἑκατὸν Δοῦλοι",
+      "instructions": "Lege, deinde responde secundum sensum, non verbum singulum.",
+      "passage": "<p><span class=\"greek\">Ὁ διδάσκαλος λέγει· “Ἑκατὸν δοῦλοι ἐν τῇ πόλει εἰσίν.” Ἀγάθων λέγει· “Καὶ εἴκοσι ἄνδρες;” Ὁ διδάσκαλος λέγει· “Οὐχί, ἀλλὰ τριάκοντα καὶ πέντε πολῖται.” Μελίτη λέγει· “Μία καὶ εἴκοσι ἡμέραι!”</span></p>",
+      "items": [
+        {
+          "id": "num2-story1",
+          "prompt": "Quot servī in urbe sunt?",
+          "options": ["centum (ἑκατόν)", "vīgintī", "trīgintā"],
+          "answerIndex": 0,
+          "explanation": "“Ἑκατὸν δοῦλοι ἐν τῇ πόλει εἰσίν.”"
+        },
+        {
+          "id": "num2-story2",
+          "prompt": "Quot cīvēs sunt, secundum magistrum?",
+          "options": ["trīgintā quīnque (τριάκοντα καὶ πέντε)", "vīgintī", "centum"],
+          "answerIndex": 0,
+          "explanation": "“Τριάκοντα καὶ πέντε πολῖται.”"
+        },
+        {
+          "id": "num2-story3",
+          "prompt": "Quid Melitē exclāmat dē diēbus?",
+          "options": ["vīgintī ūnum diem! (μία καὶ εἴκοσι ἡμέραι)", "nūllum diem", "centum diēs"],
+          "answerIndex": 0,
+          "explanation": "“Μία καὶ εἴκοσι ἡμέραι!”"
+        }
+      ]
+    },
     {
       "id": "ii-num2-mc",
       "type": "multiple-choice",

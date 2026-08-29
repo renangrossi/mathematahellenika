@@ -17,8 +17,8 @@
     "Trānsferre correcte ūsūs frequentēs πᾶς (ut πᾶσα ἡ πόλις “tōta urbs”, πάντες οἱ ἄνθρωποι “omnēs hominēs”)"
   ],
   "content": {
-    "intro": "Adiectīva classis prīmae (Gradū II) sequuntur dēclīnātiōnem prīmam/secundam; sed multa adiectīva Graeca frequentissima sequuntur tertiam dēclīnātiōnem, iam nōtam ex duābus lēctiōnibus priōribus. Duo patrōnī hīc: adiectīva <strong>duārum terminātiōnum</strong> (masculīnum et fēminīnum sunt fōrmā identicā; sōlum neutrum differt) et — cāsus speciālis, sed extrēmē frequēns — <span class=\"greek\">πᾶς</span> (omnis), quod mixtim dēclīnātur.",
-    "explanation": "<p>Adiectīva duārum terminātiōnum (dicta etiam “adiectīva σ-thematica”, quia thema fīnītur -εσ- historicē) nōn distinguunt masculīnum ā fēminīnō — ūna sōla fōrma servit ambōbus generibus, cum discrīmen tantum in neutrō. Hoc simplificat memoriam: duae fōrmae tantum per cāsum (nōn tria), discrīmen ā classe prīmā (Gradū II) ubi tria genera semper distincta sunt.</p>",
+    "intro": "<span class=\"greek\">Ἐν τῇ πόλει, πάντες οἱ πολῖται τὸν βασιλέα φιλοῦσιν.</span> Notāvistī: <span class=\"greek\">πάντες</span> — “omnēs”. Hodiē discis adiectīva tertiae dēclīnātiōnis: adiectīva <strong>duārum terminātiōnum</strong> (ut ἀληθής) et <span class=\"greek\">πᾶς</span> (omnis), cāsus speciālis mixtus.",
+    "explanation": "<p><span class=\"greek\">Ἐν τῇ πόλει, πάντες οἱ πολῖται τὸν βασιλέα φιλοῦσιν. “Ὁ ἀληθὴς λόγος τοῦ βασιλέως καλός ἐστιν,” λέγει Μελίτη. Ἀγάθων λέγει· “Πᾶσα ἡ πόλις εὐτυχής ἐστιν.” Ὁ βασιλεὺς τὰ ἀληθῆ λέγει.</span> (In urbe, omnēs cīvēs rēgem amant. “Vērum verbum rēgis pulchrum est,” dīcit Melitē. Agathōn dīcit: “Tōta urbs fēlīx est.” Rēx vēra dīcit.)</p><p>Notāvistīne <span class=\"greek\">πάντες, πᾶσα</span> (ā πᾶς) et <span class=\"greek\">ἀληθής, ἀληθῆ</span> (ab ἀληθής)? Adiectīva classis prīmae (Gradū II) sequuntur dēclīnātiōnem prīmam/secundam; sed multa adiectīva Graeca frequentissima sequuntur tertiam dēclīnātiōnem, iam nōtam ex duābus lēctiōnibus priōribus. Duo patrōnī hīc: adiectīva <strong>duārum terminātiōnum</strong> (masculīnum et fēminīnum sunt fōrmā identicā; sōlum neutrum differt) et — cāsus speciālis, sed extrēmē frequēns — <span class=\"greek\">πᾶς</span> (omnis), quod mixtim dēclīnātur. Adiectīva duārum terminātiōnum nōn distinguunt masculīnum ā fēminīnō — ūna sōla fōrma servit ambōbus generibus, cum discrīmen tantum in neutrō.</p>",
     "rules": [
       {
         "heading": "a) Duae Terminātiōnēs: ἀληθής, ἀληθές (vērus)",
@@ -60,6 +60,43 @@
     ]
   },
   "exercises": [
+    {
+      "id": "iii-adi2-story",
+      "type": "reading-comprehension",
+      "title": "Πάντες οἱ Πολῖται",
+      "instructions": "Lege, deinde responde secundum sensum, non verbum singulum.",
+      "passage": "<p><span class=\"greek\">Ἐν τῇ πόλει, πάντες οἱ πολῖται τὸν βασιλέα φιλοῦσιν. “Ὁ ἀληθὴς λόγος τοῦ βασιλέως καλός ἐστιν,” λέγει Μελίτη. Ἀγάθων λέγει· “Πᾶσα ἡ πόλις εὐτυχής ἐστιν.” Ὁ βασιλεὺς τὰ ἀληθῆ λέγει.</span></p>",
+      "items": [
+        {
+          "id": "adi2-story1",
+          "prompt": "Quid omnēs cīvēs faciunt ergā rēgem?",
+          "options": ["eum amant (φιλοῦσιν)", "eum timent", "eum ignōrant"],
+          "answerIndex": 0,
+          "explanation": "Πάντες οἱ πολῖται τὸν βασιλέα φιλοῦσιν."
+        },
+        {
+          "id": "adi2-story2",
+          "prompt": "Quāle est verbum rēgis, secundum Melitēn?",
+          "options": ["vērum et pulchrum (ἀληθὴς...καλός)", "falsum", "obscūrum"],
+          "answerIndex": 0,
+          "explanation": "“Ὁ ἀληθὴς λόγος τοῦ βασιλέως καλός ἐστιν.”"
+        },
+        {
+          "id": "adi2-story3",
+          "prompt": "Quid Agathōn dē tōtā urbe dīcit?",
+          "options": ["fēlīx est (εὐτυχής)", "misera est", "parva est"],
+          "answerIndex": 0,
+          "explanation": "“Πᾶσα ἡ πόλις εὐτυχής ἐστιν.”"
+        },
+        {
+          "id": "adi2-story4",
+          "prompt": "Quid rēx semper facit?",
+          "options": ["vēra dīcit (τὰ ἀληθῆ λέγει)", "mentītur", "tacet"],
+          "answerIndex": 0,
+          "explanation": "Ὁ βασιλεὺς τὰ ἀληθῆ λέγει."
+        }
+      ]
+    },
     {
       "id": "iii-adi2-mc",
       "type": "multiple-choice",

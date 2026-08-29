@@ -11,28 +11,46 @@ every lesson's A/B/C score.
 
 ## Current state
 
-As of this pass: **11/67 lessons score A, 56 B, 0 C** (up from 5 A / 62 B
+As of this pass: **19/67 lessons score A, 48 B, 0 C** (up from 5 A / 62 B
 after the `ii-declinatio-prima` pilot). No lesson in this course has ever
 scored C under the audit heuristic — every lesson already carries some
 meaningful Greek (real example sentences with glosses, and often
 true-false/matching exercises), unlike the Latin course's initial state.
-The gap here is narrower but real: past Gradus I, comprehension-first
-material (a passage read *before* the paradigm, with comprehension
-questions) is still the exception rather than the rule in the untouched
-majority of lessons.
+**Gradus II is now fully transformed (10/10 A)**; Gradus III has 3/10 A.
+The gap remains real in Gradus IV-VII (44 lessons, still entirely B).
 
-This pass transformed the worst-scoring lesson (`iii-declinatio-tertia-
-consonantica`, score 0) plus the first five lessons of the priority
-cluster below: `i-articulus-et-numeri`, `i-pronomina-personalia`,
-`ii-declinatio-secunda-masculina-et-neutra`, `ii-articulus-plenus`,
-`ii-adiectiva-classis-primae`. All six landed comfortably at A (score 5).
-Each new passage reused, near-verbatim, sentences already attested in
-that lesson's own `examples`/`rules` (see "Compose new Greek
+This pass (two batches) transformed 14 lessons: the worst-scoring lesson
+(`iii-declinatio-tertia-consonantica`, score 0), the two Gradus I
+lessons `i-articulus-et-numeri`/`i-pronomina-personalia`, all 8 remaining
+Gradus II lessons (`ii-declinatio-secunda-masculina-et-neutra`,
+`ii-articulus-plenus`, `ii-adiectiva-classis-primae`,
+`ii-coniugatio-praesentis-activi`, `ii-coniugatio-praesentis-medii-
+passivi`, `ii-praepositiones-fundamentales`, `ii-adverbia-et-negatio`,
+`ii-interrogativa-fundamentalia`, `ii-numeri-cardinales-1-100`), and 2
+more Gradus III lessons (`iii-declinatio-tertia-vocalica`,
+`iii-adiectiva-tertiae-declinationis`). All 14 landed comfortably at A
+(score 5). Each new passage reused, near-verbatim, sentences already
+attested in that lesson's own `examples`/`rules` (see "Compose new Greek
 conservatively" below) — e.g. `iii-declinatio-tertia-consonantica`'s
 story is built almost entirely out of its own pre-existing "ὁ φύλαξ τῆς
 πόλεως", "ὁ ῥήτωρ καλῶς λέγει", and "τοῖς φύλαξι πιστεύομεν" — recombined
 into a short connected scene with Ἀγάθων and Μελίτη rather than presented
-as isolated glossed sentences.
+as isolated glossed sentences. Several lessons' scenes deliberately chain
+into each other (`iii-declinatio-tertia-vocalica`'s king-and-city scene
+continues directly into `iii-adiectiva-tertiae-declinationis`'s passage
+about the same king and city), and `ii-interrogativa-fundamentalia`'s
+passage explicitly echoes `i-lectio-prima`'s own founding dialogue
+("Τίς εἶ;" ... "Ἀγάθων εἰμί") rather than inventing a new frame.
+
+A recurring composition risk worth naming for future batches: Greek
+demonstrative pronouns (οὗτος, τοῦτο...) and many common verbs outside
+εἰμί/φιλέω/ἔχω/λέγω/βούλομαι have no attested inflected form anywhere in
+this course yet, so several draft passages that reached for them (ἐρωτᾷ,
+γίγνεται, μανθάνω, τοῦτο, ταύτῃ...) were cut or replaced during drafting
+in favor of sticking to each lesson's own attested vocabulary plus this
+small set of safe, already-well-established verbs. When a scene needs
+something beyond that set, prefer rephrasing over inventing a new
+inflected form.
 
 **A pre-existing accuracy bug was also fixed in this pass**:
 `ii-declinatio-secunda-masculina-et-neutra.json`'s `examples` list
@@ -99,16 +117,21 @@ recurring name.
 
 ## Priority for the next pass
 
-Remaining lessons from the original worst-scoring cluster, still
-untouched: `ii-coniugatio-praesentis-activi`,
-`ii-coniugatio-praesentis-medii-passivi`,
-`ii-praepositiones-fundamentales`, `ii-adverbia-et-negatio`,
-`ii-interrogativa-fundamentalia`, `ii-numeri-cardinales-1-100`,
-`iii-declinatio-tertia-vocalica`, `iii-adiectiva-tertiae-declinationis`.
-After that cluster, re-run the audit and re-sort the full B list by
-score — Gradus IV-VII (44 lessons, still entirely B) are untouched and
-are the next major body of work; skim a few to see whether they follow
-the same "already has narrative + glosses, just not comprehension-first"
-shape as Gradus I-III, or need a different approach (the way Latin's
-Gradus VI/VII authentic-text lessons ended up needing a `magister`
-classroom frame rather than a family-story frame).
+The original worst-scoring cluster is now fully cleared. Remaining work:
+
+1. **Gradus III, 7 lessons still B**: re-run the audit CSV and sort by
+   score to find the next targets in that level (declension/syntax
+   lessons following the same pattern as the two already done).
+2. **Gradus IV-VII, 44 lessons, still entirely B** — the next major body
+   of work. Skim a few from each level first to see whether they follow
+   the same "already has narrative + glosses, just not
+   comprehension-first" shape as Gradus I-III, or need a different
+   approach — the way Latin's Gradus VI/VII authentic-text lessons ended
+   up needing a `magister` classroom frame rather than a family-story
+   frame. Given this course teaches Greek through Latin, and Gradus
+   VI/VII likely include unadapted-author lessons (Plato, Lysias — see
+   `vi-lectio-adaptata-platon.json`, `vii-lysias-orationes-selectae.json`,
+   `vii-platon-apologia.json` referenced during the vocative grep), the
+   Latin course's `magister`-frame pattern for authentic texts is the
+   most likely fit there too, adapted with the Ἀγάθων/Μελίτη cast (now
+   presumably older students) or a Greek-appropriate teacher framing.

@@ -17,8 +17,8 @@
     "Legere correcte fōrmās speciālēs (accūsātīvus singulāris πόλιν, vocātīvus πόλι) quae differunt ā patrōnō cōnsonanticō"
   ],
   "content": {
-    "intro": "Praeter themata cōnsonantica (lēctiō priōre), tertia dēclīnātiō continet nōmina cum themate <strong>vōcālicō</strong> antīquō (ι vel υ/ευ), quae subiērunt mūtātiōnēs phōnologicae speciālēs per historiam linguae. Duae classēs sunt hīc praecipuē frequentēs: nōmina fēminīna in <span class=\"greek\">-ις</span> (ut <span class=\"greek\">πόλις</span> “urbs”, extrēmē frequēns) et nōmina masculīna in <span class=\"greek\">-ευς</span> (ut <span class=\"greek\">βασιλεύς</span> “rēx”).",
-    "explanation": "<p>Ambae classēs monstrant genetīvum singulārem speciālem, dīversum ā patrōnō -ος iam nōtō ex nōminibus cōnsonanticīs: <span class=\"greek\">πόλεως</span> (nōn *πόλιος), <span class=\"greek\">βασιλέως</span> (nōn *βασιλέος). Hoc est signum vīsuāle rapidum: sī vidēs genetīvum fīnītum <span class=\"greek\">-εως</span>, scīs statim classem esse vōcālicam ι-thematicam vel ευ-thematicam.</p>",
+    "intro": "<span class=\"greek\">Ἀγάθων καὶ Μελίτη εἰς τὴν πόλιν βαίνουσιν. Ὁ βασιλεὺς τῆς χώρας ἄρχει ἐκεῖ.</span> Notāvistī: <span class=\"greek\">πόλις, βασιλεύς</span> — duae classēs novae tertiae dēclīnātiōnis, thema <strong>vōcālicum</strong> (ι vel ευ), nōn cōnsonanticum ut ante.",
+    "explanation": "<p><span class=\"greek\">Ἀγάθων καὶ Μελίτη εἰς τὴν πόλιν βαίνουσιν. Ἡ πόλις μεγάλη ἐστίν· τῆς πόλεως οἱ νόμοι δίκαιοί εἰσιν. Ὁ βασιλεὺς τῆς χώρας ἄρχει ἐκεῖ. “Χαῖρε, ὦ βασιλεῦ,” λέγει Ἀγάθων. Ὁ βασιλεὺς χαίρει καὶ λέγει· “Χαίρετε, ὦ φίλοι.”</span> (Agathōn et Melitē in urbem eunt. Urbs magna est; lēgēs urbis iūstae sunt. Rēx regiōnis ibi imperat. “Salvē, ō rēx,” dīcit Agathōn. Rēx gaudet et dīcit: “Salvēte, amīcī.”)</p><p>Notāvistīne <span class=\"greek\">πόλις</span> vs. <span class=\"greek\">πόλεως</span>, <span class=\"greek\">βασιλεύς</span> vs. <span class=\"greek\">βασιλέως</span>? Ambae classēs monstrant genetīvum singulārem speciālem, dīversum ā patrōnō -ος iam nōtō ex nōminibus cōnsonanticīs: <span class=\"greek\">πόλεως</span> (nōn *πόλιος), <span class=\"greek\">βασιλέως</span> (nōn *βασιλέος). Hoc est signum vīsuāle rapidum: sī vidēs genetīvum fīnītum <span class=\"greek\">-εως</span>, scīs statim classem esse vōcālicam ι-thematicam vel ευ-thematicam.</p>",
     "rules": [
       {
         "heading": "a) Thema in ι: πόλις, πόλεως (urbs)",
@@ -60,6 +60,43 @@
     ]
   },
   "exercises": [
+    {
+      "id": "iii-dec4-story",
+      "type": "reading-comprehension",
+      "title": "Ὦ Βασιλεῦ, Χαῖρε",
+      "instructions": "Lege, deinde responde secundum sensum, non verbum singulum.",
+      "passage": "<p><span class=\"greek\">Ἀγάθων καὶ Μελίτη εἰς τὴν πόλιν βαίνουσιν. Ἡ πόλις μεγάλη ἐστίν· τῆς πόλεως οἱ νόμοι δίκαιοί εἰσιν. Ὁ βασιλεὺς τῆς χώρας ἄρχει ἐκεῖ. “Χαῖρε, ὦ βασιλεῦ,” λέγει Ἀγάθων. Ὁ βασιλεὺς χαίρει καὶ λέγει· “Χαίρετε, ὦ φίλοι.”</span></p>",
+      "items": [
+        {
+          "id": "dec4-story1",
+          "prompt": "Quō eunt Agathōn et Melitē?",
+          "options": ["in urbem (εἰς τὴν πόλιν)", "in agrum", "in īnsulam"],
+          "answerIndex": 0,
+          "explanation": "Ἀγάθων καὶ Μελίτη εἰς τὴν πόλιν βαίνουσιν."
+        },
+        {
+          "id": "dec4-story2",
+          "prompt": "Quālēs sunt lēgēs urbis?",
+          "options": ["iūstae (δίκαιοι)", "iniūstae", "nūllae"],
+          "answerIndex": 0,
+          "explanation": "Τῆς πόλεως οἱ νόμοι δίκαιοί εἰσιν."
+        },
+        {
+          "id": "dec4-story3",
+          "prompt": "Quis regiōnem regit?",
+          "options": ["rēx (ὁ βασιλεύς)", "populus", "nēmō"],
+          "answerIndex": 0,
+          "explanation": "Ὁ βασιλεὺς τῆς χώρας ἄρχει."
+        },
+        {
+          "id": "dec4-story4",
+          "prompt": "Quid rēx respondet Agathōnī?",
+          "options": ["Salvēte, amīcī (χαίρετε, ὦ φίλοι)", "Abīte!", "Nihil dīcit"],
+          "answerIndex": 0,
+          "explanation": "“Χαίρετε, ὦ φίλοι.”"
+        }
+      ]
+    },
     {
       "id": "iii-dec4-mc",
       "type": "multiple-choice",

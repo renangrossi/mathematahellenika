@@ -17,8 +17,8 @@
     "Applicāre μή ad prohibitiōnēs simplicēs cum imperātīvō"
   ],
   "content": {
-    "intro": "Duo elementa parva sed frequentissima concludunt hunc gradum grammaticum praecipuum: quōmodo adverbia (“bene”, “celeriter”...) fōrmantur ab adiectīvīs iam nōtīs, et quōmodo Graecum negat sententiās — cum discrīmine quod Latīnum nōn habet (Latīnum adhibet “nōn” ubīque; Graecum ēligit inter <span class=\"greek\">οὐ</span> et <span class=\"greek\">μή</span> secundum grammaticam contextūs).",
-    "explanation": "<p>Adverbium fōrmātur ab adiectīvō classis prīmae rēgulā simplicī: sūme genetīvum plūrālem (masculīnum/neutrum, quī semper fīnītur -ων), et mūta -ν fīnāle in -ς: <span class=\"greek\">καλός</span> → gen. pl. <span class=\"greek\">καλῶν</span> → adverbium <span class=\"greek\">καλῶς</span> (“bene, pulchrē”). Accentus manet in eōdem locō ac genetīvus plūrālis.</p>",
+    "intro": "<span class=\"greek\">Ὁ διδάσκαλος καλῶς λέγει. Ἀγάθων λέγει· οὐκ ἐθέλω μένειν.</span> Notāvistī: <span class=\"greek\">καλῶς</span> (adverbium, “bene”) et <span class=\"greek\">οὐκ</span> (negātiō)? Duo elementa parva sed frequentissima concludunt hunc gradum grammaticum praecipuum: quōmodo adverbia fōrmantur ab adiectīvīs iam nōtīs, et quōmodo Graecum ēligit inter <span class=\"greek\">οὐ</span> et <span class=\"greek\">μή</span> secundum grammaticam contextūs.",
+    "explanation": "<p><span class=\"greek\">Ὁ διδάσκαλος καλῶς λέγει· δικαίως καὶ σοφῶς ἄρχει. Ἀγάθων λέγει· “Οὐκ ἐθέλω μένειν.” Μελίτη λέγει· “Οὐχ ὁρῶ τὴν πόλιν.” Ὁ διδάσκαλος λέγει· “Μὴ λύε τὸν δοῦλον.”</span> (Magister bene loquitur; iūstē et sapienter regit. Agathōn dīcit: “Nōlō manēre.” Melitē dīcit: “Nōn videō urbem.” Magister dīcit: “Nōlī solvere servum.”)</p><p>Notāvistīne <span class=\"greek\">καλῶς, δικαίως, σοφῶς</span> (adverbia in -ως) versus <span class=\"greek\">οὐκ, οὐχ, μή</span> (trēs negātiōnēs dīversae)? Adverbium fōrmātur ab adiectīvō classis prīmae rēgulā simplicī: sūme genetīvum plūrālem (masculīnum/neutrum, quī semper fīnītur -ων), et mūta -ν fīnāle in -ς: <span class=\"greek\">καλός</span> → gen. pl. <span class=\"greek\">καλῶν</span> → adverbium <span class=\"greek\">καλῶς</span> (“bene, pulchrē”). Discrīmen quod Latīnum nōn habet: Latīnum adhibet “nōn” ubīque; Graecum ēligit inter <span class=\"greek\">οὐ</span> et <span class=\"greek\">μή</span> secundum grammaticam contextūs — vidēbis rēgulās plēnās īnfrā.</p>",
     "rules": [
       {
         "heading": "a) Fōrmātiō Adverbiōrum",
@@ -60,6 +60,43 @@
     ]
   },
   "exercises": [
+    {
+      "id": "ii-adv1-story",
+      "type": "reading-comprehension",
+      "title": "Ὁ Διδάσκαλος Καλῶς Λέγει",
+      "instructions": "Lege, deinde responde secundum sensum, non verbum singulum.",
+      "passage": "<p><span class=\"greek\">Ὁ διδάσκαλος καλῶς λέγει· δικαίως καὶ σοφῶς ἄρχει. Ἀγάθων λέγει· “Οὐκ ἐθέλω μένειν.” Μελίτη λέγει· “Οὐχ ὁρῶ τὴν πόλιν.” Ὁ διδάσκαλος λέγει· “Μὴ λύε τὸν δοῦλον.”</span></p>",
+      "items": [
+        {
+          "id": "adv1-story1",
+          "prompt": "Quōmodo loquitur magister?",
+          "options": ["bene (καλῶς)", "male", "numquam"],
+          "answerIndex": 0,
+          "explanation": "Ὁ διδάσκαλος καλῶς λέγει."
+        },
+        {
+          "id": "adv1-story2",
+          "prompt": "Quid Agathōn nōn vult?",
+          "options": ["manēre (μένειν)", "abīre", "lūdere"],
+          "answerIndex": 0,
+          "explanation": "“Οὐκ ἐθέλω μένειν.”"
+        },
+        {
+          "id": "adv1-story3",
+          "prompt": "Quid Melitē nōn videt?",
+          "options": ["urbem (τὴν πόλιν)", "magistrum", "Agathōnem"],
+          "answerIndex": 0,
+          "explanation": "“Οὐχ ὁρῶ τὴν πόλιν.”"
+        },
+        {
+          "id": "adv1-story4",
+          "prompt": "Quid magister prohibet?",
+          "options": ["servum solvere (μὴ λύε τὸν δοῦλον)", "lūdere", "loquī"],
+          "answerIndex": 0,
+          "explanation": "“Μὴ λύε τὸν δοῦλον.”"
+        }
+      ]
+    },
     {
       "id": "ii-adv1-mc",
       "type": "multiple-choice",

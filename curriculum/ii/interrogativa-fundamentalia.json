@@ -17,8 +17,8 @@
     "Formāre quaestiōnēs simplicēs cum hīs verbīs interrogātīvīs"
   ],
   "content": {
-    "intro": "Gradus I iam ostendit τίς in ūnō contextū fīxō (<span class=\"greek\">τίς εἶ;</span> “quis es?”). Nunc τίς/τί dēclīnātur plēnē — paradigma anticipāns dēclīnātiōnem tertiam (Gradū III), sed adhibitum hīc quia est tam frequēns quam necessārium ante illam theoriam plēnam, exāctē sīcut εἰμί fuit discitum ante coniugātiōnem regulārem in Gradū I.",
-    "explanation": "<p>Τίς (masc./fem.) et τί (neutrum) significant “quis?/quae?/quod?” cum sōlum vōcālem, vel “quī? quālis?” cum adiectīvō (<span class=\"greek\">τίς ἀνήρ;</span> “quī vir?”). Fōrma haec est PRŌNŌMEN interrogātīvum — nōn cōnfundenda cum prōnōmine indēfīnītō <span class=\"greek\">τις/τι</span> (“aliquis, quīdam”), quod habet fōrmās scrīptūrā identicās sed est <strong>enclīticum</strong> (sine accentū proprio, ex Gradū I).</p>",
+    "intro": "<span class=\"greek\">Μελίτη λέγει· τίς εἶ; Ἀγάθων λέγει· Ἀγάθων εἰμί. Σὺ δὲ τίς εἶ;</span> Notāvistī hoc iam ex fābulā prīmā. Nunc τίς/τί dēclīnātur plēnē, et alia verba interrogātīva (ποῦ, πόθεν...) sē adiungunt.",
+    "explanation": "<p><span class=\"greek\">Μελίτη λέγει· “Τίς εἶ;” Ἀγάθων λέγει· “Ἀγάθων εἰμί. Σὺ δὲ τίς εἶ;” Μελίτη λέγει· “Μελίτη εἰμί.” “Πόθεν ἥκεις;” “Ἐκ τῆς πόλεως. Καὶ σύ, ποῦ μένεις;” “Ἐν τῇ οἰκίᾳ τοῦ διδασκάλου. Τίνος ἐστὶ τὸ βιβλίον;”</span> (Melitē dīcit: “Quis es?” Agathōn dīcit: “Agathōn sum. Tū vērō quis es?” Melitē dīcit: “Melitē sum.” “Unde venīs?” “Ex urbe. Et tū, ubi manēs?” “In domō magistrī. Cuius est liber?”)</p><p>Notāvistīne <span class=\"greek\">τίς, τίνος, πόθεν, ποῦ</span> — quattuor verba interrogātīva dīversa? Τίς (masc./fem.) et τί (neutrum) significant “quis?/quae?/quod?” cum sōlum vōcālem, vel “quī? quālis?” cum adiectīvō (<span class=\"greek\">τίς ἀνήρ;</span> “quī vir?”). Fōrma haec est PRŌNŌMEN interrogātīvum — nōn cōnfundenda cum prōnōmine indēfīnītō <span class=\"greek\">τις/τι</span> (“aliquis, quīdam”), quod habet fōrmās scrīptūrā identicās sed est <strong>enclīticum</strong> (sine accentū proprio, ex Gradū I).</p>",
     "rules": [
       {
         "heading": "a) Τίς/Τί: Dēclīnātiō Plēna",
@@ -60,6 +60,43 @@
     ]
   },
   "exercises": [
+    {
+      "id": "ii-int1-story",
+      "type": "reading-comprehension",
+      "title": "Τίς Εἶ;",
+      "instructions": "Lege, deinde responde secundum sensum, non verbum singulum.",
+      "passage": "<p><span class=\"greek\">Μελίτη λέγει· “Τίς εἶ;” Ἀγάθων λέγει· “Ἀγάθων εἰμί. Σὺ δὲ τίς εἶ;” Μελίτη λέγει· “Μελίτη εἰμί.” “Πόθεν ἥκεις;” “Ἐκ τῆς πόλεως. Καὶ σύ, ποῦ μένεις;” “Ἐν τῇ οἰκίᾳ τοῦ διδασκάλου. Τίνος ἐστὶ τὸ βιβλίον;”</span></p>",
+      "items": [
+        {
+          "id": "int1-story1",
+          "prompt": "Quis prīmum rogat “quis es”?",
+          "options": ["Melitē", "Agathōn", "magister"],
+          "answerIndex": 0,
+          "explanation": "Μελίτη λέγει· “Τίς εἶ;”"
+        },
+        {
+          "id": "int1-story2",
+          "prompt": "Unde venit Melitē?",
+          "options": ["ex urbe (ἐκ τῆς πόλεως)", "ex agrō", "ex īnsulā"],
+          "answerIndex": 0,
+          "explanation": "“Ἐκ τῆς πόλεως.”"
+        },
+        {
+          "id": "int1-story3",
+          "prompt": "Ubi manet Agathōn?",
+          "options": ["in domō magistrī", "in forō", "in nāve"],
+          "answerIndex": 0,
+          "explanation": "“Ἐν τῇ οἰκίᾳ τοῦ διδασκάλου.”"
+        },
+        {
+          "id": "int1-story4",
+          "prompt": "Quid Agathōn tandem rogat?",
+          "options": ["cuius sit liber (τίνος ἐστὶ τὸ βιβλίον)", "cūr Melitē vēnerit", "quandō cēna sit"],
+          "answerIndex": 0,
+          "explanation": "“Τίνος ἐστὶ τὸ βιβλίον;”"
+        }
+      ]
+    },
     {
       "id": "ii-int1-mc",
       "type": "multiple-choice",

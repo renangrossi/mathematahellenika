@@ -17,8 +17,8 @@
     "Formāre īnfīnītīvum praesentem medium-passīvum (-εσθαι)"
   ],
   "content": {
-    "intro": "Graecum habet trēs vōcēs verbī — āctīva (iam nōta), <strong>media</strong>, et passīva — ubi Latīnum habet sōlum duās (āctīva, passīva, cum “verbīs dēpōnentibus” tractantibus fōrmam passīvam cum sēnsū āctīvō, cāsus speciālis). Vōx media est element omnīnō novum discipulīs Latīnē doctīs: indicat subiectum agere <em>in sē ipsum, prō sē ipsō, vel cum īnstrūmentō/effectū speciālī ad sē pertinente</em> — nōn sōlum “agō” (āctīva) neque “patior” (passīva), sed aliquid intermedium.",
-    "explanation": "<p>Bona nova prō incipientibus: in tempore praesentī (et imperfectō, quem posteā vidēbis), fōrmae mediae et passīvae sunt <strong>morphologicē identicae</strong> — ūnum sōlum paradigma servit ambōbus sēnsibus; contextus sōlus dēterminat utrum medium an passīvum intellegendum sit. Distinctiō morphologica inter media et passīva appāret sōlum in aoristō et futūrō (Gradibus IV/posterioribus), ubi fōrmae vērē dīvergunt.</p>",
+    "intro": "<span class=\"greek\">Ἀγάθων καὶ Μελίτη ἐν τῷ ποταμῷ εἰσίν. Λουόμεθα, λέγει Μελίτη.</span> Notāvistī: <span class=\"greek\">λουόμεθα</span> — nōn “lavāmus [aliud]”, sed “lavāmur nōs ipsōs”. Hodiē discis vōcem mediam: elementum omnīnō novum discipulīs Latīnē doctīs.",
+    "explanation": "<p><span class=\"greek\">Ἀγάθων καὶ Μελίτη ἐν τῷ ποταμῷ εἰσίν. “Λουόμεθα,” λέγει Μελίτη, “ὅτι καλόν ἐστι τὸ ὕδωρ.” Ὁ δοῦλος λύεται ὑπὸ τοῦ δεσπότου. Ἀγάθων λέγει· “Καὶ ἐγὼ βούλομαι λύεσθαι.”</span> (Agathōn et Melitē in flūmine sunt. “Nōs lavāmus,” dīcit Melitē, “quia aqua pulchra est.” Servus ā dominō līberātur. Agathōn dīcit: “Et ego volō līberārī.”)</p><p>Notāvistīne <span class=\"greek\">λουόμεθα</span> (nōs ipsōs lavāmus, medium) versus <span class=\"greek\">λύεται</span> (solvitur, passīvum) — eadem cōnstrūctiō morphologica, sēnsus dīversus? Graecum habet trēs vōcēs verbī — āctīva (iam nōta), <strong>media</strong>, et passīva — ubi Latīnum habet sōlum duās (āctīva, passīva, cum “verbīs dēpōnentibus” tractantibus fōrmam passīvam cum sēnsū āctīvō, cāsus speciālis). Vōx media indicat subiectum agere <em>in sē ipsum, prō sē ipsō, vel cum īnstrūmentō/effectū speciālī ad sē pertinente</em> — nōn sōlum “agō” (āctīva) neque “patior” (passīva), sed aliquid intermedium. Bona nova prō incipientibus: in tempore praesentī (et imperfectō, quem posteā vidēbis), fōrmae mediae et passīvae sunt <strong>morphologicē identicae</strong> — ūnum sōlum paradigma servit ambōbus sēnsibus; contextus sōlus dēterminat utrum medium an passīvum intellegendum sit.</p>",
     "rules": [
       {
         "heading": "a) Praesēns Indicātīvum Mediī-Passīvī: λύομαι",
@@ -60,6 +60,43 @@
     ]
   },
   "exercises": [
+    {
+      "id": "ii-con2-story",
+      "type": "reading-comprehension",
+      "title": "Ἐν τῷ Ποταμῷ",
+      "instructions": "Lege, deinde responde secundum sensum, non verbum singulum.",
+      "passage": "<p><span class=\"greek\">Ἀγάθων καὶ Μελίτη ἐν τῷ ποταμῷ εἰσίν. “Λουόμεθα,” λέγει Μελίτη, “ὅτι καλόν ἐστι τὸ ὕδωρ.” Ὁ δοῦλος λύεται ὑπὸ τοῦ δεσπότου. Ἀγάθων λέγει· “Καὶ ἐγὼ βούλομαι λύεσθαι.”</span></p>",
+      "items": [
+        {
+          "id": "con2-story1",
+          "prompt": "Ubi sunt Agathōn et Melitē?",
+          "options": ["in flūmine (ἐν τῷ ποταμῷ)", "in urbe", "domī"],
+          "answerIndex": 0,
+          "explanation": "Ἀγάθων καὶ Μελίτη ἐν τῷ ποταμῷ εἰσίν."
+        },
+        {
+          "id": "con2-story2",
+          "prompt": "Quid faciunt?",
+          "options": ["sē lavant (λουόμεθα)", "natant procul", "dormiunt"],
+          "answerIndex": 0,
+          "explanation": "“Λουόμεθα,” λέγει Μελίτη."
+        },
+        {
+          "id": "con2-story3",
+          "prompt": "Ā quō līberātur servus?",
+          "options": ["ā dominō (ὑπὸ τοῦ δεσπότου)", "ā sē ipsō", "ā nūllō"],
+          "answerIndex": 0,
+          "explanation": "Ὁ δοῦλος λύεται ὑπὸ τοῦ δεσπότου."
+        },
+        {
+          "id": "con2-story4",
+          "prompt": "Quid Agathōn quoque vult?",
+          "options": ["līberārī (λύεσθαι)", "dominus fierī", "manēre servus"],
+          "answerIndex": 0,
+          "explanation": "“Καὶ ἐγὼ βούλομαι λύεσθαι.”"
+        }
+      ]
+    },
     {
       "id": "ii-con2-fill",
       "type": "fill-blank",

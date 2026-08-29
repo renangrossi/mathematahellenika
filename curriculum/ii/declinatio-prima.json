@@ -18,8 +18,8 @@
     "Dēclīnāre nōmen masculīnum in -ης (ut πολίτης), notandō genetīvum in -ου et vocātīvum speciālem"
   ],
   "content": {
-    "intro": "Nunc, cum fōrmae nōminātīvae articulī iam nōtae sint (Gradū I), ad prīmam dēclīnātiōnem nōminum pergimus — id est, ad rēgulās secundum quās nōmina fēminīna (et pauca masculīna) fōrmās suās per cāsūs mūtant. Maior pars nōminum prīmae dēclīnātiōnis est fēminīna et fīnītur in <span class=\"greek\">-η</span> vel <span class=\"greek\">-α</span> in nōminātīvō; pauca nōmina masculīna (persōnae plērumque) fīniuntur in <span class=\"greek\">-ης</span> vel <span class=\"greek\">-ας</span>.",
-    "explanation": "<p>Dēclīnātiō est sēriēs dēsinentiārum (endings) quae nōmen per cāsūs (nōminātīvus, genetīvus, datīvus, accūsātīvus, vocātīvus) et numerōs (singulāris, plūrālis) mūtant, sīcut in Latīnō prīma dēclīnātiō (-a, -ae, -ae, -am...). Graecum habet trēs dēclīnātiōnēs nōminum; haec lēctiō tractat prīmam. Discrīmen praecipuum ā Latīnō: Graecum prīmae dēclīnātiōnis nōmina possunt fīnīrī in <strong>-η</strong> (semper eōdem modō dēclīnāta) AUT in <strong>-α</strong> (quae subdīviditur in “pūram” et “impūram”, secundum litteram praecēdentem), AUT — rariōra sed frequentia in textibus — MASCULĪNA in <strong>-ης</strong>/<strong>-ας</strong>.</p>",
+    "intro": "Ἀγάθων ἐν τῇ οἰκίᾳ ἐστίν. Ἡ οἰκία καλή ἐστιν. Μελίτη τὴν δόξαν φιλεῖ, καὶ Ἀγάθων πολίτης ἐστίν. Notāvistī: οἰκίᾳ, οἰκία, δόξαν, πολίτης — idem nōmen (vel nōmina cognāta) mūtat fīnem secundum officium. Hodiē discis hanc dēclīnātiōnem prīmam plēnē.",
+    "explanation": "<p><span class=\"greek\">Ἀγάθων ἐν τῇ οἰκίᾳ ἐστίν. Ἡ οἰκία καλή ἐστιν. Μελίτη τὴν δόξαν φιλεῖ, καὶ Ἀγάθων πολίτης ἐστίν.</span> (Agathōn in domō est. Domus pulchra est. Melitē glōriam amat, et Agathōn cīvis est.)</p><p>Notāvistīne: <span class=\"greek\">οἰκίᾳ</span> (datīvus, post ἐν), <span class=\"greek\">οἰκία</span> (nōminātīvus), <span class=\"greek\">δόξαν</span> (accūsātīvus), <span class=\"greek\">πολίτης</span> (nōminātīvus masculīnum)? Dēclīnātiō est sēriēs dēsinentiārum (endings) quae nōmen per cāsūs et numerōs mūtant, sīcut in Latīnō prīma dēclīnātiō (-a, -ae, -ae, -am...). Graecum habet trēs dēclīnātiōnēs nōminum; haec lēctiō tractat prīmam: nōmina in <strong>-η</strong> (semper eōdem modō dēclīnāta) AUT in <strong>-α</strong> (“pūrum” et “impūrum”), AUT MASCULĪNA in <strong>-ης</strong>/<strong>-ας</strong>.</p>",
     "rules": [
       {
         "heading": "a) Fōrmae in -η: Paradigma τιμή (honor)",
@@ -61,6 +61,36 @@
     ]
   },
   "exercises": [
+    {
+      "id": "ii-dec1-story",
+      "type": "reading-comprehension",
+      "title": "Ἀγάθων ἐν τῇ Οἰκίᾳ",
+      "instructions": "Lege, deinde responde secundum sensum, non verbum singulum.",
+      "passage": "<p><span class=\"greek\">Ἀγάθων ἐν τῇ οἰκίᾳ ἐστίν. Ἡ οἰκία καλή ἐστιν. Μελίτη τὴν δόξαν φιλεῖ, καὶ Ἀγάθων πολίτης ἐστίν.</span></p>",
+      "items": [
+        {
+          "id": "dec1-story1",
+          "prompt": "Ubi est Agathōn?",
+          "options": ["in domō (ἐν τῇ οἰκίᾳ)", "in agrō", "in urbe"],
+          "answerIndex": 0,
+          "explanation": "Ἀγάθων ἐν τῇ οἰκίᾳ ἐστίν — οἰκίᾳ est datīvus post praepositiōnem ἐν."
+        },
+        {
+          "id": "dec1-story2",
+          "prompt": "Quālis est domus?",
+          "options": ["pulchra (καλή)", "parva", "vetus"],
+          "answerIndex": 0,
+          "explanation": "Ἡ οἰκία καλή ἐστιν."
+        },
+        {
+          "id": "dec1-story3",
+          "prompt": "Quid Melitē amat?",
+          "options": ["glōriam (τὴν δόξαν)", "pecūniam", "librum"],
+          "answerIndex": 0,
+          "explanation": "Μελίτη τὴν δόξαν φιλεῖ — δόξαν est accūsātīvus, obiectum dīrēctum."
+        }
+      ]
+    },
     {
       "id": "ii-dec1-mc",
       "type": "multiple-choice",

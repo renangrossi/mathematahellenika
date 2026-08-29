@@ -254,6 +254,47 @@
       "ty": "imperativus-plenus"
     }
   ],
-  "altior": [],
+  "altior": [
+    {
+      "slug": "oratio-obliqua-systema-plenum",
+      "title": "Ōrātiō Oblīqua: Systēma Plēnum",
+      "ty": "oratio-obliqua-systema-plenum"
+    },
+    {
+      "slug": "adiectiva-verbalia-in-teos-et-teon",
+      "title": "Adiectīva Verbālia in -τέος et -τός",
+      "ty": "adiectiva-verbalia-in-teos-et-teon"
+    },
+    {
+      "slug": "usus-casuum-provectiores",
+      "title": "Ūsus Cāsuum Prōvectiōrēs",
+      "ty": "usus-casuum-provectiores"
+    },
+    {
+      "slug": "particulae-graecae",
+      "title": "Particulae Graecae",
+      "ty": "particulae-graecae"
+    },
+    {
+      "slug": "ordo-verborum-et-stilus-atticus",
+      "title": "Ōrdō Verbōrum et Stilus Atticus",
+      "ty": "ordo-verborum-et-stilus-atticus"
+    },
+    {
+      "slug": "lectio-adaptata-xenophon",
+      "title": "Lēctiō Adaptāta: Xenophōn",
+      "ty": "lectio-adaptata-xenophon"
+    },
+    {
+      "slug": "lectio-adaptata-platon",
+      "title": "Lēctiō Adaptāta: Platōn",
+      "ty": "lectio-adaptata-platon"
+    },
+    {
+      "slug": "recognitio-syntaxis-integra",
+      "title": "Recognitiō: Syntaxis Integra",
+      "ty": "recognitio-syntaxis-integra"
+    }
+  ],
   "auctores": []
 }

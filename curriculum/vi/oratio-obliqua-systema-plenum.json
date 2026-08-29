@@ -1,0 +1,248 @@
+{
+  "id": "vi-oratio-obliqua-systema-plenum",
+  "level": "VI",
+  "unit": "1",
+  "order": 1,
+  "skill": "grammatica",
+  "strand": "oratio-obliqua",
+  "title": "Ōrātiō Oblīqua: Systēma Plēnum",
+  "subtitle": "Trēs cōnstrūctiōnēs ōrātiōnis oblīquae: accūsātīvus+īnfīnītīvus (λέγω), ὅτι/ὡς+indicātīvus/optātīvus, accūsātīvus+participium (οἶδα, ὁρῶ) — quod verbum, quam cōnstrūctiōnem regit.",
+  "prerequisites": [
+    "v-imperativus-plenus"
+  ],
+  "objectives": [
+    "Recitāre trēs cōnstrūctiōnēs Graecās ōrātiōnis oblīquae et verba quae quamque regunt",
+    "Cōnstruere ὅτι/ὡς + indicātīvus (sequentia prīmāria) vel optātīvus (sequentia secundāria) post λέγω, ἀγγέλλω",
+    "Cōnstruere accūsātīvum + participium post verba percipiendī/sciendī (οἶδα, ὁρῶ, αἰσθάνομαι)",
+    "Explicāre cūr Graecum, dīversē ā Latīnō (ūnica cōnstrūctiō AcI), distribuat ōrātiōnem oblīquam inter trēs cōnstrūctiōnēs, secundum classem sēmanticam verbī regentis"
+  ],
+  "content": {
+    "intro": "Gradus IV intrōdūxit accūsātīvum + īnfīnītīvum (parallēlum AcI Latīnō) post λέγω/νομίζω. Graecum tamen habet DUĀS cōnstrūctiōnēs ADDITĀS, sine homologum Latīnum: <span class=\"greek\">ὅτι/ὡς</span> + modus fīnītus (post λέγω quoque, ut alternātīva!), et accūsātīvus + participium (post verba percipiendī). Discipulus Latīnē doctus dēbet nunc expandere expectātiōnem suam ūnīus cōnstrūctiōnis (AcI) ad trēs.",
+    "explanation": "<p>Ēlēctiō cōnstrūctiōnis dēpendet classicē ā verbō regente: verba \"dīcendī/putandī\" (<span class=\"greek\">λέγω, φημί, νομίζω, οἴομαι</span>) praeferunt accūsātīvum+īnfīnītīvum (vel, apud λέγω, alternātīvē ὅτι); verba \"nūntiandī\" (<span class=\"greek\">ἀγγέλλω</span>) et λέγω ipsum quoque frequenter adhibent ὅτι/ὡς + modus fīnītus; verba \"sciendī/percipiendī\" (<span class=\"greek\">οἶδα, ὁρῶ, αἰσθάνομαι, γιγνώσκω</span>) requīrunt accūsātīvum + PARTICIPIUM.</p>",
+    "rules": [
+      {
+        "heading": "a) Ὅτι/Ὡς + Modus Fīnītus",
+        "body": "<p><span class=\"greek\">λέγει ὅτι ὁ ἀνὴρ σοφός ἐστιν.</span> \"Dīcit virum sapientem esse\" (litt. \"dīcit quod vir sapiēns est\" — indicātīvus RETENTUS, sequentia prīmāria). <span class=\"greek\">εἶπεν ὅτι ὁ ἀνὴρ σοφὸς εἴη.</span> \"Dīxit virum sapientem esse\" (opt. oblīquus, sequentia secundāria — vel indicātīvus retentus, ambae optiōnēs exsistunt hīc, dīversē ab accūsātīvō+īnfīnītīvō ubi tempus est semper relātīvum). Negātiō: οὐ (affirmat/negat factum, sīcut in ōrātiōne oblīquā generāliter, Gradū IV).</p>"
+      },
+      {
+        "heading": "b) Accūsātīvus + Participium (Post Verba Sciendī/Percipiendī)",
+        "body": "<p><span class=\"greek\">οἶδα τὸν ἄνδρα σοφὸν ὄντα.</span> \"Sciō virum sapientem esse\" (litt. \"sciō virum sapientem ENTEM\" — participium ὄντα concordāns cum accūsātīvō τὸν ἄνδρα). <span class=\"greek\">εἶδον τοὺς πολεμίους προσιόντας.</span> \"Vīdī hostēs appropinquantēs.\" Sī subiectum est idem ac verbī prīncipālis, participium stat NŌMINĀTĪVŌ (nōn accūsātīvō): <span class=\"greek\">οἶδα σοφὸς ὤν.</span> \"Sciō mē esse sapientem\" (litt. \"sciō sapiēns ēns\").</p>"
+      },
+      {
+        "heading": "c) Cōnspectus: Quod Verbum, Quam Cōnstrūctiōnem",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Classis Verbī</th><th>Cōnstrūctiō</th><th>Exempla Verbōrum</th></tr></thead><tbody><tr><td>Dīcendī/putandī</td><td>Acc. + īnfīnītīvus</td><td class=\"greek\">λέγω, φημί, νομίζω, οἴομαι</td></tr><tr><td>Dīcendī/nūntiandī (alt.)</td><td>ὅτι/ὡς + modus fīnītus</td><td class=\"greek\">λέγω (alt.), ἀγγέλλω</td></tr><tr><td>Sciendī/percipiendī</td><td>Acc. + participium</td><td class=\"greek\">οἶδα, ὁρῶ, αἰσθάνομαι, γιγνώσκω</td></tr></tbody></table><p>Λέγω est notābilis quia acceptat AMBĀS prīmās cōnstrūctiōnēs (acc.+īnf. VEL ὅτι), sine discrīmine sēmanticō obligātōriō magnō — praeferentia stilistica auctōris.</p>"
+      }
+    ],
+    "examples": [
+      "λέγει τὸν ἄνδρα σοφὸν εἶναι. — Dīcit virum sapientem esse. (acc.+īnf.)",
+      "λέγει ὅτι ὁ ἀνὴρ σοφός ἐστιν. — Dīcit virum sapientem esse. (ὅτι, alternātīva)",
+      "οἶδα τὸν ἄνδρα σοφὸν ὄντα. — Sciō virum sapientem esse. (acc.+participium)",
+      "ἤγγειλεν ὅτι οἱ πολέμιοι προσίοιεν. — Nūntiāvit hostēs appropinquāre. (ὅτι + opt., secundāria)",
+      "εἶδον αὐτὸν ἀπιόντα. — Vīdī eum discēdentem. (acc.+part., percipiendī)",
+      "γιγνώσκω ἐμαυτὸν ἁμαρτάνοντα. — Cognōscō mē errāre. (nōm./reflexīvum implicitum, subiectum idem)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Applicāre accūsātīvum + īnfīnītīvum ubīque, indiscrīminātim, ignōrandō verba quae requīrunt aliās cōnstrūctiōnēs.",
+        "right": "Cōnsīderāre classem sēmanticam verbī regentis (dīcendī/sciendī/nūntiandī) ANTE ēligere cōnstrūctiōnem.",
+        "why": "Verba sciendī/percipiendī (οἶδα, ὁρῶ) REQUĪRUNT participium, nōn īnfīnītīvum — error hīc est frequēns quia discipulus applicat patrōnum AcI Latīnum ūniversāliter."
+      },
+      {
+        "wrong": "Nōn concordāre participium in genere/numerō/cāsū cum accūsātīvō (vel nōminātīvō, sī subiectum idem) in cōnstrūctiōne acc.+participium.",
+        "right": "Concordāre participium plēnē (sīcut adiectīvum) cum nōmine/prōnōmine subiectō suō, sīve accūsātīvō sīve nōminātīvō.",
+        "why": "Participium retinet omnēs prōprietātēs adiectīvālēs suās (Gradū IV) etiam in hāc cōnstrūctiōne syntacticā."
+      },
+      {
+        "wrong": "Crēdere ὅτι hīc semper significat \"quia\" (causāle), cōnfundendō cum ūsū coniūnctiōnis causālis.",
+        "right": "Distinguere per verbum regēns: post verba dīcendī, ὅτι significat \"quod\" (introducēns ōrātiōnem oblīquam), nōn \"quia\".",
+        "why": "Ὅτι habet duo ūsūs distīnctōs (causālis \"quia\"; oblīquus \"quod\"), distinguendōs per contextum verbī regentis."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "vi-orat1-mc",
+      "type": "multiple-choice",
+      "title": "Ōrātiō Oblīqua: Systēma Plēnum",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "orat1a",
+          "prompt": "Quam cōnstrūctiōnem requīrit οἶδα (\"sciō\")?",
+          "options": [
+            "accūsātīvus + īnfīnītīvus",
+            "accūsātīvus + participium",
+            "ὅτι + coniūnctīvus sōlum"
+          ],
+          "answerIndex": 1,
+          "explanation": "Verba sciendī/percipiendī requīrunt accūsātīvum + participium."
+        },
+        {
+          "id": "orat1b",
+          "prompt": "Quae cōnstrūctiōnēs acceptat λέγω?",
+          "options": [
+            "sōlum acc.+īnf.",
+            "acc.+īnf. VEL ὅτι+modus fīnītus",
+            "sōlum acc.+participium"
+          ],
+          "answerIndex": 1,
+          "explanation": "Λέγω acceptat ambās prīmās cōnstrūctiōnēs, sine discrīmine obligātōriō."
+        },
+        {
+          "id": "orat1c",
+          "prompt": "Cum quō concordat participium in cōnstrūctiōne acc.+participium, sī subiectum differt ā verbō prīncipālī?",
+          "options": [
+            "cum verbō prīncipālī (nōminātīvō)",
+            "cum accūsātīvō explicitō (subiectō ōrātiōnis oblīquae)",
+            "manet indēclīnātum"
+          ],
+          "answerIndex": 1,
+          "explanation": "Participium concordat cum accūsātīvō, subiectō propriō ōrātiōnis oblīquae."
+        },
+        {
+          "id": "orat1d",
+          "prompt": "Quid significat ὅτι post verbum dīcendī?",
+          "options": [
+            "\"quia\" (causāle), semper",
+            "\"quod\" (introducēns ōrātiōnem oblīquam)",
+            "nihil speciāle"
+          ],
+          "answerIndex": 1,
+          "explanation": "Post λέγω/ἀγγέλλω, ὅτι fūnctiōnat sīcut \"quod\", nōn \"quia\"."
+        },
+        {
+          "id": "orat1e",
+          "prompt": "Habet Latīnum trēs cōnstrūctiōnēs parallēlās, sīcut Graecum?",
+          "options": [
+            "sīc, exāctē trēs",
+            "nōn, Latīnum adhibet praecipuē AcI ūniversāliter",
+            "Latīnum nōn habet ōrātiōnem oblīquam"
+          ],
+          "answerIndex": 1,
+          "explanation": "Discrīmen notābile: Graecum distribuit inter trēs cōnstrūctiōnēs, Latīnum praeferit ūnicam (AcI)."
+        }
+      ]
+    },
+    {
+      "id": "vi-orat1-fill",
+      "type": "fill-blank",
+      "title": "Complē cum Fōrmā Rēctā",
+      "instructions": "Comple spatia cum fōrmā rēctā ōrātiōnis oblīquae.",
+      "items": [
+        {
+          "id": "orat1f",
+          "prompt": "οἶδα τὸν ἄνδρα σοφὸν ___. (participium, \"esse\")",
+          "options": [
+            "ὄντα",
+            "εἶναι",
+            "ὤν"
+          ],
+          "answers": [
+            "ὄντα"
+          ],
+          "explanation": "Acc.+participium: ὄντα, concordāns cum τὸν ἄνδρα."
+        },
+        {
+          "id": "orat1g",
+          "prompt": "λέγει ___ ὁ ἀνὴρ σοφός ἐστιν. (particula, \"quod\")",
+          "options": [
+            "ὅτι",
+            "ἵνα",
+            "εἰ"
+          ],
+          "answers": [
+            "ὅτι"
+          ],
+          "explanation": "Ὅτι introdūcit ōrātiōnem oblīquam post λέγω."
+        },
+        {
+          "id": "orat1h",
+          "prompt": "εἶδον τοὺς πολεμίους ___. (participium, \"appropinquantēs\")",
+          "options": [
+            "προσιόντας",
+            "προσιέναι",
+            "προσιών"
+          ],
+          "answers": [
+            "προσιόντας"
+          ],
+          "explanation": "Acc. pl. participium, concordāns cum τοὺς πολεμίους."
+        },
+        {
+          "id": "orat1i",
+          "prompt": "γιγνώσκω ἐμαυτὸν ___. (participium, subiectum reflexīvum, \"errāre\")",
+          "options": [
+            "ἁμαρτάνοντα",
+            "ἁμαρτάνειν",
+            "ἁμαρτάνων"
+          ],
+          "answers": [
+            "ἁμαρτάνοντα"
+          ],
+          "explanation": "Acc. (ἐμαυτόν) + participium accūsātīvum concordāns."
+        },
+        {
+          "id": "orat1j",
+          "prompt": "ἤγγειλεν ___ οἱ πολέμιοι προσίοιεν. (particula, secundāria, \"quod\")",
+          "options": [
+            "ὅτι",
+            "ἵνα",
+            "ὥστε"
+          ],
+          "answers": [
+            "ὅτι"
+          ],
+          "explanation": "Ὅτι + optātīvus, sequentia secundāria post ἤγγειλεν."
+        }
+      ]
+    },
+    {
+      "id": "vi-orat1-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "orat1k",
+          "statement": "Graecum distribuit ōrātiōnem oblīquam inter trēs cōnstrūctiōnēs, secundum classem sēmanticam verbī regentis.",
+          "answer": true,
+          "explanation": "Corrēctum: acc.+īnf., ὅτι/ὡς, acc.+participium."
+        },
+        {
+          "id": "orat1l",
+          "statement": "Verba percipiendī/sciendī (οἶδα, ὁρῶ) requīrunt participium, nōn īnfīnītīvum.",
+          "answer": true,
+          "explanation": "Corrēctum."
+        },
+        {
+          "id": "orat1m",
+          "statement": "Sī subiectum ōrātiōnis oblīquae (cum participiō) est idem ac subiectum verbī prīncipālis, participium stat nōminātīvō.",
+          "answer": true,
+          "explanation": "Corrēctum."
+        },
+        {
+          "id": "orat1n",
+          "statement": "Ὅτι post λέγω significat semper \"quia\" causāle, numquam \"quod\" oblīquum.",
+          "answer": false,
+          "explanation": "Falsum: post verba dīcendī, ὅτι introdūcit ōrātiōnem oblīquam (\"quod\")."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Trēs cōnstrūctiōnēs ōrātiōnis oblīquae: (1) acc.+īnf. post dīcendī/putandī; (2) ὅτι/ὡς+modus fīnītus post dīcendī/nūntiandī; (3) acc.+participium post sciendī/percipiendī.",
+    "Λέγω acceptat AMBĀS (1) et (2), sine discrīmine sēmanticō obligātōriō.",
+    "Participium in (3) concordat cum accūsātīvō (subiectum dīversum) vel nōminātīvō (subiectum idem).",
+    "Graecum, dīversē ā Latīnō (AcI ūniversāle), distribuit systēmaticē inter trēs cōnstrūctiōnēs secundum classem verbī."
+  ],
+  "related": [
+    {
+      "lessonId": "vi-adiectiva-verbalia-in-teos-et-teon",
+      "label": "Adiectīva Verbālia"
+    },
+    {
+      "lessonId": "iv-infinitivi-omnium-temporum",
+      "label": "Īnfīnītīvī (Gradus IV)"
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "id": "vi-particulae-graecae",
+  "level": "VI",
+  "unit": "1",
+  "order": 4,
+  "skill": "grammatica",
+  "strand": "particulae",
+  "title": "Particulae Graecae",
+  "subtitle": "Μέν...δέ (balantia), particulae postpositīvae (γάρ, οὖν, δέ), ἀλλά (adversātīvum forte), δή/γε (ēmphasis) — sine quibus prōsa Graeca nōn plēnē intellegitur.",
+  "prerequisites": [
+    "vi-usus-casuum-provectiores"
+  ],
+  "objectives": [
+    "Explicāre cōnceptum \"particulae postpositīvae\" (numquam prīmum verbum clausulae) et recitāre exempla frequentia (γάρ, δέ, οὖν)",
+    "Applicāre cōnstrūctiōnem μέν...δέ (\"quidem...autem\") ad balantiam/contrāstum inter duās clausulās vel elementa",
+    "Distinguere ἀλλά (adversātīvum forte, \"sed\") ā δέ (adversātīvum lēve/balantia, \"autem\")",
+    "Recognōscere δή et γε ut particulās ēmphasis/focī, sine trānslātiōne singulā fīxā"
+  ],
+  "content": {
+    "intro": "Particulae Graecae sunt verba brevia (γάρ, δέ, μέν, οὖν, δή, γε, ἀλλά...) quae struunt discursum — indicant relātiōnem logicam inter clausulās (causam, contrāstum, īnferentiam), et gradum ēmphasis/focī intrā clausulam. Frequentia eōrum in prōsā classicā Atticā (praesertim apud Platōnem/Xenophontem) est immēnsa; linguae modernae nōn habent parēs praecīsōs, ideōque trānslātiō litterālis saepe sonat īnfrācta vel perdit nuance.",
+    "explanation": "<p>Prīncipium fundāmentāle: multae particulae sunt <strong>postpositīvae</strong> — id est, NUMQUAM stant prīmum verbum clausulae suae, sed secundum (vel tertium): <span class=\"greek\">ὁ γὰρ ἀνὴρ σοφός ἐστιν</span> (nōn *γὰρ ὁ ἀνήρ). Comparā Latīnum “enim”, quoque postpositīvum. Attentiō ad positiōnem particulae adiuvat identificāre statim quae verba fōrmant ūnam clausulam/phrasim.</p>",
+    "rules": [
+      {
+        "heading": "a) Μέν...Δέ: Balantia",
+        "body": "<p><span class=\"greek\">μέν</span> (\"quidem\") et <span class=\"greek\">δέ</span> (\"autem\") corrēlant, indicantēs duo elementa balancēs/contrāstantia: <span class=\"greek\">ὁ μὲν ἀνὴρ σοφός ἐστιν, ἡ δὲ γυνὴ δικαία.</span> \"Vir quidem sapiēns est, mulier autem iūsta.\" Nōn semper contrāstus fortis — saepe sōlum sīgnificat \"prīmum hoc, deinde illud\", enumerāns sine oppositiōne semantica fortī. Μέν numquam stat sōlus sine δέ (implicitō vel explicitō) sequente alicubi.</p>"
+      },
+      {
+        "heading": "b) Particulae Postpositīvae Commūnēs",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Particula</th><th>Fūnctiō</th><th>Trānslātiō Approximāta</th></tr></thead><tbody><tr><td class=\"greek\">γάρ</td><td>explicātīva/causālis</td><td>\"nam, enim\"</td></tr><tr><td class=\"greek\">δέ</td><td>adversātīvum lēve / continuātīvum</td><td>\"autem, et\"</td></tr><tr><td class=\"greek\">οὖν</td><td>īnferentia/trānsitiō</td><td>\"igitur, ergō\"</td></tr><tr><td class=\"greek\">δή</td><td>ēmphasis, vīvācitās</td><td>\"sānē, certē\" (variābile)</td></tr></tbody></table><p>Δέ, sine μέν praecedente, adhibētur saepe sōlum ut continuātīvum narrātīvum (\"et deinde\"), nōn fortis contrāstus — comparā cum <span class=\"greek\">ἀλλά</span> (semper prīmum verbum, adversātīvum FORTE, \"sed\" fortis).</p>"
+      },
+      {
+        "heading": "c) Ἀλλά vs. Δέ; Γε ut Particula Focī",
+        "body": "<p><span class=\"greek\">ἀλλά</span> (prīmum verbum, nōn postpositīvum) marcat contrāstum fortem/correctiōnem: <span class=\"greek\">οὐ σοφός, ἀλλὰ μωρός ἐστιν.</span> \"Nōn sapiēns, sed stultus est\" [correctiō dīrēcta]. Comparā cum δέ (contrāstus lēvis/continuātiō). <span class=\"greek\">γε</span> (enclīticum, ex Gradū I) restrīngit focum ad verbum immediātē praecedēns: <span class=\"greek\">ἔγωγε οὐκ οἶδα.</span> \"Ego quidem [sī nōn aliī] nesciō\" — γε post ἐγώ īnsistit \"EGO [particulariter]\".</p>"
+      }
+    ],
+    "examples": [
+      "ὁ μὲν πατὴρ σοφός, ὁ δὲ υἱὸς μωρός. — Pater quidem sapiēns, fīlius autem stultus. (μέν/δέ balantia)",
+      "βούλομαι γὰρ μαθεῖν. — Volō enim discere. (γάρ, explicātiō causae)",
+      "οὐκ ἦλθεν· ἠσθένει γάρ. — Nōn vēnit; aegrōtābat enim. (γάρ, causa)",
+      "σοφὸς οὖν ἐστιν; — Estne igitur sapiēns? (οὖν, īnferentia)",
+      "οὐ τοῦτο λέγω, ἀλλ' ἐκεῖνο. — Nōn hoc dīcō, sed illud. (ἀλλά, correctiō forte)",
+      "τοῦτό γε σαφές ἐστιν. — Hoc quidem [saltem] clārum est. (γε, focus restrictus)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Collocāre particulam postpositīvam (γάρ, δέ, οὖν) ut prīmum verbum clausulae, imitandō ōrdinem Latīnum \"enim/autem/igitur\".",
+        "right": "Collocāre semper particulam postpositīvam POST prīmum verbum (vel prīmam phrasim brevem) clausulae suae.",
+        "why": "Positiō postpositīva est rēgula fīxa Graeca sine exceptiōne, dīversa ā libertāte relātīvā Latīnī cum \"enim\"."
+      },
+      {
+        "wrong": "Trānsferre δέ semper \"sed\" (adversātīvum forte), cōnfundendō cum ἀλλά.",
+        "right": "Trānsferre δέ typicē \"autem\" vel \"et\" (continuātīvum lēve); reservāre \"sed\" fortem prō ἀλλά.",
+        "why": "Δέ marcat plērumque sōlum trānsitiōnem/contrāstum lēve narrātīvum, nōn oppositiōnem fortem/correctiōnem quam ἀλλά exprimit."
+      },
+      {
+        "wrong": "Ignōrāre μέν omnīnō in trānslātiōne, crēdēns eam sine sēnsū proprio.",
+        "right": "Recognōscere μέν sīgnat antīcipātē balantiam venientem (δέ posteā), etiam sī nūlla trānslātiō singula Anglica/Lūsitānica/Latīna capiat plēnē hanc fūnctiōnem grammaticam.",
+        "why": "Discipulus quī neglegit μέν perdit sēnsum structūrālis discursūs Graecī, quamvīs sēnsus lexicālis sōlus vidēātur intāctus."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "vi-part1-mc",
+      "type": "multiple-choice",
+      "title": "Particulae Graecae: Rēgulae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "part1a",
+          "prompt": "Quid significat \"particula postpositīva\"?",
+          "options": [
+            "particula quae numquam adhibētur",
+            "particula quae numquam stat prīmum verbum clausulae",
+            "particula sōlum in poēsī"
+          ],
+          "answerIndex": 1,
+          "explanation": "Postpositīvae (γάρ, δέ, οὖν) stant secundum (vel tertium) locum, numquam prīmum."
+        },
+        {
+          "id": "part1b",
+          "prompt": "Quid marcat μέν...δέ?",
+          "options": [
+            "negātiōnem duplicem",
+            "balantiam/contrāstum inter duo elementa",
+            "quaestiōnem"
+          ],
+          "answerIndex": 1,
+          "explanation": "Μέν...δέ corrēlant, indicantēs duo elementa balancēs."
+        },
+        {
+          "id": "part1c",
+          "prompt": "Quod discrīmen distinguit ἀλλά ā δέ?",
+          "options": [
+            "nūllum, sunt synōnyma perfecta",
+            "ἀλλά est adversātīvum forte/correctīvum; δέ est lēvius/continuātīvum",
+            "ἀλλά est postpositīvum, δέ nōn est"
+          ],
+          "answerIndex": 1,
+          "explanation": "Ἀλλά (prīmum verbum) marcat contrāstum/correctiōnem fortem; δέ, trānsitiōnem lēviōrem."
+        },
+        {
+          "id": "part1d",
+          "prompt": "Quid facit γε (enclīticum)?",
+          "options": [
+            "negat sententiam",
+            "restringit focum ad verbum praecedēns",
+            "īnferentiam indicat"
+          ],
+          "answerIndex": 1,
+          "explanation": "Γε marcat focum/līmitātiōnem particulārem."
+        },
+        {
+          "id": "part1e",
+          "prompt": "Quid significat γάρ?",
+          "options": [
+            "\"sed\" adversātīvum",
+            "\"nam, enim\" explicātīvum/causāle",
+            "\"igitur\" īnferentiāle"
+          ],
+          "answerIndex": 1,
+          "explanation": "Γάρ intrōdūcit explicātiōnem/causam."
+        }
+      ]
+    },
+    {
+      "id": "vi-part1-fill",
+      "type": "fill-blank",
+      "title": "Complē cum Particulā Rēctā",
+      "instructions": "Comple spatia cum particulā rēctā.",
+      "items": [
+        {
+          "id": "part1f",
+          "prompt": "ὁ ___ πατὴρ σοφός, ὁ δὲ υἱὸς μωρός. (particula, prīma pars balantiae)",
+          "options": [
+            "μέν",
+            "γάρ",
+            "οὖν"
+          ],
+          "answers": [
+            "μέν"
+          ],
+          "explanation": "Μέν intrōdūcit prīmam partem balantiae, antīcipāns δέ."
+        },
+        {
+          "id": "part1g",
+          "prompt": "οὐκ ἦλθεν· ἠσθένει ___. (particula, causa, \"enim\")",
+          "options": [
+            "γάρ",
+            "δέ",
+            "ἀλλά"
+          ],
+          "answers": [
+            "γάρ"
+          ],
+          "explanation": "Γάρ intrōdūcit explicātiōnem causae."
+        },
+        {
+          "id": "part1h",
+          "prompt": "οὐ τοῦτο λέγω, ___ ἐκεῖνο. (particula, correctiō forte, \"sed\")",
+          "options": [
+            "ἀλλά",
+            "δέ",
+            "γε"
+          ],
+          "answers": [
+            "ἀλλά"
+          ],
+          "explanation": "Ἀλλά marcat correctiōnem/contrāstum fortem."
+        },
+        {
+          "id": "part1i",
+          "prompt": "σοφὸς ___ ἐστιν; (particula, īnferentia, \"igitur\")",
+          "options": [
+            "οὖν",
+            "γάρ",
+            "δή"
+          ],
+          "answers": [
+            "οὖν"
+          ],
+          "explanation": "Οὖν marcat īnferentiam/trānsitiōnem logicam."
+        },
+        {
+          "id": "part1j",
+          "prompt": "τοῦτό ___ σαφές ἐστιν. (particula enclītica, focus, \"quidem\")",
+          "options": [
+            "γε",
+            "δή",
+            "μέν"
+          ],
+          "answers": [
+            "γε"
+          ],
+          "explanation": "Γε restringit focum ad verbum immediātē praecedēns."
+        }
+      ]
+    },
+    {
+      "id": "vi-part1-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "part1k",
+          "statement": "Γάρ, δέ, et οὖν sunt particulae postpositīvae, numquam prīmum verbum clausulae.",
+          "answer": true,
+          "explanation": "Corrēctum: rēgula fīxa positiōnis."
+        },
+        {
+          "id": "part1l",
+          "statement": "Ἀλλά est particula postpositīva, sīcut δέ.",
+          "answer": false,
+          "explanation": "Falsum: ἀλλά stat prīmum verbum, dīversē ā particulīs postpositīvīs."
+        },
+        {
+          "id": "part1m",
+          "statement": "Μέν potest stāre sōlus, sine δέ (implicitō vel explicitō) sequente umquam.",
+          "answer": false,
+          "explanation": "Falsum: μέν semper antīcipat δέ (vel elementum balans equivalēns) alicubi in contextū."
+        },
+        {
+          "id": "part1n",
+          "statement": "Particulae Graecae saepe carent trānslātiōne singulā fīxā in linguās modernās.",
+          "answer": true,
+          "explanation": "Corrēctum: nuance discursīvus saepe nōn habet parem exāctum."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Particulae postpositīvae (γάρ, δέ, οὖν, δή) NUMQUAM stant prīmum verbum clausulae — signum structūrālis ūtile ad identificāre clausulās.",
+    "Μέν...δέ marcat balantiam/contrāstum inter duo elementa; μέν semper antīcipat δέ alicubi.",
+    "Ἀλλά (prīmum verbum) = contrāstus/correctiō FORTIS; δέ = trānsitiō/contrāstus LĒVIOR.",
+    "Γάρ = causa/explicātiō (\"nam\"); οὖν = īnferentia (\"igitur\"); γε (enclīticum) = focus restrictus.",
+    "Particulae Graecae struunt discursum sine parēs exāctōs in linguīs modernīs — attentiō ad eās est essentiālis prō lēctiōne prōsae authenticae."
+  ],
+  "related": [
+    {
+      "lessonId": "vi-usus-casuum-provectiores",
+      "label": "Ūsus Cāsuum Prōvectiōrēs"
+    },
+    {
+      "lessonId": "vi-ordo-verborum-et-stilus-atticus",
+      "label": "Ōrdō Verbōrum et Stilus Atticus"
+    }
+  ]
+}

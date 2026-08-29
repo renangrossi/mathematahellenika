@@ -1,0 +1,206 @@
+{
+  "id": "vi-ordo-verborum-et-stilus-atticus",
+  "level": "VI",
+  "unit": "1",
+  "order": 5,
+  "skill": "grammatica",
+  "strand": "stilus",
+  "title": "Ōrdō Verbōrum et Stilus Atticus",
+  "subtitle": "Ōrdō līber (positiō = ēmphasis, nōn fūnctiō grammatica); hyperbaton; stilus periodicus vs. stilus \"cōnexus\" (Herodotus vs. Thucydidēs/Dēmosthenēs).",
+  "prerequisites": [
+    "vi-particulae-graecae"
+  ],
+  "objectives": [
+    "Explicāre cūr ōrdō verbōrum Graecus sit magis līber quam Latīnus/Anglicus, propter systēma cāsuum plēnē marcātum",
+    "Recognōscere positiōnem inceptīvam/fīnālem clausulae ut locōs ēmphaticōs",
+    "Identificāre hyperbaton (sēparātiōnem verbōrum nātūrāliter iūnctōrum) ut figūram ēmphasis dēlīberātam, nōn errōrem",
+    "Distinguere stilum \"periodicum\" (Thucydidēs, Dēmosthenēs — clausulae balancēs, complexae) ā stilō \"cōnexō\" (Herodotus — parataxis, clausulae simplicēs iūnctae per καί/δέ)"
+  ],
+  "content": {
+    "intro": "Quia cāsus Graecus (nōn positiō) marcat fūnctiōnem grammaticam (subiectum, obiectum, etc.), ōrdō verbōrum est multō magis LĪBER quam in linguīs positiōne-dēpendentibus (Anglicā, Lūsitānicā moderna) — LĪBER, sed NŌN ARBITRĀRIUS: positiō ipsa portat īnfōrmātiōnem, indicāns ēmphasim/focum. Lēctor Graecus \"audit\" ēmphasim per ōrdinem, sīcut lēctor Anglicus audit eam per intonātiōnem vōcis.",
+    "explanation": "<p>Prīncipium generāle: verbum in positiōne INCEPTĪVĀ (prīmum in clausulā) vel FĪNĀLĪ (ultimum) tendit portāre ēmphasim maiōrem quam verbum in mediō. Auctor Graecus manipulat ōrdinem dēlīberātē ad focum crēandum — hoc nōn est \"licentia poētica\" sōlum, sed ūsus normālis etiam in prōsā.</p>",
+    "rules": [
+      {
+        "heading": "a) Ēmphasis per Positiōnem",
+        "body": "<p>Comparā: <span class=\"greek\">ὁ ἀνὴρ τὸν λόγον εἶπεν.</span> (ōrdō \"neutrālis\": subiectum-obiectum-verbum) vs. <span class=\"greek\">τὸν λόγον ὁ ἀνὴρ εἶπεν.</span> (obiectum praepositum: ēmphasis in \"VERBUM\", nōn \"vir\") vs. <span class=\"greek\">εἶπεν ὁ ἀνὴρ τὸν λόγον.</span> (verbum praepositum: ēmphasis in āctiōne ipsā \"DĪXIT\"). Omnēs trēs sunt grammaticē corrēctae — sōlum focus pragmaticus differt.</p>"
+      },
+      {
+        "heading": "b) Hyperbaton",
+        "body": "<p>Hyperbaton est sēparātiō dēlīberāta duōrum verbōrum nātūrāliter iūnctōrum (ut adiectīvum ab nōmine suō) per verba intervenientia, ad crēandum ēmphasim in verbō sēparātō: <span class=\"greek\">μεγάλην γὰρ εἶχε τὴν δύναμιν.</span> \"Magnam enim habēbat potestātem\" (litt. \"magnam enim habēbat [pausa] potestātem\" — μεγάλην sēparātum ā τὴν δύναμιν per γὰρ εἶχε, intensificāns \"magnam\"). Nōn est error syntacticus, sed figūra rhētorica dēlīberāta, frequēns apud ōrātōrēs et historicōs.</p>"
+      },
+      {
+        "heading": "c) Duo Stilī: Periodicus vs. Cōnexus",
+        "body": "<p><strong>Stilus \"cōnexus\"</strong> (λέξις εἰρομένη, \"strung-together\"): clausulae simplicēs, brevēs, iūnctae sequentiāliter per καί/δέ, sine subordinātiōne complexā — patrōnus Herodoteus, magis nārrātīvus/colloquiālis. <strong>Stilus periodicus</strong> (λέξις κατεστραμμένη): perīodus (\"circuitus\") sententiae longae, cum multīs clausulīs subordinātīs (participiīs, genetīvīs absolūtīs, clausulīs relātīvīs/condiciōnālibus) balancentibus arte ante attingere verbum prīncipāle/clausulam maiōrem in fine — patrōnus Thucydideus/Dēmosthenicus, magis fōrmālis/architecturālis. Discipulus quī reconhōscit hunc discrīmen stilisticum comprehendet cūr Thucydidēs \"vidētur difficilior\" quam Xenophōn: nōn grammatica ipsa, sed complexitās architectūrae sententiae.</p>"
+      }
+    ],
+    "examples": [
+      "τὸν λόγον ὁ ἀνὴρ εἶπεν. — Verbum vir dīxit. (obiectum praepositum, ēmphasis in obiectō)",
+      "μεγάλην γὰρ εἶχε τὴν δύναμιν. — Magnam enim habēbat potestātem. (hyperbaton, ēmphasis in μεγάλην)",
+      "ἦλθον, εἶδον, ἐνίκησα. — Vēnī, vīdī, vīcī. (stilus cōnexus, clausulae breves parallēlae)",
+      "ὁ δὲ πόλεμος, ἐπειδὴ ἤρξατο, οὐκέτι ἐπαύσατο, πρὶν ἡ πόλις ἡλῶ. — Bellum autem, postquam coeperat, nōn dēstitit, priusquam urbs capta est. (stilus periodicus, clausulae subordinātae complexae)",
+      "καὶ ταῦτα εἰπὼν ἀπῆλθεν, οἱ δὲ ἔμειναν. — Et haec locūtus discessit, illī vērō mānsērunt. (parataxis, καί/δέ iūnctīvum)",
+      "σοφὸς μὲν ὁ ἀνήρ, οὐ μέντοι δίκαιος. — Sapiēns quidem vir, nōn tamen iūstus. (ōrdō emphaticus, μέν praepositum)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Crēdere ōrdinem verbōrum Graecum esse omnīnō arbitrārium/līberum, sine significātiōne pragmaticā.",
+        "right": "Recognōscere ōrdinem verbōrum portat īnfōrmātiōnem ēmphaticam rēalem — positiō inceptīva/fīnālis marcat focum.",
+        "why": "Libertās ōrdinis nōn significat vacuitātem sēmanticam; est alius canālis īnfōrmātiōnis, distīnctus ā morphologiā cāsuum."
+      },
+      {
+        "wrong": "Interpretārī hyperbaton ut errōrem scrīptōris vel corruptiōnem textūs, quaerendō ēmendātiōnem.",
+        "right": "Recognōscere hyperbaton ut figūram rhētoricam dēlīberātam, ūsitātam ad crēandum ēmphasim specificam.",
+        "why": "Discipulus incipiēns saepe suppōnit incorrēcte quod verba sēparāta dēbent stāre coniūncta, sīcut in linguā māternā."
+      },
+      {
+        "wrong": "Crēdere complexitātem syntacticam Thucydidis significāre grammaticam \"magis avancātam\" vel dīversam ā Xenophonte.",
+        "right": "Recognōscere discrīmen est stilisticum-architectūrāle (perīodus vs. clausulae simplicēs), nōn grammaticum-fundāmentāle.",
+        "why": "Utraque auctor adhibet eandem grammaticam fundāmentālem (iam nōtam ā Gradibus I-V); discrīmen difficultātis est organizātiō sententiae, nōn vocābulum morphologicum novum."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "vi-ord1-mc",
+      "type": "multiple-choice",
+      "title": "Ōrdō Verbōrum et Stilus: Rēgulae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "ord1a",
+          "prompt": "Cūr ōrdō verbōrum Graecus est magis līber quam Anglicus?",
+          "options": [
+            "quia Graecum nōn habet grammaticam fīxam",
+            "quia cāsūs (nōn positiō) marcant fūnctiōnem grammaticam",
+            "quia Graecum est lingua poētica tantum"
+          ],
+          "answerIndex": 1,
+          "explanation": "Systēma cāsuum plēnē marcātum līberat positiōnem ab obligātiōne grammaticā."
+        },
+        {
+          "id": "ord1b",
+          "prompt": "Quid est hyperbaton?",
+          "options": [
+            "error scrīptūrae",
+            "sēparātiō dēlīberāta verbōrum iūnctōrum, ad ēmphasim",
+            "fōrma verbī irregulāris"
+          ],
+          "answerIndex": 1,
+          "explanation": "Figūra rhētorica dēlīberāta, nōn error."
+        },
+        {
+          "id": "ord1c",
+          "prompt": "Quid characterizat stilum \"cōnexum\" (λέξις εἰρομένη)?",
+          "options": [
+            "clausulae complexae, subordinātae, longae",
+            "clausulae simplicēs, iūnctae per καί/δέ",
+            "absentia omnium particulārum"
+          ],
+          "answerIndex": 1,
+          "explanation": "Patrōnus Herodoteus, nārrātīvus, parataxis."
+        },
+        {
+          "id": "ord1d",
+          "prompt": "Quid characterizat stilum periodicum?",
+          "options": [
+            "clausulae simplicēs",
+            "sententiae longae cum multīs clausulīs subordinātīs balancentibus arte",
+            "absentia verbōrum prīncipālium"
+          ],
+          "answerIndex": 1,
+          "explanation": "Patrōnus Thucydideus/Dēmosthenicus, architectūra complexa."
+        },
+        {
+          "id": "ord1e",
+          "prompt": "Reflectit discrīmen inter stilōs (periodicus vs. cōnexus) grammaticam fundāmentālem dīversam?",
+          "options": [
+            "sīc, grammatica ipsa differt",
+            "nōn, ambō adhibent eandem grammaticam; differt architectūra sententiae",
+            "sōlum vocābulum differt"
+          ],
+          "answerIndex": 1,
+          "explanation": "Discrīmen est stilisticum-architectūrāle, nōn grammaticum-fundāmentāle."
+        }
+      ]
+    },
+    {
+      "id": "vi-ord1-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "ord1f",
+          "statement": "Ōrdō verbōrum Graecus est omnīnō arbitrārius, sine significātiōne pragmaticā.",
+          "answer": false,
+          "explanation": "Falsum: positiō marcat ēmphasim/focum, nōn est vacua sēmanticē."
+        },
+        {
+          "id": "ord1g",
+          "statement": "Positiō inceptīva vel fīnālis in clausulā tendit portāre ēmphasim maiōrem.",
+          "answer": true,
+          "explanation": "Corrēctum: prīncipium generāle ēmphasis per positiōnem."
+        },
+        {
+          "id": "ord1h",
+          "statement": "Hyperbaton indicat corruptiōnem textūs vel errōrem scrībae.",
+          "answer": false,
+          "explanation": "Falsum: est figūra rhētorica normālis et dēlīberāta."
+        },
+        {
+          "id": "ord1i",
+          "statement": "Thucydidēs et Xenophōn adhibent eandem grammaticam fundāmentālem, differentēs praecipuē in architectūrā sententiārum.",
+          "answer": true,
+          "explanation": "Corrēctum: discrīmen stilisticum, nōn grammaticum novum."
+        }
+      ]
+    },
+    {
+      "id": "vi-ord1-match",
+      "type": "matching",
+      "title": "Iunge Cōnceptum cum Exemplō",
+      "instructions": "Iunge quemque cōnceptum stilisticum cum exemplō suō.",
+      "items": [
+        {
+          "id": "ord1j",
+          "pairs": [
+            {
+              "left": "hyperbaton",
+              "right": "μεγάλην γὰρ εἶχε τὴν δύναμιν"
+            },
+            {
+              "left": "stilus cōnexus",
+              "right": "ἦλθον, εἶδον, ἐνίκησα"
+            },
+            {
+              "left": "stilus periodicus",
+              "right": "clausula longa cum multīs subordinātīs balancentibus"
+            },
+            {
+              "left": "ēmphasis per ōrdinem",
+              "right": "τὸν λόγον ὁ ἀνὴρ εἶπεν (obiectum praepositum)"
+            }
+          ],
+          "explanation": "Omnia quattuor sunt aspecta dīversa eiusdem prīncipiī: positiō/ōrdō portant sēnsum, nōn sōlum grammatica cāsuum."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Ōrdō verbōrum Graecus est līber (nōn arbitrārius): cāsūs marcant fūnctiōnem, positiō marcat ēmphasim/focum.",
+    "Positiō inceptīva/fīnālis in clausulā tendit portāre ēmphasim maiōrem.",
+    "Hyperbaton: sēparātiō dēlīberāta verbōrum iūnctōrum, figūra rhētorica intentiōnālis, nōn error.",
+    "Stilus cōnexus (Herodotus): clausulae simplicēs, καί/δέ. Stilus periodicus (Thucydidēs/Dēmosthenēs): sententiae complexae, subordinātiō balancēns.",
+    "Discrīmen inter auctōrēs \"faciliōrēs\" et \"difficiliōrēs\" reflectit saepe architectūram sententiae, nōn grammaticam fundāmentāliter dīversam."
+  ],
+  "related": [
+    {
+      "lessonId": "vi-particulae-graecae",
+      "label": "Particulae Graecae"
+    },
+    {
+      "lessonId": "vi-lectio-adaptata-xenophon",
+      "label": "Lēctiō Adaptāta: Xenophōn"
+    }
+  ]
+}

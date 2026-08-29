@@ -1,0 +1,205 @@
+{
+  "id": "vi-recognitio-syntaxis-integra",
+  "level": "VI",
+  "unit": "1",
+  "order": 8,
+  "skill": "grammatica",
+  "strand": "recognitio",
+  "title": "Recognitiō: Syntaxis Integra",
+  "subtitle": "Cōnspectus fīnālis Gradūs VI: trēs cōnstrūctiōnēs ōrātiōnis oblīquae, adiectīva verbālia, ūsūs cāsuum, particulae, stilus — praeparātiō ad textūs authenticōs Gradūs VII.",
+  "prerequisites": [
+    "vi-lectio-adaptata-platon"
+  ],
+  "objectives": [
+    "Recognōscere et applicāre integrē trēs cōnstrūctiōnēs ōrātiōnis oblīquae, ēligendō correcte secundum verbum regēns",
+    "Recitāre discrīmen -τέος (necessitās) vs. -τός (possibilitās), et cāsum agentis proprium (datīvus) prō -τέος",
+    "Cōnsolidāre ūsūs cāsuum prōvectiōrēs (praesertim systēma trichotomicum temporāle) et particulās frequentissimās",
+    "Sentīre praeparātiōnem plēnam ad Gradum VII: legere textūs authenticōs Xenophontis, Platōnis, aliōrum, sine adiūtōriō gradātō"
+  ],
+  "content": {
+    "intro": "Gradus VI addidit ad fundāmentum grammaticum (Gradibus I-V) trēs elementa fīnālia necessāria prō lēctiōne prōsae authenticae: cōnstrūctiōnēs ōrātiōnis oblīquae variōrum verbōrum, syntaxem cāsuum/particulārum idiōmaticam, et cōnscientiam stilisticam (ōrdō, hyperbaton, structūra sententiae). Duae lēctiōnēs adaptātae (Xenophōn, Platōn) applicāvērunt hoc omne in contextū continuō. Hic gradus conclūditur; Gradus VII removet omne \"adiūtōrium\" adaptātiōnis et offert verba ipsa antīquōrum.",
+    "explanation": "<p>Discipulus quī hunc gradum complēvit potest nunc: distinguere quam cōnstrūctiōnem oblīquam quodque verbum requīrit; reconhōscere adiectīva verbālia et cāsum agentis proprium eōrum; nāvigāre systēma cāsuum temporāle trichotomicum; \"legere\" particulās ut structūram argūmentī, nōn sōlum vocābulum; et reconhōscere quandō complexitās sententiae reflectit stilum architectūrālis (nōn grammaticam novam).</p>",
+    "rules": [
+      {
+        "heading": "a) Cōnspectus: Ōrātiō Oblīqua",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Classis Verbī</th><th>Cōnstrūctiō</th></tr></thead><tbody><tr><td>dīcendī/putandī (λέγω, νομίζω)</td><td>acc. + īnfīnītīvus</td></tr><tr><td>dīcendī/nūntiandī (alt., ἀγγέλλω)</td><td>ὅτι/ὡς + modus fīnītus</td></tr><tr><td>sciendī/percipiendī (οἶδα, ὁρῶ)</td><td>acc. + participium</td></tr></tbody></table>"
+      },
+      {
+        "heading": "b) Cōnspectus: Adiectīva Verbālia et Cāsūs Prōvectiōrēs",
+        "body": "<p><span class=\"greek\">-τέος</span> (necessitās, agēns DATĪVŌ) vs. <span class=\"greek\">-τός</span> (possibilitās, sine cōnstrūctiōne agentis speciālī). Systēma temporāle: accūsātīvus (per quantum), genetīvus (intrā quod), datīvus (quō pūnctō). Datīvus possessiōnis (ἔστι μοι = \"habeō\"); accūsātīvus respectūs (\"quod attinet ad\").</p>"
+      },
+      {
+        "heading": "c) Cōnspectus: Particulae et Stilus",
+        "body": "<p>Postpositīvae (γάρ causāle, δέ continuātīvum/adversātīvum lēve, οὖν īnferentiāle) vs. ἀλλά (adversātīvum forte, prīmum verbum). Μέν...δέ balantia. Γε/δή ēmphasis. Ōrdō verbōrum līber sed sīgnificāns (positiō = focus); hyperbaton = ēmphasis dēlīberāta; stilus cōnexus (Herodotus/Xenophōn) vs. periodicus (Thucydidēs/Dēmosthenēs).</p>"
+      }
+    ],
+    "examples": [
+      "λέγει τὸν ἄνδρα σοφὸν εἶναι — ambiguus? nōn, cōnstrūctiō correcta prō λέγω (acc.+īnf.).",
+      "οἶδα τὸν ἄνδρα σοφὸν ὄντα — cōnstrūctiō correcta prō οἶδα (acc.+participium).",
+      "ἡ πόλις λυτέα ἡμῖν ἐστίν — datīvus agentis, cōnstrūctiō -τέος.",
+      "τρεῖς ἡμέρας ἐπορεύοντο, τριῶν δὲ ἡμερῶν ἀφίξονται — extēnsiō (acc.) vs. intrā (gen.), coniūncta in ūnā sententiā.",
+      "ὁ μὲν σοφός, ὁ δὲ μωρός· ἀλλ' ἄμφω φίλοι. — Alius quidem sapiēns, alius vērō stultus; sed ambō amīcī. (μέν/δέ + ἀλλά fortis)",
+      "τὸν λόγον ὁ ἀνὴρ εἶπεν, οὐ τὸ ἔργον. — Verbum vir dīxit, nōn opus. (ēmphasis per ōrdinem, contrāstus implicitus)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Applicāre acc.+īnfīnītīvum ubīque in ōrātiōne oblīquā, ignōrandō verba quae requīrunt participium (sciendī/percipiendī).",
+        "right": "Semper cōnsīderāre classem sēmanticam verbī regentis ante ēligere cōnstrūctiōnem oblīquam.",
+        "why": "Error repetitus per hunc gradum, dignus reaffirmāre ad fīnem: nūlla cōnstrūctiō ūnica servit omnibus verbīs Graecīs, dīversē ā Latīnō."
+      },
+      {
+        "wrong": "Neglegere particulās in lēctiōne, tractandō eās ut ōrnāmenta sine ūllā fūnctiōne.",
+        "right": "Legere particulās ut mappam argūmentī/nārrātiōnis: γάρ = venit explicātiō; οὖν = venit conclūsiō; ἀλλά = venit obiectiō/contrāstus.",
+        "why": "Discipulus quī neglegit particulās perdet magnam partem structūrae logicae textūs authenticī, quamvīs vocābulum ipsum comprehendat."
+      },
+      {
+        "wrong": "Timēre complexitātem sententiārum longārum (stilus periodicus) tamquam sī requīrerent grammaticam novam nōn adhūc discitam.",
+        "right": "Recordārī: perīodus longa est combīnātiō elementōrum GRAMMATICĒ iam nōtōrum (participia, genetīvī absolūtī, clausulae subōrdinātae) — sōlum architectūra est nova, nōn vocābulum grammaticum ipsum.",
+        "why": "Encouragement fīnālis: discipulus quī cōnfīdenter applicat Gradūs I-VI potest, cum patientiā, dēcōdificāre quamlibet sententiam Thucydideam, particulā post particulam."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "vi-rec1-mc",
+      "type": "multiple-choice",
+      "title": "Recognitiō: Syntaxis Integra",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "rec1a",
+          "prompt": "Quam cōnstrūctiōnem requīrit ὁράω (\"videō\") in ōrātiōne oblīquā?",
+          "options": [
+            "acc.+īnfīnītīvus",
+            "acc.+participium",
+            "ὅτι sōlum"
+          ],
+          "answerIndex": 1,
+          "explanation": "Verbum percipiendī requīrit participium."
+        },
+        {
+          "id": "rec1b",
+          "prompt": "Quem cāsum accipit agēns in cōnstrūctiōne -τέος?",
+          "options": [
+            "ὑπό+genetīvus",
+            "datīvus",
+            "accūsātīvus"
+          ],
+          "answerIndex": 1,
+          "explanation": "Rēgula speciālis: datīvus, dīversa ā participiō passīvō."
+        },
+        {
+          "id": "rec1c",
+          "prompt": "Quem cāsum adhibet Graecum prō \"intrā quod tempus\"?",
+          "options": [
+            "accūsātīvum",
+            "genetīvum",
+            "datīvum"
+          ],
+          "answerIndex": 1,
+          "explanation": "Systēma trichotomicum: genetīvus = intrā."
+        },
+        {
+          "id": "rec1d",
+          "prompt": "Quae particula marcat contrāstum/correctiōnem FORTEM?",
+          "options": [
+            "δέ",
+            "γάρ",
+            "ἀλλά"
+          ],
+          "answerIndex": 2,
+          "explanation": "Ἀλλά, prīmum verbum, contrāstus fortis."
+        },
+        {
+          "id": "rec1e",
+          "prompt": "Reflectit complexitās sententiae Thucydideae grammaticam novam, distīnctam ā Gradibus I-V?",
+          "options": [
+            "sīc, grammatica ipsa est dīversa",
+            "nōn, est architectūra/organizātiō, sīcut ex elementīs iam nōtīs"
+          ],
+          "answerIndex": 1,
+          "explanation": "Discrīmen est stilisticum, nōn grammaticum fundāmentāle."
+        }
+      ]
+    },
+    {
+      "id": "vi-rec1-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "rec1f",
+          "statement": "Λέγω acceptat ambās cōnstrūctiōnēs, acc.+īnf. et ὅτι+modus fīnītus.",
+          "answer": true,
+          "explanation": "Corrēctum."
+        },
+        {
+          "id": "rec1g",
+          "statement": "-τός significat necessitātem, sīcut -τέος.",
+          "answer": false,
+          "explanation": "Falsum: -τός significat possibilitātem."
+        },
+        {
+          "id": "rec1h",
+          "statement": "Particulae postpositīvae (γάρ, δέ, οὖν) portant sōlum decorātiōnem stilisticam, sine fūnctiōne logicā.",
+          "answer": false,
+          "explanation": "Falsum: struunt argūmentum/nārrātiōnem, essentiālēs prō sēnsū plēnō."
+        },
+        {
+          "id": "rec1i",
+          "statement": "Post Gradum VI, discipulus habet fundāmentum grammaticum sufficiēns ad affrontāre textūs authenticōs (Gradus VII).",
+          "answer": true,
+          "explanation": "Corrēctum: obiectīvum explicitum huius gradūs."
+        }
+      ]
+    },
+    {
+      "id": "vi-rec1-match",
+      "type": "matching",
+      "title": "Iunge Verbum cum Cōnstrūctiōne",
+      "instructions": "Iunge quodque verbum cum cōnstrūctiōne oblīquā propriā suā.",
+      "items": [
+        {
+          "id": "rec1j",
+          "pairs": [
+            {
+              "left": "λέγω",
+              "right": "acc. + īnfīnītīvus (vel ὅτι)"
+            },
+            {
+              "left": "οἶδα",
+              "right": "acc. + participium"
+            },
+            {
+              "left": "ἀγγέλλω",
+              "right": "ὅτι/ὡς + modus fīnītus (praeferēns)"
+            },
+            {
+              "left": "ὁράω",
+              "right": "acc. + participium"
+            }
+          ],
+          "explanation": "Cōnstrūctiō dēpendet ā classe sēmanticā verbī: dīcendī/putandī vs. sciendī/percipiendī."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Trēs cōnstrūctiōnēs ōrātiōnis oblīquae, ēlēctae secundum classem verbī: acc.+īnf. (dīcendī), ὅτι/ὡς (nūntiandī), acc.+participium (sciendī/percipiendī).",
+    "-τέος (necessitās, agēns datīvō) vs. -τός (possibilitās). Systēma cāsuum temporāle: acc./gen./dat. = per quantum/intrā/quō pūnctō.",
+    "Particulae postpositīvae struunt argūmentum; ἀλλά marcat contrāstum fortem; μέν/δέ marcant balantiam.",
+    "Complexitās stilistica (perīodus Thucydideus) est organizātiō elementōrum iam nōtōrum, nōn grammatica nova.",
+    "Gradus VI conclūditur: discipulus est praeparātus ad Gradum VII, textūs authenticōs sine adaptātiōne."
+  ],
+  "related": [
+    {
+      "lessonId": "vi-lectio-adaptata-platon",
+      "label": "Lēctiō Adaptāta: Platōn"
+    },
+    {
+      "lessonId": "vi-oratio-obliqua-systema-plenum",
+      "label": "Ōrātiō Oblīqua: Systēma Plēnum"
+    }
+  ]
+}

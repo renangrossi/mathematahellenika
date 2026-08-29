@@ -1,0 +1,248 @@
+{
+  "id": "vi-adiectiva-verbalia-in-teos-et-teon",
+  "level": "VI",
+  "unit": "1",
+  "order": 2,
+  "skill": "grammatica",
+  "strand": "adiectiva-verbalia",
+  "title": "Adiectīva Verbālia in -τέος et -τός",
+  "subtitle": "-τέος (necessitās, homologum gerundīvō Latīnō) et -τός (possibilitās, \"-ābilis\"); cōnstrūctiō persōnālis et impersōnālis necessitātis.",
+  "prerequisites": [
+    "vi-oratio-obliqua-systema-plenum"
+  ],
+  "objectives": [
+    "Formāre et adhibēre adiectīvum verbāle in -τέος, -τέα, -τέον (necessitās), comparandō dīrēctē cum gerundīvō Latīnō",
+    "Distinguere cōnstrūctiōnem persōnālem (adiectīvum concordāns cum obiectō) ā cōnstrūctiōne impersōnālī (-τέον ἐστί, neutrum, cum obiectō in accūsātīvō)",
+    "Formāre adiectīvum verbāle in -τός, -τή, -τόν (possibilitās, \"posse fierī\")",
+    "Recognōscere agentem in cōnstrūctiōne -τέος: datīvus (nōn ὑπό+genetīvus, dīversē ā participiō passīvō normālī)"
+  ],
+  "content": {
+    "intro": "Discipulus Latīnē doctus iam nōvit gerundīvum (<em>hic liber legendus est</em>, “hic liber DEBET legī”). Graecum habet cōnstrūctiōnem HOMOLOGAM: adiectīvum verbāle in <span class=\"greek\">-τέος</span>, dērīvātum ā themate verbī (saepe themate aoristī passīvī), significāns necessitātem — “id quod facere dēbet fierī”.",
+    "explanation": "<p>Adiectīvum in <span class=\"greek\">-τέος</span> dēclīnātur exāctē sīcut adiectīvum classis prīmae (καλός/καλή/καλόν, Gradū II) et concordat cum nōmine cuius āctiō est necessāria. Duae cōnstrūctiōnēs: <strong>persōnālis</strong> (adiectīvum concordāns cum subiectō grammaticō) et <strong>impersōnālis</strong> (neutrum <span class=\"greek\">-τέον</span> + <span class=\"greek\">ἐστί</span>, cum obiectō vērō in accūsātīvō — cōnstrūctiō magis frequēns).</p>",
+    "rules": [
+      {
+        "heading": "a) Cōnstrūctiō Persōnālis",
+        "body": "<p><span class=\"greek\">ἡ πόλις λυτέα ἐστίν.</span> — “Urbs solvenda est” (litt. “urbs [dēbet esse] soluta”; λυτέα concordat cum ἡ πόλις, fēminīnō). Agēns (\"ā quō\"), sī explicitus, stat DATĪVŌ (NŌN ὑπό+genetīvō, dīversē ā participiō passīvō normālī, Gradū IV): <span class=\"greek\">ἡ πόλις λυτέα ἡμῖν ἐστίν.</span> “Urbs nōbīs solvenda est” (\"ā nōbīs\", litt. \"nōbīs\").</p>"
+      },
+      {
+        "heading": "b) Cōnstrūctiō Impersōnālis (Frequentior)",
+        "body": "<p><span class=\"greek\">λυτέον ἐστὶ τὴν πόλιν.</span> — “Oportet urbem solvī” (litt. \"[est id] solvendum urbem\"; λυτέον neutrum indēclīnātum in hāc cōnstrūctiōne, obiectum vērum τὴν πόλιν manet ACCŪSĀTĪVUM, nōn nōminātīvum). Haec cōnstrūctiō est magis frequēns quam persōnālis in prōsā classicā, praesertim cum verbīs trānsitīvīs. Agēns, sī explicitus, manet DATĪVUS: <span class=\"greek\">ἡμῖν λυτέον ἐστὶ τὴν πόλιν.</span> “Nōbīs oportet urbem solvere.”</p>"
+      },
+      {
+        "heading": "c) Adiectīvum in -τός: Possibilitās",
+        "body": "<p><span class=\"greek\">-τός, -τή, -τόν</span> (dēclīnātus ut adiectīvum classis prīmae normāle, sine cōnstrūctiōne speciālī) significat possibilitātem passīvam (\"posse fierī\", \"-ābilis\") vel interdum āctiōnem complētam: <span class=\"greek\">λυτός</span> \"solvibilis, quī solvī potest\"; <span class=\"greek\">ὁρατός</span> \"vīsibilis\" (ab ὁράω); <span class=\"greek\">ἄφθαρτος</span> \"incorruptibilis\" (α- prīvātīvum + φθείρω). Discrīmen ā -τέος: -τός significat CAPĀCITĀTEM (potest fierī), -τέος significat NECESSITĀTEM (dēbet fierī).</p>"
+      }
+    ],
+    "examples": [
+      "ἡ πόλις λυτέα ἐστίν. — Urbs solvenda est. (persōnālis)",
+      "λυτέον ἐστὶ τὴν πόλιν. — Oportet urbem solvī. (impersōnālis, magis frequēns)",
+      "ταῦτα πρακτέα ἡμῖν ἐστιν. — Haec nōbīs agenda sunt. (persōnālis, plūrāle neutrum)",
+      "τοῦτο τὸ βιβλίον ἀναγνωστέον ἐστίν. — Hic liber legendus est.",
+      "ὁ θεὸς ἀόρατός ἐστιν. — Deus invīsibilis est. (-τός, possibilitās negāta cum ἀ- prīvātīvō)",
+      "τοῦτο ῥητόν ἐστιν, ἐκεῖνο δὲ ἄρρητον. — Hoc dictū facile [dīcī potest], illud vērō ineffābile."
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Adhibēre ὑπό + genetīvum prō agente in cōnstrūctiōne -τέος, applicandō patrōnum normālem participiī passīvī.",
+        "right": "Adhibēre DATĪVUM prō agente in cōnstrūctiōne -τέος — rēgula speciālis distīncta ā participiō passīvō normālī.",
+        "why": "Adiectīva verbālia in -τέος sequuntur convention agentis propriam suam, comparābilem datīvō agentis cum gerundīvō Latīnō."
+      },
+      {
+        "wrong": "Facere obiectum accūsātīvum in cōnstrūctiōne impersōnālī nōminātīvum, cōnfundendō cum cōnstrūctiōne persōnālī.",
+        "right": "Retinēre obiectum ACCŪSĀTĪVUM in cōnstrūctiōne impersōnālī (-τέον ἐστί + acc.); sōlum in cōnstrūctiōne persōnālī obiectum fit subiectum nōminātīvum.",
+        "why": "Duae cōnstrūctiōnēs habent syntaxem cāsuum dīversam prō obiectō ipsō — cōnfūsiō hīc mūtat grammaticam tōtīus enūntiātī."
+      },
+      {
+        "wrong": "Cōnfundere sēnsum -τέος (necessitās, \"dēbet\") cum -τός (possibilitās, \"potest\"), tractandō eōs ut synōnyma.",
+        "right": "Distinguere sēnsum: -τέος = obligātiō/necessitās (gerundīvum); -τός = capācitās/possibilitās (adiectīvum verbāle \"-ābilis\").",
+        "why": "Discrīmen sēmanticum reālis inter duo suffixa, distīnctum et significāns."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "vi-verb1-mc",
+      "type": "multiple-choice",
+      "title": "Adiectīva Verbālia: Rēgulae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "verb1a",
+          "prompt": "Quid significat suffixum -τέος?",
+          "options": [
+            "possibilitās (\"potest fierī\")",
+            "necessitās (\"dēbet fierī\"), homologum gerundīvō Latīnō",
+            "āctiō praeterita simplex"
+          ],
+          "answerIndex": 1,
+          "explanation": "-τέος exprimit necessitātem, parallēlum gerundīvō Latīnō."
+        },
+        {
+          "id": "verb1b",
+          "prompt": "Quem cāsum accipit agēns in cōnstrūctiōne -τέος?",
+          "options": [
+            "ὑπό + genetīvus, sīcut participium passīvum",
+            "datīvus (sine praepositiōne)",
+            "accūsātīvus"
+          ],
+          "answerIndex": 1,
+          "explanation": "Datīvus est cāsus proprius agentis in hāc cōnstrūctiōne speciālī."
+        },
+        {
+          "id": "verb1c",
+          "prompt": "Quem cāsum accipit obiectum in cōnstrūctiōne impersōnālī (-τέον ἐστί)?",
+          "options": [
+            "nōminātīvus",
+            "accūsātīvus",
+            "genetīvus"
+          ],
+          "answerIndex": 1,
+          "explanation": "Cōnstrūctiō impersōnālis retinet obiectum accūsātīvum."
+        },
+        {
+          "id": "verb1d",
+          "prompt": "Quid significat suffixum -τός?",
+          "options": [
+            "necessitās",
+            "possibilitās (\"posse fierī\", \"-ābilis\")",
+            "tempus futūrum"
+          ],
+          "answerIndex": 1,
+          "explanation": "-τός exprimit capācitātem/possibilitātem, distīnctum ā -τέος."
+        },
+        {
+          "id": "verb1e",
+          "prompt": "Quam dēclīnātiōnem sequitur adiectīvum in -τέος?",
+          "options": [
+            "tertiam",
+            "patrōnum classis prīmae (καλός)",
+            "irregulārem"
+          ],
+          "answerIndex": 1,
+          "explanation": "Sequitur exāctē patrōnum classis prīmae."
+        }
+      ]
+    },
+    {
+      "id": "vi-verb1-fill",
+      "type": "fill-blank",
+      "title": "Complē cum Fōrmā Rēctā",
+      "instructions": "Comple spatia cum fōrmā rēctā adiectīvī verbālis.",
+      "items": [
+        {
+          "id": "verb1f",
+          "prompt": "ἡ πόλις ___ ἐστίν. (fem. sg. \"-τέος\", \"solvenda\")",
+          "options": [
+            "λυτέα",
+            "λυτέον",
+            "λυτός"
+          ],
+          "answers": [
+            "λυτέα"
+          ],
+          "explanation": "Cōnstrūctiō persōnālis, fēminīnum: λυτέα."
+        },
+        {
+          "id": "verb1g",
+          "prompt": "___ ἐστὶ τὴν πόλιν. (neutrum impersōnāle, \"oportet solvī\")",
+          "options": [
+            "λυτέον",
+            "λυτέα",
+            "λυτός"
+          ],
+          "answers": [
+            "λυτέον"
+          ],
+          "explanation": "Cōnstrūctiō impersōnālis: λυτέον (neutrum indēclīnātum)."
+        },
+        {
+          "id": "verb1h",
+          "prompt": "ταῦτα ἡμῖν ___ ἐστιν. (neut. pl., \"agenda\")",
+          "options": [
+            "πρακτέα",
+            "πρακτέον",
+            "πρακτός"
+          ],
+          "answers": [
+            "πρακτέα"
+          ],
+          "explanation": "Persōnālis plūrāle neutrum: πρακτέα."
+        },
+        {
+          "id": "verb1i",
+          "prompt": "ὁ θεὸς ἀ___ ἐστίν. (\"-τός\", \"invīsibilis\")",
+          "options": [
+            "όρατος",
+            "ορατέος",
+            "οραθείς"
+          ],
+          "answers": [
+            "όρατος"
+          ],
+          "explanation": "Possibilitās negāta: ἀόρατος."
+        },
+        {
+          "id": "verb1j",
+          "prompt": "τοῦτο τὸ βιβλίον ἀναγνωστέον ___. (verbum, \"est\")",
+          "options": [
+            "ἐστίν",
+            "εἴη",
+            "ᾖ"
+          ],
+          "answers": [
+            "ἐστίν"
+          ],
+          "explanation": "Cōnstrūctiō cum εἰμί indicātīvō normālī."
+        }
+      ]
+    },
+    {
+      "id": "vi-verb1-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "verb1k",
+          "statement": "Adiectīvum verbāle in -τέος est homologum gerundīvō Latīnō.",
+          "answer": true,
+          "explanation": "Corrēctum: ambō exprimunt necessitātem/obligātiōnem."
+        },
+        {
+          "id": "verb1l",
+          "statement": "Agēns in cōnstrūctiōne -τέος stat ὑπό + genetīvō, sīcut cum participiō passīvō.",
+          "answer": false,
+          "explanation": "Falsum: agēns stat datīvō, rēgula speciālis."
+        },
+        {
+          "id": "verb1m",
+          "statement": "Cōnstrūctiō impersōnālis (-τέον ἐστί) est magis frequēns quam cōnstrūctiō persōnālis in prōsā classicā.",
+          "answer": true,
+          "explanation": "Corrēctum, praesertim cum verbīs trānsitīvīs."
+        },
+        {
+          "id": "verb1n",
+          "statement": "-τός et -τέος significant idem, sine discrīmine sēmanticō.",
+          "answer": false,
+          "explanation": "Falsum: -τός = possibilitās, -τέος = necessitās."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "-τέος, -τέα, -τέον: necessitās (\"dēbet fierī\"), homologum gerundīvō Latīnō; dēclīnātur ut adiectīvum classis prīmae.",
+    "Cōnstrūctiō persōnālis: adiectīvum concordat cum subiectō (ἡ πόλις λυτέα ἐστίν). Impersōnālis (magis frequēns): -τέον ἐστί + obiectum accūsātīvum.",
+    "Agēns in cōnstrūctiōne -τέος: DATĪVUS (nōn ὑπό+genetīvus) — rēgula speciālis distīncta ā participiō passīvō.",
+    "-τός, -τή, -τόν: possibilitās (\"posse fierī\", \"-ābilis\"), discrīmen sēmanticum ā -τέος (necessitās)."
+  ],
+  "related": [
+    {
+      "lessonId": "vi-oratio-obliqua-systema-plenum",
+      "label": "Ōrātiō Oblīqua: Systēma Plēnum"
+    },
+    {
+      "lessonId": "vi-usus-casuum-provectiores",
+      "label": "Ūsus Cāsuum Prōvectiōrēs"
+    }
+  ]
+}

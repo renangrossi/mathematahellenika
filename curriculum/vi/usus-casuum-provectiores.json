@@ -1,0 +1,248 @@
+{
+  "id": "vi-usus-casuum-provectiores",
+  "level": "VI",
+  "unit": "1",
+  "order": 3,
+  "skill": "grammatica",
+  "strand": "casus",
+  "title": "Ūsus Cāsuum Prōvectiōrēs",
+  "subtitle": "Datīvus īnstrūmentī/respectūs/possessiōnis; accūsātīvus respectūs et extēnsiōnis; genetīvus pretiī; distīnctiō temporis (acc. \"per quantum\", gen./dat. \"quandō\").",
+  "prerequisites": [
+    "vi-adiectiva-verbalia-in-teos-et-teon"
+  ],
+  "objectives": [
+    "Recognōscere ūsūs speciālēs datīvī: īnstrūmentī, respectūs, possessiōnis",
+    "Recognōscere ūsūs speciālēs accūsātīvī: respectūs (\"specificātiōnis\"), extēnsiōnis spatiī/temporis",
+    "Recognōscere genetīvum pretiī et genetīvum partitīvum in ūsū prōvectiōre",
+    "Distinguere systēmaticē tempus per accūsātīvum (\"per quantum tempus\") ā tempore per genetīvum/datīvum (\"intrā/quō tempore\")"
+  ],
+  "content": {
+    "intro": "Cāsūs Graecī — quōs iam nōvistī in fūnctiōnibus fundāmentālibus (subiectum, obiectum, possessiō, etc.) — habent quoque ūsūs magis idiōmaticōs, frequentēs in prōsā classicā sed nōn adhūc systēmaticē tractātōs. Haec lēctiō collige eōs, praeparāns tē ad lēctiōnem authenticam (Gradibus VI/VII).",
+    "explanation": "<p>Multī ūsūs \"prōvectiōrēs\" nōn sunt vērē nova grammatica, sed applicātiōnēs specializātae fūnctiōnum fundāmentālium iam nōtārum (datīvus = \"in/cum\"; accūsātīvus = \"extēnsiō/versus\"; genetīvus = \"ā/dē\") ad contextūs novōs.</p>",
+    "rules": [
+      {
+        "heading": "a) Datīvus: Īnstrūmentum, Respectus, Possessiō",
+        "body": "<p><strong>Īnstrūmentī</strong> (\"cum, per\"): <span class=\"greek\">τῇ χειρὶ γράφει.</span> \"Manū scrībit.\" <strong>Respectūs</strong> (\"in respectū ad\"): <span class=\"greek\">ὀνόματι Σωκράτης, ἔργῳ δὲ φιλόσοφος.</span> \"Nōmine Sōcratēs, opere/rē vērā vērō philosophus.\" <strong>Possessiōnis</strong> (adhibitum cum εἰμί, alternātīva ad genetīvum possessiōnis): <span class=\"greek\">ἔστι μοι βιβλίον.</span> \"Est mihi liber\" = \"habeō librum\" (litt. \"liber est ad mē\").</p>"
+      },
+      {
+        "heading": "b) Accūsātīvus: Respectus, Extēnsiō",
+        "body": "<p><strong>Respectūs</strong> (\"in respectū ad, quod attinet ad\" — comparā accūsātīvum Graecum respectūs cum ablātīvō respectūs Latīnō): <span class=\"greek\">τὸ σῶμα νοσεῖ, τὴν δὲ ψυχὴν ὑγιαίνει.</span> \"Corpore aegrōtat, animō autem valet\" (litt. \"aegrōtat quod ad corpus, valet quod ad animum\"). <strong>Extēnsiōnis</strong> (spatium/tempus \"per quantum\"): <span class=\"greek\">τρεῖς ἡμέρας ἐπορεύοντο.</span> \"Trēs diēs iter faciēbant\" (accūsātīvus, DURĀTIŌ, nōn pūnctum temporis).</p>"
+      },
+      {
+        "heading": "c) Genetīvus Pretiī; Distīnctiō Temporis",
+        "body": "<p><strong>Genetīvus pretiī</strong> (\"quantī\"): <span class=\"greek\">πολλοῦ ἄξιόν ἐστιν.</span> \"Multī valet\" (litt. \"multī [pretiī] dignum est\"). <strong>Distīnctiō temporis, systēma complētum:</strong> accūsātīvus = per quantum tempus (\"trēs diēs\", extēnsiō, suprā); genetīvus = intrā quod tempus (\"τρεῖς ἡμερῶν\", \"intrā trēs diēs\", cāsus \"intrā genus temporis\"); datīvus = quō pūnctō temporis (\"τῇ τρίτῃ ἡμέρᾳ\", \"tertiō diē\", locus temporis). Trēs cāsūs, trēs sēnsūs temporālēs distīnctī — patrōnus ūtilis memoriae mandandus tōtus simul.</p>"
+      }
+    ],
+    "examples": [
+      "τῇ χειρὶ τὴν ἐπιστολὴν ἔγραψεν. — Manū epistulam scrīpsit. (dat. īnstrūmentī)",
+      "ἔστι μοι τρία τέκνα. — Habeō trēs līberōs. (dat. possessiōnis, litt. \"sunt mihi\")",
+      "τὸ μὲν σῶμα μικρός, τὴν δὲ γνώμην μέγας. — Corpore parvus, cōnsiliō vērō magnus. (acc. respectūs, antithesis μέν/δέ)",
+      "δέκα ἔτη ἐπολέμησαν. — Decem annōs bellāvērunt. (acc. extēnsiōnis temporis)",
+      "τριῶν ἡμερῶν ἀφίξεται. — Intrā trēs diēs adveniet. (gen., intrā quod tempus)",
+      "τῇ ὑστεραίᾳ ἡμέρᾳ ἀπῆλθον. — Posterō diē discessērunt. (dat., pūnctum temporis)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Adhibēre accūsātīvum ubīque prō tempore, ignōrandō discrīmen inter extēnsiōnem (acc.), \"intrā\" (gen.), et pūnctum (dat.).",
+        "right": "Ēligere cāsum secundum sēnsum temporālem praecīsum: acc. = per quantum, gen. = intrā quod, dat. = quō pūnctō.",
+        "why": "Trēs cāsūs distīnctī prō tribus sēnsibus temporālibus dīversīs — cōnfūsiō hīc mūtat sēnsum tōtīus phrāseōs temporālis."
+      },
+      {
+        "wrong": "Trānsferre ἔστι μοι librum sīcut \"est mihi liber\" litterāliter, sine recognōscere sēnsum idiōmaticum \"habeō\".",
+        "right": "Interpretārī datīvum possessiōnis cum εἰμί ut aequivalēns idiōmaticum \"habēre\", frequēns et normāle in Graecō.",
+        "why": "Graecum praefert saepe hanc cōnstrūctiōnem ad verbum ἔχω ipsum, praesertim in contextibus generālibus/abstractīs."
+      },
+      {
+        "wrong": "Cōnfundere accūsātīvum respectūs cum accūsātīvō obiectī dīrēctī normālī, quaerendō verbum trānsitīvum quod nōn adest.",
+        "right": "Recognōscere accūsātīvum respectūs adiūnctum ad adiectīvum vel verbum intrānsitīvum, significāns \"quod attinet ad\".",
+        "why": "Accūsātīvus respectūs nōn est obiectum vērum, sed modificātor adverbiālis speciālis — patrōnus syntacticus proprius Graecō (et poēticō Latīnō, accūsātīvus Graecus)."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "vi-cas1-mc",
+      "type": "multiple-choice",
+      "title": "Ūsūs Cāsuum: Rēgulae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "cas1a",
+          "prompt": "Quem cāsum adhibet Graecum prō extēnsiōne temporis (\"per trēs diēs\")?",
+          "options": [
+            "accūsātīvum",
+            "genetīvum",
+            "datīvum"
+          ],
+          "answerIndex": 0,
+          "explanation": "Extēnsiō (duratiō) adhibet accūsātīvum."
+        },
+        {
+          "id": "cas1b",
+          "prompt": "Quem cāsum adhibet Graecum prō \"intrā quod tempus\"?",
+          "options": [
+            "accūsātīvum",
+            "genetīvum",
+            "datīvum"
+          ],
+          "answerIndex": 1,
+          "explanation": "\"Intrā\" adhibet genetīvum."
+        },
+        {
+          "id": "cas1c",
+          "prompt": "Quid significat ἔστι μοι βιβλίον?",
+          "options": [
+            "\"liber est mihi datus\"",
+            "\"habeō librum\" (litt. \"est mihi liber\")",
+            "\"librum faciō\""
+          ],
+          "answerIndex": 1,
+          "explanation": "Datīvus possessiōnis cum εἰμί est aequivalēns idiōmaticum \"habēre\"."
+        },
+        {
+          "id": "cas1d",
+          "prompt": "Quid est accūsātīvus respectūs?",
+          "options": [
+            "obiectum dīrēctum normāle",
+            "modificātor significāns \"quod attinet ad\"",
+            "cāsus subiectī"
+          ],
+          "answerIndex": 1,
+          "explanation": "Accūsātīvus respectūs specificat in quō respectū āctiō/statuī valet."
+        },
+        {
+          "id": "cas1e",
+          "prompt": "Quem cāsum adhibet Graecum prō pūnctō temporis (\"tertiō diē\")?",
+          "options": [
+            "accūsātīvum",
+            "genetīvum",
+            "datīvum"
+          ],
+          "answerIndex": 2,
+          "explanation": "Pūnctum temporis adhibet datīvum."
+        }
+      ]
+    },
+    {
+      "id": "vi-cas1-fill",
+      "type": "fill-blank",
+      "title": "Complē cum Cāsū Rēctō",
+      "instructions": "Comple spatia cum fōrmā rēctā, secundum ūsum cāsuum indicātum.",
+      "items": [
+        {
+          "id": "cas1f",
+          "prompt": "δέκα ___ ἐπολέμησαν. (acc., extēnsiō, \"annōs\")",
+          "options": [
+            "ἔτη",
+            "ἐτῶν",
+            "ἔτεσι"
+          ],
+          "answers": [
+            "ἔτη"
+          ],
+          "explanation": "Extēnsiō temporis: accūsātīvus, ἔτη."
+        },
+        {
+          "id": "cas1g",
+          "prompt": "τριῶν ___ ἀφίξεται. (gen., \"intrā diēs\")",
+          "options": [
+            "ἡμερῶν",
+            "ἡμέρας",
+            "ἡμέραις"
+          ],
+          "answers": [
+            "ἡμερῶν"
+          ],
+          "explanation": "\"Intrā quod\": genetīvus, ἡμερῶν."
+        },
+        {
+          "id": "cas1h",
+          "prompt": "τῇ ὑστεραίᾳ ___ ἀπῆλθον. (dat., pūnctum, \"diē\")",
+          "options": [
+            "ἡμέρᾳ",
+            "ἡμέραν",
+            "ἡμέρας"
+          ],
+          "answers": [
+            "ἡμέρᾳ"
+          ],
+          "explanation": "Pūnctum temporis: datīvus, ἡμέρᾳ."
+        },
+        {
+          "id": "cas1i",
+          "prompt": "τῇ ___ τὴν ἐπιστολὴν ἔγραψεν. (dat., īnstrūmentum, \"manū\")",
+          "options": [
+            "χειρί",
+            "χεῖρα",
+            "χειρός"
+          ],
+          "answers": [
+            "χειρί"
+          ],
+          "explanation": "Datīvus īnstrūmentī: χειρί."
+        },
+        {
+          "id": "cas1j",
+          "prompt": "___ μοι τρία τέκνα. (verbum, \"sunt\", possessiō)",
+          "options": [
+            "ἔστι",
+            "εἰσίν",
+            "ἦν"
+          ],
+          "answers": [
+            "ἔστι"
+          ],
+          "explanation": "Nōtā: convention hīc adhibet ἔστι (vel εἰσί, ambō corrēctī secundum concordantiam), sensus possessiōnis."
+        }
+      ]
+    },
+    {
+      "id": "vi-cas1-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "cas1k",
+          "statement": "Accūsātīvus, genetīvus, et datīvus expriment trēs sēnsūs temporālēs distīnctōs (per quantum, intrā quod, quō pūnctō).",
+          "answer": true,
+          "explanation": "Corrēctum: systēma trichotomicum ūtile."
+        },
+        {
+          "id": "cas1l",
+          "statement": "Datīvus possessiōnis cum εἰμί est cōnstrūctiō rāra, ēvītanda in prōsā classicā.",
+          "answer": false,
+          "explanation": "Falsum: est cōnstrūctiō normālis et frequēns, idiōmatica prō \"habēre\"."
+        },
+        {
+          "id": "cas1m",
+          "statement": "Accūsātīvus respectūs specificat in quō respectū adiectīvum/verbum valet.",
+          "answer": true,
+          "explanation": "Corrēctum."
+        },
+        {
+          "id": "cas1n",
+          "statement": "Genetīvus pretiī exprimit valōrem/pretium (\"quantī\").",
+          "answer": true,
+          "explanation": "Corrēctum: πολλοῦ ἄξιον \"multī valet\"."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Datīvus: īnstrūmentī (\"cum, per\"), respectūs, possessiōnis (ἔστι μοι = \"habeō\").",
+    "Accūsātīvus: respectūs (\"quod attinet ad\"), extēnsiōnis spatiī/temporis (\"per quantum\").",
+    "Genetīvus: pretiī (\"quantī\"), et \"intrā quod tempus\" (contrā accūsātīvum \"per quantum\" et datīvum \"quō pūnctō\").",
+    "Systēma temporāle trichotomicum: acc. = duratiō, gen. = intrā, dat. = pūnctum — ūtile mnēmonicum prō lēctiōne prōsae."
+  ],
+  "related": [
+    {
+      "lessonId": "vi-adiectiva-verbalia-in-teos-et-teon",
+      "label": "Adiectīva Verbālia"
+    },
+    {
+      "lessonId": "vi-particulae-graecae",
+      "label": "Particulae Graecae"
+    }
+  ]
+}

@@ -255,35 +255,35 @@
           "lessons": [
             {
               "id": "vi-oratio-obliqua-systema-plenum",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "vi-adiectiva-verbalia-in-teos-et-teon",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "vi-usus-casuum-provectiores",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "vi-particulae-graecae",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "vi-ordo-verborum-et-stilus-atticus",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "vi-lectio-adaptata-xenophon",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "vi-lectio-adaptata-platon",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "vi-recognitio-syntaxis-integra",
-              "status": "planned"
+              "status": "published"
             }
           ]
         }

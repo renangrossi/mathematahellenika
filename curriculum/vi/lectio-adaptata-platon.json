@@ -1,0 +1,155 @@
+{
+  "id": "vi-lectio-adaptata-platon",
+  "level": "VI",
+  "unit": "1",
+  "order": 7,
+  "skill": "lectio",
+  "strand": "lectio-adaptata",
+  "title": "Lēctiō Adaptāta: Platōn",
+  "subtitle": "Dialogus orīginālis, compositus ad imitandum fōrmam Sōcraticam (quaestiō, respōnsum, examinātiō) — nōn excerptum authenticum, exercitium trānsitiōnāle secundum.",
+  "prerequisites": [
+    "vi-lectio-adaptata-xenophon"
+  ],
+  "objectives": [
+    "Legere dialogum continuum, imitantem fōrmam \"elenchī\" Sōcraticī (quaestiō initiālis, respōnsum, obiectiō, revīsiō)",
+    "Applicāre ōrātiōnem oblīquam, particulās, et syntaxem prōvectiōrem (Gradū VI) in contextū dialogicō authentico-similī",
+    "Recognōscere aliquot fōrmās novās (glōssātās): ἀλλήλων (reciprocum), ἔφη/εἰπέ (φημί), participia irregulāria (ἑκών/ἄκων)",
+    "Distinguere stilum dialogicum Platōnicum (quaestiōnēs breves, respōnsa concīsa, particulae emphaticae ἀλλά/οὖν/γε) ā nārrātiōne continua Xenophonteā (lēctiō priōre)"
+  ],
+  "content": {
+    "intro": "<strong>Nota bene:</strong> hic dialogus quoque NŌN est excerptum verum ex operibus Platōnis, sed compositiō ORĪGINĀLIS imitāns fōrmam \"elenchī\" (methodum Sōcraticam quaerendī per quaestiōnēs et respōnsa, saepe dūcēns ad aporian, \"perplexitātem\" prōductīvam) — hīc adhibita ad quaestiōnem simplicem \"quid est amīcus?\".",
+    "explanation": "<p>Nōtā fōrmam: Sōcratēs nōn affirmat respōnsum suum, sed examinat respōnsum interlocūtōris (hīc, \"Polemarchus\") per quaestiōnēs sequentēs, dūcēns eum ad reconhōscere īnsufficientiam propriae dēfīnitiōnis initiālis — patrōnus fundāmentālis omnis dialogī Platōnicī prīmī.</p>",
+    "rules": [
+      {
+        "heading": "Textus: Τί Ἐστιν Φίλος;",
+        "body": "<div class=\"card\" style=\"margin-bottom:var(--space-md);\"><p class=\"greek\" style=\"font-size:var(--step-1);line-height:2;\"><strong>Σωκράτης:</strong> Τί ἐστιν, ὦ Πολέμαρχε, φίλος;<br><strong>Πολέμαρχος:</strong> Φίλος ἐστίν, ὦ Σώκρατες, ὅστις ἡμᾶς εὖ ποιεῖ.<br><strong>Σωκράτης:</strong> Καλῶς λέγεις. Ἀλλ' εἰπέ μοι, ἆρα ὁ αὐτὸς ἀεὶ φίλος ἐστίν, ἢ ἔστιν ὅτε φίλος γίγνεται καὶ ἔστιν ὅτε οὐκέτι;<br><strong>Πολέμαρχος:</strong> Οὐκ οἶδα, ὦ Σώκρατες· τοῦτο γὰρ οὔπω ἐσκεψάμην.<br><strong>Σωκράτης:</strong> Σκεψώμεθα οὖν ἅμα. Εἰ φίλος ἐστὶν ὅστις εὖ ποιεῖ, ἆρα ὁ κακῶς ποιῶν οὐκέτι φίλος ἐστίν;<br><strong>Πολέμαρχος:</strong> Ἔμοιγε δοκεῖ οὕτως.<br><strong>Σωκράτης:</strong> Καὶ πολλάκις γε οἱ φίλοι ἀλλήλους κακῶς ποιοῦσιν, ἄκοντες μέν, ὅμως δέ.<br><strong>Πολέμαρχος:</strong> Ἀληθῆ λέγεις.<br><strong>Σωκράτης:</strong> Οὐκοῦν οὐχ ἱκανός ἐστιν ὁ ὅρος ὃν εἶπες.</p></div><p><strong>Versiō Latīna:</strong></p><p><em>Sōcratēs:</em> Quid est, Ō Polemarche, amīcus?<br><em>Polemarchus:</em> Amīcus est, Ō Sōcratēs, quīcumque nōs bene facit.<br><em>Sōcratēs:</em> Bene dīcis. Sed dīc mihi, num īdem semper amīcus est, an aliquandō amīcus fit et aliquandō nōn iam?<br><em>Polemarchus:</em> Nesciō, Ō Sōcratēs; hoc enim nōndum cōnsīderāvī.<br><em>Sōcratēs:</em> Cōnsīderēmus igitur simul. Sī amīcus est quīcumque bene facit, num quī male facit nōn iam amīcus est?<br><em>Polemarchus:</em> Mihi quidem sīc vidētur.<br><em>Sōcratēs:</em> Et saepe amīcī inter sē male faciunt, inviti quidem, tamen vērō.<br><em>Polemarchus:</em> Vēra dīcis.<br><em>Sōcratēs:</em> Nōnne ergō īnsufficiēns est dēfīnītiō quam dīxistī?</p><p><strong>Glōssārium:</strong> <span class=\"greek\">ἆρα</span> (particula quaestiōnis sī/an) &middot; <span class=\"greek\">ὁ αὐτός</span> (\"īdem\", ūsus novus αὐτοῦ) &middot; <span class=\"greek\">ἔστιν ὅτε</span> (\"aliquandō\", litt. \"est quandō\") &middot; <span class=\"greek\">οὐκέτι</span> (\"nōn iam\") &middot; <span class=\"greek\">σκέπτομαι, ἐσκεψάμην</span> (\"cōnsīderō\", dēpōnēns) &middot; <span class=\"greek\">ἀλλήλων</span> (\"alter alterum, inter sē\") &middot; <span class=\"greek\">ἄκων, ἄκοντος</span> (\"invītus\") &middot; <span class=\"greek\">ὅμως</span> (\"tamen\") &middot; <span class=\"greek\">οὐκοῦν</span> (\"nōnne igitur\") &middot; <span class=\"greek\">ὅρος</span> (\"dēfīnītiō, terminus\") &middot; <span class=\"greek\">εἰπέ</span> (imperātīvus aoristī secundī verbī λέγω, \"dīc!\").</p>"
+      }
+    ],
+    "examples": [
+      "τί ἐστιν φίλος; — Quid est amīcus? (quaestiō initiālis Sōcratica)",
+      "ὅστις ἡμᾶς εὖ ποιεῖ. — Quīcumque nōs bene facit. (dēfīnītiō initiālis, cum ὅστις)",
+      "εἰ φίλος ἐστὶν ὅστις εὖ ποιεῖ, ἆρα ὁ κακῶς ποιῶν οὐκέτι φίλος ἐστίν; — Sī amīcus est quī bene facit, num quī male facit nōn iam amīcus est? (condiciō simplex + quaestiō)",
+      "ἄκοντες μέν, ὅμως δέ. — Invītī quidem, tamen vērō. (μέν/δέ balantia, Gradū VI)",
+      "οὐκοῦν οὐχ ἱκανός ἐστιν ὁ ὅρος ὃν εἶπες. — Nōnne igitur īnsufficiēns est dēfīnītiō quam dīxistī? (relātīvum + quaestiō rhētorica)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Crēdere hunc dialogum esse citātiōnem verbōtenus ex operibus Platōnis (e.g. Rē pūblicā, ubi Polemarchus est persōna reālis).",
+        "right": "Recognōscere explicitē: est compositiō didactica ORĪGINĀLIS, imitāns fōrmam elenchī, nōn textus authenticus.",
+        "why": "Quamquam Polemarchus et thema (amīcitia, dēfīnītiō) ēvocant Rem pūblicam Platōnis Librum I, hic dialogus particulāris est inventus prō hōc cursū, nōn citātus."
+      },
+      {
+        "wrong": "Crēdere fōrmam elenchī significāre Sōcratem \"vincere\" argūmentum per vim rhētoricam, potius quam per logicam genuīnam.",
+        "right": "Recognōscere Sōcratēs prōcēdit per quaestiōnēs quae revēlant implicātiōnēs logicās respōnsī interlocūtōris ipsīus (hīc, respōnsum implicat rem absurdam: amīcī malefacientēs dēsinunt esse amīcī).",
+        "why": "Methodus Sōcratica est genuīnē dialectica (colaborātīva), nōn adversārālis, quamquam saepe dūcit ad aporian."
+      },
+      {
+        "wrong": "Ignōrāre particulās (ἀλλά, οὖν, γε, μέν/δέ) ut ōrnāmenta sine sēnsū, trānsferendō sōlum contentum lexicāle.",
+        "right": "Attendere particulās ut structūram argūmentī ipsīus — ἀλλά marcat obiectiōnem, οὖν marcat proximum passum logicum.",
+        "why": "In dialogō philosophicō, particulae saepe portant plūs sēnsūs argūmentātīvī quam verba ipsa lexicālia."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "vi-lecp-tf",
+      "type": "true-false",
+      "title": "Intellēctūs Textūs",
+      "instructions": "Secundum dialogum, dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "lecp1",
+          "statement": "Polemarchus initiō dēfīnit amīcum ut \"quīcumque nōs bene facit\".",
+          "answer": true,
+          "explanation": "Corrēctum: \"ὅστις ἡμᾶς εὖ ποιεῖ.\""
+        },
+        {
+          "id": "lecp2",
+          "statement": "Sōcratēs affirmat immediātē dēfīnītiōnem Polemarchī esse corrēctam.",
+          "answer": false,
+          "explanation": "Falsum: Sōcratēs eam examinat per quaestiōnēs sequentēs."
+        },
+        {
+          "id": "lecp3",
+          "statement": "Secundum argūmentum, amīcī numquam sē invicem male faciunt.",
+          "answer": false,
+          "explanation": "Falsum: \"πολλάκις γε οἱ φίλοι ἀλλήλους κακῶς ποιοῦσιν\" — saepe sē invicem male faciunt."
+        },
+        {
+          "id": "lecp4",
+          "statement": "Ad fīnem, Sōcratēs concludit dēfīnītiōnem Polemarchī esse īnsufficientem.",
+          "answer": true,
+          "explanation": "Corrēctum: \"οὐχ ἱκανός ἐστιν ὁ ὅρος.\""
+        }
+      ]
+    },
+    {
+      "id": "vi-lecp-mc",
+      "type": "multiple-choice",
+      "title": "Comprehēnsiō et Grammatica",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "lecp5",
+          "prompt": "Quid significat ἀλλήλους in hōc textū?",
+          "options": [
+            "\"sē ipsōs\"",
+            "\"alter alterum, inter sē\" (reciprocum)",
+            "\"omnēs\""
+          ],
+          "answerIndex": 1,
+          "explanation": "Ἀλλήλους est prōnōmen reciprocum, \"inter sē\"."
+        },
+        {
+          "id": "lecp6",
+          "prompt": "Ad quam classem grammaticam pertinet ὅστις hīc?",
+          "options": [
+            "prōnōmen interrogātīvum sōlum",
+            "prōnōmen relātīvum indēfīnītum (\"quīcumque\")",
+            "coniūnctiō"
+          ],
+          "answerIndex": 1,
+          "explanation": "Ὅστις (Gradū V) fūnctiōnat hīc ut relātīvum indēfīnītum in dēfīnītiōne."
+        },
+        {
+          "id": "lecp7",
+          "prompt": "Quid indicat particula ἀλλά in \"ἀλλ' εἰπέ μοι\"?",
+          "options": [
+            "continuātiōnem simplicem",
+            "obiectiōnem/trānsitiōnem ad novum passum argūmentī",
+            "negātiōnem sōlam"
+          ],
+          "answerIndex": 1,
+          "explanation": "Ἀλλά marcat trānsitiōnem ad nova quaestiōnem, Gradū VI."
+        },
+        {
+          "id": "lecp8",
+          "prompt": "Quī methodus philosophica exemplificātur ab hōc dialogō?",
+          "options": [
+            "rhētorica dēmōnstrātīva",
+            "elenchus Sōcraticus (quaestiō-respōnsum-examinātiō)",
+            "nārrātiō historica"
+          ],
+          "answerIndex": 1,
+          "explanation": "Fōrma quaestiō-respōnsum-examinātiō est methodus Sōcratica classica."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Dialogus est compositiō didactica ORĪGINĀLIS in fōrmā Sōcraticā — nōn excerptum verum, explicitē notandum.",
+    "Elenchus Sōcraticus: quaestiō initiālis → dēfīnītiō interlocūtōris → examinātiō per quaestiōnēs → reconhōscere īnsufficientiam.",
+    "Particulae (ἀλλά, οὖν, γε, μέν/δέ, Gradū VI) struunt argūmentum ipsum, portantēs plūs sēnsūs quam vocābulum sōlum.",
+    "Fōrmae novae glōssātae (ἀλλήλων, ἄκων, εἰπέ) extendunt vocābulum sine requīrere theoriam grammaticam novam sīgnificantem."
+  ],
+  "related": [
+    {
+      "lessonId": "vi-lectio-adaptata-xenophon",
+      "label": "Lēctiō Adaptāta: Xenophōn"
+    },
+    {
+      "lessonId": "vi-recognitio-syntaxis-integra",
+      "label": "Recognitiō: Syntaxis Integra"
+    }
+  ]
+}

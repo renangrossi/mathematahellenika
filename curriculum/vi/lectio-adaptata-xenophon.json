@@ -1,0 +1,155 @@
+{
+  "id": "vi-lectio-adaptata-xenophon",
+  "level": "VI",
+  "unit": "1",
+  "order": 6,
+  "skill": "lectio",
+  "strand": "lectio-adaptata",
+  "title": "Lēctiō Adaptāta: Xenophōn",
+  "subtitle": "Nārrātiō orīginālis, compositā ad imitandum stilum Xenophontis (clārum, simplex, chronologicum) — nōn excerptum authenticum, sed exercitium trānsitiōnāle ante Gradum VII.",
+  "prerequisites": [
+    "vi-ordo-verborum-et-stilus-atticus"
+  ],
+  "objectives": [
+    "Legere nārrātiōnem continuam prōsae adaptātae, imitantem stilum \"cōnexum\" Xenophonteum (Gradū VI priōre)",
+    "Applicāre grammaticam integram Gradūum I-VI ad textum longiōrem, sine adiūtōriō interlineārī cōnstantī",
+    "Recognōscere aliquot fōrmās novās (glōssātās) ut extēnsiōnem nātūrālem patrōnōrum iam nōtōrum (aoristus secundus, imperātīvus aoristī secundī), praeparāns lēctiōnem authenticam Gradūs VII",
+    "Distinguere nārrātīvē quid sit \"lēctiō adaptāta\" (compositiō didactica in stilō auctōris) ā \"textū authenticō\" (verba ipsa auctōris antīquī, Gradū VII)"
+  ],
+  "content": {
+    "intro": "<strong>Nota bene:</strong> textus sequēns NŌN est excerptum verum ex operibus Xenophontis, sed nārrātiō ORĪGINĀLIS, hīc composita ad exercendum stilum eius (Anabasis-similem: mīlitēs, iter, dēcīsiōnēs practicae, prōsa clāra et directa) grammaticā omnīnō intrā id quod hic cursus iam docuit. Gradus VII tē dūcet ad verba ipsa auctōrum antīquōrum; haec lēctiō est pōns.",
+    "explanation": "<p>Lege prīmum sine versiōne Latīnā, adiuvante glōssāriō vocābulōrum novōrum īnfrā datō. Nōtā stilum \"cōnexum\" (Gradū VI priōre): clausulae relātīvē breves, iūnctae per δέ/καί, sine perīodīs longīs Thucydideīs.</p>",
+    "rules": [
+      {
+        "heading": "Textus: Ἡ Διάβασις (Trānsitus)",
+        "body": "<div class=\"card\" style=\"margin-bottom:var(--space-md);\"><p class=\"greek\" style=\"font-size:var(--step-1);line-height:2;\">Οἱ Ἕλληνες ἐπορεύοντο διὰ τῆς χώρας. Ποταμὸς μέγας ἦν ἐν τῇ ὁδῷ. Οἱ στρατιῶται ἐφοβοῦντο· οὐ γὰρ ᾔδεσαν πῶς περάσουσιν. Ὁ δὲ στρατηγὸς ἐκέλευσεν αὐτοὺς μὴ φοβεῖσθαι. &ldquo;Ἐὰν φοβώμεθα,&rdquo; ἔφη, &ldquo;οὐδέποτε περάσομεν.&rdquo; Τέλος δὲ εὗρον χωρίον τι, καὶ ἐκεῖ τὸ ὕδωρ βραχύτερον ἦν. Ἀσφαλῶς οὖν περὶ τὴν ἑσπέραν ἐπέρασαν.</p></div><p><strong>Versiō Latīna:</strong></p><p>Graecī per regiōnem iter faciēbant. Flūmen magnum erat in viā. Mīlitēs timēbant; nōn enim sciēbant quōmodo trānsīrent. Dux autem eōs iussit nōlle timēre. &ldquo;Sī timēbimus,&rdquo; inquit, &ldquo;numquam trānsībimus.&rdquo; Tandem invēnērunt locum quendam, et ibi aqua brevior erat. Tūtō igitur circā vesperam trānsiērunt.</p><p><strong>Glōssārium (vocābula nova vel nōtātū digna):</strong> <span class=\"greek\">πορεύομαι</span> (\"eō, iter faciō\", dēpōnēns, imperfectum ex patrōnō λύομαι) &middot; <span class=\"greek\">ᾔδεσαν</span> (\"sciēbant\", ā verbō οἶδα, fōrma memoranda) &middot; <span class=\"greek\">περάω</span> (\"trānseō\", verbum contractum in -άω) &middot; <span class=\"greek\">ἔφη</span> (\"dīxit\", ā verbō φημί, fōrma frequentissima memoranda) &middot; <span class=\"greek\">εὗρον</span> (\"invēnī/invēnērunt\", aoristus secundus verbī εὑρίσκω, patrōnus iam nōtus) &middot; <span class=\"greek\">βραχύτερον</span> (comparātīvus, \"brevior\") &middot; <span class=\"greek\">ἑσπέρα</span> (\"vesper\").</p>"
+      }
+    ],
+    "examples": [
+      "ἐφοβοῦντο, οὐ γὰρ ᾔδεσαν πῶς περάσουσιν. — Timēbant, nōn enim sciēbant quōmodo trānsīrent. (γάρ postpositīvum, Gradū VI)",
+      "ἐὰν φοβώμεθα, οὐδέποτε περάσομεν. — Sī timēbimus, numquam trānsībimus. (condiciō futūra vīvida, Gradū V)",
+      "ἐκέλευσεν αὐτοὺς μὴ φοβεῖσθαι. — Iussit eōs nōlle timēre. (μή + īnfīnītīvus, Gradū IV)",
+      "τέλος δὲ εὗρον χωρίον τι. — Tandem invēnērunt locum quendam. (aoristus secundus, Gradū IV)",
+      "ἀσφαλῶς περὶ τὴν ἑσπέραν ἐπέρασαν. — Tūtō circā vesperam trānsiērunt."
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Crēdere hunc textum esse citātiōnem verbōtenus ex Anabasī Xenophontis.",
+        "right": "Recognōscere explicitē: est compositiō didactica ORĪGINĀLIS, imitāns stilum, nōn excerptum authenticum.",
+        "why": "Honestās academica requīrit distinctiōnem clāram inter \"adaptātum in stilō\" et \"verba ipsa auctōris\" — cōnfūsiō hīc esset error scholāris."
+      },
+      {
+        "wrong": "Trānsferre verbum-prō-verbō, prōdūcendō Latīnum īnfrāctum, potius quam reconstruere sēnsum tōtīus sententiae.",
+        "right": "Legere tōtam sententiam prīmum (usāns glōssārium prō vocābulīs novīs), deinde reconstruere sēnsum nātūrālem.",
+        "why": "Habitus \"lēctiōnis reālis\" (nōn sōlum trānslātiōnis mechanicae) est obiectīvum praecipuum huius gradūs et Gradūs VII sequentis."
+      },
+      {
+        "wrong": "Frūstrārī cum fōrmīs novīs (ἔφη, εὗρον) sine cōnsulere glōssārium, crēdendō errōrem esse.",
+        "right": "Adhibēre glōssārium prō fōrmīs novīs vel irregulāribus — pars normālis lēctiōnis cuiuslibet linguae, etiam prō locūtōribus nātīvīs antīquīs discentibus scrībere.",
+        "why": "Vocābulum novum, praesertim verbum irregulāre commūne (φημί, εὑρίσκω), est expectandum in tōtā lēctiōne futūrā."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "vi-lecx-tf",
+      "type": "true-false",
+      "title": "Intellēctūs Textūs",
+      "instructions": "Secundum nārrātiōnem, dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "lecx1",
+          "statement": "Mīlitēs timēbant quia nōn sciēbant quōmodo flūmen trānsīrent.",
+          "answer": true,
+          "explanation": "Corrēctum: \"ἐφοβοῦντο, οὐ γὰρ ᾔδεσαν πῶς περάσουσιν.\""
+        },
+        {
+          "id": "lecx2",
+          "statement": "Dux iussit mīlitēs fugere.",
+          "answer": false,
+          "explanation": "Falsum: iussit eōs nōlle timēre, nōn fugere."
+        },
+        {
+          "id": "lecx3",
+          "statement": "Invēnērunt locum ubi aqua erat profundior (altior).",
+          "answer": false,
+          "explanation": "Falsum: aqua erat βραχύτερον, \"brevior/humilior\", nōn altior."
+        },
+        {
+          "id": "lecx4",
+          "statement": "Trānsiērunt flūmen circā vesperam, tūtō.",
+          "answer": true,
+          "explanation": "Corrēctum: \"ἀσφαλῶς... περὶ τὴν ἑσπέραν ἐπέρασαν.\""
+        }
+      ]
+    },
+    {
+      "id": "vi-lecx-mc",
+      "type": "multiple-choice",
+      "title": "Comprehēnsiō et Grammatica",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "lecx5",
+          "prompt": "Quid significat ἔφη in hōc textū?",
+          "options": [
+            "\"dīcet\"",
+            "\"dīxit\"",
+            "\"dīcēbat\""
+          ],
+          "answerIndex": 1,
+          "explanation": "Ἔφη est aoristus (fōrma irregulāris) verbī φημί, \"dīxit\"."
+        },
+        {
+          "id": "lecx6",
+          "prompt": "Ad quam classem grammaticam pertinet εὗρον?",
+          "options": [
+            "aoristus prīmus",
+            "aoristus secundus",
+            "imperfectum"
+          ],
+          "answerIndex": 1,
+          "explanation": "Εὗρον sequitur patrōnum aoristī secundī (Gradū IV), thema mūtātum, sine σ."
+        },
+        {
+          "id": "lecx7",
+          "prompt": "Quod genus condiciōnis exemplificat \"ἐὰν φοβώμεθα, οὐδέποτε περάσομεν\"?",
+          "options": [
+            "irreālis",
+            "futūra vīvida",
+            "futūra minus vīvida"
+          ],
+          "answerIndex": 1,
+          "explanation": "Ἐάν + coniūnctīvus, futūrum indicātīvum: genus 3 (Gradū V)."
+        },
+        {
+          "id": "lecx8",
+          "prompt": "Quī stilus (Gradū VI) exemplificātur ab hōc textū?",
+          "options": [
+            "stilus periodicus (Thucydideus)",
+            "stilus cōnexus (Herodoteus/Xenophonteus)",
+            "poēsis epica"
+          ],
+          "answerIndex": 1,
+          "explanation": "Clausulae breves, iūnctae per δέ/καί — stilus cōnexus."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Textus est compositiō didactica ORĪGINĀLIS in stilō Xenophonteō — nōn excerptum verum, explicitē notandum.",
+    "Grammatica applicāta est integrē intrā id quod Gradūs I-VI docuērunt: dēclīnātiōnēs, coniugātiōnēs, condiciōnēs, particulae.",
+    "Fōrmae novae (ἔφη, εὗρον) sunt glōssātae ut vocābulum irregulāre commūne, extēnsiō nātūrālis patrōnōrum iam nōtōrum.",
+    "Stilus \"cōnexus\" (clausulae breves, δέ/καί) contrāstat cum stilō periodicō (Gradū VI, lēctiō priōre) — hoc textum exemplificat illum."
+  ],
+  "related": [
+    {
+      "lessonId": "vi-ordo-verborum-et-stilus-atticus",
+      "label": "Ōrdō Verbōrum et Stilus Atticus"
+    },
+    {
+      "lessonId": "vi-lectio-adaptata-platon",
+      "label": "Lēctiō Adaptāta: Platōn"
+    }
+  ]
+}

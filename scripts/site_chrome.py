@@ -138,6 +138,7 @@ def header(rel, active_level_code, breadcrumb_html):
                 <li><a href="{rel}exercitationes.html">Exercitationes</a></li>
                 <li><a href="{rel}varia.html">Varia</a></li>
                 <li><a href="{rel}lexicon.html">Lexicon</a></li>
+                <li class="nav-sibling"><a href="https://renangrossi.github.io/lectioneslatinae/" lang="la">Lectiones Latinae</a></li>
                 </ul>
             </nav>
             <div class="nav-utility">

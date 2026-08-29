@@ -9,6 +9,106 @@ Read `docs/natural-method-audit.csv` (regenerate with
 before picking the next lesson — ordered by curriculum sequence, carrying
 every lesson's A/B/C score.
 
+## MANDATORY: exercises should be mostly Greek, not Greek-with-a-Latin-key
+
+**Standing requirement for every Greek lesson, past and future.** The
+concrete failure mode: an exercise's Greek answer choice (or a
+fill-blank prompt's parenthetical) carries its own Latin/English
+translation attached right next to it — e.g. a `fill-blank` prompt
+reading `"Δίδωσί ___ τὸ βιβλίον. (ūsus normālis, "mihi")"`, where the
+quoted `"mihi"` *is* the Latin translation of the correct answer. A
+learner can solve exercises like this by pattern-matching the quoted
+gloss to a superficially similar Greek option, never actually parsing
+the Greek sentence — which defeats the entire Natural Method premise
+that Greek competence should come from understanding Greek directly,
+not from a permanently-attached translation crutch. This is distinct
+from, and independent of, the audit script's A/B/C score: a lesson can
+score A (comprehension-first structure, staged exercises) and still
+fail this test if its exercises quietly hand the learner the answer key
+in Latin.
+
+**The test for every exercise, per item**: *could the learner solve
+this by understanding the Greek itself, or does the Latin/English gloss
+effectively hand them the answer?* If the latter, redesign it.
+
+**What to do:**
+
+1. **Answer choices (`options` in `multiple-choice`/`fill-blank`) should
+   normally be Greek alone** — no `"τῷ φίλῳ — amico"` pattern, ever.
+   (This course's `options` arrays were already almost entirely clean of
+   this on inspection — the more common and worse version of the same
+   problem was in the *prompt*, see next point.)
+2. **Fill-blank/multiple-choice prompts must not carry a quoted
+   translation of the missing form.** A grammatical *label* in Latin
+   metalanguage (a case name, person marker, or the Greek headword being
+   inflected — e.g. `"(τιμή, gen. sg.)"` or `"(1ª sg.)"`) is fine and
+   stays — that is consolidation-stage terminology, not a translation
+   crutch, and is explicitly sanctioned by the existing staging rule
+   above (grammar-naming is the *later* stage, after meaning). What must
+   go is any quoted natural-language phrase — `"“the man is in the
+   house”"`, `"“mihi”"`, `"“vīgintī virī”"` — that translates the Greek
+   sentence or the answer itself. Where the item was a bare noun-phrase
+   with no verb (`"___ ἄνθρωπος (masc. sg.)"`), prefer turning it into an
+   actual clause reusing the lesson's own established vocabulary/cast
+   (`"___ ἄνθρωπος ἐν τῇ οἰκίᾳ ἐστίν."`) so meaning comes from the
+   Greek sentence itself, not a gloss. Numerals as Arabic digits (`"(20)"`)
+   are not a translation and are fine to keep — they're a symbol, not a
+   language.
+3. **True/false statements, recognition-stage prompts, and matching
+   pairs should prefer Greek content directly** where the lesson's own
+   vocabulary supports it — e.g. a `true-false` item stating a Greek
+   sentence from the passage itself (`Ὁ Ἀγάθων εἰς τὴν ἀγορὰν ἔρχεται.` —
+   Ἀληθές/Ψεῦδος) is stronger than a Latin sentence *describing* what the
+   Greek says. This course's existing `recognize`-stage blocks (added by
+   the staging-rule pass above) currently phrase their reasoning
+   statements in Latin *about* a quoted Greek sentence — that's an
+   acceptable middle ground (it still forces reasoning about the Greek,
+   not a translation-match), but a pure-Greek statement is the stronger
+   form when a lesson's vocabulary is rich enough to support one
+   confidently; use judgement per lesson rather than converting
+   mechanically.
+4. **Keep genuine translation exercises — as one type among several, not
+   the default.** This course's `matching` blocks titled "Iunge Graecum
+   cum Latīnō" (pairing a Greek phrase with its Latin sense) are a
+   legitimate, deliberate exercise type and should stay; the difference
+   from the anti-pattern above is that the *whole exercise* is honestly
+   framed as translation practice, not a translation gloss silently
+   riding along inside every option of an exercise that's nominally
+   testing grammar/comprehension.
+5. **Feedback/explanation text** (the `explanation` field shown after
+   answering) is not fully addressed by this pass — it remains
+   Latin-dominant commentary across the curriculum (consistent with this
+   course's own foundational design: Latin as the historical metalanguage
+   for teaching Greek, per the AI-teacher system prompt and this guide's
+   own conventions). Making feedback itself "mostly Greek" per the ideal
+   (`Ὀρθῶς! Ὁ Ἀγάθων δίδωσι τὸ δῶρον τῷ φίλῳ.` rather than a Latin
+   grammatical note) is a much larger rewrite — every `explanation`
+   string in all 67 lessons — that was judged out of scope for this pass
+   given the volume; treat it as a longer-term aspiration, not something
+   to silently skip when a lesson is next touched substantially.
+
+**Audit performed this pass**: every `fill-blank`/`multiple-choice` item
+across all 29 completed Gradus I-III lessons was checked programmatically
+for a Greek-script prompt containing a quoted (`"…"`/`"…"`) translation.
+61 violations were found across 14 files — including, notably, 10 that
+this session's own earlier staging-rule pass had just introduced while
+"upgrading" bare noun-phrase prompts into fuller context (`i-articulus-
+et-numeri`, `ii-declinatio-prima`) — proof that this check needs to be
+part of the standard review for every future edit, not just pre-existing
+content. All 61 were fixed by removing the quoted translation while
+keeping any grammatical label/Greek headword cue. Re-run the same
+`options`/`prompt` quote-scan (see the Python snippet pattern: search
+`fill-blank`/`multiple-choice` items for Greek-script text containing
+`"` or `"`) on any lesson before considering it finished, in Gradus
+IV-VII as much as when revisiting Gradus I-III.
+
+**Apply from the start in Gradus IV-VII**: do not draft exercises with
+Latin glosses attached to every option "for clarity" and plan to strip
+them later — write prompts and options Greek-first from the first draft,
+reaching for a fuller Greek clause (reusing established vocabulary)
+instead of a translation whenever an item needs more context to be
+solvable.
+
 ## Current state
 
 As of this pass: **29/67 lessons score A, 38 B, 0 C** (up from 5 A / 62 B

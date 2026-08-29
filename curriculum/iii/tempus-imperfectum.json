@@ -143,7 +143,7 @@
         },
         {
           "id": "imp1c",
-          "prompt": "Ὁ διδάσκαλος τοὺς μαθητὰς ___. (3ª sg. imperf., λύω, “solvēbat”)",
+          "prompt": "Ὁ διδάσκαλος τοὺς μαθητὰς ___. (3ª sg. imperf., λύω)",
           "options": [
             "ἔλυε(ν)",
             "λύει",
@@ -169,7 +169,7 @@
         },
         {
           "id": "imp1e",
-          "prompt": "___ τὸν λόγον. (3ª pl. imperf., ἀκούω, “audiēbant”, augmentum temporāle)",
+          "prompt": "___ τὸν λόγον. (3ª pl. imperf., ἀκούω, augmentum temporāle)",
           "options": [
             "ἤκουον",
             "ἀκούον",

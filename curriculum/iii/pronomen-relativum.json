@@ -193,7 +193,7 @@
         },
         {
           "id": "rel1g",
-          "prompt": "ἡ γυνὴ ___ ὁρῶ. (acc. sg. fem., obiectum, “quam videō”)",
+          "prompt": "ἡ γυνὴ ___ ὁρῶ. (acc. sg. fem., obiectum)",
           "options": [
             "ἥν",
             "ἥ",
@@ -206,7 +206,7 @@
         },
         {
           "id": "rel1h",
-          "prompt": "ὁ δοῦλος ___ δίδωμι τὸ δῶρον. (dat. sg. masc., “cui dō”)",
+          "prompt": "ὁ δοῦλος ___ δίδωμι τὸ δῶρον. (dat. sg. masc.)",
           "options": [
             "ᾧ",
             "ὅν",
@@ -219,7 +219,7 @@
         },
         {
           "id": "rel1i",
-          "prompt": "οἱ πολῖται ___ φιλῶ. (acc. pl. masc., “quōs amō”)",
+          "prompt": "οἱ πολῖται ___ φιλῶ. (acc. pl. masc.)",
           "options": [
             "οὕς",
             "οἵ",
@@ -232,7 +232,7 @@
         },
         {
           "id": "rel1j",
-          "prompt": "τὰ δῶρα ___ ἔπεμψας. (nōm./acc. pl. neut., “quae mīsistī”)",
+          "prompt": "τὰ δῶρα ___ ἔπεμψας. (nōm./acc. pl. neut.)",
           "options": [
             "ἅ",
             "ὅ",

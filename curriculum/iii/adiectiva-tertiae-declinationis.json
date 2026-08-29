@@ -180,7 +180,7 @@
       "items": [
         {
           "id": "adi2f",
-          "prompt": "ὁ λόγος ___ (nōm. sg. masc., “vērus”)",
+          "prompt": "ὁ λόγος ___ (nōm. sg. masc.)",
           "options": [
             "ἀληθής",
             "ἀληθές",
@@ -193,7 +193,7 @@
         },
         {
           "id": "adi2g",
-          "prompt": "πάντες οἱ ___ (nōm. pl. masc., “omnēs hominēs”)",
+          "prompt": "πάντες οἱ ___ (nōm. pl. masc.)",
           "options": [
             "ἄνθρωποι",
             "ἀνθρώπους",
@@ -206,7 +206,7 @@
         },
         {
           "id": "adi2h",
-          "prompt": "___ ἡ πόλις (nōm. sg. fem., “tōta urbs”)",
+          "prompt": "___ ἡ πόλις (nōm. sg. fem.)",
           "options": [
             "πᾶσα",
             "πᾶς",
@@ -219,7 +219,7 @@
         },
         {
           "id": "adi2i",
-          "prompt": "διὰ ___ τοῦ βίου (gen. sg. masc., “per tōtam vītam”)",
+          "prompt": "διὰ ___ τοῦ βίου (gen. sg. masc.)",
           "options": [
             "παντός",
             "πάσης",
@@ -232,7 +232,7 @@
         },
         {
           "id": "adi2j",
-          "prompt": "τὰ ___ λέγει (acc. pl. neut., “vēra dīcit”)",
+          "prompt": "τὰ ___ λέγει (acc. pl. neut.)",
           "options": [
             "ἀληθῆ",
             "ἀληθές",

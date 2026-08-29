@@ -200,7 +200,7 @@
       "items": [
         {
           "id": "int1f",
-          "prompt": "___ ἐστὶ τὸ βιβλίον; (nōm. sg. neut., “quid”)",
+          "prompt": "___ ἐστὶ τὸ βιβλίον; (nōm. sg. neut.)",
           "options": [
             "τί",
             "τίς",
@@ -213,7 +213,7 @@
         },
         {
           "id": "int1g",
-          "prompt": "___ λέγεις; (acc. sg. masc./fem., “quem”)",
+          "prompt": "___ λέγεις; (acc. sg. masc./fem.)",
           "options": [
             "τίνα",
             "τίνος",
@@ -226,7 +226,7 @@
         },
         {
           "id": "int1h",
-          "prompt": "___ δίδως τὸ δῶρον; (dat. sg., “cui”)",
+          "prompt": "___ δίδως τὸ δῶρον; (dat. sg.)",
           "options": [
             "τίνι",
             "τίνα",
@@ -239,7 +239,7 @@
         },
         {
           "id": "int1i",
-          "prompt": "___ εἰσιν οἱ ἄνθρωποι; (nōm. pl. masc./fem., “quī”)",
+          "prompt": "___ εἰσιν οἱ ἄνθρωποι; (nōm. pl. masc./fem.)",
           "options": [
             "τίνες",
             "τίνα",
@@ -252,7 +252,7 @@
         },
         {
           "id": "int1j",
-          "prompt": "___ φοβῇ; (adverbium, “cūr”)",
+          "prompt": "___ φοβῇ; (adverbium)",
           "options": [
             "διὰ τί",
             "πόθεν",

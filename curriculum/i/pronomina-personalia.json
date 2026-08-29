@@ -158,7 +158,7 @@
       "items": [
         {
           "id": "pron6",
-          "prompt": "Δίδωσί ___ τὸ βιβλίον. (ūsus normālis, “mihi”)",
+          "prompt": "Δίδωσί ___ τὸ βιβλίον. (ūsus normālis)",
           "options": [
             "ἐμοί",
             "μοι",
@@ -171,7 +171,7 @@
         },
         {
           "id": "pron7",
-          "prompt": "Πρὸς ___ ἔρχεται. (post praepositiōnem, “ad mē”)",
+          "prompt": "Πρὸς ___ ἔρχεται. (post praepositiōnem)",
           "options": [
             "ἐμέ",
             "με",
@@ -184,7 +184,7 @@
         },
         {
           "id": "pron8",
-          "prompt": "___ δίδωσιν, οὐ σοί. (contrāstus, “mihi”)",
+          "prompt": "___ δίδωσιν, οὐ σοί. (contrāstus)",
           "options": [
             "μοι",
             "ἐμοί",
@@ -197,7 +197,7 @@
         },
         {
           "id": "pron9",
-          "prompt": "Λέγει ___ μαθητὴν εἶναι. (ūsus normālis, “mē”)",
+          "prompt": "Λέγει ___ μαθητὴν εἶναι. (ūsus normālis)",
           "options": [
             "ἐμέ",
             "με",
@@ -210,7 +210,7 @@
         },
         {
           "id": "pron10",
-          "prompt": "Τοῦτο τὸ βιβλίον ___ ἐστιν. (ēmphasis, “meum”)",
+          "prompt": "Τοῦτο τὸ βιβλίον ___ ἐστιν. (ēmphasis)",
           "options": [
             "μου",
             "ἐμοῦ",

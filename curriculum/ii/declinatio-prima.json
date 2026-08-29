@@ -145,7 +145,7 @@
       "items": [
         {
           "id": "dec1f",
-          "prompt": "Ἀγάθων τῆς ___ ἄξιός ἐστιν. (“Agathon is worthy of honor” — τιμή, gen. sg.)",
+          "prompt": "Ἀγάθων τῆς ___ ἄξιός ἐστιν. (τιμή, gen. sg.)",
           "options": [
             "τιμῆς",
             "τιμήν",
@@ -158,7 +158,7 @@
         },
         {
           "id": "dec1g",
-          "prompt": "Μελίτη τὴν ___ βλέπει. (“Melite sees the house” — οἰκία, acc. sg.)",
+          "prompt": "Μελίτη τὴν ___ βλέπει. (οἰκία, acc. sg.)",
           "options": [
             "οἰκίας",
             "οἰκίαν",
@@ -171,7 +171,7 @@
         },
         {
           "id": "dec1h",
-          "prompt": "Ἀγάθων τῇ ___ χαίρει. (“Agathon rejoices in glory” — δόξα, dat. sg.)",
+          "prompt": "Ἀγάθων τῇ ___ χαίρει. (δόξα, dat. sg.)",
           "options": [
             "δόξῃ",
             "δόξᾳ",
@@ -184,7 +184,7 @@
         },
         {
           "id": "dec1i",
-          "prompt": "Ὁ διδάσκαλος τοὺς ___ φιλεῖ. (“the teacher loves the citizens” — πολίτης, acc. pl.)",
+          "prompt": "Ὁ διδάσκαλος τοὺς ___ φιλεῖ. (πολίτης, acc. pl.)",
           "options": [
             "πολίτας",
             "πολίτου",
@@ -197,7 +197,7 @@
         },
         {
           "id": "dec1j",
-          "prompt": "Αἱ ___ τῶν πολιτῶν μεγάλαι εἰσίν. (“the citizens' honors are great” — τιμή, gen. pl.)",
+          "prompt": "Αἱ ___ τῶν πολιτῶν μεγάλαι εἰσίν. (τιμή, gen. pl.)",
           "options": [
             "τιμῶν",
             "τιμάων",

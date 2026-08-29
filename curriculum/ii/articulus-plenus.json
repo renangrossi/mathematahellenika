@@ -194,7 +194,7 @@
       "items": [
         {
           "id": "art2f",
-          "prompt": "___ σοφοῦ (gen. sg. masc., “sapientis”)",
+          "prompt": "___ σοφοῦ (gen. sg. masc.)",
           "options": [
             "τοῦ",
             "τῆς",
@@ -207,7 +207,7 @@
         },
         {
           "id": "art2g",
-          "prompt": "___ γυναικί (dat. sg. fem., “mulierī”)",
+          "prompt": "___ γυναικί (dat. sg. fem.)",
           "options": [
             "τῷ",
             "τῇ",
@@ -220,7 +220,7 @@
         },
         {
           "id": "art2h",
-          "prompt": "___ δῶρα (acc. pl. neut., “dōna”)",
+          "prompt": "___ δῶρα (acc. pl. neut.)",
           "options": [
             "τά",
             "τούς",
@@ -233,7 +233,7 @@
         },
         {
           "id": "art2i",
-          "prompt": "___ πολιτῶν (gen. pl. masc., “cīvium”)",
+          "prompt": "___ πολιτῶν (gen. pl. masc.)",
           "options": [
             "τῶν",
             "τοῖς",
@@ -246,7 +246,7 @@
         },
         {
           "id": "art2j",
-          "prompt": "___ θεούς (acc. pl. masc., “deōs”)",
+          "prompt": "___ θεούς (acc. pl. masc.)",
           "options": [
             "τούς",
             "τάς",

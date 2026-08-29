@@ -144,7 +144,7 @@
       "items": [
         {
           "id": "art6",
-          "prompt": "___ ἄνθρωπος ἐν τῇ οἰκίᾳ ἐστίν. (“the man is in the house” — dē virō loquimur)",
+          "prompt": "___ ἄνθρωπος ἐν τῇ οἰκίᾳ ἐστίν.",
           "options": [
             "ὁ",
             "ἡ",
@@ -157,7 +157,7 @@
         },
         {
           "id": "art7",
-          "prompt": "___ γυνὴ καλή ἐστιν. (“the woman is beautiful” — dē muliere loquimur)",
+          "prompt": "___ γυνὴ καλή ἐστιν.",
           "options": [
             "ὁ",
             "ἡ",
@@ -170,7 +170,7 @@
         },
         {
           "id": "art8",
-          "prompt": "___ βιβλίον καλόν ἐστιν. (“the book is beautiful” — dē librō loquimur, nōn dē persōnā)",
+          "prompt": "___ βιβλίον καλόν ἐστιν.",
           "options": [
             "ὁ",
             "ἡ",
@@ -183,7 +183,7 @@
         },
         {
           "id": "art9",
-          "prompt": "___ ἄνθρωποι ἐν τῇ οἰκίᾳ εἰσίν. (“the men are in the house” — plūrēs virī)",
+          "prompt": "___ ἄνθρωποι ἐν τῇ οἰκίᾳ εἰσίν.",
           "options": [
             "οἱ",
             "αἱ",
@@ -196,7 +196,7 @@
         },
         {
           "id": "art10",
-          "prompt": "___ γυναῖκες ἐν τῇ οἰκίᾳ εἰσίν. (“the women are in the house” — plūrēs mulierēs)",
+          "prompt": "___ γυναῖκες ἐν τῇ οἰκίᾳ εἰσίν.",
           "options": [
             "οἱ",
             "αἱ",

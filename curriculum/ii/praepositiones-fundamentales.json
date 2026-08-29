@@ -200,7 +200,7 @@
       "items": [
         {
           "id": "prepf",
-          "prompt": "εἰς τὴν ___ (“in urbem”, εὐθύς acc.)",
+          "prompt": "εἰς τὴν ___ (acc.)",
           "options": [
             "πόλιν",
             "πόλει",
@@ -213,7 +213,7 @@
         },
         {
           "id": "prepg",
-          "prompt": "ἐκ τῆς ___ (“ē domō”, gen.)",
+          "prompt": "ἐκ τῆς ___ (gen.)",
           "options": [
             "οἰκίας",
             "οἰκίᾳ",
@@ -226,7 +226,7 @@
         },
         {
           "id": "preph",
-          "prompt": "σὺν τοῖς ___ (“cum amīcīs”, dat.)",
+          "prompt": "σὺν τοῖς ___ (dat.)",
           "options": [
             "φίλοις",
             "φίλους",
@@ -239,7 +239,7 @@
         },
         {
           "id": "prepi",
-          "prompt": "διὰ τὸν ___ (“propter bellum”, acc.)",
+          "prompt": "διὰ τὸν ___ (acc.)",
           "options": [
             "πόλεμον",
             "πολέμου",
@@ -252,7 +252,7 @@
         },
         {
           "id": "prepj",
-          "prompt": "μετὰ τὴν ___ (“post pugnam”, acc.)",
+          "prompt": "μετὰ τὴν ___ (acc.)",
           "options": [
             "μάχην",
             "μάχης",

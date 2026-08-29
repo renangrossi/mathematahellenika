@@ -16,7 +16,7 @@
   ],
   "content": {
     "intro": "<span class=\"greek\">Ἀγάθων λέγει· χαῖρε, ὦ φίλε. Μελίτη λέγει· τίς εἶ;</span> Notāvistī: <span class=\"greek\">χαῖρε</span> (salūtātiō) et <span class=\"greek\">εἶ</span> (fōrma verbī εἰμί)? Nunc, cum alphabētum et signa diacritica nōta sint, ad prīmās vōcēs vīvās pervenīmus: Ἀγάθων et Μελίτη, quōs per tōtum cursum revidēbis.",
-    "explanation": "<p><span class=\"greek\">Ἀγάθων λέγει· “Χαῖρε, ὦ φίλε.” Μελίτη λέγει· “Χαῖρε καὶ σύ. Τίς εἶ;” “Ἐγώ εἰμι μαθητής,” λέγει Ἀγάθων. “Σὺ εἶ διδάσκαλος;” “Οὐχί,” λέγει Μελίτη, “ἡμεῖς ἐσμὲν φίλοι.”</span> (Agathōn dīcit: “Salvē, amīce.” Melitē dīcit: “Et tū salvē. Quis es?” “Discipulus sum,” dīcit Agathōn. “Tū es magistra?” “Nōn,” dīcit Melitē, “amīcī sumus.”)</p><p>Notāvistīne <span class=\"greek\">εἰμι, εἶ, ἐσμέν</span> — trēs persōnae, trēs fōrmae? Sīcut Latīnē, Graecē quoque persōna verbī inest ipsī dēsinentiae; prōnōmen (ἐγώ, σύ...) plērumque <strong>omittitur</strong>, additūrum sōlum sī ēmphasis quaeritur. Nōtā etiam ūnam rem quae discipulōs Anglicē vel Rōmānicē locūtōs semper surprēndit: <strong>Graecum signum interrogātiōnis est “;”</strong> (eadem fōrma ac Anglicum/Latīnum “sēmicolon”), nōn “?”. Signum “·” (raised dot, ānō teleíā) servit aliīs ūsibus, sīcut sēmicolon vel colon Latīnum.</p>",
+    "explanation": "<p><span class=\"greek\">Ἀγάθων λέγει· “Χαῖρε, ὦ φίλε.” Μελίτη λέγει· “Χαῖρε καὶ σύ. Τίς εἶ;” “Ἐγώ εἰμι μαθητής,” λέγει Ἀγάθων. “Σὺ εἶ διδάσκαλος;” “Οὐχί,” λέγει Μελίτη, “ἡμεῖς ἐσμὲν φίλοι.” Ὁ διδάσκαλος ἐστι σοφός. Ἀγάθων καὶ Μελίτη εἰσὶ μαθηταί. “Ὑμεῖς ἐστε καλοὶ μαθηταί,” λέγει ὁ διδάσκαλος.</span> (Agathōn dīcit: “Salvē, amīce.” Melitē dīcit: “Et tū salvē. Quis es?” “Discipulus sum,” dīcit Agathōn. “Tū es magistra?” “Nōn,” dīcit Melitē, “amīcī sumus.” Magister sapiēns est. Agathōn et Melitē discipulī sunt. “Vōs estis bonī discipulī,” dīcit magister.)</p><p>Notāvistīne <span class=\"greek\">εἰμι, εἶ, ἐσμέν, ἐστι, εἰσὶ, ἐστε</span> — sex persōnae, sex fōrmae, omnēs iam vīsae in sententiīs quās intellegis, antequam ūllam quaestiōnem grammaticam respondeās? Sīcut Latīnē, Graecē quoque persōna verbī inest ipsī dēsinentiae; prōnōmen (ἐγώ, σύ...) plērumque <strong>omittitur</strong>, additūrum sōlum sī ēmphasis quaeritur. Nōtā etiam ūnam rem quae discipulōs Anglicē vel Rōmānicē locūtōs semper surprēndit: <strong>Graecum signum interrogātiōnis est “;”</strong> (eadem fōrma ac Anglicum/Latīnum “sēmicolon”), nōn “?”. Signum “·” (raised dot, ānō teleíā) servit aliīs ūsibus, sīcut sēmicolon vel colon Latīnum.</p>",
     "rules": [
       {
         "heading": "a) Εἰμί: Tempus Praesēns",
@@ -67,7 +67,7 @@
       "type": "reading-comprehension",
       "title": "Χαῖρε, ὦ Φίλε",
       "instructions": "Lege, deinde responde secundum sensum, non verbum singulum.",
-      "passage": "<p><span class=\"greek\">Ἀγάθων λέγει· “Χαῖρε, ὦ φίλε.” Μελίτη λέγει· “Χαῖρε καὶ σύ. Τίς εἶ;” “Ἐγώ εἰμι μαθητής,” λέγει Ἀγάθων. “Σὺ εἶ διδάσκαλος;” “Οὐχί,” λέγει Μελίτη, “ἡμεῖς ἐσμὲν φίλοι.”</span></p>",
+      "passage": "<p><span class=\"greek\">Ἀγάθων λέγει· “Χαῖρε, ὦ φίλε.” Μελίτη λέγει· “Χαῖρε καὶ σύ. Τίς εἶ;” “Ἐγώ εἰμι μαθητής,” λέγει Ἀγάθων. “Σὺ εἶ διδάσκαλος;” “Οὐχί,” λέγει Μελίτη, “ἡμεῖς ἐσμὲν φίλοι.” Ὁ διδάσκαλος ἐστι σοφός. Ἀγάθων καὶ Μελίτη εἰσὶ μαθηταί. “Ὑμεῖς ἐστε καλοὶ μαθηταί,” λέγει ὁ διδάσκαλος.</span></p>",
       "items": [
         {
           "id": "eimi-story1",
@@ -96,11 +96,50 @@
           "options": ["amīcī sumus (φίλοι)", "inimīcī sumus", "ignōtī sumus"],
           "answerIndex": 0,
           "explanation": "“Ἡμεῖς ἐσμὲν φίλοι.”"
+        },
+        {
+          "id": "eimi-story5",
+          "prompt": "Quid magister dē Agathōne et Melitē dīcit?",
+          "options": ["vōs estis bonī discipulī (ἐστε καλοὶ μαθηταί)", "vōs estis malī discipulī", "nihil dīcit"],
+          "answerIndex": 0,
+          "explanation": "“Ὑμεῖς ἐστε καλοὶ μαθηταί,” λέγει ὁ διδάσκαλος."
         }
       ]
     },
     {
-      "id": "i-eimi-fill", "type": "fill-blank", "title": "Coniugā Εἰμί",
+      "id": "i-eimi-recognize",
+      "type": "true-false",
+      "title": "Quis Est Quis? (Ex Sēnsū)",
+      "instructions": "Relege sententiās suprā. Dēcerne utrum vērum an falsum sit, ex sēnsū nārrātiōnis.",
+      "items": [
+        {
+          "id": "eimi-rec1",
+          "statement": "Cum Agathōn dīcit “ἐγώ εἰμι μαθητής”, loquitur dē sē ipsō.",
+          "answer": true,
+          "explanation": "Εἰμι est prīma persōna: Agathōn dē sē ipsō loquitur."
+        },
+        {
+          "id": "eimi-rec2",
+          "statement": "Cum Melitē rogat “σὺ εἶ διδάσκαλος;”, rogat dē sē ipsā, nōn dē Agathōne.",
+          "answer": false,
+          "explanation": "Falsum: εἶ (secunda persōna) refert ad Agathōnem, ad quem Melitē loquitur, nōn ad sē ipsam."
+        },
+        {
+          "id": "eimi-rec3",
+          "statement": "“Ὁ διδάσκαλος ἐστι σοφός” refert ad Agathōnem et Melitēn simul.",
+          "answer": false,
+          "explanation": "Falsum: ἐστι est tertia persōna singulāris, referēns ad ūnam persōnam absentem ā dialogō (magistrum), nōn ad locūtōrēs."
+        },
+        {
+          "id": "eimi-rec4",
+          "statement": "Cum magister dīcit “ὑμεῖς ἐστε καλοὶ μαθηταί”, loquitur ad Agathōnem ET Melitēn simul.",
+          "answer": true,
+          "explanation": "Ἐστε (secunda persōna plūrālis) refert ad plūrēs audītōrēs simul — hīc, ambōs discipulōs."
+        }
+      ]
+    },
+    {
+      "id": "i-eimi-fill", "type": "fill-blank", "title": "Coniugā Εἰμί (Iam Vīsam in Sententiīs)",
       "instructions": "Comple spatia cum fōrmā rēctā verbī εἰμί. (Accentūs nōn necessāriī sunt ad respōnsum probandum, sed disce eōs rēctē scrībere.)",
       "items": [
         { "id": "eimi1", "prompt": "Ἐγὼ ___ μαθητής.", "options": ["εἰμί", "εἶ", "ἐστί"], "answers": ["εἰμί"], "explanation": "Prīma persōna singulāris: εἰμί (sum)." },

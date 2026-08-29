@@ -4,9 +4,9 @@ i-vocales-diphthongi-et-longitudo,I,"Vōcālēs, Diphthongī, et Longitūdō",pr
 i-consonantes-et-digrapha,I,Cōnsonantēs Geminātae et Digrapha Nāsālia,pronuntiatio,3,10,0,0.0,False,True,True,False,False,3,2,3,A,curriculum/i/consonantes-et-digrapha.json
 i-spiritus-et-accentus,I,Spīritūs et Accentūs,pronuntiatio,4,14,0,0.0,True,True,True,False,False,3,1,4,A,curriculum/i/spiritus-et-accentus.json
 i-syllabae-et-enclitica,I,"Syllabae, Prōclīticae, et Enclīticae",pronuntiatio,4,14,0,0.0,True,True,True,False,False,4,2,4,A,curriculum/i/syllabae-et-enclitica.json
-i-salutationes-et-verbum-sum,I,Salūtātiōnēs et Εἰμί (Verbum Essendi),grammatica,4,15,0,0.0,True,True,False,False,True,4,2,5,A,curriculum/i/salutationes-et-verbum-sum.json
-i-articulus-et-numeri,I,Articulus (Fōrmae Nōminātīvae) et Numerī,grammatica,4,18,1,0.06,True,False,True,False,True,3,2,5,A,curriculum/i/articulus-et-numeri.json
-i-pronomina-personalia,I,Prōnōmina Persōnālia,grammatica,4,18,0,0.0,True,False,True,False,True,3,2,5,A,curriculum/i/pronomina-personalia.json
+i-salutationes-et-verbum-sum,I,Salūtātiōnēs et Εἰμί (Verbum Essendi),grammatica,5,20,0,0.0,True,True,True,False,True,4,2,6,A,curriculum/i/salutationes-et-verbum-sum.json
+i-articulus-et-numeri,I,Articulus (Fōrmae Nōminātīvae) et Numerī,grammatica,5,23,1,0.04,True,False,True,False,True,3,2,5,A,curriculum/i/articulus-et-numeri.json
+i-pronomina-personalia,I,Prōnōmina Persōnālia,grammatica,5,22,0,0.0,True,False,True,False,True,3,2,5,A,curriculum/i/pronomina-personalia.json
 i-lectio-prima,I,Lēctiō Prīma,lectio,3,9,0,0.0,False,True,True,False,True,2,1,3,A,curriculum/i/lectio-prima.json
 ii-declinatio-prima,II,Dēclīnātiō Prīma,grammatica,4,17,3,0.18,True,False,True,False,True,3,2,5,A,curriculum/ii/declinatio-prima.json
 ii-declinatio-secunda-masculina-et-neutra,II,Dēclīnātiō Secunda: Masculīna et Neutra,grammatica,4,18,3,0.17,True,False,True,False,True,3,2,5,A,curriculum/ii/declinatio-secunda-masculina-et-neutra.json

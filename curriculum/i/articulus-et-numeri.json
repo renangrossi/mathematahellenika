@@ -17,8 +17,8 @@
     "Legere phrasēs simplicēs cum articulō et nōmine in nōminātīvō"
   ],
   "content": {
-    "intro": "<span class=\"greek\">Δέκα μαθηταί ἐσμεν,</span> dīcit Ἀγάθων, ut iam ex fābulā prīmā nōvistī. <span class=\"greek\">Ὁ ἄνθρωπος καλός ἐστιν, ἡ γυνὴ καλή ἐστιν.</span> Notāvistī: <span class=\"greek\">ὁ, ἡ</span> — parva verba, sed praesentia in paene omnī sententiā. Nunc articulum plēnē (in cāsū nōminātīvō) et prīmōs numerōs Graecōs discis.",
-    "explanation": "<p><span class=\"greek\">Ἀγάθων καὶ Μελίτη ἐν τῇ οἰκίᾳ εἰσίν. Δέκα μαθηταί εἰσιν ἐκεῖ, καὶ ὁ διδάσκαλος σοφός ἐστιν. Ὁ ἄνθρωπος καλός ἐστιν, ἡ γυνὴ καλή ἐστιν — οἱ ἄνθρωποι καὶ αἱ γυναῖκες ἐν τῇ οἰκίᾳ εἰσίν. Εἷς θεὸς ἀγαθός ἐστιν.</span> (Agathōn et Melitē in domō sunt. Decem discipulī ibi sunt, et magister sapiēns est. Homō pulcher est, mulier pulchra est — hominēs et mulierēs in domō sunt. Ūnus deus bonus est.)</p><p>Notāvistīne <span class=\"greek\">ὁ, ἡ, οἱ, αἱ</span> — parvum verbum quod praecēdit paene omne nōmen? Articulus Graecus (“the” Anglicē) concordat cum nōmine suō in genere, numerō, et cāsū — plānē sīcut adiectīvum. Graecum <strong>nōn habet articulum indēfīnītum</strong> (“a/an” Anglicē, “um/uma” Lūsitānicē): <span class=\"greek\">ἄνθρωπος</span> sine articulō significat simpliciter “homō” vel “ūnus homō (quīdam)”; <span class=\"greek\">ὁ ἄνθρωπος</span> significat “ille homō, homō dē quō iam locūtī sumus” (sīcut Anglicum “the man”). Articulus est ūnum ex frequentissimīs verbīs in omnī textū Graecō — plūs quam decem prō centum omnium verbōrum in prōsā tȳpicā.</p>",
+    "intro": "<span class=\"greek\">Δέκα μαθηταί ἐσμεν,</span> dīcit Ἀγάθων, ut iam ex fābulā prīmā nōvistī. <span class=\"greek\">Ὁ ἄνθρωπος καλός ἐστιν, ἡ γυνὴ καλή ἐστιν, τὸ βιβλίον καλόν ἐστιν.</span> Notāvistī: <span class=\"greek\">ὁ, ἡ, τό</span> — parva verba, sed praesentia in paene omnī sententiā, mūtantia sē secundum genus nōminis. Nunc articulum plēnē (in cāsū nōminātīvō) et prīmōs numerōs Graecōs discis — legendō multās sententiās simplicēs antequam ūllam quaestiōnem grammaticam respondeās.",
+    "explanation": "<p><span class=\"greek\">Ἀγάθων καὶ Μελίτη ἐν τῇ οἰκίᾳ εἰσίν. Δέκα μαθηταί εἰσιν ἐκεῖ, καὶ ὁ διδάσκαλος σοφός ἐστιν. Ὁ ἄνθρωπος καλός ἐστιν, ἡ γυνὴ καλή ἐστιν — οἱ ἄνθρωποι καὶ αἱ γυναῖκες ἐν τῇ οἰκίᾳ εἰσίν. Τὸ βιβλίον καλόν ἐστιν· τὰ βιβλία καλά ἐστιν. Εἷς θεὸς ἀγαθός ἐστιν.</span> (Agathōn et Melitē in domō sunt. Decem discipulī ibi sunt, et magister sapiēns est. Homō pulcher est, mulier pulchra est — hominēs et mulierēs in domō sunt. Liber pulcher est; librī pulchrī sunt. Ūnus deus bonus est.)</p><p>Notāvistīne <span class=\"greek\">ὁ ἄνθρωπος, ἡ γυνή, τὸ βιβλίον</span> — trēs genera, trēs fōrmae articulī, omnia in sententiīs quās iam intellegis? Et <span class=\"greek\">οἱ ἄνθρωποι, αἱ γυναῖκες, τὰ βιβλία</span> — eaedem trēs fōrmae, sed plūrālēs? Articulus Graecus (“the” Anglicē) concordat cum nōmine suō in genere, numerō, et cāsū — plānē sīcut adiectīvum. Graecum <strong>nōn habet articulum indēfīnītum</strong> (“a/an” Anglicē, “um/uma” Lūsitānicē): <span class=\"greek\">ἄνθρωπος</span> sine articulō significat simpliciter “homō” vel “ūnus homō (quīdam)”; <span class=\"greek\">ὁ ἄνθρωπος</span> significat “ille homō, homō dē quō iam locūtī sumus” (sīcut Anglicum “the man”). Articulus est ūnum ex frequentissimīs verbīs in omnī textū Graecō — plūs quam decem prō centum omnium verbōrum in prōsā tȳpicā.</p>",
     "rules": [
       {
         "heading": "a) Articulus: Fōrmae Nōminātīvae",
@@ -65,7 +65,7 @@
       "type": "reading-comprehension",
       "title": "Δέκα Μαθηταί",
       "instructions": "Lege, deinde responde secundum sensum, non verbum singulum.",
-      "passage": "<p><span class=\"greek\">Ἀγάθων καὶ Μελίτη ἐν τῇ οἰκίᾳ εἰσίν. Δέκα μαθηταί εἰσιν ἐκεῖ, καὶ ὁ διδάσκαλος σοφός ἐστιν. Ὁ ἄνθρωπος καλός ἐστιν, ἡ γυνὴ καλή ἐστιν — οἱ ἄνθρωποι καὶ αἱ γυναῖκες ἐν τῇ οἰκίᾳ εἰσίν. Εἷς θεὸς ἀγαθός ἐστιν.</span></p>",
+      "passage": "<p><span class=\"greek\">Ἀγάθων καὶ Μελίτη ἐν τῇ οἰκίᾳ εἰσίν. Δέκα μαθηταί εἰσιν ἐκεῖ, καὶ ὁ διδάσκαλος σοφός ἐστιν. Ὁ ἄνθρωπος καλός ἐστιν, ἡ γυνὴ καλή ἐστιν — οἱ ἄνθρωποι καὶ αἱ γυναῖκες ἐν τῇ οἰκίᾳ εἰσίν. Τὸ βιβλίον καλόν ἐστιν· τὰ βιβλία καλά ἐστιν. Εἷς θεὸς ἀγαθός ἐστιν.</span></p>",
       "items": [
         {
           "id": "art-story1",
@@ -90,6 +90,13 @@
         },
         {
           "id": "art-story4",
+          "prompt": "Quālēs sunt librī, secundum textum?",
+          "options": ["pulchrī (τὰ βιβλία καλά ἐστιν)", "turpēs", "vetera"],
+          "answerIndex": 0,
+          "explanation": "Τὸ βιβλίον καλόν ἐστιν· τὰ βιβλία καλά ἐστιν."
+        },
+        {
+          "id": "art-story5",
           "prompt": "Quid textus dē deō dīcit?",
           "options": ["ūnus deus bonus est (εἷς θεὸς ἀγαθός)", "multī diī malī sunt", "nūllus deus est"],
           "answerIndex": 0,
@@ -98,10 +105,115 @@
       ]
     },
     {
+      "id": "i-art-recognize",
+      "type": "true-false",
+      "title": "Quod Genus? (Ex Sententiīs, Nōn Ex Regulā)",
+      "instructions": "Relege sententiās suprā. Dēcerne utrum vērum an falsum sit, ratiōcinandō ex sēnsū, nōn ex regulā memoriae mandātā.",
+      "items": [
+        {
+          "id": "art-rec1",
+          "statement": "In “ὁ ἄνθρωπος καλός ἐστιν”, ὁ concordat cum ἄνθρωπος quia ἄνθρωπος est masculīnum.",
+          "answer": true,
+          "explanation": "Ὁ est fōrma masculīna; ἄνθρωπος (homō) est masculīnum in hōc textū."
+        },
+        {
+          "id": "art-rec2",
+          "statement": "In “ἡ γυνὴ καλή ἐστιν”, ἡ pertinet ad idem genus ac ὁ in “ὁ ἄνθρωπος”.",
+          "answer": false,
+          "explanation": "Falsum: ἡ est fōrma fēminīna, dīversa ab ὁ (masculīnō) — γυνή (mulier) est fēminīnum."
+        },
+        {
+          "id": "art-rec3",
+          "statement": "In “τὸ βιβλίον καλόν ἐστιν”, τό concordat cum βιβλίον quia βιβλίον est neutrum, sīcut δῶρον (quod iam vīdistī in exemplīs) est neutrum.",
+          "answer": true,
+          "explanation": "Τό est fōrma neutra; βιβλίον est neutrum."
+        },
+        {
+          "id": "art-rec4",
+          "statement": "“Οἱ ἄνθρωποι” et “αἱ γυναῖκες” adhibent eandem fōrmam articulī, quia ambō sunt plūrālia dē homine generāli.",
+          "answer": false,
+          "explanation": "Falsum: οἱ est plūrālis masculīnus, αἱ est plūrālis fēminīnus — genus, nōn sōlum numerus, dētermināt fōrmam."
+        }
+      ]
+    },
+    {
+      "id": "i-art-fill",
+      "type": "fill-blank",
+      "title": "Complē Sententiam (Ex Sēnsū)",
+      "instructions": "Comple spatia cum fōrmā rēctā articulī. Cōgitā prīmum: dē quō loquitur haec sententia?",
+      "items": [
+        {
+          "id": "art6",
+          "prompt": "___ ἄνθρωπος ἐν τῇ οἰκίᾳ ἐστίν. (“the man is in the house” — dē virō loquimur)",
+          "options": [
+            "ὁ",
+            "ἡ",
+            "τό"
+          ],
+          "answers": [
+            "ὁ"
+          ],
+          "explanation": "Ἄνθρωπος (homō/vir) est masculīnum; articulus masculīnus singulāris est ὁ."
+        },
+        {
+          "id": "art7",
+          "prompt": "___ γυνὴ καλή ἐστιν. (“the woman is beautiful” — dē muliere loquimur)",
+          "options": [
+            "ὁ",
+            "ἡ",
+            "τό"
+          ],
+          "answers": [
+            "ἡ"
+          ],
+          "explanation": "Γυνή (mulier) est fēminīnum; articulus fēminīnus singulāris est ἡ."
+        },
+        {
+          "id": "art8",
+          "prompt": "___ βιβλίον καλόν ἐστιν. (“the book is beautiful” — dē librō loquimur, nōn dē persōnā)",
+          "options": [
+            "ὁ",
+            "ἡ",
+            "τό"
+          ],
+          "answers": [
+            "τό"
+          ],
+          "explanation": "Βιβλίον (liber) est neutrum; articulus neutrī singulāris est τό."
+        },
+        {
+          "id": "art9",
+          "prompt": "___ ἄνθρωποι ἐν τῇ οἰκίᾳ εἰσίν. (“the men are in the house” — plūrēs virī)",
+          "options": [
+            "οἱ",
+            "αἱ",
+            "τά"
+          ],
+          "answers": [
+            "οἱ"
+          ],
+          "explanation": "Plūrālis masculīnus articulī est οἱ."
+        },
+        {
+          "id": "art10",
+          "prompt": "___ γυναῖκες ἐν τῇ οἰκίᾳ εἰσίν. (“the women are in the house” — plūrēs mulierēs)",
+          "options": [
+            "οἱ",
+            "αἱ",
+            "τά"
+          ],
+          "answers": [
+            "αἱ"
+          ],
+          "explanation": "Plūrālis fēminīnus articulī est αἱ."
+        }
+      ]
+    },
+    {
       "id": "i-art-mc",
       "type": "multiple-choice",
-      "title": "Articulus et Numerī",
-      "instructions": "Ēlige respōnsum rēctum.",
+      "title": "Articulus et Numerī: Nunc Nōmina Rēgulam",
+      "instructions": "Nunc, postquam sententiās intellēxistī, nōmina explicitē rēgulam quam iam applicāvistī.",
       "items": [
         {
           "id": "art1",
@@ -157,79 +269,6 @@
           ],
           "answerIndex": 1,
           "explanation": "Τά est nōminātīvus plūrālis neutrī; τό est fōrma singulāris."
-        }
-      ]
-    },
-    {
-      "id": "i-art-fill",
-      "type": "fill-blank",
-      "title": "Complē Articulum Rēctum",
-      "instructions": "Comple spatia cum fōrmā rēctā articulī, secundum genus nōminis datī.",
-      "items": [
-        {
-          "id": "art6",
-          "prompt": "___ ἄνθρωπος (masc. sg.)",
-          "options": [
-            "ὁ",
-            "ἡ",
-            "τό"
-          ],
-          "answers": [
-            "ὁ"
-          ],
-          "explanation": "Ἄνθρωπος est masculīnum; articulus masculīnus singulāris est ὁ."
-        },
-        {
-          "id": "art7",
-          "prompt": "___ ἀλήθεια (fem. sg.)",
-          "options": [
-            "ὁ",
-            "ἡ",
-            "τό"
-          ],
-          "answers": [
-            "ἡ"
-          ],
-          "explanation": "Ἀλήθεια est fēminīnum; articulus fēminīnus singulāris est ἡ."
-        },
-        {
-          "id": "art8",
-          "prompt": "___ βιβλίον (neut. sg.)",
-          "options": [
-            "ὁ",
-            "ἡ",
-            "τό"
-          ],
-          "answers": [
-            "τό"
-          ],
-          "explanation": "Βιβλίον est neutrum; articulus neutrī singulāris est τό."
-        },
-        {
-          "id": "art9",
-          "prompt": "___ ἄνθρωποι (masc. pl.)",
-          "options": [
-            "οἱ",
-            "αἱ",
-            "τά"
-          ],
-          "answers": [
-            "οἱ"
-          ],
-          "explanation": "Plūrālis masculīnus articulī est οἱ."
-        },
-        {
-          "id": "art10",
-          "prompt": "___ γυναῖκες (fem. pl.)",
-          "options": [
-            "οἱ",
-            "αἱ",
-            "τά"
-          ],
-          "answers": [
-            "αἱ"
-          ],
-          "explanation": "Plūrālis fēminīnus articulī est αἱ."
         }
       ]
     },

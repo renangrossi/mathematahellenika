@@ -83,6 +83,21 @@ small set of safe, already-well-established verbs. When a scene needs
 something beyond that set, prefer rephrasing over inventing a new
 inflected form.
 
+**A staging pass followed the classification pass**: `i-articulus-et-
+numeri`, `i-pronomina-personalia`, and `i-salutationes-et-verbum-sum`
+were all already A but their first grammar-facing exercise still asked
+the learner to name or produce a form (e.g. "Quae est fōrma nōminātīva
+singulāris fēminīna articulī?") right after a single short story. Per
+the "MANDATORY: stage every morphology exercise set" section below,
+each got a new `recognize` exercise block (meaning-first, minimal-
+contrast reasoning) inserted between the story and the first
+grammar-naming exercise, `i-salutationes-et-verbum-sum`'s passage was
+extended so all 6 persons of εἰμί are attested in context before being
+tested, and `i-articulus-et-numeri`'s bare noun-phrase fill-blank
+prompts were rewritten as full clauses. See that section for the rule
+to apply to every lesson touched going forward, including re-touching
+already-A Gradus II/III lessons.
+
 **A pre-existing accuracy bug was also fixed in this pass**:
 `ii-declinatio-secunda-masculina-et-neutra.json`'s `examples` list
 contained `"ὦ λόγε... — Ō verbum..."`, i.e. the vocative case applied to
@@ -97,6 +112,64 @@ pattern — every other vocative in the course (πολῖτα, βασιλεῦ, 
 φίλοι, ἄνδρες, μαθηταί, Σώκρατες, Ἀθηναῖοι...) already addresses a real
 person. Worth re-checking with the same grep after any future batch that
 touches vocative-case material.
+
+## MANDATORY: stage every morphology exercise set — meaning before naming
+
+**This applies to every lesson touched from now on, including lessons
+already scored A.** The audit script's A/B/C classification is blind to
+this — it can score a lesson A while its first grammar exercise still
+asks the learner to produce or name a form in a vacuum. Passing the
+audit is necessary but not sufficient.
+
+The rule: **never make the learner produce or name a grammatical form
+before giving them enough meaningful Greek to recognize what that form
+does.** Concretely, for any lesson introducing a new case, ending,
+tense, or agreement pattern, the exercise sequence must be:
+
+1. **Meaning** — the reading-comprehension passage (already the norm).
+2. **Recognition** — a NEW stage, inserted directly after the story and
+   before any exercise that names or asks to reproduce a form. Built
+   from the *same* sentences already in the passage (or trivial
+   variants), it asks who-does-what/which-sentence-fits questions —
+   never "what case is this?" Use `true-false` (statements about who
+   did what to whom) or `multiple-choice` with full-sentence prompts
+   and meaning-based options, e.g. "Cui magister librum dat, secundum
+   Agathōne?" rather than "Quae fōrma est datīvus?". Include at least
+   one item that asks *why* a form was chosen over a superficially
+   similar alternative (a minimal-contrast question) when the lesson
+   has one to offer (fortis/enclitic pairs, ἐν/εἰς, ὁ/ἡ/τό...).
+3. **Selection in context** — the existing `fill-blank` stage stays,
+   but every prompt must be a full meaningful clause (reusing the
+   passage's own vocabulary), never a bare noun phrase like "___
+   ἄνθρωπος (masc. sg.)" with no verb or situation attached. Rewrite
+   any such bare-NP prompt into a clause the learner has to actually
+   understand to answer, e.g. "___ ἄνθρωπος ἐν τῇ οἰκίᾳ ἐστίν."
+4. **Explicit grammar** — the pre-existing `multiple-choice` block that
+   names cases/forms directly is fine to KEEP, but retitle it toward
+   consolidation (e.g. "Nunc Nōmina Rēgulam" / "now name the rule") and
+   make sure it comes AFTER the recognition and selection stages, not
+   immediately after the story.
+5. The closing `true-false`/`matching` blocks (rule-level facts,
+   vocabulary matching) stay last, unchanged, as final consolidation.
+
+**Also lengthen the passage itself** wherever the exercises need to
+test a form the passage doesn't actually show in context yet — don't
+test what the learner hasn't met. Example: `i-salutationes-et-verbum-
+sum`'s original passage only showed 3 of εἰμί's 6 persons (εἰμι, εἶ,
+ἐσμέν) but its fill-blank tested all 6; the passage was extended with
+two more lines (a διδάσκαλος speaking in 3rd person singular/plural,
+addressing the pair in 2nd plural) so every tested form is now attested
+in a meaningful sentence first. Keep recycling known vocabulary when
+extending — the goal is more *sentences* using what's already known,
+not more new words.
+
+This was applied retroactively to `i-articulus-et-numeri`,
+`i-pronomina-personalia`, and `i-salutationes-et-verbum-sum` (all
+previously A, all restructured this pass) and must be applied going
+forward to every Gradus II-VII lesson as it's touched or re-touched —
+Gradus II/III's existing A-lessons have NOT yet been re-audited against
+this specific rule and may need the same retrofit; check the first
+grammar-question exercise in each when next revisiting that level.
 
 ## The pattern, adapted for Greek
 

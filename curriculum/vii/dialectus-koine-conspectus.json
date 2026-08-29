@@ -1,0 +1,162 @@
+{
+  "id": "vii-dialectus-koine-conspectus",
+  "level": "VII",
+  "unit": "1",
+  "order": 7,
+  "skill": "grammatica",
+  "strand": "dialecti",
+  "title": "Dialectus Koinē: Conspectus",
+  "subtitle": "Simplificātiōnēs systēmaticae ab Atticō: optātīvus dēclīnāns, datīvus cēdēns praepositiōnibus, perfectum-aoristus cōnfūsī, ἵνα expandēns in territōrium īnfīnītīvī.",
+  "prerequisites": [
+    "vii-koine-novum-testamentum-excerpta"
+  ],
+  "objectives": [
+    "Recitāre quattuor simplificātiōnēs systēmaticās praecipuās Koinēs vs. Atticum classicum",
+    "Explicāre dēclīnātiōnem gradātam optātīvī (rāriōrem factum, praesertim in ūsū oblīquō)",
+    "Explicāre cūr datīvus incohet cēdere praepositiōnibus (praesāgium plēnae perditiōnis datīvī in Graecō Modernō)",
+    "Recognōscere expāndēre ἵνα in fūnctiōnēs quās Atticum reservābat īnfīnītīvō — praesāgium fōrmae Graecae Modernae"
+  ],
+  "content": {
+    "intro": "Koinē (κοινή) nōn est “corruptiō” Atticī, sed ēvolūtiō nātūrālis linguistica — sīcut Latīnum Vulgāre ēvolvit in linguās Rōmānicās. Discipulus quī cognōscit hās simplificātiōnēs systēmaticās (nōn chaoticas) intellegit MELIUS et Koinēn ipsam et trāiectōriam ēvolūtiōnis usque ad Graecum Modernum.",
+    "explanation": "<p>Quattuor tendentiae praecipuae, omnēs vīsibilēs iam in Novō Testāmentō (lēctiō priōre), continuant per Graecum Byzantīnum usque ad Graecum Modernum: (1) optātīvus rārēscēns, (2) datīvus cēdēns praepositiōnibus, (3) perfectum/aoristus cōnfūsī sēmanticē, (4) ἵνα expandēns in territōrium īnfīnītīvī.</p>",
+    "rules": [
+      {
+        "heading": "a) Optātīvus Rārēscēns",
+        "body": "<p>Rēgula sequentiae (Gradū V: coniūnctīvus prīmāria, optātīvus secundāria) EST MULTŌ MINUS RIGIDA in Koinē — coniūnctīvus (vel indicātīvus) retentus frequenter etiam post verba praeteritī, ubi Atticum classicum praeferret optātīvum. Optātīvus voluntātīvus (\"utinam\") persistit paulō magis (comparā <span class=\"greek\">μὴ γένοιτο</span>, \"absit!\", frequēns apud Paulum Apostolum), sed optātīvus oblīquus est rārus. Praesāgium: Graecum Modernum PERDIDIT optātīvum omnīnō.</p>"
+      },
+      {
+        "heading": "b) Datīvus Cēdēns Praepositiōnibus",
+        "body": "<p>Ūsūs datīvī fundāmentālēs (Gradū I-VI) persistunt, sed praepositiōnēs (praesertim <span class=\"greek\">ἐν</span> + dat., sed etiam <span class=\"greek\">εἰς</span> + acc. invādēns territōrium datīvī allātīvī) incohant substituere datīvum \"nūdum\" (sine praepositiōne) in aliquibus contextibus. Praesāgium: Graecum Modernum PERDIDIT datīvum omnīnō ut cāsum morphologicum sēparātum (fūnctiōnēs eius distribūtae inter genetīvum et praepositiōnēs, sīcut ablātīvus Latīnus fuit iam distribūtus inter genetīvum/datīvum Graecum classicum — patrōnus recurrēns historicus!).</p>"
+      },
+      {
+        "heading": "c) Perfectum/Aoristus Cōnfūsī; Ἵνα Expandēns",
+        "body": "<p>Discrīmen aspectuāle perfectī/aoristī (Gradū IV: \"status persistēns\" vs. \"ēventus simplex\") incohat obscūrārī — perfectum interdum adhibētur ubi Atticum praeferret aoristum, praesāgium fūsiōnis eōrum in Graecō Byzantīnō/Modernō. <span class=\"greek\">Ἵνα</span> (Gradū V, clausula fīnālis) EXPANDIT sēnsum suum: nōn sōlum \"ut\" (propositum), sed etiam substituēns īnfīnītīvum in multīs cōnstrūctiōnibus (\"volō ut faciās\" prō \"volō facere\") — praesāgium plēnum: Graecum Modernum PERDIDIT īnfīnītīvum omnīnō, substituēns eum systēmaticē clausulīs cum <span class=\"greek\">νά</span> (dērīvātum ipsō ἵνα!).</p>"
+      }
+    ],
+    "examples": [
+      "μὴ γένοιτο! — Absit! (optātīvus voluntātīvus, adhūc frequēns, Paulus Apostolus)",
+      "θέλω ἵνα ποιήσῃς τοῦτο. — Volō ut faciās hoc. (ἵνα prō īnfīnītīvō, praesāgium Graecī Modernī)",
+      "ἐν τῷ οἴκῳ (Koinē, datīvus adhūc regulāris) — comparā εἰς τὸν οἶκον expandēns in contextūs similēs",
+      "γέγραπται — scrīptum est (perfectum, adhūc frequēns cum sēnsū “stat scrīptum”, ūsus classicus persistēns in citātiōnibus Bibliae)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Interpretārī simplificātiōnēs Koinēs ut signum “dēclīnātiōnis” vel “corruptiōnis” linguae.",
+        "right": "Recognōscere hās ut ēvolūtiōnem linguisticam nātūrālem, comparābilem processuī quō Latīnum Vulgāre ēvolvit in Ītalicum/Hispānicum/Gallicum/Lūsitānicum/Rōmānicum.",
+        "why": "Omnis lingua vīva mūtātur per tempus; iūdicium “corruptiōnis” reflectit bias prescrīptīvum, nōn observātiōnem linguisticam obiectīvam."
+      },
+      {
+        "wrong": "Crēdere hās simplificātiōnēs esse absolūtae/obligātōriae in omnī textū Koinēs, sine variātiōne.",
+        "right": "Recognōscere Koinē litterāria (Novum Testāmentum, historicī ut Polybius) retinet multum grammaticae Atticae classicae, praesertim in auctōribus magis doctīs; tendentiae hīc dēscrīptae sunt gradātae, nōn absolūtae.",
+        "why": "Registra dīversa (Koinē colloquiālis vs. litterāria) monstrant gradūs dīversōs simplificātiōnis."
+      },
+      {
+        "wrong": "Crēdere hās mūtātiōnēs ēvenīsse subitō in Koinē, sine relātiōne ad ēvolūtiōnem posteriōrem.",
+        "right": "Recognōscere hās ut initium prōcessūs longī quod continuat per Graecum Byzantīnum, culminans in Graecō Modernō (sine datīvō, sine optātīvō, sine īnfīnītīvō plēnō).",
+        "why": "Videre Koinēn ut PŪNCTUM in trāiectōriā continuā (Classicum → Koinē → Byzantīnum → Modernum) melius illūstrat nātūram linguisticam quam vidēre eam ut categoria isolāta."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "vii-koid1-mc",
+      "type": "multiple-choice",
+      "title": "Dialectus Koinē: Rēgulae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "koid1a",
+          "prompt": "Quid ēvenit optātīvō in Koinē, comparātō cum Atticō?",
+          "options": [
+            "fit magis frequēns",
+            "rārēscit, praesertim ūsus oblīquus",
+            "manet identicum"
+          ],
+          "answerIndex": 1,
+          "explanation": "Rēgula sequentiae fit minus rigida; optātīvus incohat rārēscere."
+        },
+        {
+          "id": "koid1b",
+          "prompt": "Quid substituit gradātim datīvum “nūdum” in Koinē?",
+          "options": [
+            "accūsātīvus sōlus",
+            "praepositiōnēs (ἐν, εἰς)",
+            "genetīvus sōlus"
+          ],
+          "answerIndex": 1,
+          "explanation": "Praesāgium perditiōnis plēnae datīvī in Graecō Modernō."
+        },
+        {
+          "id": "koid1c",
+          "prompt": "Quid expandit ἵνα in Koinē, praeter sēnsum fīnālem?",
+          "options": [
+            "sēnsum condiciōnālem",
+            "fūnctiōnēs īnfīnītīvī (“volō ut faciās” prō “volō facere”)",
+            "sēnsum negātīvum"
+          ],
+          "answerIndex": 1,
+          "explanation": "Praesāgium substitūtiōnis plēnae īnfīnītīvī per νά in Graecō Modernō."
+        },
+        {
+          "id": "koid1d",
+          "prompt": "Significant hae simplificātiōnēs “corruptiōnem” linguae?",
+          "options": [
+            "sīc, dēclīnātiōnem",
+            "nōn, ēvolūtiōnem linguisticam nātūrālem",
+            "sunt errōrēs scrībārum"
+          ],
+          "answerIndex": 1,
+          "explanation": "Ēvolūtiō nātūrālis, comparābilis Latīnō Vulgārī → linguās Rōmānicās."
+        }
+      ]
+    },
+    {
+      "id": "vii-koid1-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "koid1e",
+          "statement": "Graecum Modernum perdidit optātīvum, datīvum, et īnfīnītīvum plēnum omnīnō.",
+          "answer": true,
+          "explanation": "Corrēctum: culminātiō trium tendentiārum vīsārum iam incohantium in Koinē."
+        },
+        {
+          "id": "koid1f",
+          "statement": "Simplificātiōnēs Koinēs sunt absolūtae et obligātōriae in omnī textū, sine variātiōne registrī.",
+          "answer": false,
+          "explanation": "Falsum: variātiō exsistit inter Koinēn colloquiālem et litterāriam."
+        },
+        {
+          "id": "koid1g",
+          "statement": "Νά Graecum Modernum dērīvat ā particulā Atticā ἵνα.",
+          "answer": true,
+          "explanation": "Corrēctum: ēvolūtiō phōnologica et syntactica per saecula."
+        },
+        {
+          "id": "koid1h",
+          "statement": "Perfectum et aoristus incohant cōnfundī sēmanticē in Koinē, praesāgium fūsiōnis eōrum posteriōris.",
+          "answer": true,
+          "explanation": "Corrēctum."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Optātīvus rārēscit (praesertim ūsus oblīquus); coniūnctīvus/indicātīvus frequenter retentī post verba praeteritī.",
+    "Datīvus incohat cēdere praepositiōnibus (ἐν, εἰς) — praesāgium plēnae perditiōnis in Graecō Modernō.",
+    "Perfectum/aoristus incohant cōnfundī sēmanticē; ἵνα expandit in territōrium īnfīnītīvī.",
+    "Omnēs hae tendentiae culmināre in Graecō Modernō: nūllus datīvus, nūllus optātīvus, nūllus īnfīnītīvus plēnus — Koinē est pūnctum in trāiectōriā continuā, nōn categoria isolāta."
+  ],
+  "related": [
+    {
+      "lessonId": "vii-koine-novum-testamentum-excerpta",
+      "label": "Koinē: Novum Testāmentum"
+    },
+    {
+      "lessonId": "vii-prosodia-et-metrum-epicum",
+      "label": "Prosōdia et Metrum Epicum"
+    }
+  ]
+}

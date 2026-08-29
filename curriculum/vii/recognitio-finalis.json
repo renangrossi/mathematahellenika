@@ -1,0 +1,157 @@
+{
+  "id": "vii-recognitio-finalis",
+  "level": "VII",
+  "unit": "1",
+  "order": 10,
+  "skill": "grammatica",
+  "strand": "recognitio",
+  "title": "Recognitiō Fīnālis: Lectiō Lībera",
+  "subtitle": "Cōnspectus complētus septem Gradūum: ā prīmā litterā Graecā (Gradū I) usque ad verba Homērī, Platōnis, et Novī Testāmentī (Gradū VII) — et quō pergere hinc.",
+  "prerequisites": [
+    "vii-rhetorica-attica"
+  ],
+  "objectives": [
+    "Recognōscere iter complētum per septem Gradūs: alphabētum, dēclīnātiōnēs, coniugātiōnēs, modī, syntaxis, dialectī, textūs authenticī",
+    "Cōnsolidāre imāginem mentālem tōtīus systēmatis grammaticī Graecī, ab elementīs phōnologicīs ad syntaxem prōvectam",
+    "Legere ultimum passum, combīnāns elementa ex omnibus Gradibus, sine glōssāriō extēnsō",
+    "Recipere orientātiōnem ad studia ultrā hunc cursum: auctōrēs, ēditiōnēs, īnstrūmenta, communitātēs"
+  ],
+  "content": {
+    "intro": "Ab <span class=\"greek\">Α</span> (Gradū I, prīma littera alphabētī) usque ad <span class=\"greek\">Ἐν ἀρχῇ ἦν ὁ λόγος</span> (Gradū VII, primus versus Ēvangeliī Iohannis) — iter septem Gradūum est complētum. Haec ultima lēctiō nōn intrōdūcit grammaticam novam, sed offert cōnspectum integrum, ūnum passum fīnālem lēctiōnis, et māppam ad studia futūra.",
+    "explanation": "<p>Discipulus quī hunc cursum complēvit potest nunc: legere prōsam Atticam classicam (Xenophōn, Platōn) cum cōnfīdentiā moderātā; incohāre Homērum et Koinēn cum praeparātiōne systēmaticā dialectālī; reconhōscere figūrās rhētoricās et structūram metricam; et, maximē, continuāre discere per lēctiōnem ipsam — instrūmentum ultimum omnis philologī.</p>",
+    "rules": [
+      {
+        "heading": "a) Cōnspectus: Septem Gradūs",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Gradus</th><th>Nōmen</th><th>Contentum Praecipuum</th></tr></thead><tbody><tr><td>I</td><td>Fundamenta</td><td>Alphabētum, phōnologia, εἰμί, articulus/numerī (fōrmae basicae)</td></tr><tr><td>II</td><td>Elementa</td><td>Dēclīnātiō I/II, articulus plēnus, adiectīva, praesēns āctīvum/medium-passīvum</td></tr><tr><td>III</td><td>Progressus</td><td>Dēclīnātiō III, verba contracta, imperfectum, futūrum, relātīvum, comparātiō</td></tr><tr><td>IV</td><td>Media</td><td>Aoristus, perfectum, participia, īnfīnītīvī, dēpōnentia, genetīvus absolūtus</td></tr><tr><td>V</td><td>Provectus</td><td>Coniūnctīvus, optātīvus, clausulae (fīnālēs/cōnsecūtīvae/condiciōnālēs), imperātīvus</td></tr><tr><td>VI</td><td>Altior</td><td>Ōrātiō oblīqua plēna, adiectīva verbālia, particulae, stilus, prīma lēctiō adaptāta</td></tr><tr><td>VII</td><td>Auctōrēs</td><td>Textūs authenticī: Xenophōn, Platōn, Lysias, Homērus, NT; dialectī; metrum; rhētorica</td></tr></tbody></table>"
+      },
+      {
+        "heading": "b) Ultimum Passum: Combīnātiō",
+        "body": "<div class=\"card\" style=\"margin-bottom:var(--space-md);\"><p class=\"greek\" style=\"font-size:var(--step-1);line-height:2;\">Ὅστις μανθάνει τὰ γράμματα καὶ τοὺς λόγους τῶν παλαιῶν συγγραφέων, οὗτος οὐ μόνον τὴν γλῶτταν μανθάνει, ἀλλὰ καὶ τὸν νοῦν αὐτῶν. Ταῦτα γὰρ μαθόντες, δυνάμεθα καὶ Ὅμηρον καὶ Πλάτωνα καὶ τοὺς εὐαγγελιστὰς ἀναγιγνώσκειν, ἡδέως τε καὶ σαφῶς. Οὐκοῦν χαίρωμεν τῷ τέλει τούτου τοῦ δρόμου, καὶ ἀρχώμεθα ἄλλου.</p></div><p><strong>Nota:</strong> hic passus est compositiō didactica ORĪGINĀLIS, combīnāns dēlīberātē elementa ex plūribus Gradibus (ὅστις relātīvum indēfīnītum Gradūs V; participium μαθόντες Gradūs IV; coniūnctīvus hortātīvus χαίρωμεν/ἀρχώμεθα Gradūs V; particulae γάρ/οὐκοῦν Gradūs VI) ut exercitium fīnāle synthesis, nōn citātiō authentica.</p><p><strong>Versiō Latīna:</strong> \"Quīcumque discit litterās et verba antīquōrum scrīptōrum, hic nōn sōlum linguam discit, sed etiam mentem eōrum. Haec enim ubi didicerimus, possumus et Homērum et Platōnem et ēvangelistās legere, iūcundē simulque clārē. Gaudeāmus igitur fīne huius cursūs, et incipiāmus alterum.\"</p>"
+      }
+    ],
+    "examples": [
+      "ὅστις μανθάνει τὰ γράμματα... — Quīcumque discit litterās... (relātīvum indēfīnītum, Gradū V)",
+      "ταῦτα μαθόντες, δυνάμεθα ἀναγιγνώσκειν. — Haec didicisse, possumus legere. (participium aoristī + verbum, Gradū IV)",
+      "χαίρωμεν τῷ τέλει, καὶ ἀρχώμεθα ἄλλου. — Gaudeāmus fīne, et incipiāmus alterius. (coniūnctīvus hortātīvus, Gradū V)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Crēdere discere Graecum classicum esse “complētum” post hunc cursum, sine ūllō studiō ultrā necessāriō.",
+        "right": "Recognōscere hunc cursum ut FUNDAMENTUM sōlidum — vēra flūentia requīrit annōs continuōs lēctiōnis, sīcut in quālibet linguā.",
+        "why": "Etiam philologī professiōnālēs continuant discere per tōtam vītam; hic cursus dat īnstrūmenta, nōn omniscientiam."
+      },
+      {
+        "wrong": "Timēre affrontāre textūs authenticōs plēnōs (nōn excerpta brevia) post hunc cursum, crēdēns sē nōn adhūc praeparātum.",
+        "right": "Incipere cum ēditiōnibus commentāriīs (“cum notīs”, ut Dickinson College Commentaries online, vel Steadman's editions), quae glōssant vocābulum rārum et fōrmās irregulārēs — pōns nātūrālis inter cursum et lēctiōnem indepēndentem.",
+        "why": "Nēmō legit Thucydidem sine adiūtōriō prīmā vice; ēditiōnēs commentāriae sunt īnstrūmentum standard, nōn signum īnsufficientiae."
+      },
+      {
+        "wrong": "Neglegere repetitiōnem/recēnsiōnem periodicam grammaticae iam discitae, suppōnendō memoriam permanentem sine practicā continuā.",
+        "right": "Continuāre relegere lēctiōnēs priōrēs (praesertim per “Tē Ipsum Proba” paginās) et legere textūs novōs regulāriter, applicandō “repetitiōnem distribūtam” (spaced repetition, prīncipium didacticum modernum).",
+        "why": "Sīcut quaelibet abilitās complexa, māgistrium linguisticum requīrit exercitium continuum, nōn sōlum studium initiāle."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "vii-fin1-mc",
+      "type": "multiple-choice",
+      "title": "Recognitiō Fīnālis: Cōnspectus",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "fin1a",
+          "prompt": "Quod Gradus intrōdūxit systēma modōrum (coniūnctīvus, optātīvus, imperātīvus)?",
+          "options": [
+            "Gradus III",
+            "Gradus V",
+            "Gradus VII"
+          ],
+          "answerIndex": 1,
+          "explanation": "Gradus V (Provectus) complēvit systēma quattuor modōrum fīnītōrum."
+        },
+        {
+          "id": "fin1b",
+          "prompt": "Quod Gradus intrōdūxit aoristum et perfectum prīmum?",
+          "options": [
+            "Gradus II",
+            "Gradus IV",
+            "Gradus VI"
+          ],
+          "answerIndex": 1,
+          "explanation": "Gradus IV (Media) tractāvit systēma aoristī/perfectī plēnē."
+        },
+        {
+          "id": "fin1c",
+          "prompt": "Quae sunt duo auctōrēs prōsae cuius verba authentica lēctā sunt in Gradū VII?",
+          "options": [
+            "Homērus et Hēsiodus",
+            "Xenophōn et Platōn",
+            "Aeschylus et Sophoclēs"
+          ],
+          "answerIndex": 1,
+          "explanation": "Xenophōn (Anabasis) et Platōn (Apologia), inter aliōs (Lysias, Homērus, NT)."
+        },
+        {
+          "id": "fin1d",
+          "prompt": "Quid recommendātur ut proximus passus post hunc cursum?",
+          "options": [
+            "studium immediātum sine adiūtōriō",
+            "ēditiōnēs commentāriae (cum notīs) ut pōns ad lēctiōnem indepēndentem",
+            "cessāre discere Graecum omnīnō"
+          ],
+          "answerIndex": 1,
+          "explanation": "Ēditiōnēs commentāriae sunt īnstrūmentum standard prō discipulō intermediō."
+        }
+      ]
+    },
+    {
+      "id": "vii-fin1-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "fin1e",
+          "statement": "Post hunc cursum, discipulus habet fundāmentum grammaticum plēnum et vocābulum sufficiēns ad legere quemlibet textum Graecum sine adiūtōriō ūllō.",
+          "answer": false,
+          "explanation": "Falsum: cursus dat fundāmentum sōlidum, sed māgistrium requīrit continuum studium et adiūtōrium (ēditiōnēs commentāriae) initiāle."
+        },
+        {
+          "id": "fin1f",
+          "statement": "Systēma septem Gradūum prōgreditur ā phōnologiā/morphologiā basicā (I-III) per systēma verbī plēnum (IV-V) ad syntaxem prōvectam et textūs authenticōs (VI-VII).",
+          "answer": true,
+          "explanation": "Corrēctum: prōgressiō logica tōtīus cursūs."
+        },
+        {
+          "id": "fin1g",
+          "statement": "Repetitiō distribūta (relegere lēctiōnēs priōrēs regulāriter) est īnūtilis post complētiōnem initiālem cursūs.",
+          "answer": false,
+          "explanation": "Falsum: repetitiō continua est essentiālis prō retentiōne longinquā."
+        },
+        {
+          "id": "fin1h",
+          "statement": "Ultimus passus huius lēctiōnis combīnat dēlīberātē elementa grammatica ex multīs Gradibus priōribus.",
+          "answer": true,
+          "explanation": "Corrēctum: exercitium synthesis fīnālis."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Septem Gradūs: I Fundamenta (alphabētum, εἰμί) → II Elementa (dēclīnātiō I/II, praesēns) → III Progressus (dēclīnātiō III, imperfectum/futūrum) → IV Media (aoristus/perfectum, participia) → V Provectus (coniūnctīvus/optātīvus/imperātīvus, clausulae) → VI Altior (ōrātiō oblīqua, stilus) → VII Auctōrēs (textūs authenticī, dialectī, metrum, rhētorica).",
+    "Discipulus quī hunc cursum complēvit potest legere prōsam Atticam cum cōnfīdentiā moderātā et incohāre Homērum/Koinēn cum praeparātiōne systēmaticā.",
+    "Proximī passūs: ēditiōnēs commentāriae, lēctiō regulāris, repetitiō distribūta grammaticae priōris.",
+    "Χαίρετε, ὦ μαθηταί — et bonam fortūnam in itinere vestrō continuō per litterās Graecās!"
+  ],
+  "related": [
+    {
+      "lessonId": "vii-rhetorica-attica",
+      "label": "Rhētorica Attica"
+    },
+    {
+      "lessonId": "vi-recognitio-syntaxis-integra",
+      "label": "Recognitiō: Syntaxis Integra (Gradus VI)"
+    }
+  ]
+}

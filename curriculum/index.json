@@ -297,43 +297,43 @@
           "lessons": [
             {
               "id": "vii-xenophon-anabasis",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "vii-platon-apologia",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "vii-lysias-orationes-selectae",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "vii-homerus-ilias-excerpta",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "vii-dialectus-homerica-conspectus",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "vii-koine-novum-testamentum-excerpta",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "vii-dialectus-koine-conspectus",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "vii-prosodia-et-metrum-epicum",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "vii-rhetorica-attica",
-              "status": "planned"
+              "status": "published"
             },
             {
               "id": "vii-recognitio-finalis",
-              "status": "planned"
+              "status": "published"
             }
           ]
         }

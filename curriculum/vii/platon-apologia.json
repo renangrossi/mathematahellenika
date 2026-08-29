@@ -1,0 +1,158 @@
+{
+  "id": "vii-platon-apologia",
+  "level": "VII",
+  "unit": "1",
+  "order": 2,
+  "skill": "lectio",
+  "strand": "auctores",
+  "title": "Platōn: Apologia",
+  "subtitle": "Verba authentica: initium ōrātiōnis Sōcraticae (17a) et sententia cēlēberrima “vīta īnexāmināta” (38a) — cum contextū historicō et philosophicō.",
+  "prerequisites": [
+    "vii-xenophon-anabasis"
+  ],
+  "objectives": [
+    "Legere duo passūs authenticōs (nōn adaptātōs) ex Apologiā Sōcratis Platōnis",
+    "Situāre textum historicē: iūdicium Sōcratis Athēnīs, 399 a.C., accūsātiōnēs impietātis et corruptiōnis iuventūtis",
+    "Analyzāre syntaxem passūs initiālis: ōrātiō oblīqua implicita, ōrdō verbōrum ēmphaticus (Gradū VI)",
+    "Memoriae mandāre sententiam “ἀνεξέταστος βίος οὐ βιωτὸς ἀνθρώπῳ” ut summam philosophiae Sōcraticae"
+  ],
+  "content": {
+    "intro": "<strong>Duo passūs sequentēs sunt authenticī</strong> — verba ipsa Platōnis, ex dialogō <em>Apologia Sōcratis</em> (\"Dēfēnsiō Sōcratis\"), relātiōne (fortasse partim litterāria, nōn stenographica) ōrātiōnis quam Sōcratēs habuit sē dēfendēns contrā accūsātiōnēs impietātis (ἀσέβεια) et corruptiōnis iuventūtis Athēniēnsis, annō 399 a.C. — iūdicium quod fīnīvit morte Sōcratis.",
+    "explanation": "<p>Prīmus passus est incipit ipsīus ōrātiōnis (17a): Sōcratēs incohat notandō sē nescīre quālem impressiōnem accūsātōrēs suī iam fēcērunt in animīs iūdicum. Secundus passus (38a), prope fīnem, post damnātiōnem, continet fortasse sententiam maximē cēlēbrem tōtīus corporis Platōnici: dēfīnītiōnem vītae philosophicae ipsīus.</p>",
+    "rules": [
+      {
+        "heading": "Textus I: Apologia 17a (Initium)",
+        "body": "<div class=\"card\" style=\"margin-bottom:var(--space-md);\"><p class=\"greek\" style=\"font-size:var(--step-1);line-height:2;\">Ὅτι μὲν ὑμεῖς, ὦ ἄνδρες Ἀθηναῖοι, πεπόνθατε ὑπὸ τῶν ἐμῶν κατηγόρων, οὐκ οἶδα.</p></div><p><strong>Versiō Latīna:</strong> \"Quid vōs, ō virī Athēniēnsēs, ab accūsātōribus meīs passī sītis, nesciō.\"</p><p><strong>Commentārius:</strong> <span class=\"greek\">ὅτι...πεπόνθατε</span> — ōrātiō oblīqua implicita (Gradū VI): ὅτι hīc fūnctiōnat quasi \"quid\" (nōn simplex \"quod\"), introducēns clausulam obiectī verbī οἶδα. <span class=\"greek\">πεπόνθατε</span> — perfectum āctīvum (Gradū IV) verbī <span class=\"greek\">πάσχω</span> (\"patior\"; fōrmae prīncipālēs: πάσχω, πείσομαι, ἔπαθον, πέπονθα — memorandae sīgillātim, sīcut cēterae verba irregulāria). Nōtā ōrdinem ēmphaticum: ὅτι...πεπόνθατε praeposita ante οὐκ οἶδα, Gradū VI (ēmphasis per positiōnem).</p>"
+      },
+      {
+        "heading": "Textus II: Apologia 38a (“Vīta Īnexāmināta”)",
+        "body": "<div class=\"card\" style=\"margin-bottom:var(--space-md);\"><p class=\"greek\" style=\"font-size:var(--step-1);line-height:2;\">Ὁ δὲ ἀνεξέταστος βίος οὐ βιωτὸς ἀνθρώπῳ.</p></div><p><strong>Versiō Latīna:</strong> \"Vīta autem īnexāmināta nōn est vīvenda hominī.\" (Trāditiō vulgāta: \"vīta non exāmināta nōn est digna quae vīvātur.\")</p><p><strong>Commentārius:</strong> <span class=\"greek\">ἀνεξέταστος</span> — adiectīvum duārum terminātiōnum (Gradū III), α- prīvātīvum + thema verbī ἐξετάζω (\"exāminō\"). <span class=\"greek\">βιωτός</span> — adiectīvum verbāle in -τός (Gradū VI!): \"vīvibilis, digna quae vīvātur\" — EXEMPLUM PERFECTUM patrōnī iam discitī, hīc vīsum in āctū authenticō. <span class=\"greek\">ἀνθρώπῳ</span> — datīvus (Gradū I-II), \"prō homine\" (datīvus commodī/respectūs implicitus).</p>"
+      }
+    ],
+    "examples": [
+      "οὐκ οἶδα. — Nesciō. (verbum frequentissimum, Gradū I passim)",
+      "ὦ ἄνδρες Ἀθηναῖοι. — Ō virī Athēniēnsēs! (vocātīvus, fōrmula ōrātōria standard apud Platōnem/Dēmosthenem)",
+      "ὁ ἀνεξέταστος βίος — vīta īnexāmināta (adiectīvum classis alterīus, Gradū III, cum α- prīvātīvō)",
+      "οὐ βιωτὸς ἀνθρώπῳ — nōn vīvibilis hominī (adiectīvum verbāle -τός + datīvus, Gradū VI)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Trānsferre ὅτι in prīmō passū sīcut “quia/quod” causāle, prōdūcendō sēnsum incohaerentem.",
+        "right": "Recognōscere ὅτι hīc introducit clausulam obiectī (“quid”), post οἶδα (verbum sciendī) — ōrātiō oblīqua implicita, Gradū VI.",
+        "why": "Ambiguitās ὅτι (causāle vs. oblīquum) est exemplum reāle iam praevīsum Gradū VI, hīc applicandum ad textum authenticum."
+      },
+      {
+        "wrong": "Crēdere “vīta īnexāmināta” significāre “vīta sine philosophiā academicā formālī”, interpretātiōne anachronisticā.",
+        "right": "Interpretārī “exāminātiōnem” (ἐξέτασις) in sēnsū Sōcraticō: quaestiōnem cōnstantem propriōrum crēditōrum/āctiōnum/valōrum, methodus elenchī (Gradū VI) applicāta ad sē ipsum.",
+        "why": "Contextus philosophicus authenticus (methodus Sōcratica, iam vīsa in dialogō adaptātō Gradūs VI) ēvītat interpretātiōnem anachronisticam."
+      },
+      {
+        "wrong": "Suppōnere Apologiam esse relātiōnem stenographicam exāctam verbōrum Sōcratis, sine ūllā mediātiōne litterāria Platōnis.",
+        "right": "Recognōscere Apologia est OPUS PLATŌNIS (nōn Sōcratis ipsīus, quī nihil scrīpsit), probābiliter combīnāns memoriam et compositiōnem litterāriam — quaestiō historiographica genuīna inter studiōsōs.",
+        "why": "Honestās intellectuālis requīrit distinguere “verba authentica Platōnis dē Sōcrate” ā “verba stenographica Sōcratis ipsīus” — discrīmen subtīlis sed significāns."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "vii-plat1-mc",
+      "type": "multiple-choice",
+      "title": "Apologia: Comprehēnsiō",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "plat1a",
+          "prompt": "Quid significat ὅτι in “ὅτι μὲν ὑμεῖς... πεπόνθατε... οὐκ οἶδα”?",
+          "options": [
+            "“quia” causāle",
+            "“quid” (introducēns clausulam obiectī, ōrātiō oblīqua implicita)",
+            "“ut” fīnāle"
+          ],
+          "answerIndex": 1,
+          "explanation": "Ὅτι hīc introducit obiectum verbī οἶδα, fūnctiōne “quid”."
+        },
+        {
+          "id": "plat1b",
+          "prompt": "Quae sunt fōrmae prīncipālēs verbī πάσχω?",
+          "options": [
+            "πάσχω, πείσομαι, ἔπαθον, πέπονθα",
+            "πάσχω, πάσχσω, ἔπασχα, πέπασχα",
+            "πάσχω sōlum, sine aliīs fōrmīs"
+          ],
+          "answerIndex": 0,
+          "explanation": "Fōrmae irregulārēs memorandae sīgillātim."
+        },
+        {
+          "id": "plat1c",
+          "prompt": "Quid significat βιωτός morphologicē?",
+          "options": [
+            "participium praesentis",
+            "adiectīvum verbāle in -τός, “vīvibilis”",
+            "comparātīvus"
+          ],
+          "answerIndex": 1,
+          "explanation": "Exemplum patrōnī -τός docti Gradū VI."
+        },
+        {
+          "id": "plat1d",
+          "prompt": "Quandō et ubi factum est iūdicium Sōcratis?",
+          "options": [
+            "399 a.C., Athēnīs",
+            "401 a.C., in Persidē",
+            "Numquam factum est; est fictiō"
+          ],
+          "answerIndex": 0,
+          "explanation": "Contextus historicus reālis, distīnctus ā fictiōne litterāriā compositiōnis ipsīus."
+        }
+      ]
+    },
+    {
+      "id": "vii-plat1-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "plat1e",
+          "statement": "“Ἀνεξέταστος” continet α- prīvātīvum, negāns sēnsum radīcis “exāminātiōnis”.",
+          "answer": true,
+          "explanation": "Corrēctum: α- prīvātīvum + ἐξετάζω."
+        },
+        {
+          "id": "plat1f",
+          "statement": "Apologia est textus quem Sōcratēs ipse scrīpsit.",
+          "answer": false,
+          "explanation": "Falsum: Sōcratēs nihil scrīpsit; Apologia est opus Platōnis."
+        },
+        {
+          "id": "plat1g",
+          "statement": "“Ὁ ἀνεξέταστος βίος οὐ βιωτὸς ἀνθρώπῳ” est ūna ex sententiīs maximē citātīs tōtīus philosophiae antīquae.",
+          "answer": true,
+          "explanation": "Corrēctum: locus classicus, cēleberrimus."
+        },
+        {
+          "id": "plat1h",
+          "statement": "Iūdicium Sōcratis ēvēnit propter accūsātiōnēs impietātis et corruptiōnis iuventūtis.",
+          "answer": true,
+          "explanation": "Corrēctum: contextus historicus authenticus."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Apologia 17a: “Ὅτι μὲν ὑμεῖς, ὦ ἄνδρες Ἀθηναῖοι, πεπόνθατε ὑπὸ τῶν ἐμῶν κατηγόρων, οὐκ οἶδα.” — ὅτι oblīquum, πεπόνθατε perfectum irregulāre.",
+    "Apologia 38a: “Ὁ δὲ ἀνεξέταστος βίος οὐ βιωτὸς ἀνθρώπῳ.” — sententia cēleberrima, exemplum -τός (Gradū VI) in āctū.",
+    "Contextus: iūdicium Sōcratis, Athēnīs, 399 a.C.; Apologia est opus Platōnis, nōn transcrīptiō stenographica.",
+    "Ambō passūs applicant grammaticam integram Gradūum I-VI (ōrātiō oblīqua, adiectīva verbālia, ōrdō ēmphaticus) ad verba authentica."
+  ],
+  "related": [
+    {
+      "lessonId": "vii-xenophon-anabasis",
+      "label": "Xenophōn: Anabasis"
+    },
+    {
+      "lessonId": "vii-lysias-orationes-selectae",
+      "label": "Lysias: Ōrātiōnēs Sēlectae"
+    }
+  ]
+}

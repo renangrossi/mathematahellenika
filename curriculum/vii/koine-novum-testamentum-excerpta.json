@@ -1,0 +1,158 @@
+{
+  "id": "vii-koine-novum-testamentum-excerpta",
+  "level": "VII",
+  "unit": "1",
+  "order": 6,
+  "skill": "lectio",
+  "strand": "auctores",
+  "title": "Koinē: Novum Testāmentum",
+  "subtitle": "Verba authentica: Iohannis 1:1 et initium Ōrātiōnis Dominicae (Matthaeī 6:9) — introductiō ad Koinēn, dialectum commūnem post-classicam.",
+  "prerequisites": [
+    "vii-dialectus-homerica-conspectus"
+  ],
+  "objectives": [
+    "Legere duo passūs authenticōs Novī Testāmentī, fortasse textūs Graecī maximē lēctī in tōtā historiā",
+    "Reconhōscere grammaticam Koinēs ut MAIŌRĪ PARTE identicam Atticō iam nōtō, cum simplificātiōnibus minōribus",
+    "Analyzāre praedicātum anarthricum (θεός sine articulō) in Iohanne 1:1 ut applicātiōnem rēgulārum Gradūs II",
+    "Recognōscere ἁγιασθήτω ut applicātiōnem dīrēctam patrōnī imperātīvī aoristī passīvī (Gradū V)"
+  ],
+  "content": {
+    "intro": "<strong>Duo passūs sequentēs sunt authenticī</strong> — ex Novō Testāmentō, corpore textuum scrīptōrum in <strong>Koinē</strong> (κοινή, \"[dialectus] commūnis\"), fōrma Graeca postclassica quae ēvēnit ex diffūsiōne Atticī per conquestūs Alexandrī Magnī, simplificāta et systēmatizāta ut lingua commūnicātiōnis trāns tōtum mundum Hellēnisticum/Rōmānum — inclūsō Novō Testāmentō (saec. I p.C.), corpore fortasse maximē lēctō tōtīus litterātūrae Graecae per historiam.",
+    "explanation": "<p>Bona nova: grammatica Koinēs est ADHŪC MAIŌRĪ PARTE identica Atticō classicō quem tōtus hic cursus docuit — discrīmina (quae proximā lēctiōne systēmatice vidēbis) sunt simplificātiōnēs, nōn systēma omnīnō novum. Discipulus quī complēvit Gradūs I-VI potest legere Novum Testāmentum cum minimā adaptātiōne.</p>",
+    "rules": [
+      {
+        "heading": "Textus I: Iohannis 1:1",
+        "body": "<div class=\"card\" style=\"margin-bottom:var(--space-md);\"><p class=\"greek\" style=\"font-size:var(--step-1);line-height:2;\">Ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν, καὶ θεὸς ἦν ὁ λόγος.</p></div><p><strong>Versiō Latīna:</strong> \"In prīncipiō erat Verbum, et Verbum erat apud Deum, et Deus erat Verbum.\"</p><p><strong>Commentārius:</strong> <span class=\"greek\">ἐν ἀρχῇ</span> — ἐν + datīvus (Gradū II). <span class=\"greek\">πρὸς τὸν θεόν</span> — πρός + accūsātīvus (Gradū II), hīc sēnsū \"apud, cum\" (nōn \"versus\"). <span class=\"greek\">καὶ θεὸς ἦν ὁ λόγος</span> — nōtā <span class=\"greek\">θεός</span> SINE articulō (praedicātum anarthricum) vs. <span class=\"greek\">ὁ λόγος</span> CUM articulō (subiectum) — distīnctiō syntactica subiectī/praedicātī per praesentiam/absentiam articulī, applicātiō subtīlis rēgulārum Gradūs II.</p>"
+      },
+      {
+        "heading": "Textus II: Matthaeī 6:9 (Ōrātiō Dominica, Initium)",
+        "body": "<div class=\"card\" style=\"margin-bottom:var(--space-md);\"><p class=\"greek\" style=\"font-size:var(--step-1);line-height:2;\">Πάτερ ἡμῶν ὁ ἐν τοῖς οὐρανοῖς, ἁγιασθήτω τὸ ὄνομά σου.</p></div><p><strong>Versiō Latīna:</strong> \"Pater noster quī es in caelīs, sānctificētur nōmen tuum.\"</p><p><strong>Commentārius:</strong> <span class=\"greek\">ὁ ἐν τοῖς οὐρανοῖς</span> — articulus + phrasis praepositiōnālis, substantīvāta (extēnsiō patrōnī \"articulus + adiectīvum\", Gradū II, hīc applicāta ad phrasim praepositiōnālem: \"ille quī [est] in caelīs\"). <span class=\"greek\">ἁγιασθήτω</span> — IMPERĀTĪVUS AORISTĪ PASSĪVĪ, 3ª persōna singulāris (Gradū V!): patrōnus IDENTICUS λυθήτω, applicātus hīc ad verbum ἁγιάζω (\"sānctificō\"). <span class=\"greek\">τὸ ὄνομά σου</span> — ὄνομα neutrum (Gradū I) + σου genetīvus prōnōminis (Gradū I).</p>"
+      }
+    ],
+    "examples": [
+      "ἐν ἀρχῇ ἦν ὁ λόγος. — In prīncipiō erat Verbum. (versus maximē citātus tōtīus NT)",
+      "θεὸς ἦν ὁ λόγος. — Deus erat Verbum. (praedicātum anarthricum, Gradū II)",
+      "πάτερ ἡμῶν — pater noster (vocātīvus + genetīvus possessīvus, Gradū I)",
+      "ἁγιασθήτω τὸ ὄνομά σου. — sānctificētur nōmen tuum. (imperātīvus aoristī passīvī, Gradū V, patrōnus λυθήτω)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Crēdere Koinēn esse lingua omnīnō dīversa ab Atticō, requīrēns novum studium ab initiō.",
+        "right": "Recognōscere Koinē est ēvolūtiō/simplificātiō Atticī, cum maiōre parte grammaticae iam nōtae directē applicābilis.",
+        "why": "Discipulus quī complēvit hunc cursum est bene praeparātus ad Koinēn cum minimō studiō additō — proxima lēctiō dabit discrīmina systēmatica."
+      },
+      {
+        "wrong": "Interpretārī absentiam articulī ante θεός in “θεὸς ἦν ὁ λόγος” ut significāns “un deus” (indēfīnītum) potius quam distinctiōnem subiectī/praedicātī.",
+        "right": "Recognōscere hanc esse quaestiōnem grammaticam dē subiectō/praedicātī (Gradū II), subiecta gravibus disputātiōnibus theologicīs historicīs, nōn simplex “articulus indēfīnītus” (quem Graecum omnīnō caret, ex Gradū I).",
+        "why": "Interpretātiō theologica huius versūs particulāris est subiecta multae disputātiōnī inter dēnōminātiōnēs; hic cursus offert sōlum observātiōnem grammaticam (praedicātum anarthricum), nōn positiōnem theologicam."
+      },
+      {
+        "wrong": "Ignōrāre applicātiōnem dīrēctam patrōnī iam discitī (λυθήτω → ἁγιασθήτω), quaerendō explicātiōnem novam prō fōrmā familiārī.",
+        "right": "Reconhōscere gaudium apprehendendī: grammatica iam discita (Gradū V) FUNCTIONAT dīrēctē in textū authenticō saeculī prīmī post Chrīstum.",
+        "why": "Hoc est praecīsē obiectīvum tōtīus cursūs: capācitās applicandī patrōnōs systēmaticōs ad textūs reālēs, dīversōs genere et aetāte."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "vii-koi1-mc",
+      "type": "multiple-choice",
+      "title": "Novum Testāmentum: Comprehēnsiō",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "koi1a",
+          "prompt": "Quid significat “Koinē”?",
+          "options": [
+            "“antīqua”",
+            "“[dialectus] commūnis”",
+            "“sacra”"
+          ],
+          "answerIndex": 1,
+          "explanation": "Κοινή significat “commūnis”, lingua commūnicātiōnis Hellēnisticae/Rōmānae."
+        },
+        {
+          "id": "koi1b",
+          "prompt": "Quid nōtat commentārius dē θεὸς ἦν ὁ λόγος?",
+          "options": [
+            "errōrem scrībae",
+            "praedicātum sine articulō (θεός) vs. subiectum cum articulō (ὁ λόγος)",
+            "duo subiecta"
+          ],
+          "answerIndex": 1,
+          "explanation": "Distīnctiō syntactica subiectī/praedicātī per articulum."
+        },
+        {
+          "id": "koi1c",
+          "prompt": "Ad quam classem grammaticam pertinet ἁγιασθήτω?",
+          "options": [
+            "indicātīvus praesēns",
+            "imperātīvus aoristī passīvī, 3ª sg.",
+            "coniūnctīvus aoristī"
+          ],
+          "answerIndex": 1,
+          "explanation": "Patrōnus identicus λυθήτω, Gradū V."
+        },
+        {
+          "id": "koi1d",
+          "prompt": "Est grammatica Koinēs omnīnō dīversa ab Atticō?",
+          "options": [
+            "sīc, systēma novum",
+            "nōn, maiōrī parte identica, cum simplificātiōnibus",
+            "Koinē nōn habet grammaticam"
+          ],
+          "answerIndex": 1,
+          "explanation": "Koinē est ēvolūtiō Atticī, nōn lingua nova."
+        }
+      ]
+    },
+    {
+      "id": "vii-koi1-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "koi1e",
+          "statement": "Novum Testāmentum est corpus textuum scrīptum in Koinē, nōn in Atticō classicō.",
+          "answer": true,
+          "explanation": "Corrēctum."
+        },
+        {
+          "id": "koi1f",
+          "statement": "Ἁγιασθήτω sequitur patrōnum imperātīvī aoristī passīvī iam discitum (λυθήτω), applicātum novō verbō.",
+          "answer": true,
+          "explanation": "Corrēctum: exemplum perfectum applicātiōnis grammaticae iam nōtae."
+        },
+        {
+          "id": "koi1g",
+          "statement": "Ὁ ἐν τοῖς οὐρανοῖς extendit patrōnum “articulus+adiectīvum” (Gradū II) ad phrasim praepositiōnālem substantīvātam.",
+          "answer": true,
+          "explanation": "Corrēctum."
+        },
+        {
+          "id": "koi1h",
+          "statement": "Koinē ēvēnit ex diffūsiōne Atticī per conquestūs Alexandrī Magnī.",
+          "answer": true,
+          "explanation": "Corrēctum: contextus historicus."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Iohannis 1:1: “Ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν, καὶ θεὸς ἦν ὁ λόγος.” — praedicātum anarthricum, Gradū II.",
+    "Matthaeī 6:9: “Πάτερ ἡμῶν ὁ ἐν τοῖς οὐρανοῖς, ἁγιασθήτω τὸ ὄνομά σου.” — imperātīvus aoristī passīvī, Gradū V, applicātus dīrēctē.",
+    "Koinē est ēvolūtiō/simplificātiō Atticī post conquestūs Alexandrī, nōn lingua omnīnō nova — grammatica maiōrī parte iam nōta.",
+    "Applicātiō dīrēcta grammaticae discitae (Gradibus I-VI) ad textum authenticum saeculī I p.C. — obiectīvum praecipuum huius gradūs."
+  ],
+  "related": [
+    {
+      "lessonId": "vii-homerus-ilias-excerpta",
+      "label": "Homērus: Ilias"
+    },
+    {
+      "lessonId": "vii-dialectus-koine-conspectus",
+      "label": "Dialectus Koinē: Conspectus"
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": "vii-prosodia-et-metrum-epicum",
+  "level": "VII",
+  "unit": "1",
+  "order": 8,
+  "skill": "grammatica",
+  "strand": "metrum",
+  "title": "Prosōdia et Metrum Epicum",
+  "subtitle": "Hexameter dactylicus: sex pedēs, longitūdō syllabārum (nātūrālis et “positiōne”), caesūra — īnstrūmenta fundāmentālia ad legendum versum epicum vōce clārā.",
+  "prerequisites": [
+    "vii-dialectus-koine-conspectus"
+  ],
+  "objectives": [
+    "Recitāre structūram hexametrī dactylicī: sex pedēs, patrōnus dactylus/spondēus, rēgula “quīntī pedis”",
+    "Applicāre rēgulās longitūdinis syllabārum: nātūrālis (vōcālis longa/diphthongus) vel “positiōne” (vōcālis brevis + duae cōnsonantēs sequentēs)",
+    "Reconhōscere caesūram (“sectiōnem”) ut pausam rhythmicam intrā versum, praesertim in pede tertiō",
+    "Applicāre haec prīncipia ad versum I.1 Iliadis (Gradū VII priōre) ut exemplum īnfōrmāns, sine reclāmāre praecīsiōnem absolūtam sine adiūtōriō magistrī vīvī"
+  ],
+  "content": {
+    "intro": "Poēsis epica Graeca (Homērus, et posteā imitātōrēs ut Apollōnius Rhodius) est composita in <strong>hexametrō dactylicō</strong> — metrum \"quantitātīvum\" (basātum in longitūdine syllabārum, nōn accentū tōnicō ut in poēsī Anglicā/Lūsitānicā modernā), sex pedum, quod discipulus antīquus discēbat scandere (\"legere metricē\") vōce clārā ante quidquam aliud.",
+    "explanation": "<p>Fundāmentum: quaelibet syllaba est <strong>longa</strong> (—) vel <strong>brevis</strong> (⏑), sīcut vōcālēs individuae (Gradū I) sunt longae vel brevēs — sed cum rēgulā additā: syllaba brevis NĀTŪRĀLITER fit LONGA \"positiōne\" sī sequuntur duae (vel plūrēs) cōnsonantēs (etiam trāns līneam verbōrum!). Pēs est combīnātiō syllabārum fōrmāns ūnitātem rhythmicam repetītam.</p>",
+    "rules": [
+      {
+        "heading": "a) Structūra Hexametrī",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Pēs</th><th>Patrōnus Permissus</th></tr></thead><tbody><tr><td>1–4</td><td>dactylus (— ⏑⏑) VEL spondēus (— —), līberē</td></tr><tr><td>5</td><td>dactylus (— ⏑⏑), FERĒ SEMPER (spondēus rārus, \"versus spondiacus\")</td></tr><tr><td>6</td><td>duae syllabae (— — vel — ⏑, ultima syllaba \"anceps\")</td></tr></tbody></table><p>\"Hexameter\" (\"sex mēnsūrae\") nōminat sex pedēs; \"dactylicus\" nōminat pedem fundāmentālem (dactylus, ā Graecō \"digitus\", comparāns longitūdinem inaequālem articulōrum digitī: ūnum longum, duo brevia).</p>"
+      },
+      {
+        "heading": "b) Longitūdō “Positiōne”",
+        "body": "<p>Syllaba brevis (vōcālis brevis, sine cōnsonantibus sequentibus complicantibus, ex Gradibus I/III) fit LONGA sī duae (vel plūrēs) cōnsonantēs sequuntur — etiam sī illae cōnsonantēs incipiunt verbum sequēns! Hoc explicat cūr syllaba vīsa \"brevis\" (ex vōcālī sōlā) potest occupāre elementum longum (—) in pede: rhythmus audītur, nōn sōlum vōcālis ipsa.</p>"
+      },
+      {
+        "heading": "c) Caesūra",
+        "body": "<p>Caesūra (\"sectiō\") est pausa verbōrum (fīnis ūnīus verbī, initium alterīus) INTRĀ pedem (nōn inter pedēs) — creāns pausam rhythmicam mediam versūs, analoga \"respīrātiōnī\" in lēctiōne vōce clārā. Caesūra PRINCIPĀLIS typicē occurrit in pede tertiō: post prīmam syllabam longam dactylī (caesūra \"masculīna\"/\"penthēmimerēs\") vel inter duās syllabās brevēs (caesūra \"fēminīna\"/\"trochaica\"). Legere versum Homēricum bene requīrit pausam ibi, nōn sōlum ad fīnem versūs.</p>"
+      }
+    ],
+    "examples": [
+      "μῆνιν ἄειδε θεὰ... — Prīmī pedēs versūs I.1 Iliadis: patrōnus generālis dactylicus praedomināns, sīcut typicum initiīs versuum epicōrum.",
+      "— ⏑⏑ (dactylus) vs. — — (spondēus): duo patrōnī permissī prō pedibus 1–4.",
+      "Πηληϊάδεω: syllabae multiplicēs, aliquae subiectae synizēsī (contractiōne metricā duārum vōcālium in ūnam syllabam prō necessitāte rhythmicā) — phaenomenon Homericum frequēns, nōn error.",
+      "Caesūra post tertium pedem: pausa “respīrātiōnis” quam recitātor antīquus (ῥαψῳδός) observābat."
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Suppōnere longitūdinem syllabae dēpendēre sōlum ā longitūdine vōcālis ipsīus (ex Gradū I), ignōrandō rēgulam “positiōne”.",
+        "right": "Applicāre AMBĀS rēgulās: longitūdo nātūrālis (vōcālis/diphthongus) ET longitūdo positiōne (cōnsonantēs sequentēs) — syllaba potest esse longa per utramque ratiōnem.",
+        "why": "Sine rēgulā positiōne, multī versūs Homericī vidērentur “nōn scandere” correctē — rēgula est essentiālis, nōn optiōnālis."
+      },
+      {
+        "wrong": "Reclāmāre praecīsiōnem absolūtam scandendī quemlibet versum sine practica extēnsā vel adiūtōriō magistrī.",
+        "right": "Recognōscere hanc lēctiōnem ut INTRODUCTIŌNEM ad prīncipia (structūra hexametrī, longitūdo, caesūra) — māgistrium plēnum scandendī requīrit practicam repetītam cum textibus multīs.",
+        "why": "Honestās pedagogica: metrum est arte discenda per practicam, nōn sōlum theoria ūnīus lēctiōnis absorbenda."
+      },
+      {
+        "wrong": "Ignōrāre synizēsim (contractiōnem metricam) ut anōmaliam inexplicābilem, frūstrandō sē cūr numerus syllabārum nōn concordat expectātiōne.",
+        "right": "Recognōscere synizēsim (et alia phaenomena metrica sīcut digamma, Gradū VII priōre) ut convention normālem poēsis epicae, adiuvantem versum “fittere” schēmatī rhythmicō requīsītō.",
+        "why": "Poēta epicus antīquus habuit repertōrium licentiārum metricārum (synizēsis, digamma, augmentum omissum, fōrmae dialectī variābilēs) ad servandum rhythmum sine sacrificāre sēnsum."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "vii-met1-mc",
+      "type": "multiple-choice",
+      "title": "Prosōdia et Metrum: Rēgulae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "met1a",
+          "prompt": "Quot pedēs habet hexameter dactylicus?",
+          "options": [
+            "quattuor",
+            "quīnque",
+            "sex"
+          ],
+          "answerIndex": 2,
+          "explanation": "“Hexameter” = sex mēnsūrae/pedēs."
+        },
+        {
+          "id": "met1b",
+          "prompt": "Quī pēs est FERĒ SEMPER dactylus (rārō spondēus)?",
+          "options": [
+            "prīmus",
+            "quīntus",
+            "sextus"
+          ],
+          "answerIndex": 1,
+          "explanation": "Rēgula “quīntī pedis”: ferē semper dactylus."
+        },
+        {
+          "id": "met1c",
+          "prompt": "Quandō fit syllaba brevis “longa positiōne”?",
+          "options": [
+            "numquam, longitūdo est semper fīxa",
+            "cum duae (vel plūrēs) cōnsonantēs sequuntur",
+            "cum est ultima syllaba versūs"
+          ],
+          "answerIndex": 1,
+          "explanation": "Rēgula positiōne, distīncta ā longitūdine nātūrālī vōcālis."
+        },
+        {
+          "id": "met1d",
+          "prompt": "Quid est caesūra?",
+          "options": [
+            "errōrem metricum",
+            "pausa verbōrum intrā pedem, creāns pausam rhythmicam",
+            "signum accentūs"
+          ],
+          "answerIndex": 1,
+          "explanation": "Caesūra est fenomenon normāle et essentiāle prōsodiae epicae."
+        }
+      ]
+    },
+    {
+      "id": "vii-met1-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "met1e",
+          "statement": "Pedēs 1–4 hexametrī possunt esse aut dactylī aut spondēī, līberē.",
+          "answer": true,
+          "explanation": "Corrēctum: flexibilitās in pedibus 1-4."
+        },
+        {
+          "id": "met1f",
+          "statement": "Sextus pēs hexametrī cōnsistit semper ex tribus syllabīs (dactylus purus).",
+          "answer": false,
+          "explanation": "Falsum: sextus pēs habet duās syllabās (spondēus vel trochaeus, ultima anceps)."
+        },
+        {
+          "id": "met1g",
+          "statement": "Synizēsis est contractiō metrica duārum vōcālium in ūnam syllabam, convention normālis in poēsī epicā.",
+          "answer": true,
+          "explanation": "Corrēctum."
+        },
+        {
+          "id": "met1h",
+          "statement": "Māgistrium plēnum scandendī quemlibet versum Homericum requīrit sōlum ūnam lēctiōnem theoricam, sine practicā ūllā.",
+          "answer": false,
+          "explanation": "Falsum: metrum requīrit practicam extēnsam."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Hexameter dactylicus: sex pedēs; pedēs 1-4 dactylus (— ⏑⏑) vel spondēus (— —) līberē; pēs 5 ferē semper dactylus; pēs 6 duae syllabae (ultima anceps).",
+    "Syllaba est longa nātūrāliter (vōcālis longa/diphthongus, Gradū I) VEL “positiōne” (vōcālis brevis + duae cōnsonantēs sequentēs, etiam trāns verba).",
+    "Caesūra: pausa verbōrum intrā pedem (typicē pēs III), creāns pausam rhythmicam “respīrātōriam” mediam versūs.",
+    "Phaenomena metrica speciālia (synizēsis, digamma effectīvum, augmentum omissum, Gradū VII priōre) sunt licentiae normālēs poēsis epicae."
+  ],
+  "related": [
+    {
+      "lessonId": "vii-dialectus-koine-conspectus",
+      "label": "Dialectus Koinē: Conspectus"
+    },
+    {
+      "lessonId": "vii-rhetorica-attica",
+      "label": "Rhētorica Attica"
+    }
+  ]
+}

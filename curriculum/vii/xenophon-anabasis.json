@@ -1,0 +1,153 @@
+{
+  "id": "vii-xenophon-anabasis",
+  "level": "VII",
+  "unit": "1",
+  "order": 1,
+  "skill": "lectio",
+  "strand": "auctores",
+  "title": "Xenophōn: Anabasis",
+  "subtitle": "Verba ipsa Xenophontis — initium librī prīmī Anabaseōs, sine adaptātiōne — cum commentāriō grammaticō et historicō plēnō.",
+  "prerequisites": [
+    "vi-recognitio-syntaxis-integra"
+  ],
+  "objectives": [
+    "Legere verba AUTHENTICA (nōn adaptāta) initiī Anabaseōs Xenophontis, applicandō grammaticam integram Gradūum I-VI",
+    "Situāre textum historicē: contextus Cȳrī Minōris et expedītiōnis in Persidem (401 a.C.)",
+    "Analyzāre cōnstrūctiōnem syntacticam sententiae initiālis (verbum praesēns historicum, ōrdō nōminum, cāsūs)",
+    "Distinguere hunc textum ā lēctiōnibus adaptātīs Gradūs VI: hīc, verba ipsa auctōris, nōn compositiō didactica"
+  ],
+  "content": {
+    "intro": "<strong>Hic textus EST authenticus:</strong> verba ipsa Xenophontis, initium librī prīmī operis <em>Anabasis</em> (\"Ascēnsus\", relātiō itineris Cȳrī Minōris et mercennāriōrum Graecōrum in cor imperiī Persicī, annō 401 a.C.), citāta sine mūtātiōne ā fōrmā classicē attestātā. Contrāstā hoc cum lēctiōnibus adaptātīs Gradūs VI — ibi, compositiōnēs orīginālēs; hīc, sententia prīma quam Xenophōn ipse scrīpsit.",
+    "explanation": "<p>Cȳrus Minor, fīlius iūnior rēgis Persārum Dareī II, temptāvit sēdem frātris suī Artaxerxis rapere per vim, cōnductīs mercennāriīs Graecīs (\"Decem Mīlibus\", oἱ Μύριοι). Xenophōn, historicus Atticus et ipse discipulus Sōcratis, partem huius expedītiōnis fuit et posteā scrīpsit hanc relātiōnem — ūna ex prīmīs \"memoriīs\" (autobiographicīs) in litterīs Graecīs, et ūnus ex textibus prīmīs quōs discipulī Graecī legunt propter prōsam simplicem/clāram (ex quā Gradus VI dērīvāvit \"stilum cōnexum\").</p>",
+    "rules": [
+      {
+        "heading": "Textus: Anabasis I.1.1",
+        "body": "<div class=\"card\" style=\"margin-bottom:var(--space-md);\"><p class=\"greek\" style=\"font-size:var(--step-1);line-height:2;\">Δαρείου καὶ Παρυσάτιδος γίγνονται παῖδες δύο, πρεσβύτερος μὲν Ἀρταξέρξης, νεώτερος δὲ Κῦρος.</p></div><p><strong>Versiō Latīna:</strong> \"Dareī et Parysatidis nāscuntur fīliī duo, maior nātū Artaxerxēs, minor Cȳrus.\" (litt. \"fīunt/nāscuntur duo puerī, senior quidem Artaxerxēs, iūnior autem Cȳrus\".)</p><p><strong>Commentārius Grammaticus:</strong> <span class=\"greek\">Δαρείου καὶ Παρυσάτιδος</span> — genetīvī possessīvī (\"of Darius and Parysatis\"), praeposita ēmphaticē prō ōrdine nōrmālī. <span class=\"greek\">γίγνονται</span> — praesēns HISTORICUM (praesēns adhibitum prō praeteritō, ad vīvācitātem nārrātīvam, cōnventiō frequēns in prōsā historicā Graecā — comparā \"praesēns historicum\" Latīnum!). <span class=\"greek\">πρεσβύτερος/νεώτερος</span> — comparātīvī (Gradū III) adhibitī hīc absolūtē (\"senior/iūnior\" inter duōs, nōn \"magis senex quam...\"), ūsus idiōmaticus frequēns. <span class=\"greek\">μὲν...δέ</span> — balantia classica (Gradū VI), distinguēns duōs fīliōs.</p>"
+      }
+    ],
+    "examples": [
+      "γίγνονται παῖδες δύο. — Nāscuntur duo fīliī. (praesēns historicum, γίγνομαι dēpōnēns ex Gradū IV)",
+      "πρεσβύτερος μὲν Ἀρταξέρξης, νεώτερος δὲ Κῦρος. — Senior Artaxerxēs, iūnior Cȳrus. (μέν/δέ balantia, comparātīvī absolūtī)",
+      "Δαρείου καὶ Παρυσάτιδος — genetīvī possessīvī praepositī (Gradū I-II, dēclīnātiō nōminum propriōrum)."
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Trānsferre γίγνονται litterāliter “fīunt/generantur” praesentī tempore chronologicō, cōnfundendō lēctōrem.",
+        "right": "Recognōscere praesēns historicum, adhibitum prō praeteritō nārrātīvō ad vīvācitātem — trānsferre “nāscuntur” vel “nātī sunt” secundum convention linguae recipientis.",
+        "why": "Praesēns historicum est figūra stilistica commūnis, nōn indicium tempōris chronologicē praesentis reālis."
+      },
+      {
+        "wrong": "Crēdere πρεσβύτερος/νεώτερος requīrere secundum terminum comparātiōnis explicitum (“quam...”), quia sunt fōrmae comparātīvae.",
+        "right": "Recognōscere ūsum absolūtum: inter duo elementa iam mentiōnāta (“duo fīliī”), comparātīvus sōlus sufficit sine “quam” explicitō.",
+        "why": "Graecum (sīcut Latīnum, interdum) permittit comparātīvum “relātīvum implicitum” cum contextus iam prōvidet terminum comparātiōnis."
+      },
+      {
+        "wrong": "Suppōnere hunc textum esse adaptātum vel simplificātum, quia est brevis et “legibilis”.",
+        "right": "Recognōscere hunc esse verba EXACTA Xenophontis, nōn adaptāta — brevitās/clāritās reflectit stilum authenticum ipsīus auctōris (Gradū VI, stilus cōnexus), nōn simplificātiōnem pedagogicam.",
+        "why": "Xenophōn est genuīnē adhibitus ut prīmus auctor “authenticus” in tirōciniō Graecō praecīsē quia stilus eius est authenticē accessibilis, nōn quia est adaptātus prō discipulīs."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "vii-xen1-mc",
+      "type": "multiple-choice",
+      "title": "Anabasis I.1.1: Comprehēnsiō",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "xen1a",
+          "prompt": "Quī sunt Dareus et Parysatis in hōc textū?",
+          "options": [
+            "duo frātrēs",
+            "rēx Persārum et rēgīna, parentēs Artaxerxis et Cȳrī",
+            "duo historicī Graecī"
+          ],
+          "answerIndex": 1,
+          "explanation": "Sunt rēx et rēgīna Persārum, parentēs duōrum fīliōrum mentiōnātōrum."
+        },
+        {
+          "id": "xen1b",
+          "prompt": "Quid est γίγνονται in hōc contextū?",
+          "options": [
+            "futūrum indicātīvum",
+            "praesēns historicum, prō praeteritō",
+            "coniūnctīvus"
+          ],
+          "answerIndex": 1,
+          "explanation": "Praesēns adhibitum nārrātīvē prō praeteritō, convention stilistica."
+        },
+        {
+          "id": "xen1c",
+          "prompt": "Quod opus Xenophontis incipit hōc textū?",
+          "options": [
+            "Cyropaedia",
+            "Anabasis",
+            "Memorābilia"
+          ],
+          "answerIndex": 1,
+          "explanation": "Anabasis, relātiō expedītiōnis Cȳrī Minōris."
+        },
+        {
+          "id": "xen1d",
+          "prompt": "Estne hic textus adaptātus/simplificātus prō discipulīs?",
+          "options": [
+            "sīc, est versiō didactica",
+            "nōn, sunt verba authentica ipsīus Xenophontis",
+            "sōlum partim"
+          ],
+          "answerIndex": 1,
+          "explanation": "Est textus authenticus, nōn adaptātus — dīversē ā lēctiōnibus Gradūs VI."
+        }
+      ]
+    },
+    {
+      "id": "vii-xen1-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "xen1e",
+          "statement": "Anabasis dēscrībit expedītiōnem Cȳrī Minōris contrā frātrem suum Artaxerxem.",
+          "answer": true,
+          "explanation": "Corrēctum: contextus historicus 401 a.C."
+        },
+        {
+          "id": "xen1f",
+          "statement": "Πρεσβύτερος/νεώτερος requīrunt semper “quam” (ἤ) explicitum secundum sequēns.",
+          "answer": false,
+          "explanation": "Falsum: ūsus absolūtus est possibilis cum contextus sufficit."
+        },
+        {
+          "id": "xen1g",
+          "statement": "Xenophōn ipse fuit pars expedītiōnis quam dēscrībit.",
+          "answer": true,
+          "explanation": "Corrēctum: opus est “memoria” quasi-autobiographica."
+        },
+        {
+          "id": "xen1h",
+          "statement": "Stilus Xenophonteus (“cōnexus”, Gradū VI) reflectitur iam in hāc sententiā initiālī, simplicī et clārā.",
+          "answer": true,
+          "explanation": "Corrēctum: brevitās et clāritās sunt authenticae, nōn adaptātae."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Anabasis I.1.1 (Xenophōn, verba authentica): “Δαρείου καὶ Παρυσάτιδος γίγνονται παῖδες δύο, πρεσβύτερος μὲν Ἀρταξέρξης, νεώτερος δὲ Κῦρος.”",
+    "Contextus historicus: expedītiō Cȳrī Minōris cum mercennāriīs Graecīs contrā frātrem Artaxerxem, 401 a.C.",
+    "Praesēns historicum (γίγνονται) adhibitum prō vīvācitāte nārrātīvā; comparātīvī (πρεσβύτερος/νεώτερος) ūsū absolūtō.",
+    "Hic textus, dīversē ā lēctiōnibus adaptātīs Gradūs VI, est verba EXACTA Xenophontis — prīmus contāctus discipulī cum prōsā Graecā authenticā."
+  ],
+  "related": [
+    {
+      "lessonId": "vi-lectio-adaptata-xenophon",
+      "label": "Lēctiō Adaptāta: Xenophōn (Gradus VI)"
+    },
+    {
+      "lessonId": "vii-platon-apologia",
+      "label": "Platōn: Apologia"
+    }
+  ]
+}

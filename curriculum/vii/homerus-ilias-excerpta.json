@@ -1,0 +1,154 @@
+{
+  "id": "vii-homerus-ilias-excerpta",
+  "level": "VII",
+  "unit": "1",
+  "order": 4,
+  "skill": "lectio",
+  "strand": "auctores",
+  "title": "Homērus: Ilias",
+  "subtitle": "Verba authentica: prīmī duo versūs Iliadis (I.1-2) — versūs maximē citātī tōtīus litterātūrae Graecae — praeparātiō ad dialectum Homericam et metrum epicum.",
+  "prerequisites": [
+    "vii-lysias-orationes-selectae"
+  ],
+  "objectives": [
+    "Legere et memoriae mandāre prīmōs duōs versūs Iliadis, fortasse versūs maximē cēlebrēs tōtīus litterātūrae antīquae",
+    "Reconhōscere prīmās fōrmās dialectī Homericae (Epicae/Ioniae) vīsās in hōc textū, praeparāns lēctiōnem sequentem",
+    "Explicāre thema “īram” (μῆνις) ut argūmentum organizāns tōtīus Iliadis",
+    "Comparāre invocātiōnem Mūsae Homericam cum aliīs epicīs (Vergiliō Latīnō, quem discipulus fortasse iam nōvit)"
+  ],
+  "content": {
+    "intro": "<strong>Hic textus est authenticus</strong> — prīmī duo versūs (ex XV milibus circiter) Iliadis, epicī antīquissimī et fortasse maximē īnfluentis tōtīus litterātūrae Eurōpaeae, trāditiōnāliter attribūtī \"Homērō\" (persōna cūius historicitās ipsa incerta manet — vidē lēctiōnem sequentem dē dialectō). Hī versūs sunt inter fōrmulās maximē memorātās omnis studentis Graecī classicī, antīquī et modernī.",
+    "explanation": "<p>Ilias narrat (partem) Bellī Trōiānī, focāta in īrā (μῆνις) Achillis, herōis praecipuī Graecōrum, contrā Agamemnonem, ducem exercitūs — īra quae, per tōtum epicum, causat plūrimās mortēs Graecōrum ipsōrum. Versus prīmus statim nōminat thema (μῆνιν, verbum PRĪMUM tōtīus operis — positiō ēmphatica maximē significāns) et invocat Mūsam (patrōnam poēsis) ad canendum.</p>",
+    "rules": [
+      {
+        "heading": "Textus: Ilias I.1-2",
+        "body": "<div class=\"card\" style=\"margin-bottom:var(--space-md);\"><p class=\"greek\" style=\"font-size:var(--step-1);line-height:2;\">μῆνιν ἄειδε θεὰ Πηληϊάδεω Ἀχιλῆος<br>οὐλομένην, ἣ μυρί᾽ Ἀχαιοῖς ἄλγε᾽ ἔθηκε,</p></div><p><strong>Versiō Latīna:</strong> \"Īram cane, dea, Achillis Pēlēiadae, / exitiālem, quae innumera Achīvīs mala intulit,\"</p><p><strong>Commentārius:</strong> <span class=\"greek\">μῆνιν</span> — accūsātīvus, obiectum verbī ἄειδε, positiō PRĪMA ēmphatica (Gradū VI: ōrdō = focus) — tōtum epicum incipit ipsō themate. <span class=\"greek\">ἄειδε</span> — imperātīvus (Gradū V), fōrma Epica prō Atticō ᾄδω. <span class=\"greek\">Πηληϊάδεω, Ἀχιλῆος</span> — genetīvī in fōrmā DIALECTĪ (Epica/Iōnica: -εω prō Atticō -ου; -ος prō Atticō -εως) — prīma exposītiō ad dialectum Homericam, quam proximā lēctiōne systēmatice tractābis. <span class=\"greek\">οὐλομένην</span> — participium (Gradū IV), \"exitiālis\", concordāns cum μῆνιν, in appositiōne. <span class=\"greek\">ἔθηκε</span> — aoristus verbī <span class=\"greek\">τίθημι</span> (\"pōnō, faciō\") — verbum āthematicum (\"-μι\"), classis nōn systēmaticē tractāta hōc cursū, sed glōssanda hīc ut vocābulum frequēns.</p>"
+      }
+    ],
+    "examples": [
+      "μῆνιν ἄειδε θεά. — Īram cane, dea. (invocātiō Mūsae, comparā “Arma virumque canō” Vergiliī!)",
+      "Πηληϊάδεω Ἀχιλῆος — Achillis Pēlēiadae (patronymicum + nōmen proprium, genetīvus Epicus)",
+      "μυρία ἄλγεα — innumera mala (accūsātīvus plūrālis neutrum, fōrma uncontracta Epica, comparā ἄλγη Atticum)",
+      "Ἀχαιοῖς — Achīvīs/Graecīs (datīvus plūrālis, nōmen Graecōrum apud Homērum)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Crēdere Iliadem incipere nārrātiōne integrā Bellī Trōiānī (ab ovō, ut dīcitur), sīcut modernī expectant ā “epicō”.",
+        "right": "Recognōscere Iliadem incipere IN MEDIĀS RĒS (“in media rē”), focātam in ūnō episōdiō (īra Achillis, ultimō annō bellī), nōn tōtā historia decem annōrum.",
+        "why": "Convention epica “in mediās rēs” (ipsa nōmināta ā practicā Homēricā) īnfluit omnem epicum posteriōrem, inclūsō Vergiliō."
+      },
+      {
+        "wrong": "Suppōnere fōrmās dialectī Homericae (Πηληϊάδεω, Ἀχιλῆος) esse errōrēs vel fōrmās “incorrēctās” Atticī quod iam nōvistī.",
+        "right": "Recognōscere dialectum Epicam/Iōnicam esse SYSTĒMA PROPRIUM, antīquius et diversum ab Atticō, nōn corruptiōnem eius — vidē lēctiōnem sequentem.",
+        "why": "Atticum ipsum est ūna dialectus inter multās; Homērus praecēdit standardizātiōnem Atticam per saecula."
+      },
+      {
+        "wrong": "Ignōrāre positiōnem prīmam “μῆνιν” ut accidentālem, sine sīgnificātiōne compositiōnāle.",
+        "right": "Recognōscere positiōnem inceptīvam ipsīus themae tōtīus operis ut āctum poēticum dēlīberātum maximae ēmphasis (Gradū VI, ōrdō=focus).",
+        "why": "Prīmum verbum epicī maximē īnfluentis tōtīus litterātūrae Eurōpaeae est “īra” — chōsa nōn accidentālis, sed programmatica."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "vii-hom1-mc",
+      "type": "multiple-choice",
+      "title": "Ilias I.1-2: Comprehēnsiō",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "hom1a",
+          "prompt": "Quod est prīmum verbum tōtīus Iliadis?",
+          "options": [
+            "Ἄειδε",
+            "μῆνιν",
+            "θεά"
+          ],
+          "answerIndex": 1,
+          "explanation": "Μῆνιν (“īram”), obiectum praepositum ēmphaticē, thema tōtīus operis."
+        },
+        {
+          "id": "hom1b",
+          "prompt": "Quid significat convention “in mediās rēs”?",
+          "options": [
+            "incipere ab initiō chronologicō",
+            "incipere in mediō āctiōnis, nōn ab initiō historiae",
+            "fīnīre sine conclūsiōne"
+          ],
+          "answerIndex": 1,
+          "explanation": "Homērus incipit medium bellī, nōn causam eius."
+        },
+        {
+          "id": "hom1c",
+          "prompt": "Quae fōrma est Πηληϊάδεω?",
+          "options": [
+            "nōminātīvus Atticus",
+            "genetīvus, dialectō Epicā (-εω prō -ου)",
+            "datīvus plūrālis"
+          ],
+          "answerIndex": 1,
+          "explanation": "Genetīvus singulāris, fōrma dialectī Epicae/Iōnicae."
+        },
+        {
+          "id": "hom1d",
+          "prompt": "Quod verbum invocat Mūsam ad canendum?",
+          "options": [
+            "ἄειδε (imperātīvus)",
+            "ἔθηκε",
+            "οὐλομένην"
+          ],
+          "answerIndex": 0,
+          "explanation": "Ἄειδε est imperātīvus, “cane!”, verbum invocātiōnis Mūsae."
+        }
+      ]
+    },
+    {
+      "id": "vii-hom1-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "hom1e",
+          "statement": "Ilias narrat tōtam historiam Bellī Trōiānī, ab initiō ad fīnem.",
+          "answer": false,
+          "explanation": "Falsum: focātur in ūnō episōdiō (īra Achillis), “in mediās rēs”."
+        },
+        {
+          "id": "hom1f",
+          "statement": "Πηληϊάδεω et Ἀχιλῆος sunt fōrmae genetīvī in dialectō Epicā, dīversae ā fōrmīs Atticīs iam nōtīs.",
+          "answer": true,
+          "explanation": "Corrēctum: -εω/-ος Epica vs. -ου/-εως Attica."
+        },
+        {
+          "id": "hom1g",
+          "statement": "Vergilius, poēta epicus Latīnus, imitātus est convention Homericam invocātiōnis Mūsae.",
+          "answer": true,
+          "explanation": "Corrēctum: “Arma virumque canō” ecoat “μῆνιν ἄειδε”."
+        },
+        {
+          "id": "hom1h",
+          "statement": "Μῆνιν (“īra”) est verbum ultimum, nōn prīmum, versūs initiālis.",
+          "answer": false,
+          "explanation": "Falsum: est verbum PRĪMUM, positiōne ēmphaticā maximē significantī."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Ilias I.1-2: “μῆνιν ἄειδε θεὰ Πηληϊάδεω Ἀχιλῆος / οὐλομένην, ἣ μυρί᾽ Ἀχαιοῖς ἄλγε᾽ ἔθηκε” — versūs maximē citātī litterātūrae Graecae.",
+    "“Μῆνιν” (īra), verbum prīmum, est thema organizāns tōtīus Iliadis — positiō ēmphatica dēlīberāta.",
+    "Prīmae fōrmae dialectī Epicae/Iōnicae vīsae: genetīvī in -εω/-ος (Πηληϊάδεω, Ἀχιλῆος), praeparātiō prō lēctiōne sequentī.",
+    "Convention “in mediās rēs”: Ilias incipit ultimō annō bellī, nōn ab ovō — īnfluēns omnem epicum posteriōrem, inclūsō Vergiliō."
+  ],
+  "related": [
+    {
+      "lessonId": "vii-lysias-orationes-selectae",
+      "label": "Lysias: Ōrātiōnēs Sēlectae"
+    },
+    {
+      "lessonId": "vii-dialectus-homerica-conspectus",
+      "label": "Dialectus Homerica: Conspectus"
+    }
+  ]
+}

@@ -296,5 +296,56 @@
       "ty": "recognitio-syntaxis-integra"
     }
   ],
-  "auctores": []
+  "auctores": [
+    {
+      "slug": "xenophon-anabasis",
+      "title": "Xenophōn: Anabasis",
+      "ty": "xenophon-anabasis"
+    },
+    {
+      "slug": "platon-apologia",
+      "title": "Platōn: Apologia",
+      "ty": "platon-apologia"
+    },
+    {
+      "slug": "lysias-orationes-selectae",
+      "title": "Lysias: Ōrātiōnēs Sēlectae",
+      "ty": "lysias-orationes-selectae"
+    },
+    {
+      "slug": "homerus-ilias-excerpta",
+      "title": "Homērus: Ilias",
+      "ty": "homerus-ilias-excerpta"
+    },
+    {
+      "slug": "dialectus-homerica-conspectus",
+      "title": "Dialectus Homerica: Conspectus",
+      "ty": "dialectus-homerica-conspectus"
+    },
+    {
+      "slug": "koine-novum-testamentum-excerpta",
+      "title": "Koinē: Novum Testāmentum",
+      "ty": "koine-novum-testamentum-excerpta"
+    },
+    {
+      "slug": "dialectus-koine-conspectus",
+      "title": "Dialectus Koinē: Conspectus",
+      "ty": "dialectus-koine-conspectus"
+    },
+    {
+      "slug": "prosodia-et-metrum-epicum",
+      "title": "Prosōdia et Metrum Epicum",
+      "ty": "prosodia-et-metrum-epicum"
+    },
+    {
+      "slug": "rhetorica-attica",
+      "title": "Rhētorica Attica",
+      "ty": "rhetorica-attica"
+    },
+    {
+      "slug": "recognitio-finalis",
+      "title": "Recognitiō Fīnālis: Lectiō Lībera",
+      "ty": "recognitio-finalis"
+    }
+  ]
 }

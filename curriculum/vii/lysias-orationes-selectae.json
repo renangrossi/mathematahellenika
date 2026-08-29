@@ -1,0 +1,154 @@
+{
+  "id": "vii-lysias-orationes-selectae",
+  "level": "VII",
+  "unit": "1",
+  "order": 3,
+  "skill": "lectio",
+  "strand": "auctores",
+  "title": "Lysias: Ōrātiōnēs Sēlectae",
+  "subtitle": "Verba authentica: initium ōrātiōnis “Prō Caede Eratosthenis” (1.1) — cum introductiōne ad genus “tenue” (ἰσχνὸν εἶδος) et ēthopoiiam.",
+  "prerequisites": [
+    "vii-platon-apologia"
+  ],
+  "objectives": [
+    "Legere clausulam initiālem authenticam ōrātiōnis Lysiae 1 (“Prō Caede Eratosthenis”)",
+    "Situāre Lysiam historicē: logographus metoecus (nōn cīvis), scrīptor ōrātiōnum aliīs dēlīberandārum",
+    "Explicāre cōnceptum “ēthopoiiae” (Graecē ἠθοποιία): arte adaptandī vōcem ōrātiōnis ad persōnam locūtōris (nōn Lysiae ipsīus)",
+    "Recognōscere genetīvum pretiī (Gradū VI) et īnfīnītīvum articulārem in āctū authenticō"
+  ],
+  "content": {
+    "intro": "<strong>Nota:</strong> discrīmine ā Xenophonte/Platōne (quōrum textūs supra hīc citātī sunt ex memoriā scholāsticā cōnfīdenter), Lysiae verba sunt hīc citāta MAGIS CONSERVĀTĪVĒ — ūna clausula initiālis, bene attestāta et commūniter anthologizāta in libris \"introductiōnis ad ōrātōrēs Atticōs\" — plūs commentāriō historicō/stilisticō dē Lysiā generāliter, prae extēnsā citātiōne verbōtenus quam nōn possum cōnfīdenter garantīre sine cōnsultātiōne ēditiōnis criticae.",
+    "explanation": "<p>Lysias (c. 445–380 a.C.) erat <strong>metoecus</strong> (μέτοικος, resident aliēnigena sine cīvitāte plēnā) Athēnīs, quī post caedem frātris suī Polemarchī ā \"Trīgintā Tyrannīs\" (regimine oligarchicō breve post Bellum Peloponnēsiacum) prōfūgit, deinde reversus scrīpsit ōrātiōnēs FORENSĒS quās aliī cīvēs (nōn ipse Lysias, quī, ut metoecus, nōn poterat plēnē loquī prō sē in tribūnālī Atheniensī) memoriae mandābant et prōnūntiābant in iūdiciīs. Hic est <strong>logographus</strong> classicus — scrīptor prō aliīs.</p>",
+    "rules": [
+      {
+        "heading": "Textus: Lysias 1.1 (Initium, “Prō Caede Eratosthenis”)",
+        "body": "<div class=\"card\" style=\"margin-bottom:var(--space-md);\"><p class=\"greek\" style=\"font-size:var(--step-1);line-height:2;\">Περὶ πολλοῦ ἂν ποιησαίμην, ὦ ἄνδρες...</p></div><p><strong>Versiō Latīna:</strong> \"Magnī facerem, ō virī...\" (litt. \"circā multum facerem\").</p><p><strong>Commentārius:</strong> <span class=\"greek\">περὶ πολλοῦ</span> — GENETĪVUS PRETIĪ (Gradū VI!), \"magnī, multī [valōris]\". <span class=\"greek\">ἂν ποιησαίμην</span> — OPTĀTĪVUS POTENTIĀLIS (Gradū V), \"facerem, cōnsīderārem [sī...]\" — modestia rhētorica classica, incohāns ōrātiōnem forensem cum tōnō temperātō, nōn assertīvō. Verbum <span class=\"greek\">ποιέω</span> hīc medium, sēnsū \"reputāre, aestimāre\" (nōn sōlum \"facere\").</p><p>Ōrātiō integra (\"Prō Caede Eratosthenis\") narrat dēfēnsiōnem hominis accūsātī necāvisse mōechum uxōris suae, Eratosthenem — captum in flagrante — dēfendēns sē per lēgem Athēniēnsem quae permittēbat tāle occīdere. Genus \"tenue\" (ἰσχνόν) Lysiae — simplex, vērīsimile, sine ōrnāmentīs excessīvīs — famam eī comparāvit ut magister <strong>ēthopoiiae</strong> (ἠθοποιία): capācitāte reddendī vōcem ōrātiōnis convenientem persōnae/charactērī locūtōris (agricolae, mīlitis, senis...), nōn vōcem propriam Lysiae ipsīus.</p>"
+      }
+    ],
+    "examples": [
+      "περὶ πολλοῦ ἂν ποιησαίμην — magnī facerem (genetīvus pretiī + optātīvus potentiālis)",
+      "ὦ ἄνδρες [δικασταί] — ō virī [iūdicēs]! (vocātīvus, fōrmula forensis standard)",
+      "μέτοικος — resident aliēnigena (status sociālis Lysiae Athēnīs)",
+      "λογογράφος — scrīptor ōrātiōnum prō aliīs (professiō Lysiae)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Crēdere Lysiam ipsum prōnūntiāvisse ōrātiōnēs suās in tribūnālibus.",
+        "right": "Recordārī Lysias, ut metoecus, scrīpsit ōrātiōnēs quās ALIĪ cīvēs (clientēs eius) memoriae mandābant et ipsī prōnūntiābant.",
+        "why": "Distinctio inter auctōrem/scrīptōrem (Lysias) et locūtōrem/persōnam ōrātiōnis (client) est fundāmentālis prō intellēctū ēthopoiiae."
+      },
+      {
+        "wrong": "Cōnfundere “genus tenue” (stilum simplicem Lysiae) cum “stilō īnferiōre” vel minus artificiōsō.",
+        "right": "Recognōscere simplicitātem apparentem Lysiae ut ars altē refīnīta, dēlīberātē adaptāta ad vōcem “nātūrālem” locūtōris nōn-ōrātōriī.",
+        "why": "Antīquī ipsī (Dionysius Halicarnassēnsis, alius rhētor) laudāvērunt Lysiam praecīsē propter hanc “simplicitātem artificiōsam”."
+      },
+      {
+        "wrong": "Suppōnere gradum eundem cōnfīdentiae verbōtenus prō Lysiā ac prō Xenophonte/Platōne/Homērō in hōc cursū.",
+        "right": "Recognōscere explicitē (ut hoc ipsum caput indicat) quod citātiō hīc est magis conservātīva, ūna clausula bene attestāta, nōn extēnsa ōrātiō memoriter reproducta.",
+        "why": "Honestās academica: nōn omnis auctor antīquus est aequāliter “memorābilis” verbōtenus sine cōnsultātiōne ēditiōnis; discere hoc discrīmen est pars māturitātis philologicae."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "vii-lys1-mc",
+      "type": "multiple-choice",
+      "title": "Lysias: Comprehēnsiō",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "lys1a",
+          "prompt": "Quid est “logographus”?",
+          "options": [
+            "historicus quī bella scrībit",
+            "scrīptor ōrātiōnum quās aliī prōnūntiant",
+            "poēta epicus"
+          ],
+          "answerIndex": 1,
+          "explanation": "Lysias erat logographus classicus."
+        },
+        {
+          "id": "lys1b",
+          "prompt": "Cūr Lysias ipse nōn poterat plēnē loquī in tribūnālī Athēniēnsī?",
+          "options": [
+            "erat nimis timidus",
+            "erat metoecus (resident aliēnigena), sine cīvitāte plēnā",
+            "erat mulier"
+          ],
+          "answerIndex": 1,
+          "explanation": "Status sociālis (metoecus) līmitābat iūra fōrēnsia dīrēcta."
+        },
+        {
+          "id": "lys1c",
+          "prompt": "Quid est ἠθοποιία?",
+          "options": [
+            "fōrma metrī epicī",
+            "ars adaptandī vōcem ōrātiōnis ad persōnam locūtōris",
+            "genus tragoediae"
+          ],
+          "answerIndex": 1,
+          "explanation": "Ēthopoiia est capācitās Lysiae praecipua."
+        },
+        {
+          "id": "lys1d",
+          "prompt": "Quem cāsum exemplificat περὶ πολλοῦ?",
+          "options": [
+            "genetīvum pretiī",
+            "datīvum īnstrūmentī",
+            "accūsātīvum respectūs"
+          ],
+          "answerIndex": 0,
+          "explanation": "Genetīvus pretiī (Gradū VI), “magnī, multī valōris”."
+        }
+      ]
+    },
+    {
+      "id": "vii-lys1-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "lys1e",
+          "statement": "Lysias erat cīvis Athēniēnsis plēnō iūre.",
+          "answer": false,
+          "explanation": "Falsum: erat metoecus, resident sine cīvitāte plēnā."
+        },
+        {
+          "id": "lys1f",
+          "statement": "Genus “tenue” (ἰσχνόν) Lysiae significat stilum simplicem sed altē artificiōsum.",
+          "answer": true,
+          "explanation": "Corrēctum: simplicitās apparēns, ars refīnīta."
+        },
+        {
+          "id": "lys1g",
+          "statement": "Citātiō Lysiae in hāc lēctiōne est aequē extēnsa ac citātiōnēs Xenophontis/Platōnis in lēctiōnibus priōribus.",
+          "answer": false,
+          "explanation": "Falsum: hīc adhibēmus approach magis conservātīvum, ūna clausula bene attestāta."
+        },
+        {
+          "id": "lys1h",
+          "statement": "Trīgintā Tyrannī fuērunt regimen oligarchicum breve post Bellum Peloponnēsiacum.",
+          "answer": true,
+          "explanation": "Corrēctum: contextus historicus, relevāns ad familiam Lysiae."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Lysias 1.1 (clausula initiālis, bene attestāta): “Περὶ πολλοῦ ἂν ποιησαίμην, ὦ ἄνδρες...” — genetīvus pretiī + optātīvus potentiālis.",
+    "Lysias erat metoecus Athēnīs, logographus (scrīptor ōrātiōnum prō aliīs cīvibus), post caedem frātris ā Trīgintā Tyrannīs.",
+    "Ēthopoiia: ars adaptandī vōcem ōrātiōnis ad persōnam/charactērem locūtōris, nōn vōcem propriam auctōris.",
+    "Citātiō hīc est dēlīberātē magis conservātīva quam Xenophōn/Platōn priōrēs — honestās academica dē līmitibus memoriae verbōtenus."
+  ],
+  "related": [
+    {
+      "lessonId": "vii-platon-apologia",
+      "label": "Platōn: Apologia"
+    },
+    {
+      "lessonId": "vii-rhetorica-attica",
+      "label": "Rhētorica Attica"
+    }
+  ]
+}

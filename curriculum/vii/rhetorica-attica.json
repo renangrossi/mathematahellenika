@@ -1,0 +1,163 @@
+{
+  "id": "vii-rhetorica-attica",
+  "level": "VII",
+  "unit": "1",
+  "order": 9,
+  "skill": "grammatica",
+  "strand": "rhetorica",
+  "title": "Rhētorica Attica",
+  "subtitle": "Figūrae classicae: antithesis (μέν/δέ), tricōlon, asyndeton, chiasmus, anaphora, figūrae Gorgianae (parisōsis, homoeoteleuton) — īnstrūmenta ōrātōrum et historicōrum.",
+  "prerequisites": [
+    "vii-prosodia-et-metrum-epicum"
+  ],
+  "objectives": [
+    "Recitāre et reconhōscere sex figūrās rhētoricās classicās frequentēs in prōsā Atticā artificiōsā",
+    "Applicāre μέν/δέ (Gradū VI) ut exemplum antithesis systēmaticae, iam nōtum",
+    "Reconhōscere “figūrās Gorgianas” (parisōsis, homoeoteleuton) ut īnfluentiam Gorgiae Leontīnī super prōsam Atticam artificiōsam",
+    "Analyzāre exemplum authenticum (via Plūtarchum) tricōlī cum asyndetō, phrasim maximē memorābilem in tōtā historiā Occidentālī"
+  ],
+  "content": {
+    "intro": "Rhētorica (ῥητορική) fuit disciplīna centrālis ēducātiōnis Atticae altiōris, ars persuādendī per structūram et ōrnātum verbōrum — nōn sōlum contentum logicum. Figūrae hīc collēctae nōn sunt “decorātiō” superficiālis, sed īnstrūmenta persuāsiōnis effectīva, adhibita ā philosophīs (Platōne), historicīs (Thucydidē), et ōrātōribus (Dēmosthene, Lysiā) aequāliter.",
+    "explanation": "<p>Multae figūrae hīc discendae sunt applicātiōnēs specializātae grammaticae iam nōtae (μέν/δέ, ōrdō verbōrum, particulae — omnia Gradū VI) — nōn theoria omnīnō nova, sed reconhōscere PATTERN rhētoricum ubi anteā vīdistī sōlum grammaticam \"nūdam\".</p>",
+    "rules": [
+      {
+        "heading": "a) Antithesis, Tricōlon, Asyndeton",
+        "body": "<p><strong>Antithesis</strong> (ἀντίθεσις): oppositiō balanceāta duārum idēārum, systēmatice construēnda per <span class=\"greek\">μέν...δέ</span> (iam nōtum, Gradū VI): <span class=\"greek\">ὁ μὲν λέγει, ὁ δὲ σιγᾷ.</span> \"Hic quidem loquitur, ille autem tacet.\" <strong>Tricōlon</strong> (τρίκωλον): sēriēs trium elementōrum parallēlōrum, frequenter crēscēns longitūdine (\"tricōlon crescendō\"). <strong>Asyndeton</strong> (ἀσύνδετον, \"sine coniūnctiōne\"): OMISSIO dēlīberāta particulārum connective (καί, δέ) inter elementa parallēla, creāns effectum rapidum/ēmphaticum — contrā convention normālem Graecam (Gradū VI) quae praeferit particulās explicitās. Exemplum classicum tricōlī CUM asyndetō (relātum ā Plūtarchō, historicō Graecō posteriōre, dē Caesare Rōmānō): <span class=\"greek\">ἦλθον, εἶδον, ἐνίκησα.</span> \"Vēnī, vīdī, vīcī\" — trēs verba, sine ūllā coniūnctiōne, crēscentia in intēnsitāte dramaticā.</p>"
+      },
+      {
+        "heading": "b) Chiasmus et Anaphora",
+        "body": "<p><strong>Chiasmus</strong> (χιασμός, ā litterā χ, \"chī\", cūius fōrma X illūstrat structūram): ōrdō ABBA, ubi secunda medietas sententiae inversē reflectit prīmam: \"nōn ut edam vīvō, sed ut vīvam edō\" (patrōnus, exemplum illūstrātīvum). <strong>Anaphora</strong> (ἀναφορά, \"referēns retrō\"): repetītiō eiusdem verbī initiō clausulārum successīvārum, creāns rhythmum et ēmphasim accumulātīvam — frequēns apud Dēmosthenem in passibus ēmphaticīs.</p>"
+      },
+      {
+        "heading": "c) Figūrae Gorgianae",
+        "body": "<p>Gorgias Leontīnus (sophista Siciliēnsis, saec. V a.C.) intrōdūxit Athēnās stilum \"artificiōsum\" prōsae, notābilem per: <strong>parisōsis</strong> (παρίσωσις, clausulae aequālis longitūdinis, structūrā balanceātae) et <strong>homoeoteleuton</strong> (ὁμοιοτέλευτον, \"similis fīnis\", clausulae fīnientēs sonō similī, comparābile rhythmō, nōn rīmae poēticae stricte). Hae figūrae, quamvīs interdum crīticātae ut excessīvae (ā Platōne ipsō, quī parodiat stilum Gorgianum in dialogīs suīs), īnfluxērunt prōfundē ōrātōrēs Atticōs posteriōrēs.</p>"
+      }
+    ],
+    "examples": [
+      "ὁ μὲν λέγει, ὁ δὲ σιγᾷ. — Hic loquitur, ille tacet. (antithesis, μέν/δέ)",
+      "ἦλθον, εἶδον, ἐνίκησα. — Vēnī, vīdī, vīcī. (tricōlon crescendō + asyndeton, via Plūtarchum)",
+      "μὴ γένοιτο! (Gradū VII priōre) — exemplum brevitātis ēmphaticae, comparābile effectuī asyndetī",
+      "ἀνεξέταστος βίος οὐ βιωτὸς ἀνθρώπῳ. (Platōn, Gradū VII priōre) — exemplum concīsitātis aphoristicae, alia figūra rhētorica (sententia/γνώμη)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Tractāre figūrās rhētoricās ut “decorātiōnem” superficiālem sine fūnctiōne argūmentātīvā reālī.",
+        "right": "Recognōscere figūrās ut īnstrūmenta persuāsiōnis effectīva: antithesis clārificat oppositiōnem, tricōlon crescendō intēnsificat ēmphasim, asyndeton accelerat rhythmum.",
+        "why": "Ōrātōrēs antīquī (et modernī) nōn adhibent hās figūrās gratuītē — quaeque servit obiectīvō persuāsīvō praecīsō."
+      },
+      {
+        "wrong": "Crēdere asyndeton esse error grammaticus (omissiō particulae obligātōriae), quia Gradus VI docuit particulās esse essentiālēs.",
+        "right": "Recognōscere asyndeton ut violātiōnem DĒLĪBERĀTAM conventiōnis normālis (particulae explicitae), praecīsē prō effectū rhētoricō intentō.",
+        "why": "Sīcut hyperbaton (Gradū VI), asyndeton est figūra intentiōnālis, nōn error — discipulus dēbet distinguere “violātiōnem rhētoricam dēlīberātam” ab “errōre grammaticō genuīnō”."
+      },
+      {
+        "wrong": "Suppōnere hās figūrās esse exclūsīvē Graecās, sine relātiōne ad trāditiōnem rhētoricam Occidentālem posteriōrem (Latīnam, et linguās modernās).",
+        "right": "Recognōscere hās figūrās (antithesis, tricōlon, chiasmus, anaphora) ut fundāmentum tōtīus trāditiōnis rhētoricae Occidentālis, adhūc adhibitum ab ōrātōribus/scrīptōribus modernīs.",
+        "why": "Rhētorica Graeca (systēmatizāta ab Aristotele) fuit trānsmissa per Rōmānōs (Cicerō, Quīntiliānus) usque ad ēducātiōnem modernam."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "vii-rhet1-mc",
+      "type": "multiple-choice",
+      "title": "Rhētorica Attica: Figūrae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "rhet1a",
+          "prompt": "Quae figūra construitur systēmatice per μέν/δέ?",
+          "options": [
+            "asyndeton",
+            "antithesis",
+            "chiasmus"
+          ],
+          "answerIndex": 1,
+          "explanation": "Antithesis balanceat duas ideās, typicē cum μέν/δέ."
+        },
+        {
+          "id": "rhet1b",
+          "prompt": "Quid est asyndeton?",
+          "options": [
+            "repetītiō verbī",
+            "omissiō dēlīberāta particulārum connectivārum",
+            "ōrdō ABBA"
+          ],
+          "answerIndex": 1,
+          "explanation": "Asyndeton omittit coniūnctiōnēs dēlīberātē, prō effectū rapidō."
+        },
+        {
+          "id": "rhet1c",
+          "prompt": "Quis intrōdūxit Athēnās stilum “artificiōsum” cum parisōsī/homoeoteleutō?",
+          "options": [
+            "Sōcratēs",
+            "Gorgias Leontīnus",
+            "Xenophōn"
+          ],
+          "answerIndex": 1,
+          "explanation": "Gorgias, sophista Siciliēnsis, saec. V a.C."
+        },
+        {
+          "id": "rhet1d",
+          "prompt": "Quod exemplum illūstrat tricōlon CUM asyndetō?",
+          "options": [
+            "ὁ μὲν λέγει, ὁ δὲ σιγᾷ",
+            "ἦλθον, εἶδον, ἐνίκησα",
+            "μὴ γένοιτο"
+          ],
+          "answerIndex": 1,
+          "explanation": "Trēs verba parallēla, sine coniūnctiōne, crēscentia in ēmphasī."
+        }
+      ]
+    },
+    {
+      "id": "vii-rhet1-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "rhet1e",
+          "statement": "Figūrae rhētoricae sunt purē decorātīvae, sine fūnctiōne persuāsīvā reālī.",
+          "answer": false,
+          "explanation": "Falsum: servunt obiectīvīs argūmentātīvīs praecīsīs."
+        },
+        {
+          "id": "rhet1f",
+          "statement": "Asyndeton violat convention normālem particulārum Graecārum (Gradū VI) dēlīberātē, prō effectū rhētoricō.",
+          "answer": true,
+          "explanation": "Corrēctum: violātiō intentiōnālis, nōn error."
+        },
+        {
+          "id": "rhet1g",
+          "statement": "Chiasmus significat ōrdinem ABBA (structūra inversē reflectēns).",
+          "answer": true,
+          "explanation": "Corrēctum."
+        },
+        {
+          "id": "rhet1h",
+          "statement": "Rhētorica Graeca nōn habuit īnfluentiam super trāditiōnem rhētoricam Latīnam/modernam.",
+          "answer": false,
+          "explanation": "Falsum: fundāmentum tōtīus trāditiōnis Occidentālis, per Cicerōnem/Quīntiliānum."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Antithesis: oppositiō balanceāta, typicē μέν/δέ (Gradū VI). Tricōlon: sēriēs trium elementōrum, saepe crēscēns.",
+    "Asyndeton: omissiō dēlīberāta particulārum connectivārum, prō effectū rapidō/ēmphaticō — violātiō intentiōnālis, nōn error.",
+    "Chiasmus (ABBA) et anaphora (repetītiō initiālis): figūrae additiōnālēs structūrae/rhythmī.",
+    "Figūrae Gorgianae (parisōsis, homoeoteleuton): stilus artificiōsus intrōductus ā Gorgiā, īnfluēns prōsam Atticam posteriōrem.",
+    "Exemplum classicum (via Plūtarchum): “ἦλθον, εἶδον, ἐνίκησα” — tricōlon crescendō cum asyndetō, phrasis maximē memorābilis."
+  ],
+  "related": [
+    {
+      "lessonId": "vii-prosodia-et-metrum-epicum",
+      "label": "Prosōdia et Metrum Epicum"
+    },
+    {
+      "lessonId": "vii-recognitio-finalis",
+      "label": "Recognitiō Fīnālis"
+    }
+  ]
+}

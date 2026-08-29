@@ -1,0 +1,163 @@
+{
+  "id": "vii-dialectus-homerica-conspectus",
+  "level": "VII",
+  "unit": "1",
+  "order": 5,
+  "skill": "grammatica",
+  "strand": "dialecti",
+  "title": "Dialectus Homerica: Conspectus",
+  "subtitle": "Iōnicum-Aeolicum mixtum artificiāle; genetīvī in -οιο/-εω/-αο; fōrmae uncontractae; digamma perditum; augmentum omissum — nōn errōrēs, sed systēma proprium.",
+  "prerequisites": [
+    "vii-homerus-ilias-excerpta"
+  ],
+  "objectives": [
+    "Explicāre cūr “Graecum Homericum” nōn sit dialectus locūta umquam ab ūllā commūnitāte reālī, sed compositum artificiāle poēticum",
+    "Recognōscere trēs fōrmās morphologicās praecipuās dīversās ab Atticō: genetīvī -οιο/-εω/-αο, fōrmae uncontractae, dēsinentia datīvī plūrālis -εσσι",
+    "Explicāre digamma (ϝ), littera perdita cūius effectus phōnologicus (praeveniēns hiātum) manet vīsibilis in metrō, quamquam ipsa littera nōn scrībitur",
+    "Recognōscere augmentum saepe OMISSUM in Homērō, dīversē ā rēgulā obligātōriā Atticā (Gradū III)"
+  ],
+  "content": {
+    "intro": "\"Graecum Homericum\" nōn est dialectus locūta ab ūllā cīvitāte reālī antīquā (dīversē ab Atticō, Iōnicō, Dōricō, quae erant vērō locūta) — est <strong>compositum poēticum artificiāle</strong>, aedificātum per generātiōnēs aedōrum orālium (bardōrum) super mīlle annōs, combīnāns praesertim elementa Iōnica cum stratīs Aeolicīs antīquiōribus et fōrmulīs archaicīs cōnservātīs propter metrum — lingua quae numquam exstitit in ūsū cotīdiānō, sed sōlum in trāditiōne epicā.",
+    "explanation": "<p>Discipulus quī iam nōvit Atticum (fundāmentum tōtīus huius cursūs) potest legere Homērum cum aliquā difficultāte initiālī, sed māiōrī parte vocābulī et grammaticae RECOGNOSCIBILĪ — discrīmina sunt systēmatica et discibilia, nōn chaotica.</p>",
+    "rules": [
+      {
+        "heading": "a) Genetīvī Dīversī",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Dēclīnātiō</th><th>Atticum</th><th>Homericum</th></tr></thead><tbody><tr><td>2ª (masc./neut.)</td><td class=\"greek\">-ου</td><td class=\"greek\">-οιο</td></tr><tr><td>1ª (masc.)</td><td class=\"greek\">-ου</td><td class=\"greek\">-εω / -αο</td></tr></tbody></table><p>Exemplum iam vīsum: <span class=\"greek\">Πηληϊάδεω</span> (Homericum) = <span class=\"greek\">Πηληϊάδου</span> (Atticum, sī exstāret).</p>"
+      },
+      {
+        "heading": "b) Fōrmae Uncontractae; Dēsinentia -εσσι",
+        "body": "<p>Ubi Atticum contrahit vōcālēs adiacentēs (Gradū III, verba contracta), Homērus saepe RETINET fōrmam uncontractam, metrī grātiā: <span class=\"greek\">ἄλγεα</span> (Homericum, III syllabae) vs. <span class=\"greek\">ἄλγη</span> (Atticum, contractum, II syllabae) — iam vīsum in Iliade I.2! Dēclīnātiō tertia frequenter adhibet dēsinentiam datīvī plūrālis <span class=\"greek\">-εσσι</span> (alternātīva/additiōnālis ad -σι Atticum): <span class=\"greek\">ἔπεσσι</span> (\"verbīs\") = <span class=\"greek\">ἔπεσι</span> Atticum.</p>"
+      },
+      {
+        "heading": "c) Digamma et Augmentum Omissum",
+        "body": "<p><strong>Digamma</strong> (ϝ, sonāns \"w\") erat littera reālis in alphabētō prīmōrdiālī Graecō (Gradū I, mentiōnāta ut littera antīqua dēsuēta in numerālibus), perdita in Atticō classicō ANTE textūs scrīptōs quōs habēmus, sed cūius EFFECTUS PHŌNOLOGICUS manet vīsibilis in metrō Homericō: verba quae \"dēbērent\" causāre hiātum (duae vōcālēs adiacentēs sine elisiōne) nōn id faciunt, quia digamma (invīsibilis in scrīptūrā, sed adhūc \"audīta\" metricē) praevenit collīsiōnem. <strong>Augmentum</strong> (Gradū III, obligātōrium in Atticō) est FREQUENTER OMISSUM in Homērō — flexibilitās metrica permittit utramque fōrmam (cum vel sine augmentō) secundum necessitātem versūs.</p>"
+      }
+    ],
+    "examples": [
+      "Πηληϊάδεω (Hom.) = Πηληϊάδου (Att.) — genetīvus, dēsinentia -εω",
+      "ἄλγεα (Hom.) = ἄλγη (Att.) — fōrma uncontracta vs. contracta",
+      "ἔπεσσι (Hom.) = ἔπεσι (Att.) — datīvus plūrālis, -εσσι alternātīvum",
+      "ϝοῖκος (“domus”, cum digammate reconstrūctō) — comparā Latīnum “vīcus” (V initiāle Latīnum ↔ digamma Graecum, cognātiō Indoeuropaea vīsibilis!)",
+      "βάλε (Hom., sine augmentō) = ἔβαλε (Att., cum augmentō) — ambae fōrmae possibilēs apud Homērum"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Crēdere Graecum Homericum esse simpliciter “Graecum antīquius” quod omnēs Graecī classicī locūtī sunt ante Atticum.",
+        "right": "Recognōscere Homericum esse compositum ARTIFICIĀLE poēticum, numquam locūtum cotīdiānē ab ūllā commūnitāte reālī, distīnctum ā dialectīs reālibus (Iōnicā, Aeolicā, Dōricā) quibus partim dērīvat.",
+        "why": "Confūsiō hīc impedit intellēctum nātūrae genuīnae “Graecī Homericī” ut phaenomenon litterārium, nōn sociolinguisticum."
+      },
+      {
+        "wrong": "Suppōnere absentiam augmentī in fōrmā verbālī Homericā indicāre tempus dīversum (ut praesēns prō praeteritō).",
+        "right": "Recognōscere absentiam augmentī hīc esse mēra licentia metrica, sine effectū sēmanticō — fōrma manet praeteritum, sōlum sine signō explicitō.",
+        "why": "Flexibilitās metrica Homērica saepe permittit variātiōnem fōrmālem sine variātiōne sēmanticā correspondentī."
+      },
+      {
+        "wrong": "Ignōrāre digamma omnīnō, quia nōn scrībitur in textū standard, frūstrandō sē cūr metrum interdum vidētur “īrregulāre”.",
+        "right": "Recordārī digamma, quamquam invīsibile in scrīptūrā, adhūc “sonat” metricē in multīs verbīs (reconstruendīs per comparātiōnem cum aliīs linguīs Indoeuropaeīs, ut Latīnum v-).",
+        "why": "Multa “hiāta apparentia” Homērica dēsōlvuntur completē cum digamma reconstitūtum mente restituitur."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "vii-dia1-mc",
+      "type": "multiple-choice",
+      "title": "Dialectus Homerica: Rēgulae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "dia1a",
+          "prompt": "Fuitne Graecum Homericum umquam locūtum cotīdiānē ab ūllā commūnitāte?",
+          "options": [
+            "sīc, erat dialectus Iōniae",
+            "nōn, est compositum artificiāle poēticum",
+            "sīc, erat dialectus Atticae antīquae"
+          ],
+          "answerIndex": 1,
+          "explanation": "Est compositum poēticum, numquam lingua vīva cotīdiāna."
+        },
+        {
+          "id": "dia1b",
+          "prompt": "Quae dēsinentia genetīvī secundae dēclīnātiōnis est propria Homērō?",
+          "options": [
+            "-ου",
+            "-οιο",
+            "-ῳ"
+          ],
+          "answerIndex": 1,
+          "explanation": "-οιο est fōrma Homerica; -ου est Attica."
+        },
+        {
+          "id": "dia1c",
+          "prompt": "Quid est digamma?",
+          "options": [
+            "accentus speciālis",
+            "littera antīqua perdita (“w”), cūius effectus manet vīsibilis in metrō",
+            "signum interpunctiōnis"
+          ],
+          "answerIndex": 1,
+          "explanation": "Digamma explicat hiātūs “apparentēs” in metrō Homericō."
+        },
+        {
+          "id": "dia1d",
+          "prompt": "Est augmentum obligātōrium apud Homērum, sīcut apud Atticōs?",
+          "options": [
+            "sīc, semper obligātōrium",
+            "nōn, frequenter omissum propter licentiam metricam",
+            "numquam exsistit apud Homērum"
+          ],
+          "answerIndex": 1,
+          "explanation": "Flexibilitās metrica permittit fōrmās cum et sine augmentō."
+        }
+      ]
+    },
+    {
+      "id": "vii-dia1-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "dia1e",
+          "statement": "Ἄλγεα (Homericum) et ἄλγη (Atticum) sunt fōrma uncontracta vs. contracta eiusdem verbī.",
+          "answer": true,
+          "explanation": "Corrēctum: exemplum iam vīsum in Iliade I.2."
+        },
+        {
+          "id": "dia1f",
+          "statement": "Dēsinentia -εσσι est fōrma alternātīva/additiōnālis datīvī plūrālis tertiae dēclīnātiōnis apud Homērum.",
+          "answer": true,
+          "explanation": "Corrēctum."
+        },
+        {
+          "id": "dia1g",
+          "statement": "Digamma est scrīpta explicitē in omnibus ēditiōnibus modernīs Homēricīs.",
+          "answer": false,
+          "explanation": "Falsum: digamma nōn scrībitur in textū standard, sed effectus phōnologicus reconstruitur per metrum."
+        },
+        {
+          "id": "dia1h",
+          "statement": "Graecum Homericum combīnat praesertim elementa Iōnica cum stratīs Aeolicīs antīquiōribus.",
+          "answer": true,
+          "explanation": "Corrēctum: compositum mixtum, aedificātum per trāditiōnem orālem extēnsam."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Graecum Homericum est compositum poēticum artificiāle (Iōnicum + Aeolicum + fōrmulae archaicae), numquam locūtum cotīdiānē.",
+    "Genetīvī dīversī: -οιο (2ª decl.), -εω/-αο (1ª decl. masc.) prō -ου Atticō.",
+    "Fōrmae uncontractae (ἄλγεα vs. ἄλγη) et dēsinentia -εσσι (datīvus pl., alternātīva) sunt frequentēs.",
+    "Digamma (ϝ, “w”, perdita) manet vīsibilis phōnologicē in metrō, explicāns hiātūs apparentēs. Augmentum saepe omissum, licentia metrica."
+  ],
+  "related": [
+    {
+      "lessonId": "vii-homerus-ilias-excerpta",
+      "label": "Homērus: Ilias"
+    },
+    {
+      "lessonId": "vii-prosodia-et-metrum-epicum",
+      "label": "Prosōdia et Metrum Epicum"
+    }
+  ]
+}

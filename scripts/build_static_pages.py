@@ -9,13 +9,14 @@ header/search-overlay/footer markup has exactly one source of truth even
 for these one-off pages -- only the <main> content below is unique to
 each page.
 
-exercitationes.html and varia.html are deliberately short "in
-progress" pages for this first scaffold, not full hub pages -- the real
-Latin-course equivalents aggregate exercises/extras across all seven
-Gradus, and this course only has Gradus I written so far (see
-scripts/build_level_page.py's placeholder-page docstring for the same
-reasoning applied to a Gradus overview page). They still render through
-the same chrome so nav never 404s.
+exercitationes.html indexes all seven Gradus overview pages now that
+the curriculum is complete (see build_exercitationes() below). varia.html
+remains a short, honest "not yet written" stub -- it covers bonus
+material (mythology, history, proverbs, dialect notes) that's separate
+from the graded curriculum and was never in scope for the curriculum
+build; see gradus/auctores.html for the dialect notes that did get
+written as part of Gradus VII proper. Both still render through the
+same chrome so nav never 404s.
 
 Usage:
     python3 scripts/build_static_pages.py
@@ -89,8 +90,11 @@ def build_index():
         for code, name, desc, slug in LADDER
     )
 
-    main = f"""<main id="main-content" class="site-main">
-<section class="hero" id="mission">
+    # No leading <main> here: site_chrome.header() (called from write())
+    # already emits the opening <main id="main-content" class="site-main">
+    # tag as its last line -- see the same fix/comment in
+    # build_progress_stub() below for the full explanation.
+    main = f"""<section class="hero" id="mission">
         <div class="hero__inner">
             {site_chrome.MEANDER_ROW}
             <div class="hero__split">
@@ -246,8 +250,8 @@ def build_lexicon():
         dict_card(False, "Scaife Viewer", "Ambiens legendī līberum (Perseus/Open Greek and Latin) cum verbīs texuī iūnctīs ad lexicōn statim.", "https://scaife.perseus.org/library/?q={word}"),
     ])
 
-    main = f"""<main id="main-content" class="site-main">
-<div class="page-header">
+    # No leading <main> here either -- see build_index()'s comment above.
+    main = f"""<div class="page-header">
         {site_chrome.MEANDER_ROW}
         <div class="page-header__inner">
             <div class="page-header__text">
@@ -300,8 +304,12 @@ def build_lexicon():
 # ---------------------------------------------------------------------
 
 def build_progress_stub(name, eyebrow, title, body_html, title_tag, desc):
-    main = f"""<main id="main-content" class="site-main">
-<div class="page-header">
+    # No leading <main> here: site_chrome.header() (called from write())
+    # already emits the opening <main id="main-content" class="site-main">
+    # tag as its last line -- repeating it here produced a duplicate,
+    # malformed <main><main> pair in the generated page (a pre-existing
+    # bug in this stub helper, fixed here rather than left in place).
+    main = f"""<div class="page-header">
         {site_chrome.MEANDER_ROW}
         <div class="page-header__inner">
             <div class="page-header__text">
@@ -321,16 +329,38 @@ def build_progress_stub(name, eyebrow, title, body_html, title_tag, desc):
 
 
 def build_exercitationes():
-    body = """<p style="color:var(--color-text-muted);max-width:56ch;margin:0 auto var(--space-md);">
-                Haec pagina, in cursu Latino sibling huius scholae, colligit exercitationes et lectiones
-                per omnes septem gradus. Hic cursus Graecus adhuc solum Gradum I scriptum habet &mdash;
-                quaeque lectio iam suas exercitationes interactivas continet (vide quamque lectionem
-                Gradus I infra), et hae colligentur hic simul atque plures gradus scribantur.</p>"""
-    build_progress_stub(
-        "exercitationes.html", "Mox Amplius", "Exercitationes",
-        body,
+    cards = "".join(
+        f"""<a class="lesson-card" href="gradus/{slug}.html" style="text-align:left;display:block;text-decoration:none;">
+                    <span class="lesson-card__index" aria-hidden="true">{code}</span>
+                    <h3 class="lesson-card__title-link">Gradus {code} &mdash; {name}</h3>
+                    <p>{site_chrome.LEVEL_DESC.get(code, "")}</p>
+                </a>"""
+        for code, name, slug in site_chrome.LEVELS
+    )
+    # No leading <main> here either -- see the comment in
+    # build_progress_stub() above for why.
+    main = f"""<div class="page-header">
+        {site_chrome.MEANDER_ROW}
+        <div class="page-header__inner">
+            <div class="page-header__text">
+                <p class="eyebrow hero__eyebrow">Per Omnes Gradūs</p>
+                <h1>Exercitationes</h1>
+                <p class="page-header__lede">Quaeque lectio, in omnibus septem gradibus, iam continet
+                exercitātiōnēs suās interactīvās (ēlēctiō multiplex, complēmentum spatiōrum, iūnctiō,
+                vērum/falsum) &mdash; ēlige gradum tuum īnfrā ut incipiās.</p>
+            </div>
+        </div>
+    </div>
+    <section class="section section--surface" aria-labelledby="grad-heading">
+        <div class="section__inner">
+            <h2 id="grad-heading" class="visually-hidden">Gradūs</h2>
+            <div class="grid">{cards}</div>
+        </div>
+    </section>"""
+    write(
+        "exercitationes.html", main,
         "Exercitationes — Mathemata Hellenika",
-        "Exercitationes interactivae per gradus -- Gradus I iam integer, ceteri in scribendo.",
+        "Exercitationes interactivae per omnes septem gradus, ab alphabeto usque ad auctores.",
     )
 
 

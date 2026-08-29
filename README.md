@@ -9,12 +9,21 @@ visual language, exercise engine, and AI-teacher pattern.
 
 ## Status
 
-Only **Gradus I** (of seven planned) has published lessons so far — 3
-of its 9 planned lessons are written; the rest of Gradus I, and all of
-Gradus II–VII, are documented as a planned outline in
-`curriculum/index.json` but not yet built. See `docs/gradus-mapping.md`
-for the full seven-Gradus plan and how it maps onto more familiar
-references (CEFR, common textbooks).
+All **seven Gradus** are complete: 67 published lessons, from the
+Greek alphabet (Gradus I) through authentic excerpts of Xenophon,
+Plato, Lysias, Homer, and the Koine New Testament (Gradus VII). See
+`docs/gradus-mapping.md` for the full seven-Gradus plan and how it
+maps onto more familiar references (CEFR, common textbooks); see
+`curriculum/index.json` for the lesson-by-lesson status record (every
+entry now reads `"published"`).
+
+Gradus VII's authentic-text lessons deliberately quote only short,
+well-attested lines (openings and iconic single sentences, each cited
+by book/chapter/verse) rather than extended passages that couldn't be
+checked against a critical edition — see those lessons' own intros for
+the reasoning. `varia.html` (bonus mythology/history/proverb material)
+remains an honest "not yet written" stub; it's separate from the
+graded curriculum and was out of scope for this build.
 
 ## Layout
 

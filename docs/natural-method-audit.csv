@@ -1,0 +1,68 @@
+id,level,title,skill,n_exercises,n_items,identify_items,identify_ratio,has_reading_comprehension,has_matching,has_true_false,has_typing_selfcheck,has_character,n_rules,narrative_paras,score,classification,path
+i-alphabetum-et-phonologia,I,Alphabētum et Phōnologia,pronuntiatio,3,10,0,0.0,False,True,True,False,False,3,2,3,A,curriculum/i/alphabetum-et-phonologia.json
+i-vocales-diphthongi-et-longitudo,I,"Vōcālēs, Diphthongī, et Longitūdō",pronuntiatio,3,10,0,0.0,False,True,True,False,False,3,2,3,A,curriculum/i/vocales-diphthongi-et-longitudo.json
+i-consonantes-et-digrapha,I,Cōnsonantēs Geminātae et Digrapha Nāsālia,pronuntiatio,3,10,0,0.0,False,True,True,False,False,3,2,3,A,curriculum/i/consonantes-et-digrapha.json
+i-spiritus-et-accentus,I,Spīritūs et Accentūs,pronuntiatio,3,10,0,0.0,False,True,True,False,False,3,1,2,B,curriculum/i/spiritus-et-accentus.json
+i-syllabae-et-enclitica,I,"Syllabae, Prōclīticae, et Enclīticae",pronuntiatio,3,10,0,0.0,False,True,True,False,False,4,2,2,B,curriculum/i/syllabae-et-enclitica.json
+i-salutationes-et-verbum-sum,I,Salūtātiōnēs et Εἰμί (Verbum Essendi),grammatica,3,11,0,0.0,False,True,False,False,True,4,1,2,B,curriculum/i/salutationes-et-verbum-sum.json
+i-articulus-et-numeri,I,Articulus (Fōrmae Nōminātīvae) et Numerī,grammatica,3,14,1,0.07,False,False,True,False,False,3,1,1,B,curriculum/i/articulus-et-numeri.json
+i-pronomina-personalia,I,Prōnōmina Persōnālia,grammatica,3,14,0,0.0,False,False,True,False,False,3,1,1,B,curriculum/i/pronomina-personalia.json
+i-lectio-prima,I,Lēctiō Prīma,lectio,3,9,0,0.0,False,True,True,False,True,2,1,3,A,curriculum/i/lectio-prima.json
+ii-declinatio-prima,II,Dēclīnātiō Prīma,grammatica,3,14,3,0.21,False,False,True,False,False,3,1,1,B,curriculum/ii/declinatio-prima.json
+ii-declinatio-secunda-masculina-et-neutra,II,Dēclīnātiō Secunda: Masculīna et Neutra,grammatica,3,14,3,0.21,False,False,True,False,False,3,1,1,B,curriculum/ii/declinatio-secunda-masculina-et-neutra.json
+ii-articulus-plenus,II,Articulus Plēnus,grammatica,3,14,1,0.07,False,False,True,False,False,3,1,1,B,curriculum/ii/articulus-plenus.json
+ii-adiectiva-classis-primae,II,Adiectīva Classis Prīmae,grammatica,3,14,2,0.14,False,False,True,False,False,3,1,1,B,curriculum/ii/adiectiva-classis-primae.json
+ii-coniugatio-praesentis-activi,II,Coniugātiō Praesentis Āctīvī,grammatica,3,14,0,0.0,False,False,True,False,False,3,1,1,B,curriculum/ii/coniugatio-praesentis-activi.json
+ii-coniugatio-praesentis-medii-passivi,II,Coniugātiō Praesentis Mediī-Passīvī,grammatica,3,14,0,0.0,False,False,True,False,False,3,1,1,B,curriculum/ii/coniugatio-praesentis-medii-passivi.json
+ii-praepositiones-fundamentales,II,Praepositiōnēs Fundāmentālēs,grammatica,3,14,0,0.0,False,False,True,False,False,3,1,1,B,curriculum/ii/praepositiones-fundamentales.json
+ii-adverbia-et-negatio,II,Adverbia et Negātiō,grammatica,3,14,0,0.0,False,False,True,False,False,3,1,1,B,curriculum/ii/adverbia-et-negatio.json
+ii-interrogativa-fundamentalia,II,Interrogātīva Fundāmentālia,grammatica,3,14,0,0.0,False,False,True,False,False,3,1,1,B,curriculum/ii/interrogativa-fundamentalia.json
+ii-numeri-cardinales-1-100,II,Numerī Cardinālēs I–C,vocabularium,3,14,3,0.21,False,False,True,False,False,3,1,1,B,curriculum/ii/numeri-cardinales-1-100.json
+iii-declinatio-tertia-consonantica,III,Dēclīnātiō Tertia: Themata Cōnsonantica,grammatica,3,14,6,0.43,False,False,True,False,False,3,1,0,B,curriculum/iii/declinatio-tertia-consonantica.json
+iii-declinatio-tertia-vocalica,III,Dēclīnātiō Tertia: Themata Vōcālica,grammatica,3,14,0,0.0,False,False,True,False,False,3,1,1,B,curriculum/iii/declinatio-tertia-vocalica.json
+iii-adiectiva-tertiae-declinationis,III,Adiectīva Tertiae Dēclīnātiōnis,grammatica,3,14,2,0.14,False,False,True,False,False,3,1,1,B,curriculum/iii/adiectiva-tertiae-declinationis.json
+iii-verba-contracta-in-eo,III,Verba Contracta in -έω,grammatica,3,14,0,0.0,False,False,True,False,False,3,1,1,B,curriculum/iii/verba-contracta-in-eo.json
+iii-verba-contracta-in-ao-et-oo,III,Verba Contracta in -άω et -όω,grammatica,3,14,0,0.0,False,False,True,False,False,3,1,1,B,curriculum/iii/verba-contracta-in-ao-et-oo.json
+iii-tempus-imperfectum,III,Tempus Imperfectum,grammatica,3,14,0,0.0,False,False,True,False,False,3,1,1,B,curriculum/iii/tempus-imperfectum.json
+iii-tempus-futurum-activum-et-medium,III,Tempus Futūrum: Āctīvum et Medium,grammatica,3,14,1,0.07,False,False,True,False,False,3,1,1,B,curriculum/iii/tempus-futurum-activum-et-medium.json
+iii-pronomen-relativum,III,Prōnōmen Relātīvum,grammatica,3,14,1,0.07,False,False,True,False,False,3,1,1,B,curriculum/iii/pronomen-relativum.json
+iii-pronomina-demonstrativa,III,Prōnōmina Dēmōnstrātīva,grammatica,3,14,1,0.07,False,False,True,False,False,3,1,1,B,curriculum/iii/pronomina-demonstrativa.json
+iii-comparatio-adiectivorum,III,Comparātiō Adiectīvōrum,grammatica,3,14,2,0.14,False,False,True,False,False,3,1,1,B,curriculum/iii/comparatio-adiectivorum.json
+iv-aoristus-activus-et-medius-primus,IV,Aoristus Prīmus: Āctīvus et Medius,grammatica,3,14,0,0.0,False,False,True,False,False,3,1,1,B,curriculum/iv/aoristus-activus-et-medius-primus.json
+iv-aoristus-secundus,IV,Aoristus Secundus,grammatica,3,14,0,0.0,False,False,True,False,False,3,1,1,B,curriculum/iv/aoristus-secundus.json
+iv-aoristus-passivus,IV,Aoristus Passīvus,grammatica,3,14,0,0.0,False,False,True,False,False,3,1,1,B,curriculum/iv/aoristus-passivus.json
+iv-systema-perfecti-activi,IV,Systēma Perfectī Āctīvī,grammatica,3,14,0,0.0,False,False,True,False,False,3,1,1,B,curriculum/iv/systema-perfecti-activi.json
+iv-systema-perfecti-medii-passivi,IV,Systēma Perfectī Mediī-Passīvī,grammatica,3,14,0,0.0,False,False,True,False,False,3,1,1,B,curriculum/iv/systema-perfecti-medii-passivi.json
+iv-participium-praesentis,IV,Participium Praesentis,grammatica,3,14,3,0.21,False,False,True,False,False,3,1,1,B,curriculum/iv/participium-praesentis.json
+iv-participium-aoristi,IV,Participium Aoristī,grammatica,3,14,2,0.14,False,False,True,False,False,3,1,1,B,curriculum/iv/participium-aoristi.json
+iv-infinitivi-omnium-temporum,IV,Īnfīnītīvī Omnium Temporum,grammatica,3,14,0,0.0,False,False,True,False,False,3,1,1,B,curriculum/iv/infinitivi-omnium-temporum.json
+iv-verba-deponentia,IV,Verba Dēpōnentia,vocabularium,3,14,0,0.0,False,False,True,False,False,3,1,1,B,curriculum/iv/verba-deponentia.json
+iv-genetivus-absolutus,IV,Genetīvus Absolūtus,grammatica,3,10,0,0.0,False,True,True,False,False,3,1,2,B,curriculum/iv/genetivus-absolutus.json
+iv-recognitio-systema-verbi,IV,Recognitiō: Systēma Verbī Latīnī Graecī,grammatica,3,14,0,0.0,False,False,True,False,False,3,1,1,B,curriculum/iv/recognitio-systema-verbi.json
+v-coniunctivus-praesens-et-aoristi,V,Coniūnctīvus Praesentis et Aoristī,grammatica,3,14,0,0.0,False,False,True,False,False,3,1,1,B,curriculum/v/coniunctivus-praesens-et-aoristi.json
+v-usus-coniunctivi-hortativus-et-prohibitivus,V,"Ūsus Coniūnctīvī: Hortātīvus, Prohibitīvus, Dēlīberātīvus",grammatica,3,14,1,0.07,False,False,True,False,False,3,1,1,B,curriculum/v/usus-coniunctivi-hortativus-et-prohibitivus.json
+v-optativus-formae,V,Optātīvus: Fōrmae,grammatica,3,14,0,0.0,False,False,True,False,False,3,1,1,B,curriculum/v/optativus-formae.json
+v-optativus-usus-obliquus-et-voluntativus,V,Optātīvus: Ūsus Oblīquus et Voluntātīvus,grammatica,3,14,0,0.0,False,False,True,False,False,3,1,1,B,curriculum/v/optativus-usus-obliquus-et-voluntativus.json
+v-clausulae-finales,V,Clausulae Fīnālēs,grammatica,3,14,0,0.0,False,False,True,False,False,3,1,1,B,curriculum/v/clausulae-finales.json
+v-clausulae-consecutivae,V,Clausulae Cōnsecūtīvae,grammatica,3,14,0,0.0,False,False,True,False,False,3,1,1,B,curriculum/v/clausulae-consecutivae.json
+v-condiciones-quattuor-genera,V,Condiciōnēs: Quattuor Genera,grammatica,3,14,2,0.14,False,False,True,False,False,3,1,1,B,curriculum/v/condiciones-quattuor-genera.json
+v-interrogationes-obliquae,V,Interrogātiōnēs Oblīquae,grammatica,3,14,0,0.0,False,False,True,False,False,3,1,1,B,curriculum/v/interrogationes-obliquae.json
+v-imperativus-plenus,V,Imperātīvus Plēnus,grammatica,3,14,0,0.0,False,False,True,False,False,3,1,1,B,curriculum/v/imperativus-plenus.json
+vi-oratio-obliqua-systema-plenum,VI,Ōrātiō Oblīqua: Systēma Plēnum,grammatica,3,14,2,0.14,False,False,True,False,False,3,1,1,B,curriculum/vi/oratio-obliqua-systema-plenum.json
+vi-adiectiva-verbalia-in-teos-et-teon,VI,Adiectīva Verbālia in -τέος et -τός,grammatica,3,14,1,0.07,False,False,True,False,False,3,1,1,B,curriculum/vi/adiectiva-verbalia-in-teos-et-teon.json
+vi-usus-casuum-provectiores,VI,Ūsus Cāsuum Prōvectiōrēs,grammatica,3,14,1,0.07,False,False,True,False,True,3,1,2,B,curriculum/vi/usus-casuum-provectiores.json
+vi-particulae-graecae,VI,Particulae Graecae,grammatica,3,14,0,0.0,False,False,True,False,False,3,1,1,B,curriculum/vi/particulae-graecae.json
+vi-ordo-verborum-et-stilus-atticus,VI,Ōrdō Verbōrum et Stilus Atticus,grammatica,3,10,0,0.0,False,True,True,False,False,3,1,2,B,curriculum/vi/ordo-verborum-et-stilus-atticus.json
+vi-lectio-adaptata-xenophon,VI,Lēctiō Adaptāta: Xenophōn,lectio,2,8,2,0.25,False,False,True,False,False,1,1,1,B,curriculum/vi/lectio-adaptata-xenophon.json
+vi-lectio-adaptata-platon,VI,Lēctiō Adaptāta: Platōn,lectio,2,8,0,0.0,False,False,True,False,True,1,1,2,B,curriculum/vi/lectio-adaptata-platon.json
+vi-recognitio-syntaxis-integra,VI,Recognitiō: Syntaxis Integra,grammatica,3,10,1,0.1,False,True,True,False,False,3,1,2,B,curriculum/vi/recognitio-syntaxis-integra.json
+vii-xenophon-anabasis,VII,Xenophōn: Anabasis,lectio,2,8,0,0.0,False,False,True,False,False,1,1,1,B,curriculum/vii/xenophon-anabasis.json
+vii-platon-apologia,VII,Platōn: Apologia,lectio,2,8,0,0.0,False,False,True,False,False,2,1,1,B,curriculum/vii/platon-apologia.json
+vii-lysias-orationes-selectae,VII,Lysias: Ōrātiōnēs Sēlectae,lectio,2,8,0,0.0,False,False,True,False,False,1,1,1,B,curriculum/vii/lysias-orationes-selectae.json
+vii-homerus-ilias-excerpta,VII,Homērus: Ilias,lectio,2,8,0,0.0,False,False,True,False,False,1,1,1,B,curriculum/vii/homerus-ilias-excerpta.json
+vii-dialectus-homerica-conspectus,VII,Dialectus Homerica: Conspectus,grammatica,2,8,2,0.25,False,False,True,False,False,3,1,1,B,curriculum/vii/dialectus-homerica-conspectus.json
+vii-koine-novum-testamentum-excerpta,VII,Koinē: Novum Testāmentum,lectio,2,8,0,0.0,False,False,True,False,False,2,1,1,B,curriculum/vii/koine-novum-testamentum-excerpta.json
+vii-dialectus-koine-conspectus,VII,Dialectus Koinē: Conspectus,grammatica,2,8,1,0.12,False,False,True,False,False,3,1,1,B,curriculum/vii/dialectus-koine-conspectus.json
+vii-prosodia-et-metrum-epicum,VII,Prosōdia et Metrum Epicum,grammatica,2,8,0,0.0,False,False,True,False,False,3,1,1,B,curriculum/vii/prosodia-et-metrum-epicum.json
+vii-rhetorica-attica,VII,Rhētorica Attica,grammatica,2,8,0,0.0,False,False,True,False,False,3,1,1,B,curriculum/vii/rhetorica-attica.json
+vii-recognitio-finalis,VII,Recognitiō Fīnālis: Lectiō Lībera,grammatica,2,8,0,0.0,False,False,True,False,False,2,1,1,B,curriculum/vii/recognitio-finalis.json

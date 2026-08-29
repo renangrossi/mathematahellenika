@@ -11,15 +11,32 @@ every lesson's A/B/C score.
 
 ## Current state
 
-As of this pass: **26/67 lessons score A, 41 B, 0 C** (up from 5 A / 62 B
+As of this pass: **29/67 lessons score A, 38 B, 0 C** (up from 5 A / 62 B
 after the `ii-declinatio-prima` pilot). No lesson in this course has ever
 scored C under the audit heuristic — every lesson already carries some
 meaningful Greek (real example sentences with glosses, and often
 true-false/matching exercises), unlike the Latin course's initial state.
-**Gradus I-III are now fully transformed except 3 Gradus I lessons**
-(6/9 A in Gradus I; Gradus II and III both 10/10 A). The gap remains
-real in Gradus IV-VII (44 lessons, still entirely B) — the entire
-remaining B list.
+**Gradus I, II, and III are now all fully transformed (9/9, 10/10, 10/10
+A)**. Every remaining B lesson (38 of them) is in Gradus IV, V, VI, or
+VII — those four levels are entirely untouched and are the whole of the
+remaining work.
+
+The last 3 Gradus I lessons closed in this pass were two pure-phonology
+lessons (`i-spiritus-et-accentus`, `i-syllabae-et-enclitica` — no
+vocabulary exists yet at that point in the sequence) plus
+`i-salutationes-et-verbum-sum` (the είμί lesson). Following the Latin
+course's own precedent for its analogous phonology-only Gradus I
+lessons, the two phonology lessons got a *light* treatment: a
+reading-comprehension block built from real attested words/phrases
+already in the lesson (ὁ ἄνθρωπος, ῥήτωρ, οὗτος, βιβλίον, ἄγγελος...)
+with questions testing the phonological/orthographic fact itself
+(which syllable divides where, why this word takes a rough breathing),
+not an invented narrative — forcing a story onto pre-vocabulary content
+would be artificial. `i-salutationes-et-verbum-sum` did get an
+Agathōn/Melitē scene, since it already has real content (χαῖρε, εἰμί)
+that i-lectio-prima's own founding dialogue and several later lessons'
+passages already draw on — this lesson is arguably the *true* source of
+the χαῖρε/τίς-εἶ material this guide's earlier batches kept reusing.
 
 A third batch (7 lessons) finished Gradus III: `iii-verba-contracta-in-
 eo`, `iii-verba-contracta-in-ao-et-oo`, `iii-tempus-imperfectum`,
@@ -131,12 +148,9 @@ recurring name.
 
 ## Priority for the next pass
 
-Gradus II and III are both fully cleared (10/10 A each). Remaining work:
+Gradus I, II, and III are all fully cleared. All remaining work is now:
 
-1. **Gradus I, 3 lessons still B** (out of 9) — re-run the audit CSV to
-   find them; likely quick wins given how conservative Gradus I's own
-   vocabulary pool already is (mostly εἰμί/salutation material).
-2. **Gradus IV-VII, 44 lessons, still entirely B — every lesson in
+1. **Gradus IV-VII, 38 lessons, still entirely B — every lesson in
    these 4 levels** — the next major body of work, and by far the
    largest remaining chunk. Skim a few from each level first to see
    whether they follow the same "already has narrative + glosses, just

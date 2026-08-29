@@ -2,9 +2,9 @@ id,level,title,skill,n_exercises,n_items,identify_items,identify_ratio,has_readi
 i-alphabetum-et-phonologia,I,Alphabētum et Phōnologia,pronuntiatio,3,10,0,0.0,False,True,True,False,False,3,2,3,A,curriculum/i/alphabetum-et-phonologia.json
 i-vocales-diphthongi-et-longitudo,I,"Vōcālēs, Diphthongī, et Longitūdō",pronuntiatio,3,10,0,0.0,False,True,True,False,False,3,2,3,A,curriculum/i/vocales-diphthongi-et-longitudo.json
 i-consonantes-et-digrapha,I,Cōnsonantēs Geminātae et Digrapha Nāsālia,pronuntiatio,3,10,0,0.0,False,True,True,False,False,3,2,3,A,curriculum/i/consonantes-et-digrapha.json
-i-spiritus-et-accentus,I,Spīritūs et Accentūs,pronuntiatio,3,10,0,0.0,False,True,True,False,False,3,1,2,B,curriculum/i/spiritus-et-accentus.json
-i-syllabae-et-enclitica,I,"Syllabae, Prōclīticae, et Enclīticae",pronuntiatio,3,10,0,0.0,False,True,True,False,False,4,2,2,B,curriculum/i/syllabae-et-enclitica.json
-i-salutationes-et-verbum-sum,I,Salūtātiōnēs et Εἰμί (Verbum Essendi),grammatica,3,11,0,0.0,False,True,False,False,True,4,1,2,B,curriculum/i/salutationes-et-verbum-sum.json
+i-spiritus-et-accentus,I,Spīritūs et Accentūs,pronuntiatio,4,14,0,0.0,True,True,True,False,False,3,1,4,A,curriculum/i/spiritus-et-accentus.json
+i-syllabae-et-enclitica,I,"Syllabae, Prōclīticae, et Enclīticae",pronuntiatio,4,14,0,0.0,True,True,True,False,False,4,2,4,A,curriculum/i/syllabae-et-enclitica.json
+i-salutationes-et-verbum-sum,I,Salūtātiōnēs et Εἰμί (Verbum Essendi),grammatica,4,15,0,0.0,True,True,False,False,True,4,2,5,A,curriculum/i/salutationes-et-verbum-sum.json
 i-articulus-et-numeri,I,Articulus (Fōrmae Nōminātīvae) et Numerī,grammatica,4,18,1,0.06,True,False,True,False,True,3,2,5,A,curriculum/i/articulus-et-numeri.json
 i-pronomina-personalia,I,Prōnōmina Persōnālia,grammatica,4,18,0,0.0,True,False,True,False,True,3,2,5,A,curriculum/i/pronomina-personalia.json
 i-lectio-prima,I,Lēctiō Prīma,lectio,3,9,0,0.0,False,True,True,False,True,2,1,3,A,curriculum/i/lectio-prima.json

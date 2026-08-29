@@ -58,6 +58,17 @@
   },
   "exercises": [
     {
+      "id": "i-spir-story", "type": "reading-comprehension", "title": "Quīnque Verba Attestāta",
+      "instructions": "Lege haec quīnque verba/phrasēs iam vīsa, deinde responde de eōrum orthographiā, nōn de sēnsū novō.",
+      "passage": "<p><span class=\"greek\">ὁ ἄνθρωπος. ἡ ἡμέρα. ῥήτωρ. οὗτος. τῇ ἡμέρᾳ.</span></p>",
+      "items": [
+        { "id": "spir-story1", "prompt": "Quō sonō incipit verbum ὁ, propter spīritum asperum?", "options": ["sonō /h/ (“HO”)", "sine ūllō sonō additō", "sonō /a/"], "answerIndex": 0, "explanation": "Spīritus asper super ὁ significat sonum /h/: “HO”." },
+        { "id": "spir-story2", "prompt": "Super quam litteram diphthongī pōnitur spīritus in οὗτος?", "options": ["super secundam (ου → οὗ)", "super prīmam (ο)", "numquam scrībitur hīc"], "answerIndex": 0, "explanation": "In diphthongō, spīritus scrībitur super secundam litteram." },
+        { "id": "spir-story3", "prompt": "Accipitne ῥήτωρ spīritum asperum, quia incipit littera ρ?", "options": ["ita, semper (ῥ)", "nōn, numquam", "sōlum in plūrālī"], "answerIndex": 0, "explanation": "Omne ρ initiāle verbī Graecī accipit spīritum asperum." },
+        { "id": "spir-story4", "prompt": "Quid est “ᾳ” in τῇ ἡμέρᾳ?", "options": ["iōta subscrīptum", "error typographicus", "accentus gravis"], "answerIndex": 0, "explanation": "Iōta subscrīptum sub α longō, vestīgium antīquae diphthongī." }
+      ]
+    },
+    {
       "id": "i-spir-mc", "type": "multiple-choice", "title": "Spīritūs et Accentūs: Regulae",
       "instructions": "Ēlige respōnsum rēctum.",
       "items": [

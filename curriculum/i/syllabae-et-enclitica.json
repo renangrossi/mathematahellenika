@@ -65,6 +65,17 @@
   },
   "exercises": [
     {
+      "id": "i-syll-story", "type": "reading-comprehension", "title": "Quattuor Verba Attestāta",
+      "instructions": "Lege haec quattuor verba/phrasēs iam vīsa, deinde responde de eōrum syllabīs/accentū, nōn de sēnsū novō.",
+      "passage": "<p><span class=\"greek\">βιβλίον. ἄγγελος. ὁ ἄνθρωπος. λέγει μοι.</span></p>",
+      "items": [
+        { "id": "syll-story1", "prompt": "Quōmodo dīviditur βιβλίον in syllabās?", "options": ["βι-βλί-ον (βλ manet coniūnctum)", "βιβ-λί-ον", "βι-βλ-ίον"], "answerIndex": 0, "explanation": "Βλ potest incipere verbum Graecum, ergō manet coniūnctum." },
+        { "id": "syll-story2", "prompt": "Quōmodo dīviditur ἄγγελος (nūntius)?", "options": ["ἄγ-γε-λος (γγ semper dīviditur)", "ἄγγ-ε-λος", "ἄ-γγελος"], "answerIndex": 0, "explanation": "Digrapha nāsālia (γγ) semper dīviduntur inter duās syllabās." },
+        { "id": "syll-story3", "prompt": "Estne ὁ in “ὁ ἄνθρωπος” prōclītica?", "options": ["ita, caret accentū proprio", "nōn, habet accentum plēnum", "est enclītica, nōn prōclītica"], "answerIndex": 0, "explanation": "Ὁ est prōclītica, sine accentū proprio, adhaerēns ante ἄνθρωπος." },
+        { "id": "syll-story4", "prompt": "Quid est μοι in “λέγει μοι”?", "options": ["enclītica, sine accentū proprio", "prōclītica", "verbum cum accentū plēnō"], "answerIndex": 0, "explanation": "Μοι est enclītica, adhaerēns post λέγει." }
+      ]
+    },
+    {
       "id": "i-syll-mc",
       "type": "multiple-choice",
       "title": "Syllabae, Prōclīticae, Enclīticae",

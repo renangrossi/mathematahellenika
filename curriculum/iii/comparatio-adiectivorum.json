@@ -17,8 +17,8 @@
     "Concludere Gradum III: recognōscere fundamentum nunc positum prō lēctiōne prōsae adaptātae authenticae (Gradus VI)"
   ],
   "content": {
-    "intro": "Ultima lēctiō Gradūs III tractat comparātiōnem adiectīvōrum — “sapiēns, sapientior, sapientissimus” — cōnstrūctiōnem morphologicam simplicem quae, tamen, in adiectīvīs frequentissimīs (bonus, malus, magnus, multus) subit suppletiōnem: thema comparātīvī/superlātīvī est omnīnō dīversum ā themate positīvī, exāctē sīcut Latīnum “bonus, melior, optimus” vel Anglicum “good, better, best”.",
-    "explanation": "<p>Comparātiō regulāris addit suffixum <span class=\"greek\">-τερος/-τέρα/-τερον</span> (comparātīvus, dēclīnātus ut adiectīvum classis prīmae, patrōnō καλός) ad thema adiectīvī positīvī, et <span class=\"greek\">-τατος/-τάτη/-τατον</span> (superlātīvus, eōdem patrōnō dēclīnātus) — patrōnus regulāris, applicābilis ad maiōrem partem adiectīvōrum Graecōrum.</p>",
+    "intro": "<span class=\"greek\">Ἀγάθων λέγει· ὁ Σωκράτης σοφώτερός ἐστι τῶν ἄλλων.</span> Notāvistī: <span class=\"greek\">σοφώτερος</span> — “sapientior”. Ultima lēctiō Gradūs III tractat comparātiōnem adiectīvōrum — cōnstrūctiōnem quae, in adiectīvīs frequentissimīs, subit suppletiōnem: exāctē sīcut Latīnum “bonus, melior, optimus”.",
+    "explanation": "<p><span class=\"greek\">Ἀγάθων λέγει· “Ὁ Σωκράτης σοφώτερός ἐστι τῶν ἄλλων.” Μελίτη λέγει· “Καὶ αὕτη ἡ πόλις μεγίστη ἐστίν.” “Ὁ ἀγαθὸς ἀνὴρ ἀμείνων ἐστὶ τοῦ κακοῦ,” λέγει Ἀγάθων. Μελίτη λέγει· “Πλείονας φίλους ἔχω ἢ σύ!”</span> (Agathōn dīcit: “Sōcratēs sapientior est cēterīs.” Melitē dīcit: “Et haec urbs maxima est.” “Vir bonus melior est malō,” dīcit Agathōn. Melitē dīcit: “Plūrēs amīcōs habeō quam tū!”)</p><p>Notāvistīne <span class=\"greek\">σοφώτερος</span> (comparātīvus regulāris) versus <span class=\"greek\">μεγίστη, ἀμείνων</span> (suppletīva)? Comparātiō regulāris addit suffixum <span class=\"greek\">-τερος/-τέρα/-τερον</span> (comparātīvus, dēclīnātus ut adiectīvum classis prīmae, patrōnō καλός) ad thema adiectīvī positīvī, et <span class=\"greek\">-τατος/-τάτη/-τατον</span> (superlātīvus). Sed adiectīva frequentissima (ἀγαθός, μέγας) habent thema comparātīvī/superlātīvī omnīnō dīversum ā themate positīvī.</p>",
     "rules": [
       {
         "heading": "a) Comparātiō Regulāris",
@@ -60,6 +60,43 @@
     ]
   },
   "exercises": [
+    {
+      "id": "iii-comp1-story",
+      "type": "reading-comprehension",
+      "title": "Ὁ Σωκράτης Σοφώτερος",
+      "instructions": "Lege, deinde responde secundum sensum, non verbum singulum.",
+      "passage": "<p><span class=\"greek\">Ἀγάθων λέγει· “Ὁ Σωκράτης σοφώτερός ἐστι τῶν ἄλλων.” Μελίτη λέγει· “Καὶ αὕτη ἡ πόλις μεγίστη ἐστίν.” “Ὁ ἀγαθὸς ἀνὴρ ἀμείνων ἐστὶ τοῦ κακοῦ,” λέγει Ἀγάθων. Μελίτη λέγει· “Πλείονας φίλους ἔχω ἢ σύ!”</span></p>",
+      "items": [
+        {
+          "id": "comp1-story1",
+          "prompt": "Quis sapientior est cēterīs, secundum Agathōnem?",
+          "options": ["Sōcratēs (ὁ Σωκράτης)", "Melitē", "magister"],
+          "answerIndex": 0,
+          "explanation": "“Ὁ Σωκράτης σοφώτερός ἐστι τῶν ἄλλων.”"
+        },
+        {
+          "id": "comp1-story2",
+          "prompt": "Quālis est haec urbs, secundum Melitēn?",
+          "options": ["maxima (μεγίστη)", "minima", "media"],
+          "answerIndex": 0,
+          "explanation": "“Αὕτη ἡ πόλις μεγίστη ἐστίν.”"
+        },
+        {
+          "id": "comp1-story3",
+          "prompt": "Quis melior est, secundum Agathōnem?",
+          "options": ["vir bonus (ὁ ἀγαθὸς ἀνήρ)", "vir malus", "nēmō"],
+          "answerIndex": 0,
+          "explanation": "“Ὁ ἀγαθὸς ἀνὴρ ἀμείνων ἐστὶ τοῦ κακοῦ.”"
+        },
+        {
+          "id": "comp1-story4",
+          "prompt": "Quid Melitē iactat dē amīcīs?",
+          "options": ["sē plūrēs amīcōs habēre quam Agathōnem", "sē nūllōs amīcōs habēre", "sē paucōs amīcōs habēre"],
+          "answerIndex": 0,
+          "explanation": "“Πλείονας φίλους ἔχω ἢ σύ!”"
+        }
+      ]
+    },
     {
       "id": "iii-comp1-mc",
       "type": "multiple-choice",

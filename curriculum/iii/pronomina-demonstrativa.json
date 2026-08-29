@@ -17,8 +17,8 @@
     "Applicāre rēgulam positiōnis speciālem dēmōnstrātīvōrum: semper EXTRĀ articulum-nōmen, numquam intrā (dīversē ab adiectīvīs normālibus)"
   ],
   "content": {
-    "intro": "Graecum distinguit TRĒS gradūs dēmōnstrātiōnis, ubi Latīnum classicum habet duo prīncipālia (hic/ille) et Anglicum/Lūsitānicum modernum ūnum sōlum discrīmen (this/that): <span class=\"greek\">ὅδε</span> (“hic”, proximus locūtōrī ipsī, saepe “sequēns” in discursū), <span class=\"greek\">οὗτος</span> (“iste”, proximus audītōrī vel iam mentiōnātus in contextū), et <span class=\"greek\">ἐκεῖνος</span> (“ille”, distāns spatiō vel tempore).",
-    "explanation": "<p>Οὗτος est constrūctum ex articulō (τ-) plūs elementō dēmōnstrātīvō (-αυτ-/-ουτ-), unde fōrmae videntur combīnāre spīritum asperum initiālem cum τ mediāle — patrōnus proprius memoriae mandandus. Ἐκεῖνος, contrā, dēclīnātur exāctē sīcut adiectīvum classis prīmae regulāre (Gradū II, patrōnus καλός), sine ūllā irregulāritāte.</p>",
+    "intro": "<span class=\"greek\">Ἀγάθων λέγει· οὗτος ὁ ἀνὴρ σοφός ἐστιν.</span> Notāvistī: <span class=\"greek\">οὗτος</span> — “hic”. Graecum distinguit TRĒS gradūs dēmōnstrātiōnis, ubi Latīnum classicum habet duo prīncipālia (hic/ille): ὅδε, οὗτος, ἐκεῖνος.",
+    "explanation": "<p><span class=\"greek\">Ἀγάθων λέγει· “Οὗτος ὁ ἀνὴρ σοφός ἐστιν.” Μελίτη λέγει· “Ταύτην τὴν πόλιν φιλῶ.” Ἀγάθων λέγει· “Τοῦτο τὸ βιβλίον καλόν ἐστιν — ἐκεῖνοι οἱ στρατιῶται, ἐκείνης τῆς ἡμέρας, ἀνδρεῖοι ἦσαν.” “Ταῦτα λέγω,” λέγει Μελίτη.</span> (Agathōn dīcit: “Hic vir sapiēns est.” Melitē dīcit: “Hanc urbem amō.” Agathōn dīcit: “Hic liber pulcher est — illī mīlitēs, illō diē, fortēs erant.” “Haec dīcō,” dīcit Melitē.)</p><p>Notāvistīne <span class=\"greek\">οὗτος, ταύτην, τοῦτο, ἐκεῖνοι, ἐκείνης, ταῦτα</span> — sex fōrmae dēmōnstrātīvae, cāsūs/genera/numerī dīversī? Οὗτος est constrūctum ex articulō (τ-) plūs elementō dēmōnstrātīvō (-αυτ-/-ουτ-), unde fōrmae videntur combīnāre spīritum asperum initiālem cum τ mediāle — patrōnus proprius memoriae mandandus. Ἐκεῖνος, contrā, dēclīnātur exāctē sīcut adiectīvum classis prīmae regulāre (Gradū II, patrōnus καλός), sine ūllā irregulāritāte.</p>",
     "rules": [
       {
         "heading": "a) Οὗτος, Αὕτη, Τοῦτο (hic, iste)",
@@ -60,6 +60,43 @@
     ]
   },
   "exercises": [
+    {
+      "id": "iii-dem1-story",
+      "type": "reading-comprehension",
+      "title": "Οὗτος ὁ Ἀνήρ",
+      "instructions": "Lege, deinde responde secundum sensum, non verbum singulum.",
+      "passage": "<p><span class=\"greek\">Ἀγάθων λέγει· “Οὗτος ὁ ἀνὴρ σοφός ἐστιν.” Μελίτη λέγει· “Ταύτην τὴν πόλιν φιλῶ.” Ἀγάθων λέγει· “Τοῦτο τὸ βιβλίον καλόν ἐστιν — ἐκεῖνοι οἱ στρατιῶται, ἐκείνης τῆς ἡμέρας, ἀνδρεῖοι ἦσαν.” “Ταῦτα λέγω,” λέγει Μελίτη.</span></p>",
+      "items": [
+        {
+          "id": "dem1-story1",
+          "prompt": "Dē quō virō dīcit Agathōn?",
+          "options": ["dē hōc virō (οὗτος)", "dē illō virō", "dē nūllō"],
+          "answerIndex": 0,
+          "explanation": "“Οὗτος ὁ ἀνὴρ σοφός ἐστιν.”"
+        },
+        {
+          "id": "dem1-story2",
+          "prompt": "Quam urbem Melitē amat?",
+          "options": ["hanc urbem (ταύτην)", "illam urbem", "nūllam"],
+          "answerIndex": 0,
+          "explanation": "“Ταύτην τὴν πόλιν φιλῶ.”"
+        },
+        {
+          "id": "dem1-story3",
+          "prompt": "Quālēs fuērunt illī mīlitēs?",
+          "options": ["fortēs (ἀνδρεῖοι)", "timidī", "paucī"],
+          "answerIndex": 0,
+          "explanation": "“Ἐκεῖνοι οἱ στρατιῶται... ἀνδρεῖοι ἦσαν.”"
+        },
+        {
+          "id": "dem1-story4",
+          "prompt": "Quālis est hic liber, secundum Agathōnem?",
+          "options": ["pulcher est (καλόν ἐστιν)", "malus est", "nōn exsistit"],
+          "answerIndex": 0,
+          "explanation": "“Τοῦτο τὸ βιβλίον καλόν ἐστιν.”"
+        }
+      ]
+    },
     {
       "id": "iii-dem1-mc",
       "type": "multiple-choice",

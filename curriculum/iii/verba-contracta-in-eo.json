@@ -17,8 +17,8 @@
     "Formāre īnfīnītīvum contractum (φιλεῖν) et intellegere cūr fōrma vīsa differat ā λύειν"
   ],
   "content": {
-    "intro": "Multa verba Graeca frequentissima — <span class=\"greek\">φιλέω</span> (amō), <span class=\"greek\">ποιέω</span> (faciō), <span class=\"greek\">ζητέω</span> (quaerō) — habent thema fīnītum vōcālī brevī (ε, α, vel ο) quae CONTRAHITUR cum vōcālī thematicā/dēsinentiā sequente, prōdūcēns fōrmās vīsū dīversās ā λύω sed subiacentī eandem dēsinentiam. Dictiōnāria citant hoc verbum fōrmā nōn-contractā (φιλέω, prō claritāte historicā), sed ūsus classicus semper adhibet fōrmam CONTRACTAM (φιλῶ).",
-    "explanation": "<p>Contractiō occurrit quandō duae vōcālēs adiacentēs (thema in ε + vōcālis initiālis dēsinentiae) fundunt in ūnam vōcālem vel diphthongum, secundum rēgulās phōnēticas fīxās. Semel rēgulae discitae, coniugātiō integra derivātur mechanicē ā fōrmā nōn-contractā (quam dictiōnāria dant) applicandō rēgulās.</p>",
+    "intro": "<span class=\"greek\">Ἀγάθων φιλεῖ τὴν πατρίδα. Τί ποιεῖς; λέγει Μελίτη.</span> Notāvistī: <span class=\"greek\">φιλεῖ, ποιεῖς</span> — fōrmae contractae, dīversae vīsū ā λύει/λύεις sed eandem dēsinentiam subiacentem habent. Hodiē discis quārē.",
+    "explanation": "<p><span class=\"greek\">Ἀγάθων φιλεῖ τὴν πατρίδα. Μελίτη λέγει· “Τί ποιεῖς;” “Ζητῶ τὴν ἀλήθειαν,” λέγει Ἀγάθων. “Οἱ πολῖται φιλοῦσι τὴν πόλιν,” λέγει Μελίτη, “καὶ βούλονται ποιεῖν τὸ ἀγαθόν.”</span> (Agathōn amat patriam. Melitē dīcit: “Quid facis?” “Vēritātem quaerō,” dīcit Agathōn. “Cīvēs amant urbem,” dīcit Melitē, “et volunt facere bonum.”)</p><p>Notāvistīne <span class=\"greek\">φιλεῖ, ποιεῖς, ζητῶ, φιλοῦσι, ποιεῖν</span> — omnēs fōrmae contractae? Multa verba Graeca frequentissima — φιλέω (amō), ποιέω (faciō), ζητέω (quaerō) — habent thema fīnītum vōcālī brevī (ε) quae CONTRAHITUR cum vōcālī thematicā/dēsinentiā sequente, prōdūcēns fōrmās vīsū dīversās ā λύω sed subiacentī eandem dēsinentiam. Contractiō occurrit quandō duae vōcālēs adiacentēs fundunt in ūnam vōcālem vel diphthongum, secundum rēgulās phōnēticas fīxās. Dictiōnāria citant hoc verbum fōrmā nōn-contractā (φιλέω), sed ūsus classicus semper adhibet fōrmam CONTRACTAM (φιλῶ).</p>",
     "rules": [
       {
         "heading": "a) Praesēns Āctīvum Contractum: φιλέω → φιλῶ",
@@ -60,6 +60,43 @@
     ]
   },
   "exercises": [
+    {
+      "id": "iii-con3-story",
+      "type": "reading-comprehension",
+      "title": "Ζητοῦμεν τὴν Ἀλήθειαν",
+      "instructions": "Lege, deinde responde secundum sensum, non verbum singulum.",
+      "passage": "<p><span class=\"greek\">Ἀγάθων φιλεῖ τὴν πατρίδα. Μελίτη λέγει· “Τί ποιεῖς;” “Ζητῶ τὴν ἀλήθειαν,” λέγει Ἀγάθων. “Οἱ πολῖται φιλοῦσι τὴν πόλιν,” λέγει Μελίτη, “καὶ βούλονται ποιεῖν τὸ ἀγαθόν.”</span></p>",
+      "items": [
+        {
+          "id": "con3-story1",
+          "prompt": "Quid Agathōn amat?",
+          "options": ["patriam (τὴν πατρίδα)", "pecūniam", "glōriam"],
+          "answerIndex": 0,
+          "explanation": "Ἀγάθων φιλεῖ τὴν πατρίδα."
+        },
+        {
+          "id": "con3-story2",
+          "prompt": "Quid Agathōn quaerit?",
+          "options": ["vēritātem (τὴν ἀλήθειαν)", "aurum", "librum"],
+          "answerIndex": 0,
+          "explanation": "“Ζητῶ τὴν ἀλήθειαν.”"
+        },
+        {
+          "id": "con3-story3",
+          "prompt": "Quid cīvēs amant?",
+          "options": ["urbem (φιλοῦσι τὴν πόλιν)", "bellum", "silentium"],
+          "answerIndex": 0,
+          "explanation": "“Οἱ πολῖται φιλοῦσι τὴν πόλιν.”"
+        },
+        {
+          "id": "con3-story4",
+          "prompt": "Quid cīvēs volunt facere?",
+          "options": ["bonum facere (ποιεῖν τὸ ἀγαθόν)", "malum facere", "nihil facere"],
+          "answerIndex": 0,
+          "explanation": "“Βούλονται ποιεῖν τὸ ἀγαθόν.”"
+        }
+      ]
+    },
     {
       "id": "iii-con3-fill",
       "type": "fill-blank",

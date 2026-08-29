@@ -17,8 +17,8 @@
     "Recognōscere quod omnēs trēs classēs conveniunt in 1ª persōnā singulārī et 3ª persōnā plūrālī (ambae fīniunt -ῶ/-οῦσι), differentēs in cēterīs"
   ],
   "content": {
-    "intro": "Duae cēterae classēs verbōrum contractōrum concludunt hanc trilogiam: verba in <span class=\"greek\">-άω</span> (ut <span class=\"greek\">τιμάω</span> “honōrō”) et in <span class=\"greek\">-όω</span> (ut <span class=\"greek\">δηλόω</span> “ostendō, dēclārō”). Rēgulae contractiōnis differunt ab -έω (lēctiō priōre), sed logica generālis manet eadem: duae vōcālēs adiacentēs fundunt secundum patrōnum fīxum.",
-    "explanation": "<p>Mnēmonicum generāle prō omnibus tribus classibus: <strong>α domināns super ε</strong> (α+ε→α, nōn ε), <strong>ο domināns super ε</strong> similiter, et <strong>quaelibet ω vincit semper</strong> (α vel ο + ω → ω). Ubi ambae vōcālēs sunt “similēs” (α+α, ο+ο vel ο+ου), resultat vōcālis/diphthongus longa correspondēns.</p>",
+    "intro": "<span class=\"greek\">Ἀγάθων λέγει· τιμῶμεν τοὺς θεούς.</span> Notāvistī: <span class=\"greek\">τιμῶμεν</span> — alia classis verbōrum contractōrum, thema in α. Duae cēterae classēs concludunt hanc trilogiam: verba in <span class=\"greek\">-άω</span> (ut τιμάω “honōrō”) et in <span class=\"greek\">-όω</span> (ut δηλόω “ostendō, dēclārō”).",
+    "explanation": "<p><span class=\"greek\">Ἀγάθων λέγει· “Τιμῶμεν τοὺς θεούς.” Μελίτη λέγει· “Καὶ τιμᾷς τὸν πατέρα;” “Βούλομαι τιμᾶν τοὺς γονεῖς,” λέγει Ἀγάθων. Ὁ ῥήτωρ τὴν ἀλήθειαν δηλοῖ ἐν τῇ ἀγορᾷ.</span> (Agathōn dīcit: “Deōs honōrāmus.” Melitē dīcit: “Et patrem honōrās?” “Volō honōrāre parentēs,” dīcit Agathōn. Ōrātor vēritātem in forō ostendit.)</p><p>Notāvistīne <span class=\"greek\">τιμῶμεν, τιμᾷς, τιμᾶν, δηλοῖ</span> — fōrmae contractae dīversae ab -έω (φιλεῖς) sed eadem logica? Mnēmonicum generāle prō omnibus tribus classibus: <strong>α domināns super ε</strong> (α+ε→α, nōn ε), <strong>ο domināns super ε</strong> similiter, et <strong>quaelibet ω vincit semper</strong> (α vel ο + ω → ω). Ubi ambae vōcālēs sunt “similēs”, resultat vōcālis/diphthongus longa correspondēns.</p>",
     "rules": [
       {
         "heading": "a) Verba in -άω: τιμάω → τιμῶ (honōrō)",
@@ -60,6 +60,43 @@
     ]
   },
   "exercises": [
+    {
+      "id": "iii-con4-story",
+      "type": "reading-comprehension",
+      "title": "Τιμῶμεν τοὺς Θεούς",
+      "instructions": "Lege, deinde responde secundum sensum, non verbum singulum.",
+      "passage": "<p><span class=\"greek\">Ἀγάθων λέγει· “Τιμῶμεν τοὺς θεούς.” Μελίτη λέγει· “Καὶ τιμᾷς τὸν πατέρα;” “Βούλομαι τιμᾶν τοὺς γονεῖς,” λέγει Ἀγάθων. Ὁ ῥήτωρ τὴν ἀλήθειαν δηλοῖ ἐν τῇ ἀγορᾷ.</span></p>",
+      "items": [
+        {
+          "id": "con4-story1",
+          "prompt": "Quid Agathōn et Melitē honōrant?",
+          "options": ["deōs (τοὺς θεούς)", "rēgēs", "poētās"],
+          "answerIndex": 0,
+          "explanation": "“Τιμῶμεν τοὺς θεούς.”"
+        },
+        {
+          "id": "con4-story2",
+          "prompt": "Quid Melitē Agathōnem rogat?",
+          "options": ["num patrem honōret", "num deōs timeat", "num pecūniam habeat"],
+          "answerIndex": 0,
+          "explanation": "“Καὶ τιμᾷς τὸν πατέρα;”"
+        },
+        {
+          "id": "con4-story3",
+          "prompt": "Quid Agathōn vult facere?",
+          "options": ["parentēs honōrāre (τιμᾶν τοὺς γονεῖς)", "urbem relinquere", "dormīre"],
+          "answerIndex": 0,
+          "explanation": "“Βούλομαι τιμᾶν τοὺς γονεῖς.”"
+        },
+        {
+          "id": "con4-story4",
+          "prompt": "Quid ōrātor in forō facit?",
+          "options": ["vēritātem dēclārat (δηλοῖ)", "tacet", "fugit"],
+          "answerIndex": 0,
+          "explanation": "Ὁ ῥήτωρ τὴν ἀλήθειαν δηλοῖ ἐν τῇ ἀγορᾷ."
+        }
+      ]
+    },
     {
       "id": "iii-con4-fill",
       "type": "fill-blank",

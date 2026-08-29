@@ -17,8 +17,8 @@
     "Coniugāre imperfectum verbī contractī (φιλέω → ἐφίλουν), applicandō augmentum ante contractiōnem"
   ],
   "content": {
-    "intro": "Usque nunc, sōlum tempus praesēns fuit nōtum (āctīvum et medium-passīvum, Gradū II). Hodiē ad prīmum tempus <strong>praeteritum</strong> pervenīmus: imperfectum, quod dēscrībit āctiōnem continuam, repetītam, vel incohantem in praeteritō (“faciēbam”, nōn “fēcī”) — comparā cum imperfectō Latīnō, quod habet fūnctiōnem valdē similem.",
-    "explanation": "<p>Omne tempus praeteritum indicātīvī (imperfectum, aoristus, plūsquamperfectum) requīrit <strong>augmentum</strong>: praefīxum vel mūtātiōnem initiālem quae sīgnificat “hoc factum est in praeteritō”. Duo genera augmentī: <strong>syllabicum</strong> (verba incipientia cōnsonante accipiunt <span class=\"greek\">ἐ-</span> praefīxum) et <strong>temporāle</strong> (verba incipientia vōcālī allongant illam vōcālem ipsam, sine addere syllabam novam).</p>",
+    "intro": "<span class=\"greek\">Ὁ διδάσκαλος ἐδίδασκε τοὺς μαθητὰς καθ' ἡμέραν.</span> Notāvistī: <span class=\"greek\">ἐδίδασκε</span> — nōn “docet” (praesēns), sed “docēbat” (praeteritum continuum). Hodiē ad prīmum tempus <strong>praeteritum</strong> pervenīmus: imperfectum.",
+    "explanation": "<p><span class=\"greek\">Ὁ διδάσκαλος ἐδίδασκε τοὺς μαθητὰς καθ' ἡμέραν. Ἀγάθων καὶ Μελίτη ἤκουον τὸν λόγον αὐτοῦ. “Ἐφίλουν τὴν πατρίδα,” ἔλεγεν ὁ διδάσκαλος, “ὅτε νέος ἦν.” Μελίτη λέγει· “Τί ἐποίεις τότε, ὦ διδάσκαλε;”</span> (Magister discipulōs cotīdiē docēbat. Agathōn et Melitē verbum eius audiēbant. “Patriam amābam,” dīcēbat magister, “cum iuvenis erat.” Melitē dīcit: “Quid faciēbās tunc, ō magister?”)</p><p>Notāvistīne <span class=\"greek\">ἐδίδασκε, ἤκουον, ἐφίλουν, ἔλεγεν</span> — omnia praeteritum continuum, omnia cum ἐ- praefīxō? Omne tempus praeteritum indicātīvī (imperfectum, aoristus, plūsquamperfectum) requīrit <strong>augmentum</strong>: praefīxum vel mūtātiōnem initiālem quae sīgnificat “hoc factum est in praeteritō”. Duo genera augmentī: <strong>syllabicum</strong> (verba incipientia cōnsonante accipiunt ἐ- praefīxum) et <strong>temporāle</strong> (verba incipientia vōcālī allongant illam vōcālem ipsam, sine addere syllabam novam).</p>",
     "rules": [
       {
         "heading": "a) Imperfectum Āctīvum: ἔλυον",
@@ -60,6 +60,43 @@
     ]
   },
   "exercises": [
+    {
+      "id": "iii-imp1-story",
+      "type": "reading-comprehension",
+      "title": "Ὁ Διδάσκαλος Ἐδίδασκε",
+      "instructions": "Lege, deinde responde secundum sensum, non verbum singulum.",
+      "passage": "<p><span class=\"greek\">Ὁ διδάσκαλος ἐδίδασκε τοὺς μαθητὰς καθ' ἡμέραν. Ἀγάθων καὶ Μελίτη ἤκουον τὸν λόγον αὐτοῦ. “Ἐφίλουν τὴν πατρίδα,” ἔλεγεν ὁ διδάσκαλος, “ὅτε νέος ἦν.” Μελίτη λέγει· “Τί ἐποίεις τότε, ὦ διδάσκαλε;”</span></p>",
+      "items": [
+        {
+          "id": "imp1-story1",
+          "prompt": "Quid magister cōtīdiē faciēbat?",
+          "options": ["discipulōs docēbat (ἐδίδασκε)", "dormiēbat", "aberat"],
+          "answerIndex": 0,
+          "explanation": "Ὁ διδάσκαλος ἐδίδασκε τοὺς μαθητὰς καθ' ἡμέραν."
+        },
+        {
+          "id": "imp1-story2",
+          "prompt": "Quid Agathōn et Melitē faciēbant?",
+          "options": ["verbum eius audiēbant (ἤκουον)", "lūdēbant", "dormiēbant"],
+          "answerIndex": 0,
+          "explanation": "Ἀγάθων καὶ Μελίτη ἤκουον τὸν λόγον αὐτοῦ."
+        },
+        {
+          "id": "imp1-story3",
+          "prompt": "Quid magister amābat, cum iuvenis esset?",
+          "options": ["patriam (ἐφίλουν τὴν πατρίδα)", "nihil", "pecūniam"],
+          "answerIndex": 0,
+          "explanation": "“Ἐφίλουν τὴν πατρίδα... ὅτε νέος ἦν.”"
+        },
+        {
+          "id": "imp1-story4",
+          "prompt": "Quid Melitē magistrum rogat?",
+          "options": ["quid tunc faciēbat", "cūr discipulōs docet", "ubi habitat"],
+          "answerIndex": 0,
+          "explanation": "“Τί ἐποίεις τότε, ὦ διδάσκαλε;”"
+        }
+      ]
+    },
     {
       "id": "iii-imp1-fill",
       "type": "fill-blank",

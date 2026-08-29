@@ -11,13 +11,27 @@ every lesson's A/B/C score.
 
 ## Current state
 
-As of this pass: **19/67 lessons score A, 48 B, 0 C** (up from 5 A / 62 B
+As of this pass: **26/67 lessons score A, 41 B, 0 C** (up from 5 A / 62 B
 after the `ii-declinatio-prima` pilot). No lesson in this course has ever
 scored C under the audit heuristic — every lesson already carries some
 meaningful Greek (real example sentences with glosses, and often
 true-false/matching exercises), unlike the Latin course's initial state.
-**Gradus II is now fully transformed (10/10 A)**; Gradus III has 3/10 A.
-The gap remains real in Gradus IV-VII (44 lessons, still entirely B).
+**Gradus I-III are now fully transformed except 3 Gradus I lessons**
+(6/9 A in Gradus I; Gradus II and III both 10/10 A). The gap remains
+real in Gradus IV-VII (44 lessons, still entirely B) — the entire
+remaining B list.
+
+A third batch (7 lessons) finished Gradus III: `iii-verba-contracta-in-
+eo`, `iii-verba-contracta-in-ao-et-oo`, `iii-tempus-imperfectum`,
+`iii-tempus-futurum-activum-et-medium`, `iii-pronomen-relativum`,
+`iii-pronomina-demonstrativa`, `iii-comparatio-adiectivorum` (the
+level's own capstone). Same pattern, same conservative-composition
+discipline; several of these scenes chain directly into each other
+(the imperfectum lesson's teacher-and-students scene continues the
+declinatio-tertia-vocalica/adiectiva-tertiae-declinationis king-and-city
+arc's classroom framing; the capstone lesson has Agathōn and Melitē
+discuss Socrates and the city one last time before Gradus III closes).
+All 7 landed at A (score 5).
 
 This pass (two batches) transformed 14 lessons: the worst-scoring lesson
 (`iii-declinatio-tertia-consonantica`, score 0), the two Gradus I
@@ -117,15 +131,16 @@ recurring name.
 
 ## Priority for the next pass
 
-The original worst-scoring cluster is now fully cleared. Remaining work:
+Gradus II and III are both fully cleared (10/10 A each). Remaining work:
 
-1. **Gradus III, 7 lessons still B**: re-run the audit CSV and sort by
-   score to find the next targets in that level (declension/syntax
-   lessons following the same pattern as the two already done).
-2. **Gradus IV-VII, 44 lessons, still entirely B** — the next major body
-   of work. Skim a few from each level first to see whether they follow
-   the same "already has narrative + glosses, just not
-   comprehension-first" shape as Gradus I-III, or need a different
+1. **Gradus I, 3 lessons still B** (out of 9) — re-run the audit CSV to
+   find them; likely quick wins given how conservative Gradus I's own
+   vocabulary pool already is (mostly εἰμί/salutation material).
+2. **Gradus IV-VII, 44 lessons, still entirely B — every lesson in
+   these 4 levels** — the next major body of work, and by far the
+   largest remaining chunk. Skim a few from each level first to see
+   whether they follow the same "already has narrative + glosses, just
+   not comprehension-first" shape as Gradus I-III, or need a different
    approach — the way Latin's Gradus VI/VII authentic-text lessons ended
    up needing a `magister` classroom frame rather than a family-story
    frame. Given this course teaches Greek through Latin, and Gradus
@@ -135,3 +150,9 @@ The original worst-scoring cluster is now fully cleared. Remaining work:
    Latin course's `magister`-frame pattern for authentic texts is the
    most likely fit there too, adapted with the Ἀγάθων/Μελίτη cast (now
    presumably older students) or a Greek-appropriate teacher framing.
+   By Gradus IV-V, verb morphology (aorist, subjunctive, participles)
+   will be considerably richer than Gradus I-III's εἰμί/φιλέω/λύω/
+   contract-verb core used so far — re-derive the "safe verb list" for
+   composing new passages from what each *specific* lesson and its
+   already-transformed prerequisites actually attest, rather than
+   assuming the Gradus I-III list still covers it.

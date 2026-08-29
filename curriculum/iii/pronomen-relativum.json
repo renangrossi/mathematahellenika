@@ -17,8 +17,8 @@
     "Recognōscere rēgulam attractiōnis: relātīvum interdum “attrahitur” in cāsum antecedentis, contrā logicam propriam clausulae"
   ],
   "content": {
-    "intro": "Clausula relātīva (“vir QUI vēnit”, “urbs QUAM vīdimus”) requīrit prōnōmen relātīvum, quod in Graecō est <span class=\"greek\">ὅς, ἥ, ὅ</span>. Fōrmae sunt valdē similēs articulō (Gradū II), sed cum discrīmine phōnologicō praecipuō: relātīvum retinet <strong>spīritum asperum</strong> et accentum PROPRIUM in omnibus fōrmīs, nōn ūnīs quibusdam ut articulus.",
-    "explanation": "<p>Concordantia relātīvī sequitur rēgulam duplicem: relātīvum concordat cum antecedente (nōmen ad quod refert) in <strong>genere</strong> et <strong>numerō</strong>, sed cāsus relātīvī est dētermīnātus ā FŪNCTIŌNE SUĀ PROPRIĀ intrā clausulam relātīvam ipsam (subiectum, obiectum, etc.), NŌN ā cāsū antecedentis. Comparā Latīnum: eadem rēgula fundāmentālis valet.</p>",
+    "intro": "<span class=\"greek\">Ἀγάθων λέγει· ὁ ἀνὴρ ὃς λέγει σοφός ἐστιν.</span> Notāvistī: <span class=\"greek\">ὃς λέγει</span> — “quī loquitur”, clausula intrā sententiam. Hodiē discis prōnōmen relātīvum <span class=\"greek\">ὅς, ἥ, ὅ</span>.",
+    "explanation": "<p><span class=\"greek\">Ἀγάθων λέγει· “Ὁ ἀνὴρ ὃς λέγει σοφός ἐστιν.” Μελίτη λέγει· “Καὶ οἱ πολῖται οὓς φιλῶ ἀγαθοί εἰσιν.” Ἀγάθων λέγει· “Τὰ δῶρα ἃ ἔπεμψας καλά ἐστιν — καὶ ἡ πόλις ἧς τοὺς νόμους τιμῶμεν εὐτυχής ἐστιν.”</span> (Agathōn dīcit: “Vir quī loquitur sapiēns est.” Melitē dīcit: “Et cīvēs quōs amō bonī sunt.” Agathōn dīcit: “Dōna quae mīsistī pulchra sunt — et urbs cuius lēgēs honōrāmus fēlīx est.”)</p><p>Notāvistīne <span class=\"greek\">ὅς, οὕς, ἅ, ἧς</span> — quattuor fōrmae, cāsus dīversus quisque? Concordantia relātīvī sequitur rēgulam duplicem: relātīvum concordat cum antecedente (nōmen ad quod refert) in <strong>genere</strong> et <strong>numerō</strong>, sed cāsus relātīvī est dētermīnātus ā FŪNCTIŌNE SUĀ PROPRIĀ intrā clausulam relātīvam ipsam (subiectum, obiectum, etc.), NŌN ā cāsū antecedentis. Comparā Latīnum: eadem rēgula fundāmentālis valet.</p>",
     "rules": [
       {
         "heading": "a) Ὅς, Ἥ, Ὅ: Dēclīnātiō Plēna",
@@ -60,6 +60,43 @@
     ]
   },
   "exercises": [
+    {
+      "id": "iii-rel1-story",
+      "type": "reading-comprehension",
+      "title": "Ὁ Ἀνὴρ Ὃς Λέγει",
+      "instructions": "Lege, deinde responde secundum sensum, non verbum singulum.",
+      "passage": "<p><span class=\"greek\">Ἀγάθων λέγει· “Ὁ ἀνὴρ ὃς λέγει σοφός ἐστιν.” Μελίτη λέγει· “Καὶ οἱ πολῖται οὓς φιλῶ ἀγαθοί εἰσιν.” Ἀγάθων λέγει· “Τὰ δῶρα ἃ ἔπεμψας καλά ἐστιν — καὶ ἡ πόλις ἧς τοὺς νόμους τιμῶμεν εὐτυχής ἐστιν.”</span></p>",
+      "items": [
+        {
+          "id": "rel1-story1",
+          "prompt": "Quālis est vir quī loquitur?",
+          "options": ["sapiēns (σοφός)", "stultus", "malus"],
+          "answerIndex": 0,
+          "explanation": "“Ὁ ἀνὴρ ὃς λέγει σοφός ἐστιν.”"
+        },
+        {
+          "id": "rel1-story2",
+          "prompt": "Quālēs sunt cīvēs quōs Melitē amat?",
+          "options": ["bonī (ἀγαθοί)", "malī", "ignōtī"],
+          "answerIndex": 0,
+          "explanation": "“Οἱ πολῖται οὓς φιλῶ ἀγαθοί εἰσιν.”"
+        },
+        {
+          "id": "rel1-story3",
+          "prompt": "Quālia sunt dōna quae Melitē mīsit?",
+          "options": ["pulchra (καλά)", "turpia", "nūlla"],
+          "answerIndex": 0,
+          "explanation": "“Τὰ δῶρα ἃ ἔπεμψας καλά ἐστιν.”"
+        },
+        {
+          "id": "rel1-story4",
+          "prompt": "Quālis est urbs cuius lēgēs honōrāmus?",
+          "options": ["fēlīx (εὐτυχής)", "misera", "parva"],
+          "answerIndex": 0,
+          "explanation": "“Ἡ πόλις ἧς τοὺς νόμους τιμῶμεν εὐτυχής ἐστιν.”"
+        }
+      ]
+    },
     {
       "id": "iii-rel1-mc",
       "type": "multiple-choice",

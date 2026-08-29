@@ -17,8 +17,8 @@
     "Distinguere futūrum āctīvum ā futūrō mediō, notandō futūrum passīvum est fōrma distīncta (Gradū IV)"
   ],
   "content": {
-    "intro": "Tempus futūrum indicat āctiōnem posteriōrem tempore locūtiōnis (“solvam”, “līberābō”) — sēnsus idem ac futūrum Latīnum. Fōrmātiō est simplicior quam imperfectum: nūllum augmentum (futūrum nōn est praeteritum!), sed additiō litterae <span class=\"greek\">σ</span> inter thema et dēsinentiam, quae saepe fundit cum cōnsonante fīnālī themātis.",
-    "explanation": "<p>Futūrum āctīvum/medium adhibet <strong>easdem dēsinentiās ac praesēns</strong> (Gradū II), addēns tantum σ inter thema et dēsinentiam thematicam: λύω → <span class=\"greek\">λύσω</span> (thema λυ- + σ + ω). Cum thema fīnītur vōcālī (ut λυ-), additiō est simplex; cum thema fīnītur cōnsonante (ut in verbīs adhūc nōn vīsīs, e.g. πέμπω “mittō”, thema πεμπ-), σ fundit cum cōnsonante fīnālī secundum rēgulās iam vīsās in tertiā dēclīnātiōne (Gradū III priōre).</p>",
+    "intro": "<span class=\"greek\">Ἀγάθων λέγει· λύσω τὸν δοῦλον αὔριον.</span> Notāvistī: <span class=\"greek\">λύσω</span> — nōn “solvō” (praesēns), sed “solvam” (futūrum), et <span class=\"greek\">αὔριον</span> (“crās”)? Fōrmātiō est simplicior quam imperfectum: nūllum augmentum, sed additiō litterae σ inter thema et dēsinentiam.",
+    "explanation": "<p><span class=\"greek\">Ἀγάθων λέγει· “Λύσω τὸν δοῦλον αὔριον.” Μελίτη λέγει· “Καὶ οἱ στρατιῶται;” “Πέμψουσι τὰ ὅπλα,” λέγει Ἀγάθων, “καὶ ἄξομεν τοὺς αἰχμαλώτους.” Μελίτη λέγει· “Τί ποιήσεις σύ;” “Πείσω τὸν δῆμον,” λέγει Ἀγάθων.</span> (Agathōn dīcit: “Servum crās solvam.” Melitē dīcit: “Et mīlitēs?” “Arma mittent,” dīcit Agathōn, “et captīvōs dūcēmus.” Melitē dīcit: “Quid tū faciēs?” “Populō persuādēbō,” dīcit Agathōn.)</p><p>Notāvistīne <span class=\"greek\">λύσω, πέμψουσι, ἄξομεν, πείσω</span> — omnia futūra, omnia cum σ, sed cōnsonāns themātis mūtāta prō quibusdam (πεμπ+σ→ψ, ἀγ+σ→ξ)? Futūrum āctīvum/medium adhibet <strong>easdem dēsinentiās ac praesēns</strong> (Gradū II), addēns tantum σ inter thema et dēsinentiam thematicam: λύω → λύσω. Cum thema fīnītur cōnsonante (πέμπω “mittō”, thema πεμπ-), σ fundit cum cōnsonante fīnālī secundum rēgulās iam vīsās in tertiā dēclīnātiōne (Gradū III priōre).</p>",
     "rules": [
       {
         "heading": "a) Futūrum Āctīvum: λύσω",
@@ -60,6 +60,43 @@
     ]
   },
   "exercises": [
+    {
+      "id": "iii-fut1-story",
+      "type": "reading-comprehension",
+      "title": "Λύσω τὸν Δοῦλον Αὔριον",
+      "instructions": "Lege, deinde responde secundum sensum, non verbum singulum.",
+      "passage": "<p><span class=\"greek\">Ἀγάθων λέγει· “Λύσω τὸν δοῦλον αὔριον.” Μελίτη λέγει· “Καὶ οἱ στρατιῶται;” “Πέμψουσι τὰ ὅπλα,” λέγει Ἀγάθων, “καὶ ἄξομεν τοὺς αἰχμαλώτους.” Μελίτη λέγει· “Τί ποιήσεις σύ;” “Πείσω τὸν δῆμον,” λέγει Ἀγάθων.</span></p>",
+      "items": [
+        {
+          "id": "fut1-story1",
+          "prompt": "Quid Agathōn crās faciet?",
+          "options": ["servum solvet (λύσω... αὔριον)", "dormiet", "urbem relinquet"],
+          "answerIndex": 0,
+          "explanation": "“Λύσω τὸν δοῦλον αὔριον.”"
+        },
+        {
+          "id": "fut1-story2",
+          "prompt": "Quid mīlitēs facient?",
+          "options": ["arma mittent (πέμψουσι τὰ ὅπλα)", "fugient", "tacēbunt"],
+          "answerIndex": 0,
+          "explanation": "“Πέμψουσι τὰ ὅπλα.”"
+        },
+        {
+          "id": "fut1-story3",
+          "prompt": "Quōs dūcent?",
+          "options": ["captīvōs (τοὺς αἰχμαλώτους)", "deōs", "poētās"],
+          "answerIndex": 0,
+          "explanation": "“Ἄξομεν τοὺς αἰχμαλώτους.”"
+        },
+        {
+          "id": "fut1-story4",
+          "prompt": "Quid Agathōn populō faciet?",
+          "options": ["eī persuādēbit (πείσω τὸν δῆμον)", "eum vītābit", "eum timēbit"],
+          "answerIndex": 0,
+          "explanation": "“Πείσω τὸν δῆμον.”"
+        }
+      ]
+    },
     {
       "id": "iii-fut1-fill",
       "type": "fill-blank",

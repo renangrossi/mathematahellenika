@@ -70,30 +70,30 @@
         {
           "id": "con1-story1",
           "prompt": "Quid Agathōn habet?",
-          "options": ["quaestiōnem (ἀπορίαν)", "librum", "dōnum"],
+          "options": ["ἀπορίαν", "βιβλίον", "δῶρον"],
           "answerIndex": 0,
-          "explanation": "Ἀγάθων ἀπορίαν ἔχει."
+          "explanation": "Ἀγάθων ἀπορίαν ἔχει. (“Quaestiōnem” — nōn “librum” nec “dōnum.”)"
         },
         {
           "id": "con1-story2",
           "prompt": "Quis quaestiōnem solvit?",
-          "options": ["magister (ὁ διδάσκαλος)", "Agathōn", "Melitē"],
+          "options": ["ὁ διδάσκαλος", "ὁ Ἀγάθων", "ἡ Μελίτη"],
           "answerIndex": 0,
           "explanation": "“Ὁ διδάσκαλος λύει τὴν ἀπορίαν.”"
         },
         {
           "id": "con1-story3",
           "prompt": "Quid Melitē et Agathōn portīs faciunt?",
-          "options": ["eās aperiunt/solvunt (λύομεν)", "eās claudunt", "nihil faciunt"],
+          "options": ["λύομεν τὰς πύλας", "κλείομεν τὰς πύλας", "οὐδὲν ποιοῦμεν"],
           "answerIndex": 0,
-          "explanation": "“Ἡμεῖς λύομεν τὰς πύλας.”"
+          "explanation": "“Ἡμεῖς λύομεν τὰς πύλας.” (“Eās aperiunt” — nōn claudunt nec nihil faciunt.)"
         },
         {
           "id": "con1-story4",
           "prompt": "Quid cīvēs dē lēge volunt?",
-          "options": ["eam solvere/abrogāre (λύειν)", "eam servāre", "eam scrībere"],
+          "options": ["λύειν τὸν νόμον", "φυλάττειν τὸν νόμον", "γράφειν τὸν νόμον"],
           "answerIndex": 0,
-          "explanation": "“Οἱ πολῖται βούλονται λύειν τὸν νόμον.”"
+          "explanation": "“Οἱ πολῖται βούλονται λύειν τὸν νόμον.” (“Eam solvere/abrogāre” — nōn servāre nec scrībere.)"
         }
       ]
     },

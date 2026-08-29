@@ -70,30 +70,30 @@
         {
           "id": "con3-story1",
           "prompt": "Quid Agathōn amat?",
-          "options": ["patriam (τὴν πατρίδα)", "pecūniam", "glōriam"],
+          "options": ["τὴν πατρίδα", "τὰ χρήματα", "τὴν δόξαν"],
           "answerIndex": 0,
-          "explanation": "Ἀγάθων φιλεῖ τὴν πατρίδα."
+          "explanation": "Ἀγάθων φιλεῖ τὴν πατρίδα. (“Patriam” — nōn “pecūniam” nec “glōriam.”)"
         },
         {
           "id": "con3-story2",
           "prompt": "Quid Agathōn quaerit?",
-          "options": ["vēritātem (τὴν ἀλήθειαν)", "aurum", "librum"],
+          "options": ["τὴν ἀλήθειαν", "χρυσόν", "βιβλίον"],
           "answerIndex": 0,
-          "explanation": "“Ζητῶ τὴν ἀλήθειαν.”"
+          "explanation": "“Ζητῶ τὴν ἀλήθειαν.” (“Vēritātem” — nōn “aurum” nec “librum.”)"
         },
         {
           "id": "con3-story3",
           "prompt": "Quid cīvēs amant?",
-          "options": ["urbem (φιλοῦσι τὴν πόλιν)", "bellum", "silentium"],
+          "options": ["φιλοῦσι τὴν πόλιν", "φιλοῦσι τὸν πόλεμον", "φιλοῦσι τὴν σιωπήν"],
           "answerIndex": 0,
-          "explanation": "“Οἱ πολῖται φιλοῦσι τὴν πόλιν.”"
+          "explanation": "“Οἱ πολῖται φιλοῦσι τὴν πόλιν.” (“Urbem” — nōn “bellum” nec “silentium.”)"
         },
         {
           "id": "con3-story4",
           "prompt": "Quid cīvēs volunt facere?",
-          "options": ["bonum facere (ποιεῖν τὸ ἀγαθόν)", "malum facere", "nihil facere"],
+          "options": ["ποιεῖν τὸ ἀγαθόν", "ποιεῖν τὸ κακόν", "ποιεῖν οὐδέν"],
           "answerIndex": 0,
-          "explanation": "“Βούλονται ποιεῖν τὸ ἀγαθόν.”"
+          "explanation": "“Βούλονται ποιεῖν τὸ ἀγαθόν.” (“Bonum facere” — nōn “malum” nec “nihil.”)"
         }
       ]
     },

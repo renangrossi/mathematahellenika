@@ -70,30 +70,30 @@
         {
           "id": "adi2-story1",
           "prompt": "Quid omnēs cīvēs faciunt ergā rēgem?",
-          "options": ["eum amant (φιλοῦσιν)", "eum timent", "eum ignōrant"],
+          "options": ["φιλοῦσιν αὐτόν", "φοβοῦνται αὐτόν", "ἀγνοοῦσιν αὐτόν"],
           "answerIndex": 0,
-          "explanation": "Πάντες οἱ πολῖται τὸν βασιλέα φιλοῦσιν."
+          "explanation": "Πάντες οἱ πολῖται τὸν βασιλέα φιλοῦσιν. (“Eum amant” — nōn timent nec ignōrant.)"
         },
         {
           "id": "adi2-story2",
           "prompt": "Quāle est verbum rēgis, secundum Melitēn?",
-          "options": ["vērum et pulchrum (ἀληθὴς...καλός)", "falsum", "obscūrum"],
+          "options": ["ἀληθὴς καὶ καλός", "ψευδής", "ἀσαφής"],
           "answerIndex": 0,
-          "explanation": "“Ὁ ἀληθὴς λόγος τοῦ βασιλέως καλός ἐστιν.”"
+          "explanation": "“Ὁ ἀληθὴς λόγος τοῦ βασιλέως καλός ἐστιν.” (“Vērum et pulchrum” — nōn “falsum” nec “obscūrum.”)"
         },
         {
           "id": "adi2-story3",
           "prompt": "Quid Agathōn dē tōtā urbe dīcit?",
-          "options": ["fēlīx est (εὐτυχής)", "misera est", "parva est"],
+          "options": ["εὐτυχής ἐστιν", "ἄθλιά ἐστιν", "μικρά ἐστιν"],
           "answerIndex": 0,
-          "explanation": "“Πᾶσα ἡ πόλις εὐτυχής ἐστιν.”"
+          "explanation": "“Πᾶσα ἡ πόλις εὐτυχής ἐστιν.” (“Fēlīx est” — nōn “misera” nec “parva.”)"
         },
         {
           "id": "adi2-story4",
           "prompt": "Quid rēx semper facit?",
-          "options": ["vēra dīcit (τὰ ἀληθῆ λέγει)", "mentītur", "tacet"],
+          "options": ["τὰ ἀληθῆ λέγει", "ψεύδεται", "σιωπᾷ"],
           "answerIndex": 0,
-          "explanation": "Ὁ βασιλεὺς τὰ ἀληθῆ λέγει."
+          "explanation": "Ὁ βασιλεὺς τὰ ἀληθῆ λέγει. (“Vēra dīcit” — nōn “mentītur” nec “tacet.”)"
         }
       ]
     },

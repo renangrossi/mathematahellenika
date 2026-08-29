@@ -71,28 +71,28 @@
         {
           "id": "dec1-story1",
           "prompt": "Ubi est Agathōn?",
-          "options": ["in domō (ἐν τῇ οἰκίᾳ)", "in agrō", "in urbe"],
+          "options": ["ἐν τῇ οἰκίᾳ", "ἐν τῷ ἀγρῷ", "ἐν τῇ πόλει"],
           "answerIndex": 0,
           "explanation": "Ἀγάθων ἐν τῇ οἰκίᾳ ἐστίν — οἰκίᾳ est datīvus post praepositiōnem ἐν."
         },
         {
           "id": "dec1-story2",
           "prompt": "Quālis est domus?",
-          "options": ["pulchra (καλή)", "parva", "vetus"],
+          "options": ["καλή", "μικρά", "παλαιά"],
           "answerIndex": 0,
-          "explanation": "Ἡ οἰκία καλή ἐστιν."
+          "explanation": "Ἡ οἰκία καλή ἐστιν. (“Pulchra” — nōn “parva” nec “vetus.”)"
         },
         {
           "id": "dec1-story3",
           "prompt": "Quid Melitē amat?",
-          "options": ["glōriam (τὴν δόξαν)", "pecūniam", "librum"],
+          "options": ["τὴν δόξαν", "τὰ χρήματα", "τὸ βιβλίον"],
           "answerIndex": 0,
           "explanation": "Μελίτη τὴν δόξαν φιλεῖ — δόξαν est accūsātīvus, obiectum dīrēctum."
         },
         {
           "id": "dec1-story4",
           "prompt": "Cuius honor magnus est?",
-          "options": ["cīvis (τοῦ πολίτου)", "Melitēs", "rēgis"],
+          "options": ["τοῦ πολίτου", "τῆς Μελίτης", "τοῦ βασιλέως"],
           "answerIndex": 0,
           "explanation": "Ἡ τιμὴ τοῦ πολίτου μεγάλη ἐστίν — πολίτου est genetīvus, “cīvis”."
         },

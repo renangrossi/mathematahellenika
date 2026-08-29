@@ -72,21 +72,21 @@
         {
           "id": "adi1-story1",
           "prompt": "Quālis est domus Melitēs?",
-          "options": ["parva (μικρά)", "magna", "nova"],
+          "options": ["μικρά", "μεγάλη", "νέα"],
           "answerIndex": 0,
-          "explanation": "Ἡ οἰκία τῆς Μελίτης μικρά ἐστιν."
+          "explanation": "Ἡ οἰκία τῆς Μελίτης μικρά ἐστιν. (“Parva”, nōn “magna” nec “nova.”)"
         },
         {
           "id": "adi1-story2",
           "prompt": "Quid Agathōn dē domō dīcit?",
-          "options": ["pulchra est", "turpis est", "antīqua est"],
+          "options": ["καλή ἐστιν", "κακή ἐστιν", "παλαιά ἐστιν"],
           "answerIndex": 0,
-          "explanation": "“Ἡ μικρὰ οἰκία καλή ἐστιν!”"
+          "explanation": "“Ἡ μικρὰ οἰκία καλή ἐστιν!” (“Pulchra est”, nōn “turpis” nec “antīqua.”)"
         },
         {
           "id": "adi1-story3",
           "prompt": "Ubi sunt puerī parvī?",
-          "options": ["in domō (ἐν τῇ οἰκίᾳ)", "in agrō", "in forō"],
+          "options": ["ἐν τῇ οἰκίᾳ", "ἐν τῇ ἀγορᾷ", "ἐν τῷ ἀγρῷ"],
           "answerIndex": 0,
           "explanation": "Οἱ μικροὶ παῖδες ἐν τῇ οἰκίᾳ εἰσίν."
         },

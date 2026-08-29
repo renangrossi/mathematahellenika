@@ -70,30 +70,30 @@
         {
           "id": "con4-story1",
           "prompt": "Quid Agathōn et Melitē honōrant?",
-          "options": ["deōs (τοὺς θεούς)", "rēgēs", "poētās"],
+          "options": ["τοὺς θεούς", "τοὺς βασιλέας", "τοὺς ποιητάς"],
           "answerIndex": 0,
-          "explanation": "“Τιμῶμεν τοὺς θεούς.”"
+          "explanation": "“Τιμῶμεν τοὺς θεούς.” (“Deōs” — nōn “rēgēs” nec “poētās.”)"
         },
         {
           "id": "con4-story2",
           "prompt": "Quid Melitē Agathōnem rogat?",
-          "options": ["num patrem honōret", "num deōs timeat", "num pecūniam habeat"],
+          "options": ["τιμᾷς τὸν πατέρα;", "φοβῇ τοὺς θεούς;", "χρήματα ἔχεις;"],
           "answerIndex": 0,
-          "explanation": "“Καὶ τιμᾷς τὸν πατέρα;”"
+          "explanation": "“Καὶ τιμᾷς τὸν πατέρα;” (Num patrem honōret — nōn num deōs timeat nec num pecūniam habeat.)"
         },
         {
           "id": "con4-story3",
           "prompt": "Quid Agathōn vult facere?",
-          "options": ["parentēs honōrāre (τιμᾶν τοὺς γονεῖς)", "urbem relinquere", "dormīre"],
+          "options": ["τιμᾶν τοὺς γονεῖς", "τὴν πόλιν λείπειν", "καθεύδειν"],
           "answerIndex": 0,
-          "explanation": "“Βούλομαι τιμᾶν τοὺς γονεῖς.”"
+          "explanation": "“Βούλομαι τιμᾶν τοὺς γονεῖς.” (“Parentēs honōrāre” — nōn “urbem relinquere” nec “dormīre.”)"
         },
         {
           "id": "con4-story4",
           "prompt": "Quid ōrātor in forō facit?",
-          "options": ["vēritātem dēclārat (δηλοῖ)", "tacet", "fugit"],
+          "options": ["τὴν ἀλήθειαν δηλοῖ", "σιωπᾷ", "φεύγει"],
           "answerIndex": 0,
-          "explanation": "Ὁ ῥήτωρ τὴν ἀλήθειαν δηλοῖ ἐν τῇ ἀγορᾷ."
+          "explanation": "Ὁ ῥήτωρ τὴν ἀλήθειαν δηλοῖ ἐν τῇ ἀγορᾷ. (“Vēritātem dēclārat” — nōn “tacet” nec “fugit.”)"
         }
       ]
     },

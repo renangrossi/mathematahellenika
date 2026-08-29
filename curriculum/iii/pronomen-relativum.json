@@ -70,30 +70,30 @@
         {
           "id": "rel1-story1",
           "prompt": "Quālis est vir quī loquitur?",
-          "options": ["sapiēns (σοφός)", "stultus", "malus"],
+          "options": ["σοφός", "μωρός", "κακός"],
           "answerIndex": 0,
-          "explanation": "“Ὁ ἀνὴρ ὃς λέγει σοφός ἐστιν.”"
+          "explanation": "“Ὁ ἀνὴρ ὃς λέγει σοφός ἐστιν.” (“Sapiēns” — nōn “stultus” nec “malus.”)"
         },
         {
           "id": "rel1-story2",
           "prompt": "Quālēs sunt cīvēs quōs Melitē amat?",
-          "options": ["bonī (ἀγαθοί)", "malī", "ignōtī"],
+          "options": ["ἀγαθοί", "κακοί", "ἄγνωστοι"],
           "answerIndex": 0,
-          "explanation": "“Οἱ πολῖται οὓς φιλῶ ἀγαθοί εἰσιν.”"
+          "explanation": "“Οἱ πολῖται οὓς φιλῶ ἀγαθοί εἰσιν.” (“Bonī” — nōn “malī” nec “ignōtī.”)"
         },
         {
           "id": "rel1-story3",
           "prompt": "Quālia sunt dōna quae Melitē mīsit?",
-          "options": ["pulchra (καλά)", "turpia", "nūlla"],
+          "options": ["καλά", "κακά", "οὐδέν"],
           "answerIndex": 0,
-          "explanation": "“Τὰ δῶρα ἃ ἔπεμψας καλά ἐστιν.”"
+          "explanation": "“Τὰ δῶρα ἃ ἔπεμψας καλά ἐστιν.” (“Pulchra” — nōn “turpia” nec “nūlla.”)"
         },
         {
           "id": "rel1-story4",
           "prompt": "Quālis est urbs cuius lēgēs honōrāmus?",
-          "options": ["fēlīx (εὐτυχής)", "misera", "parva"],
+          "options": ["εὐτυχής", "ἄθλιος", "μικρός"],
           "answerIndex": 0,
-          "explanation": "“Ἡ πόλις ἧς τοὺς νόμους τιμῶμεν εὐτυχής ἐστιν.”"
+          "explanation": "“Ἡ πόλις ἧς τοὺς νόμους τιμῶμεν εὐτυχής ἐστιν.” (“Fēlīx” — nōn “misera” nec “parva.”)"
         }
       ]
     },

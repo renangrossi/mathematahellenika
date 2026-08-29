@@ -70,28 +70,28 @@
         {
           "id": "adv1-story1",
           "prompt": "Quōmodo loquitur magister?",
-          "options": ["bene (καλῶς)", "male", "numquam"],
+          "options": ["καλῶς", "κακῶς", "οὐδέποτε"],
           "answerIndex": 0,
-          "explanation": "Ὁ διδάσκαλος καλῶς λέγει."
+          "explanation": "Ὁ διδάσκαλος καλῶς λέγει. (“Bene” — nōn “male” nec “numquam.”)"
         },
         {
           "id": "adv1-story2",
           "prompt": "Quid Agathōn nōn vult?",
-          "options": ["manēre (μένειν)", "abīre", "lūdere"],
+          "options": ["μένειν", "ἀπιέναι", "παίζειν"],
           "answerIndex": 0,
-          "explanation": "“Οὐκ ἐθέλω μένειν.”"
+          "explanation": "“Οὐκ ἐθέλω μένειν.” (“Manēre” — nōn “abīre” nec “lūdere.”)"
         },
         {
           "id": "adv1-story3",
           "prompt": "Quid Melitē nōn videt?",
-          "options": ["urbem (τὴν πόλιν)", "magistrum", "Agathōnem"],
+          "options": ["τὴν πόλιν", "τὸν διδάσκαλον", "τὸν Ἀγάθωνα"],
           "answerIndex": 0,
-          "explanation": "“Οὐχ ὁρῶ τὴν πόλιν.”"
+          "explanation": "“Οὐχ ὁρῶ τὴν πόλιν.” (“Urbem” — nōn “magistrum” nec “Agathōnem.”)"
         },
         {
           "id": "adv1-story4",
           "prompt": "Quid magister prohibet?",
-          "options": ["servum solvere (μὴ λύε τὸν δοῦλον)", "lūdere", "loquī"],
+          "options": ["μὴ λύε τὸν δοῦλον", "μὴ παῖζε", "μὴ λέγε"],
           "answerIndex": 0,
           "explanation": "“Μὴ λύε τὸν δοῦλον.”"
         }

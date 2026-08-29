@@ -71,30 +71,30 @@
         {
           "id": "pron-story1",
           "prompt": "Quis librum habet initiō?",
-          "options": ["Melitē", "Agathōn", "magister"],
+          "options": ["ἡ Μελίτη", "ὁ Ἀγάθων", "ὁ διδάσκαλος"],
           "answerIndex": 0,
           "explanation": "Μελίτη τὸ βιβλίον ἔχει."
         },
         {
           "id": "pron-story2",
           "prompt": "Quid Melitē dīcit dē librō?",
-          "options": ["meus est, nōn tuus (ἐμόν, οὐ σόν)", "tuus est", "nescit cuius sit"],
+          "options": ["ἐμόν ἐστιν, οὐ σόν", "σόν ἐστιν, οὐκ ἐμόν", "οὐκ οἶδα τίνος ἐστίν"],
           "answerIndex": 0,
-          "explanation": "“Τοῦτο ἐμόν ἐστιν, οὐ σόν.”"
+          "explanation": "“Τοῦτο ἐμόν ἐστιν, οὐ σόν.” (“Meus est, nōn tuus” — nōn inversē.)"
         },
         {
           "id": "pron-story3",
           "prompt": "Quis, secundum Agathōnem, eī librum dat?",
-          "options": ["magister (ὁ διδάσκαλος)", "Melitē", "nēmō"],
+          "options": ["ὁ διδάσκαλος", "ἡ Μελίτη", "οὐδείς"],
           "answerIndex": 0,
           "explanation": "“Ἐμοὶ δίδωσιν ὁ διδάσκαλος, οὐ σοί!”"
         },
         {
           "id": "pron-story4",
           "prompt": "Dīligitne Melitē Agathōnem?",
-          "options": ["ita (σὲ φιλῶ)", "nōn", "nescītur"],
+          "options": ["σὲ φιλῶ", "οὔ σε φιλῶ", "οὐκ οἶδα"],
           "answerIndex": 0,
-          "explanation": "“Σὲ φιλῶ, ὦ φίλε.”"
+          "explanation": "“Σὲ φιλῶ, ὦ φίλε.” (“Ita” — nōn “nōn” nec “nescītur.”)"
         }
       ]
     },
@@ -119,8 +119,8 @@
           "id": "pron-rec2",
           "prompt": "“Ἀλλὰ ἐμοὶ δίδωσιν ὁ διδάσκαλος, οὐ σοί!” — Cui magister librum dat, secundum Agathōnem?",
           "options": [
-            "Agathōnī ipsī (ἐμοί, “mihi”)",
-            "Melitae (σοί, “tibi”)",
+            "Agathōnī ipsī (ἐμοί)",
+            "Melitae (σοί)",
             "nūllī"
           ],
           "answerIndex": 0,
@@ -141,7 +141,7 @@
           "id": "pron-rec4",
           "prompt": "“Σὲ φιλῶ, ὦ φίλε, ἀλλὰ τὸ βιβλίον ἐμόν ἐστιν.” — Quem Melitē amat, et quid tamen affirmat?",
           "options": [
-            "amat Agathōnem (σέ), sed librum suum esse dīcit (ἐμόν)",
+            "amat Agathōnem, sed librum suum esse dīcit",
             "amat librum, nōn Agathōnem",
             "negat sē quemquam amāre"
           ],

@@ -70,16 +70,16 @@
         {
           "id": "dec3-story1",
           "prompt": "Ubi sunt Agathōn et Melitē?",
-          "options": ["in urbe (ἐν τῇ πόλει)", "in agrō", "domī"],
+          "options": ["ἐν τῇ πόλει", "ἐν τῷ ἀγρῷ", "οἴκοι"],
           "answerIndex": 0,
-          "explanation": "Ἀγάθων καὶ Μελίτη ἐν τῇ πόλει εἰσίν."
+          "explanation": "Ἀγάθων καὶ Μελίτη ἐν τῇ πόλει εἰσίν. (“In urbe” — nōn “in agrō” nec “domī.”)"
         },
         {
           "id": "dec3-story2",
           "prompt": "Quāle est corpus cūstōdis?",
-          "options": ["magnum (μέγα)", "parvum", "aegrum"],
+          "options": ["μέγα", "μικρόν", "ἀσθενές"],
           "answerIndex": 0,
-          "explanation": "Τὸ σῶμα αὐτοῦ μέγα ἐστίν."
+          "explanation": "Τὸ σῶμα αὐτοῦ μέγα ἐστίν. (“Magnum” — nōn “parvum” nec “aegrum.”)"
         },
         {
           "id": "dec3-story3",

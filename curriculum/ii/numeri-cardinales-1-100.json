@@ -70,23 +70,23 @@
         {
           "id": "num2-story1",
           "prompt": "Quot servī in urbe sunt?",
-          "options": ["centum (ἑκατόν)", "vīgintī", "trīgintā"],
+          "options": ["ἑκατόν", "εἴκοσι", "τριάκοντα"],
           "answerIndex": 0,
-          "explanation": "“Ἑκατὸν δοῦλοι ἐν τῇ πόλει εἰσίν.”"
+          "explanation": "“Ἑκατὸν δοῦλοι ἐν τῇ πόλει εἰσίν.” (“Centum” — nōn “vīgintī” nec “trīgintā.”)"
         },
         {
           "id": "num2-story2",
           "prompt": "Quot cīvēs sunt, secundum magistrum?",
-          "options": ["trīgintā quīnque (τριάκοντα καὶ πέντε)", "vīgintī", "centum"],
+          "options": ["τριάκοντα καὶ πέντε", "εἴκοσι", "ἑκατόν"],
           "answerIndex": 0,
-          "explanation": "“Τριάκοντα καὶ πέντε πολῖται.”"
+          "explanation": "“Τριάκοντα καὶ πέντε πολῖται.” (“Trīgintā quīnque” — nōn “vīgintī” nec “centum.”)"
         },
         {
           "id": "num2-story3",
           "prompt": "Quid Melitē exclāmat dē diēbus?",
-          "options": ["vīgintī ūnum diem! (μία καὶ εἴκοσι ἡμέραι)", "nūllum diem", "centum diēs"],
+          "options": ["μία καὶ εἴκοσι ἡμέραι!", "οὐδεμία ἡμέρα!", "ἑκατὸν ἡμέραι!"],
           "answerIndex": 0,
-          "explanation": "“Μία καὶ εἴκοσι ἡμέραι!”"
+          "explanation": "“Μία καὶ εἴκοσι ἡμέραι!” (“Vīgintī ūnum diem” — nōn “nūllum” nec “centum diēs.”)"
         }
       ]
     },

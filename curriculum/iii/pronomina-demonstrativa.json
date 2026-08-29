@@ -70,30 +70,30 @@
         {
           "id": "dem1-story1",
           "prompt": "Dē quō virō dīcit Agathōn?",
-          "options": ["dē hōc virō (οὗτος)", "dē illō virō", "dē nūllō"],
+          "options": ["οὗτος ὁ ἀνήρ", "ἐκεῖνος ὁ ἀνήρ", "οὐδεὶς ἀνήρ"],
           "answerIndex": 0,
-          "explanation": "“Οὗτος ὁ ἀνὴρ σοφός ἐστιν.”"
+          "explanation": "“Οὗτος ὁ ἀνὴρ σοφός ἐστιν.” (“Dē hōc virō” — nōn “dē illō” nec “dē nūllō.”)"
         },
         {
           "id": "dem1-story2",
           "prompt": "Quam urbem Melitē amat?",
-          "options": ["hanc urbem (ταύτην)", "illam urbem", "nūllam"],
+          "options": ["ταύτην τὴν πόλιν", "ἐκείνην τὴν πόλιν", "οὐδεμίαν"],
           "answerIndex": 0,
-          "explanation": "“Ταύτην τὴν πόλιν φιλῶ.”"
+          "explanation": "“Ταύτην τὴν πόλιν φιλῶ.” (“Hanc urbem” — nōn “illam” nec “nūllam.”)"
         },
         {
           "id": "dem1-story3",
           "prompt": "Quālēs fuērunt illī mīlitēs?",
-          "options": ["fortēs (ἀνδρεῖοι)", "timidī", "paucī"],
+          "options": ["ἀνδρεῖοι", "δειλοί", "ὀλίγοι"],
           "answerIndex": 0,
-          "explanation": "“Ἐκεῖνοι οἱ στρατιῶται... ἀνδρεῖοι ἦσαν.”"
+          "explanation": "“Ἐκεῖνοι οἱ στρατιῶται... ἀνδρεῖοι ἦσαν.” (“Fortēs” — nōn “timidī” nec “paucī.”)"
         },
         {
           "id": "dem1-story4",
           "prompt": "Quālis est hic liber, secundum Agathōnem?",
-          "options": ["pulcher est (καλόν ἐστιν)", "malus est", "nōn exsistit"],
+          "options": ["καλόν ἐστιν", "κακόν ἐστιν", "οὐκ ἔστιν"],
           "answerIndex": 0,
-          "explanation": "“Τοῦτο τὸ βιβλίον καλόν ἐστιν.”"
+          "explanation": "“Τοῦτο τὸ βιβλίον καλόν ἐστιν.” (“Pulcher est” — nōn “malus” nec “nōn exsistit.”)"
         }
       ]
     },

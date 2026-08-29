@@ -70,30 +70,30 @@
         {
           "id": "con2-story1",
           "prompt": "Ubi sunt Agathōn et Melitē?",
-          "options": ["in flūmine (ἐν τῷ ποταμῷ)", "in urbe", "domī"],
+          "options": ["ἐν τῷ ποταμῷ", "ἐν τῇ πόλει", "ἐν τῇ οἰκίᾳ"],
           "answerIndex": 0,
-          "explanation": "Ἀγάθων καὶ Μελίτη ἐν τῷ ποταμῷ εἰσίν."
+          "explanation": "Ἀγάθων καὶ Μελίτη ἐν τῷ ποταμῷ εἰσίν. (“In flūmine” — nōn “in urbe” nec “domī.”)"
         },
         {
           "id": "con2-story2",
           "prompt": "Quid faciunt?",
-          "options": ["sē lavant (λουόμεθα)", "natant procul", "dormiunt"],
+          "options": ["λουόμεθα", "νήχομεν μακράν", "καθεύδομεν"],
           "answerIndex": 0,
-          "explanation": "“Λουόμεθα,” λέγει Μελίτη."
+          "explanation": "“Λουόμεθα,” λέγει Μελίτη. (“Sē lavant” — nōn “natant procul” nec “dormiunt.”)"
         },
         {
           "id": "con2-story3",
           "prompt": "Ā quō līberātur servus?",
-          "options": ["ā dominō (ὑπὸ τοῦ δεσπότου)", "ā sē ipsō", "ā nūllō"],
+          "options": ["ὑπὸ τοῦ δεσπότου", "ὑφ' ἑαυτοῦ", "ὑπ' οὐδενός"],
           "answerIndex": 0,
-          "explanation": "Ὁ δοῦλος λύεται ὑπὸ τοῦ δεσπότου."
+          "explanation": "Ὁ δοῦλος λύεται ὑπὸ τοῦ δεσπότου. (“Ā dominō” — nōn “ā sē ipsō” nec “ā nūllō.”)"
         },
         {
           "id": "con2-story4",
           "prompt": "Quid Agathōn quoque vult?",
-          "options": ["līberārī (λύεσθαι)", "dominus fierī", "manēre servus"],
+          "options": ["λύεσθαι", "δεσπότης γενέσθαι", "δοῦλος μένειν"],
           "answerIndex": 0,
-          "explanation": "“Καὶ ἐγὼ βούλομαι λύεσθαι.”"
+          "explanation": "“Καὶ ἐγὼ βούλομαι λύεσθαι.” (“Līberārī” — nōn “dominus fierī” nec “manēre servus.”)"
         }
       ]
     },

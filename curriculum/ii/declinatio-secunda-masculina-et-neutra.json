@@ -70,21 +70,21 @@
         {
           "id": "dec2-story1",
           "prompt": "Quid Agathōn habet?",
-          "options": ["dōna (δῶρα)", "nihil", "ūnum librum tantum"],
+          "options": ["δῶρα", "οὐδέν", "ἓν βιβλίον μόνον"],
           "answerIndex": 0,
-          "explanation": "Ἀγάθων δῶρα ἔχει."
+          "explanation": "Ἀγάθων δῶρα ἔχει. (“Dōna” — nōn “nihil” nec “ūnum librum tantum.”)"
         },
         {
           "id": "dec2-story2",
           "prompt": "Quālia sunt dōna, secundum Melitēn?",
-          "options": ["pulchra (καλά)", "turpia", "parva"],
+          "options": ["καλά", "κακά", "μικρά"],
           "answerIndex": 0,
-          "explanation": "“Ὁρῶ τὰ δῶρα... καλά ἐστιν!”"
+          "explanation": "“Ὁρῶ τὰ δῶρα... καλά ἐστιν!” (“Pulchra” — nōn “turpia” nec “parva.”)"
         },
         {
           "id": "dec2-story3",
           "prompt": "Quid sunt dōna?",
-          "options": ["librī (βιβλία)", "flōrēs", "cibus"],
+          "options": ["βιβλία", "ἄνθη", "σῖτος"],
           "answerIndex": 0,
           "explanation": "Τὰ δῶρα βιβλία ἐστίν."
         },

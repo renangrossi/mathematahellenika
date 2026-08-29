@@ -70,21 +70,21 @@
         {
           "id": "imp1-story1",
           "prompt": "Quid magister cōtīdiē faciēbat?",
-          "options": ["discipulōs docēbat (ἐδίδασκε)", "dormiēbat", "aberat"],
+          "options": ["ἐδίδασκε τοὺς μαθητάς", "ἐκάθευδεν", "ἀπῆν"],
           "answerIndex": 0,
-          "explanation": "Ὁ διδάσκαλος ἐδίδασκε τοὺς μαθητὰς καθ' ἡμέραν."
+          "explanation": "Ὁ διδάσκαλος ἐδίδασκε τοὺς μαθητὰς καθ' ἡμέραν. (“Discipulōs docēbat” — nōn “dormiēbat” nec “aberat.”)"
         },
         {
           "id": "imp1-story2",
           "prompt": "Quid Agathōn et Melitē faciēbant?",
-          "options": ["verbum eius audiēbant (ἤκουον)", "lūdēbant", "dormiēbant"],
+          "options": ["ἤκουον τὸν λόγον αὐτοῦ", "ἔπαιζον", "ἐκάθευδον"],
           "answerIndex": 0,
-          "explanation": "Ἀγάθων καὶ Μελίτη ἤκουον τὸν λόγον αὐτοῦ."
+          "explanation": "Ἀγάθων καὶ Μελίτη ἤκουον τὸν λόγον αὐτοῦ. (“Verbum eius audiēbant” — nōn “lūdēbant” nec “dormiēbant.”)"
         },
         {
           "id": "imp1-story3",
           "prompt": "Quid magister amābat, cum iuvenis esset?",
-          "options": ["patriam (ἐφίλουν τὴν πατρίδα)", "nihil", "pecūniam"],
+          "options": ["ἐφίλουν τὴν πατρίδα", "οὐδέν", "τὰ χρήματα"],
           "answerIndex": 0,
           "explanation": "“Ἐφίλουν τὴν πατρίδα... ὅτε νέος ἦν.”"
         },

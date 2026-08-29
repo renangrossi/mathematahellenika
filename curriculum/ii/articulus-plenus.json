@@ -71,23 +71,23 @@
         {
           "id": "art2-story1",
           "prompt": "Quid Agathōn amat?",
-          "options": ["vēritātem (τὴν ἀλήθειαν)", "pecūniam", "glōriam"],
+          "options": ["τὴν ἀλήθειαν", "τὰ χρήματα", "τὴν δόξαν"],
           "answerIndex": 0,
-          "explanation": "Ἀγάθων ὁ σοφὸς τὴν ἀλήθειαν φιλεῖ."
+          "explanation": "Ἀγάθων ὁ σοφὸς τὴν ἀλήθειαν φιλεῖ. (“Vēritātem” — nōn “pecūniam” nec “glōriam.”)"
         },
         {
           "id": "art2-story2",
           "prompt": "Quid Melitē Agathōnem rogat?",
-          "options": ["num pulchrum et bonum amet", "num pecūniam habeat", "num timeat"],
+          "options": ["τὸ καλὸν καὶ τὸ ἀγαθὸν φιλεῖς;", "χρήματα ἔχεις;", "φοβῇ;"],
           "answerIndex": 0,
-          "explanation": "“Τὸ καλὸν καὶ τὸ ἀγαθὸν φιλεῖς;”"
+          "explanation": "“Τὸ καλὸν καὶ τὸ ἀγαθὸν φιλεῖς;” (Num pulchrum et bonum amet — nōn dē pecūniā nec dē timōre.)"
         },
         {
           "id": "art2-story3",
           "prompt": "Quid Agathōn dē virtūtibus mulierum dīcit?",
-          "options": ["pulchrae sunt (καλαί)", "turpēs sunt", "nūllae sunt"],
+          "options": ["καλαί εἰσιν", "κακαί εἰσιν", "οὐδεμίαι εἰσίν"],
           "answerIndex": 0,
-          "explanation": "“Αἱ τῶν γυναικῶν ἀρεταὶ καλαί εἰσιν.”"
+          "explanation": "“Αἱ τῶν γυναικῶν ἀρεταὶ καλαί εἰσιν.” (“Pulchrae sunt” — nōn “turpēs” nec “nūllae.”)"
         }
       ]
     },

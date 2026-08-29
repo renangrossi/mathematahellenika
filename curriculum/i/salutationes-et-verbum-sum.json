@@ -72,37 +72,37 @@
         {
           "id": "eimi-story1",
           "prompt": "Quid Agathōn Melitēn prīmum salūtat?",
-          "options": ["Chaῖre (Salvē)", "Valē", "Nihil"],
+          "options": ["χαῖρε", "ἔρρωσο", "οὐδέν"],
           "answerIndex": 0,
-          "explanation": "Ἀγάθων λέγει· “Χαῖρε, ὦ φίλε.”"
+          "explanation": "Ἀγάθων λέγει· “Χαῖρε, ὦ φίλε.” (“Salvē” — nōn “valē” nec nihil.)"
         },
         {
           "id": "eimi-story2",
           "prompt": "Quid Agathōn dē sē dīcit?",
-          "options": ["discipulus sum (μαθητής)", "magister sum", "rēx sum"],
+          "options": ["ἐγώ εἰμι μαθητής", "ἐγώ εἰμι διδάσκαλος", "ἐγώ εἰμι βασιλεύς"],
           "answerIndex": 0,
-          "explanation": "“Ἐγώ εἰμι μαθητής.”"
+          "explanation": "“Ἐγώ εἰμι μαθητής.” (“Discipulus sum” — nōn “magister” nec “rēx.”)"
         },
         {
           "id": "eimi-story3",
           "prompt": "Estne Melitē magistra?",
-          "options": ["nōn (οὐχί)", "ita", "incertum"],
+          "options": ["οὐχί", "ναί", "ἄδηλον"],
           "answerIndex": 0,
-          "explanation": "“Σὺ εἶ διδάσκαλος;” “Οὐχί.”"
+          "explanation": "“Σὺ εἶ διδάσκαλος;” “Οὐχί.” (“Nōn” — nōn “ita” nec “incertum.”)"
         },
         {
           "id": "eimi-story4",
           "prompt": "Quid tandem Melitē dīcit dē sē et Agathōne?",
-          "options": ["amīcī sumus (φίλοι)", "inimīcī sumus", "ignōtī sumus"],
+          "options": ["ἡμεῖς ἐσμὲν φίλοι", "ἡμεῖς ἐσμὲν ἐχθροί", "οὐκ οἴδαμεν ἀλλήλους"],
           "answerIndex": 0,
-          "explanation": "“Ἡμεῖς ἐσμὲν φίλοι.”"
+          "explanation": "“Ἡμεῖς ἐσμὲν φίλοι.” (“Amīcī sumus” — nōn “inimīcī” nec “ignōtī inter sē.”)"
         },
         {
           "id": "eimi-story5",
           "prompt": "Quid magister dē Agathōne et Melitē dīcit?",
-          "options": ["vōs estis bonī discipulī (ἐστε καλοὶ μαθηταί)", "vōs estis malī discipulī", "nihil dīcit"],
+          "options": ["ὑμεῖς ἐστε καλοὶ μαθηταί", "ὑμεῖς ἐστε κακοὶ μαθηταί", "οὐδὲν λέγει"],
           "answerIndex": 0,
-          "explanation": "“Ὑμεῖς ἐστε καλοὶ μαθηταί,” λέγει ὁ διδάσκαλος."
+          "explanation": "“Ὑμεῖς ἐστε καλοὶ μαθηταί,” λέγει ὁ διδάσκαλος. (“Vōs estis bonī discipulī” — nōn “malī” nec nihil.)"
         }
       ]
     },

@@ -70,30 +70,30 @@
         {
           "id": "dec4-story1",
           "prompt": "Quō eunt Agathōn et Melitē?",
-          "options": ["in urbem (εἰς τὴν πόλιν)", "in agrum", "in īnsulam"],
+          "options": ["εἰς τὴν πόλιν", "εἰς τὸν ἀγρόν", "εἰς τὴν νῆσον"],
           "answerIndex": 0,
-          "explanation": "Ἀγάθων καὶ Μελίτη εἰς τὴν πόλιν βαίνουσιν."
+          "explanation": "Ἀγάθων καὶ Μελίτη εἰς τὴν πόλιν βαίνουσιν. (“In urbem” — nōn “in agrum” nec “in īnsulam.”)"
         },
         {
           "id": "dec4-story2",
           "prompt": "Quālēs sunt lēgēs urbis?",
-          "options": ["iūstae (δίκαιοι)", "iniūstae", "nūllae"],
+          "options": ["δίκαιοι", "ἄδικοι", "οὐδαμοῦ"],
           "answerIndex": 0,
-          "explanation": "Τῆς πόλεως οἱ νόμοι δίκαιοί εἰσιν."
+          "explanation": "Τῆς πόλεως οἱ νόμοι δίκαιοί εἰσιν. (“Iūstae” — nōn “iniūstae” nec “nūllae.”)"
         },
         {
           "id": "dec4-story3",
           "prompt": "Quis regiōnem regit?",
-          "options": ["rēx (ὁ βασιλεύς)", "populus", "nēmō"],
+          "options": ["ὁ βασιλεύς", "ὁ δῆμος", "οὐδείς"],
           "answerIndex": 0,
-          "explanation": "Ὁ βασιλεὺς τῆς χώρας ἄρχει."
+          "explanation": "Ὁ βασιλεὺς τῆς χώρας ἄρχει. (“Rēx” — nōn “populus” nec “nēmō.”)"
         },
         {
           "id": "dec4-story4",
           "prompt": "Quid rēx respondet Agathōnī?",
-          "options": ["Salvēte, amīcī (χαίρετε, ὦ φίλοι)", "Abīte!", "Nihil dīcit"],
+          "options": ["χαίρετε, ὦ φίλοι", "ἄπιτε", "οὐδὲν λέγει"],
           "answerIndex": 0,
-          "explanation": "“Χαίρετε, ὦ φίλοι.”"
+          "explanation": "“Χαίρετε, ὦ φίλοι.” (“Salvēte, amīcī” — nōn “abīte!” nec nihil.)"
         }
       ]
     },

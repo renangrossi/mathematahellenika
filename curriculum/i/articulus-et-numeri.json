@@ -70,37 +70,37 @@
         {
           "id": "art-story1",
           "prompt": "Ubi sunt Agathōn et Melitē?",
-          "options": ["in domō (ἐν τῇ οἰκίᾳ)", "in agrō", "in forō"],
+          "options": ["ἐν τῇ οἰκίᾳ", "ἐν τῇ ἀγορᾷ", "ἐν τῷ βιβλίῳ"],
           "answerIndex": 0,
-          "explanation": "Ἀγάθων καὶ Μελίτη ἐν τῇ οἰκίᾳ εἰσίν."
+          "explanation": "Ἀγάθων καὶ Μελίτη ἐν τῇ οἰκίᾳ εἰσίν. (“In domō.” — nōn “in forō” nec “in librō.”)"
         },
         {
           "id": "art-story2",
           "prompt": "Quot discipulī ibi sunt?",
-          "options": ["decem (δέκα)", "quīnque", "centum"],
+          "options": ["δέκα", "πέντε", "ἑπτά"],
           "answerIndex": 0,
-          "explanation": "Δέκα μαθηταί εἰσιν ἐκεῖ."
+          "explanation": "Δέκα μαθηταί εἰσιν ἐκεῖ. (“Decem.” — nōn “quīnque” nec “septem.”)"
         },
         {
           "id": "art-story3",
           "prompt": "Quālis est magister?",
-          "options": ["sapiēns (σοφός)", "stultus", "ignōtus"],
+          "options": ["σοφός", "καλός", "ἀγαθός"],
           "answerIndex": 0,
-          "explanation": "Ὁ διδάσκαλος σοφός ἐστιν."
+          "explanation": "Ὁ διδάσκαλος σοφός ἐστιν — “sapiēns”, nōn sōlum “pulcher” (καλός) vel “bonus” (ἀγαθός), quamquam haec quoque vēra sunt dē eō in textū."
         },
         {
           "id": "art-story4",
           "prompt": "Quālēs sunt librī, secundum textum?",
-          "options": ["pulchrī (τὰ βιβλία καλά ἐστιν)", "turpēs", "vetera"],
+          "options": ["καλά", "κακά", "μικρά"],
           "answerIndex": 0,
-          "explanation": "Τὸ βιβλίον καλόν ἐστιν· τὰ βιβλία καλά ἐστιν."
+          "explanation": "Τὸ βιβλίον καλόν ἐστιν· τὰ βιβλία καλά ἐστιν. (“Pulchrī”, nōn “malī” nec “parvī.”)"
         },
         {
           "id": "art-story5",
           "prompt": "Quid textus dē deō dīcit?",
-          "options": ["ūnus deus bonus est (εἷς θεὸς ἀγαθός)", "multī diī malī sunt", "nūllus deus est"],
+          "options": ["εἷς θεὸς ἀγαθός ἐστιν", "θεοὶ πολλοὶ κακοί εἰσιν", "θεὸς οὐκ ἔστιν"],
           "answerIndex": 0,
-          "explanation": "Εἷς θεὸς ἀγαθός ἐστιν."
+          "explanation": "Εἷς θεὸς ἀγαθός ἐστιν. (“Ūnus deus bonus est” — nōn “multī diī malī sunt” nec “nūllus deus est.”)"
         }
       ]
     },

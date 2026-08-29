@@ -1,0 +1,29 @@
+file,lesson_id,exercise_id,exercise_type,item_id,field,text,translation_exercise
+curriculum/i/consonantes-et-digrapha.json,i-consonantes-et-digrapha,i-cons-match,matching,cons6,pairs.right,“ng”+“kh” (χ aspīrātum),False
+curriculum/i/pronomina-personalia.json,i-pronomina-personalia,i-pron-recognize,multiple-choice,pron-rec2,options,Agathōnī ipsī (ἐμοί),False
+curriculum/i/pronomina-personalia.json,i-pronomina-personalia,i-pron-recognize,multiple-choice,pron-rec2,options,Melitae (σοί),False
+curriculum/i/spiritus-et-accentus.json,i-spiritus-et-accentus,i-spir-match,matching,spir6,pairs.left,spīritus lēnis (᾿),False
+curriculum/i/spiritus-et-accentus.json,i-spiritus-et-accentus,i-spir-match,matching,spir6,pairs.left,spīritus asper (῾),False
+curriculum/ii/adiectiva-classis-primae.json,ii-adiectiva-classis-primae,ii-adi1-mc,multiple-choice,adi1c,options,"nōn, numquam — sōlum duae subclassēs exsistunt (η aut α pūrum)",False
+curriculum/ii/coniugatio-praesentis-activi.json,ii-coniugatio-praesentis-activi,ii-con1-mc,multiple-choice,con1f,options,īnfīnītīvō (ut λύειν),False
+curriculum/ii/coniugatio-praesentis-activi.json,ii-coniugatio-praesentis-activi,ii-con1-mc,multiple-choice,con1f,options,prīmā persōnā singulārī praesentis āctīvī (ut λύω),False
+curriculum/ii/coniugatio-praesentis-activi.json,ii-coniugatio-praesentis-activi,ii-con1-mc,multiple-choice,con1h,options,radīx invariābilis (ut λυ- in λύω),False
+curriculum/ii/numeri-cardinales-1-100.json,ii-numeri-cardinales-1-100,ii-num2-mc,multiple-choice,num2e,options,ϙ' (qoppa),False
+curriculum/ii/praepositiones-fundamentales.json,ii-praepositiones-fundamentales,ii-prep-mc,multiple-choice,prepc,options,"ἐν = status (dat.), εἰς = mōtus (acc.)",False
+curriculum/iii/adiectiva-tertiae-declinationis.json,iii-adiectiva-tertiae-declinationis,iii-adi2-mc,multiple-choice,adi2c,options,“tōta urbs” (πᾶς intrā articulum),False
+curriculum/iii/comparatio-adiectivorum.json,iii-comparatio-adiectivorum,iii-comp1-mc,multiple-choice,comp1e,options,tertiam (thema -ον-),False
+curriculum/iii/pronomina-demonstrativa.json,iii-pronomina-demonstrativa,iii-dem1-mc,multiple-choice,dem1b,options,regulārem classis prīmae (ut καλός),False
+curriculum/iii/verba-contracta-in-eo.json,iii-verba-contracta-in-eo,iii-con3-mc,multiple-choice,con3g,options,"nōn, sōlum fōrma contracta (φιλῶ) est authentica",False
+curriculum/iv/participium-praesentis.json,iv-participium-praesentis,iv-part1-mc,multiple-choice,part1a,options,tertiam (thema -οντ-),False
+curriculum/iv/participium-praesentis.json,iv-participium-praesentis,iv-part1-mc,multiple-choice,part1b,options,patrōnum regulārem classis prīmae (καλός),False
+curriculum/iv/verba-deponentia.json,iv-verba-deponentia,iv-dep1-mc,multiple-choice,dep1c,options,mediā (ἐγενόμην),False
+curriculum/iv/verba-deponentia.json,iv-verba-deponentia,iv-dep1-mc,multiple-choice,dep1c,options,passīvā (ἐγενήθην),False
+curriculum/iv/verba-deponentia.json,iv-verba-deponentia,iv-dep1-mc,multiple-choice,dep1d,options,passīvā (ἐβουλήθην),False
+curriculum/v/coniunctivus-praesens-et-aoristi.json,v-coniunctivus-praesens-et-aoristi,v-conj1-mc,multiple-choice,conj1a,options,vōcālēs thematicae longae (ω/η prō ο/ε),False
+curriculum/vi/adiectiva-verbalia-in-teos-et-teon.json,vi-adiectiva-verbalia-in-teos-et-teon,vi-verb1-mc,multiple-choice,verb1e,options,patrōnum classis prīmae (καλός),False
+curriculum/vi/ordo-verborum-et-stilus-atticus.json,vi-ordo-verborum-et-stilus-atticus,vi-ord1-match,matching,ord1j,pairs.right,τὸν λόγον ὁ ἀνὴρ εἶπεν (obiectum praepositum),False
+curriculum/vi/recognitio-syntaxis-integra.json,vi-recognitio-syntaxis-integra,vi-rec1-match,matching,rec1j,pairs.right,acc. + īnfīnītīvus (vel ὅτι),False
+curriculum/vi/recognitio-syntaxis-integra.json,vi-recognitio-syntaxis-integra,vi-rec1-match,matching,rec1j,pairs.right,ὅτι/ὡς + modus fīnītus (praeferēns),False
+curriculum/vii/homerus-ilias-excerpta.json,vii-homerus-ilias-excerpta,vii-hom1-mc,multiple-choice,hom1c,options,"genetīvus, dialectō Epicā (-εω prō -ου)",False
+curriculum/vii/homerus-ilias-excerpta.json,vii-homerus-ilias-excerpta,vii-hom1-mc,multiple-choice,hom1d,options,ἄειδε (imperātīvus),False
+curriculum/vii/koine-novum-testamentum-excerpta.json,vii-koine-novum-testamentum-excerpta,vii-koi1-mc,multiple-choice,koi1b,options,praedicātum sine articulō (θεός) vs. subiectum cum articulō (ὁ λόγος),False

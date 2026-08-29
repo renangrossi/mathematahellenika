@@ -70,30 +70,30 @@
         {
           "id": "prep-story1",
           "prompt": "Ubi manent Agathōn et Melitē?",
-          "options": ["in urbe (ἐν τῇ πόλει)", "in agrō", "in nāve"],
+          "options": ["ἐν τῇ πόλει", "ἐν τῷ ἀγρῷ", "ἐν τῇ νηΐ"],
           "answerIndex": 0,
-          "explanation": "Ἀγάθων καὶ Μελίτη ἐν τῇ πόλει μένουσιν."
+          "explanation": "Ἀγάθων καὶ Μελίτη ἐν τῇ πόλει μένουσιν. (“In urbe” — nōn “in agrō” nec “in nāve.”)"
         },
         {
           "id": "prep-story2",
           "prompt": "Quōcum ad forum eunt?",
-          "options": ["cum amīcīs (σὺν τοῖς φίλοις)", "sōlī", "cum magistrō"],
+          "options": ["σὺν τοῖς φίλοις", "μόνοι", "σὺν τῷ διδασκάλῳ"],
           "answerIndex": 0,
-          "explanation": "Βαίνουσι σὺν τοῖς φίλοις πρὸς τὴν ἀγοράν."
+          "explanation": "Βαίνουσι σὺν τοῖς φίλοις πρὸς τὴν ἀγοράν. (“Cum amīcīs” — nōn “sōlī” nec “cum magistrō.”)"
         },
         {
           "id": "prep-story3",
           "prompt": "Unde exeunt?",
-          "options": ["ē domō (ἐκ τῆς οἰκίας)", "ex urbe", "ex agrō"],
+          "options": ["ἐκ τῆς οἰκίας", "ἐκ τῆς πόλεως", "ἐκ τοῦ ἀγροῦ"],
           "answerIndex": 0,
-          "explanation": "Ἐκ τῆς οἰκίας."
+          "explanation": "Ἐκ τῆς οἰκίας. (“Ē domō” — nōn “ex urbe” nec “ex agrō.”)"
         },
         {
           "id": "prep-story4",
           "prompt": "Quō post iter redeunt?",
-          "options": ["in domum (εἰς τὴν οἰκίαν)", "in forō semper manent", "in agrum"],
+          "options": ["εἰς τὴν οἰκίαν", "ἐν τῇ ἀγορᾷ μένουσιν ἀεί", "εἰς τὸν ἀγρόν"],
           "answerIndex": 0,
-          "explanation": "Μετὰ τὴν ὁδόν, πάλιν εἰς τὴν οἰκίαν βαίνουσιν."
+          "explanation": "Μετὰ τὴν ὁδόν, πάλιν εἰς τὴν οἰκίαν βαίνουσιν. (“In domum” — nōn “in forō semper manent” nec “in agrum.”)"
         }
       ]
     },

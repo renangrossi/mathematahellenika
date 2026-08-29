@@ -70,30 +70,30 @@
         {
           "id": "fut1-story1",
           "prompt": "Quid Agathōn crās faciet?",
-          "options": ["servum solvet (λύσω... αὔριον)", "dormiet", "urbem relinquet"],
+          "options": ["λύσω τὸν δοῦλον αὔριον", "καθευδήσω", "τὴν πόλιν λείψω"],
           "answerIndex": 0,
-          "explanation": "“Λύσω τὸν δοῦλον αὔριον.”"
+          "explanation": "“Λύσω τὸν δοῦλον αὔριον.” (“Servum solvet” — nōn “dormiet” nec “urbem relinquet.”)"
         },
         {
           "id": "fut1-story2",
           "prompt": "Quid mīlitēs facient?",
-          "options": ["arma mittent (πέμψουσι τὰ ὅπλα)", "fugient", "tacēbunt"],
+          "options": ["πέμψουσι τὰ ὅπλα", "φεύξονται", "σιωπήσουσιν"],
           "answerIndex": 0,
-          "explanation": "“Πέμψουσι τὰ ὅπλα.”"
+          "explanation": "“Πέμψουσι τὰ ὅπλα.” (“Arma mittent” — nōn “fugient” nec “tacēbunt.”)"
         },
         {
           "id": "fut1-story3",
           "prompt": "Quōs dūcent?",
-          "options": ["captīvōs (τοὺς αἰχμαλώτους)", "deōs", "poētās"],
+          "options": ["τοὺς αἰχμαλώτους", "τοὺς θεούς", "τοὺς ποιητάς"],
           "answerIndex": 0,
-          "explanation": "“Ἄξομεν τοὺς αἰχμαλώτους.”"
+          "explanation": "“Ἄξομεν τοὺς αἰχμαλώτους.” (“Captīvōs” — nōn “deōs” nec “poētās.”)"
         },
         {
           "id": "fut1-story4",
           "prompt": "Quid Agathōn populō faciet?",
-          "options": ["eī persuādēbit (πείσω τὸν δῆμον)", "eum vītābit", "eum timēbit"],
+          "options": ["πείσω τὸν δῆμον", "φεύξομαι τὸν δῆμον", "φοβήσομαι τὸν δῆμον"],
           "answerIndex": 0,
-          "explanation": "“Πείσω τὸν δῆμον.”"
+          "explanation": "“Πείσω τὸν δῆμον.” (“Eī persuādēbit” — nōn “eum vītābit” nec “eum timēbit.”)"
         }
       ]
     },

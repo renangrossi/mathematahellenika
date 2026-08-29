@@ -9,6 +9,56 @@ Read `docs/natural-method-audit.csv` (regenerate with
 before picking the next lesson — ordered by curriculum sequence, carrying
 every lesson's A/B/C score.
 
+## CRITICAL CORRECTION: the first pass at this rule missed most of the bug
+
+**Read this before trusting any future "N violations fixed" claim about
+this rule — including this file's own account below.** The batch
+described in the next section ("61 violations removed") was verified
+only against `fill-blank`/`multiple-choice` items, because the audit
+script used at the time filtered `if ex['type'] not in ('fill-blank',
+'multiple-choice'): continue`. That skipped every `reading-comprehension`
+block — even though `reading-comprehension` items render through the
+*exact same* choice-button UI as `multiple-choice` in `exercises.js`.
+Nearly all of the real, user-visible instances of this bug were sitting
+in exactly those skipped blocks: e.g. `i-salutationes-et-verbum-sum`'s
+own `i-eimi-story` block rendered `"χαῖρε (Salvē)"`,
+`"discipulus sum (μαθητής)"`, `"amīcī sumus (φίλοι)"` — precisely the
+anti-pattern this rule exists to forbid — on the live, published page,
+*after* the "fixed" commit. This was caught only because the page was
+inspected directly (a screenshot of the rendered site), not because any
+JSON-level audit found it.
+
+**The lesson**: a curriculum-JSON grep/audit is not sufficient
+verification for a rule about what the learner *sees*. The build
+pipeline here has no template-side logic that adds or removes
+translations (verified by hand: `build_lesson.py` and
+`assets/js/exercises.js` do no string-formatting of `options`/`pairs`/
+`prompt` beyond inserting them as-authored), so a thorough JSON-level
+check *is* equivalent to a DOM check for this specific bug **as long as
+it actually inspects every exercise type that renders as a choice list**
+— the failure was the incomplete filter, not the JSON-vs-DOM choice
+itself. Still: **before claiming this rule is satisfied for a lesson,
+render the actual page and read the actual option text** (Playwright:
+`page.$$eval('.exercise-block', ...)` reading button/label textContent),
+the same way this correction was discovered. Re-verify the "equivalent
+to DOM" invariant itself (re-grep `build_lesson.py`/`exercises.js`) if
+either file is ever touched.
+
+The fix (documented in full below) was: (1) re-run a corrected audit
+with no exercise-type exclusion across the *entire* curriculum, not just
+Gradus I-III (this also caught pre-existing instances the original
+`ii-declinatio-prima` pilot had established as an unquestioned
+convention, which every subsequent `reading-comprehension` block in this
+guide's own earlier batches then imitated in good faith); (2) fix all 83
+real violations found, converting `reading-comprehension` answer options
+to all-Greek (not just the previously-fixed `fill-blank`/
+`multiple-choice` prompts); (3) add a permanent, reusable regression
+script, `scripts/check_translation_crutch.py`, that inspects every
+`options`/`pairs` field of every exercise type with no type filter —
+run it (`python3 scripts/check_translation_crutch.py`) after touching
+any lesson, and treat "0 violations" from it as a first check, not a
+final one; still spot-render the page.
+
 ## MANDATORY: exercises should be mostly Greek, not Greek-with-a-Latin-key
 
 **Standing requirement for every Greek lesson, past and future.** The
@@ -87,20 +137,59 @@ effectively hand them the answer?* If the latter, redesign it.
    given the volume; treat it as a longer-term aspiration, not something
    to silently skip when a lesson is next touched substantially.
 
-**Audit performed this pass**: every `fill-blank`/`multiple-choice` item
-across all 29 completed Gradus I-III lessons was checked programmatically
-for a Greek-script prompt containing a quoted (`"…"`/`"…"`) translation.
-61 violations were found across 14 files — including, notably, 10 that
-this session's own earlier staging-rule pass had just introduced while
-"upgrading" bare noun-phrase prompts into fuller context (`i-articulus-
-et-numeri`, `ii-declinatio-prima`) — proof that this check needs to be
-part of the standard review for every future edit, not just pre-existing
-content. All 61 were fixed by removing the quoted translation while
-keeping any grammatical label/Greek headword cue. Re-run the same
-`options`/`prompt` quote-scan (see the Python snippet pattern: search
-`fill-blank`/`multiple-choice` items for Greek-script text containing
-`"` or `"`) on any lesson before considering it finished, in Gradus
-IV-VII as much as when revisiting Gradus I-III.
+**Audit performed, first pass (incomplete — see the CRITICAL CORRECTION
+section above)**: every `fill-blank`/`multiple-choice` item across all 29
+completed Gradus I-III lessons was checked for a Greek-script prompt
+containing a quoted (`"…"`/`"…"`) translation. 61 violations were found
+across 14 files and fixed by removing the quoted translation while
+keeping any grammatical label/Greek headword cue. This pass's audit
+script excluded `reading-comprehension` exercises, so it missed the bulk
+of the real problem.
+
+**Audit performed, corrected pass**: `scripts/check_translation_crutch.py`
+(no exercise-type exclusion) run against the *entire* curriculum (all 67
+lessons, not just I-III). Found **83 real violations across 24 files**,
+essentially all in `reading-comprehension` `items[].options` — the
+answer-choice pattern the CRITICAL CORRECTION section describes (a
+Latin-only "wrong" pair of options next to one Latin-plus-parenthetical-
+Greek "right" option, which also has the effect of visually flagging
+which option is correct). All 83 fixed by converting every option in
+each affected item to Greek (not just the previously-glossed one),
+composing plausible Greek distractors from each lesson's own vocabulary
+pool per the "compose conservatively" principle — reusing exact forms
+already attested in that lesson wherever one existed, and only reaching
+for a handful of extremely common, transparent utility words (ἀγρός
+"field", ἀγορά "market" [already attested elsewhere], κακός "bad",
+νῆσος "island") where no attested antonym/alternative existed. Two
+pure-phonology `reading-comprehension` items in `i-spiritus-et-accentus`
+were judged not to be instances of this bug (they cite orthographic
+evidence — e.g. "ου → οὗ" — about a letter, not a vocabulary
+translation) and were left conceptually as-is, though lightly reworded
+for consistency. A follow-up run of the same script with a smarter
+false-positive filter (see the script's own docstring) surfaced 36 more
+candidates outside `reading-comprehension`, nearly all of which were
+manually triaged as legitimate consolidation-stage grammar prose citing
+a Greek form as one *example* of a category (`"fōrma enclītica (μου,
+μοι, με)"`, `"ut λύω"`) rather than translating it — genuinely different
+in kind from the reported bug. 3 genuine remaining instances in this
+session's own `i-pron-recognize` block were fixed the same way.
+
+**Verification**: rebuilt and Playwright-rendered the exact page from
+the bug report (`gradus/fundamenta/salutationes-et-verbum-sum.html`) —
+confirmed via both DOM text extraction and a full-block screenshot that
+the reported strings no longer appear, and that the `options` rendered
+are pure Greek. Cross-checked one lesson from each of Gradus I/II/III,
+covering every exercise type present (`reading-comprehension`,
+`fill-blank`, `multiple-choice`, `true-false`, and the one deliberate
+`matching`-as-translation block) — 0 console errors on every page, and
+the translation-exercise block correctly still shows Greek↔Latin pairs
+(it is supposed to; only the *default* exercises were the problem).
+
+**Going forward**: run `python3 scripts/check_translation_crutch.py`
+after touching any lesson, across Gradus IV-VII as much as when
+revisiting Gradus I-III — but per the CRITICAL CORRECTION above, treat a
+clean script run as a first check, not a substitute for rendering the
+page and reading the actual option text at least once per batch.
 
 **Apply from the start in Gradus IV-VII**: do not draft exercises with
 Latin glosses attached to every option "for clarity" and plan to strip

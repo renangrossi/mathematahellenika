@@ -70,30 +70,30 @@
         {
           "id": "int1-story1",
           "prompt": "Quis prīmum rogat “quis es”?",
-          "options": ["Melitē", "Agathōn", "magister"],
+          "options": ["ἡ Μελίτη", "ὁ Ἀγάθων", "ὁ διδάσκαλος"],
           "answerIndex": 0,
           "explanation": "Μελίτη λέγει· “Τίς εἶ;”"
         },
         {
           "id": "int1-story2",
           "prompt": "Unde venit Melitē?",
-          "options": ["ex urbe (ἐκ τῆς πόλεως)", "ex agrō", "ex īnsulā"],
+          "options": ["ἐκ τῆς πόλεως", "ἐκ τοῦ ἀγροῦ", "ἐκ τῆς νήσου"],
           "answerIndex": 0,
-          "explanation": "“Ἐκ τῆς πόλεως.”"
+          "explanation": "“Ἐκ τῆς πόλεως.” (“Ex urbe” — nōn “ex agrō” nec “ex īnsulā.”)"
         },
         {
           "id": "int1-story3",
           "prompt": "Ubi manet Agathōn?",
-          "options": ["in domō magistrī", "in forō", "in nāve"],
+          "options": ["ἐν τῇ οἰκίᾳ τοῦ διδασκάλου", "ἐν τῇ ἀγορᾷ", "ἐν τῇ νηΐ"],
           "answerIndex": 0,
-          "explanation": "“Ἐν τῇ οἰκίᾳ τοῦ διδασκάλου.”"
+          "explanation": "“Ἐν τῇ οἰκίᾳ τοῦ διδασκάλου.” (“In domō magistrī” — nōn “in forō” nec “in nāve.”)"
         },
         {
           "id": "int1-story4",
           "prompt": "Quid Agathōn tandem rogat?",
-          "options": ["cuius sit liber (τίνος ἐστὶ τὸ βιβλίον)", "cūr Melitē vēnerit", "quandō cēna sit"],
+          "options": ["τίνος ἐστὶ τὸ βιβλίον;", "διὰ τί ἡ Μελίτη ἦλθεν;", "πότε τὸ δεῖπνόν ἐστιν;"],
           "answerIndex": 0,
-          "explanation": "“Τίνος ἐστὶ τὸ βιβλίον;”"
+          "explanation": "“Τίνος ἐστὶ τὸ βιβλίον;” (“Cuius sit liber” — nōn “cūr vēnerit” nec “quandō cēna sit.”)"
         }
       ]
     },

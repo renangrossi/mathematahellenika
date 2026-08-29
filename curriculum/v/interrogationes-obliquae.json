@@ -1,0 +1,248 @@
+{
+  "id": "v-interrogationes-obliquae",
+  "level": "V",
+  "unit": "1",
+  "order": 8,
+  "skill": "grammatica",
+  "strand": "interrogativa",
+  "title": "Interrogātiōnēs Oblīquae",
+  "subtitle": "Quaestiōnēs indirēctae: rēgula sequentiae applicāta (indicātīvus/coniūnctīvus retentus vs. optātīvus oblīquus); εἰ prō quaestiōnibus sī/nōn; ὅστις ut interrogātīvum oblīquum.",
+  "prerequisites": [
+    "v-condiciones-quattuor-genera"
+  ],
+  "objectives": [
+    "Cōnstruere interrogātiōnem oblīquam applicandō rēgulam sequentiae (Gradū V): modus retentus sequentiā prīmāriā, optātīvus oblīquus sequentiā secundāriā",
+    "Adhibēre εἰ prō quaestiōnibus indirēctīs \"sī/num\" (quaestiōnēs sine verbō interrogātīvō explicitō)",
+    "Recognōscere ὅστις, ἥτις, ὅτι (compositum ex ὅς + τις) ut prōnōmen interrogātīvum oblīquum frequēns, alternātīvum τίς",
+    "Distinguere quaestiōnem dīrēctam (cum τίς; signum ;) ā quaestiōne indirēctā (sine ; propriō, intrā clausulam maiōrem)"
+  ],
+  "content": {
+    "intro": "Interrogātiō oblīqua (\"rogāvī QUIS vēnisset\", nōn quaestiō dīrēcta \"quis vēnit?\") sequitur rēgulam sequentiae iam plēnē nōtam (Gradū V): post verbum rogandī PRĪMĀRIUM, modus quaestiōnis dīrēctae originālis plērumque RETINĒTUR; post verbum rogandī SECUNDĀRIUM, MODUS FIT OPTĀTĪVUS (\"optātīvus oblīquus\") — patrōnus IDENTICUS illī iam vīsō in clausulīs fīnālibus.",
+    "explanation": "<p>Duo genera interrogātiōnum oblīquārum: (1) cum verbō interrogātīvō (τίς, ποῦ, πῶς, quae iam nōta ex Gradū II), et (2) sine verbō interrogātīvō, quaestiō \"sī/num\" — hīc Graecum adhibet <span class=\"greek\">εἰ</span> (litt. \"sī\", homographum condiciōnālis, sed fūnctiōne dīversā hīc).</p>",
+    "rules": [
+      {
+        "heading": "a) Sequentia Prīmāria: Modus Retentus",
+        "body": "<p>Post verbum rogandī PRAESĒNS/FUTŪRUM: modus quaestiōnis dīrēctae originālis manet (indicātīvus sī erat indicātīvus; coniūnctīvus dēlīberātīvus sī erat dēlīberātīvus): <span class=\"greek\">ἐρωτῶ τίς ἐστιν.</span> \"Rogō quis sit\" (litt. \"quis est\", indicātīvus retentus, ā <span class=\"greek\">τίς ἐστιν;</span> dīrēctā). <span class=\"greek\">ἐρωτῶ τί ποιῶμεν.</span> \"Rogō quid faciāmus\" (dēlīberātīvus retentus).</p>"
+      },
+      {
+        "heading": "b) Sequentia Secundāria: Optātīvus Oblīquus",
+        "body": "<p>Post verbum rogandī PRAETERITUM: modus fit OPTĀTĪVUS, indepēndenter ā modō quaestiōnis dīrēctae originālis: <span class=\"greek\">ἠρώτησα τίς εἴη.</span> \"Rogāvī quis esset\" (opt., ā <span class=\"greek\">τίς ἐστιν;</span> indicātīvā orīgināliter). <span class=\"greek\">ἠρώτησεν εἰ ἔλθοι ὁ βασιλεύς.</span> \"Rogāvit num rēx vēnisset/venīret\" (quaestiō \"sī/num\", ā εἰ + optātīvus).</p>"
+      },
+      {
+        "heading": "c) Ὅστις: Interrogātīvum Oblīquum Alternātīvum",
+        "body": "<p><span class=\"greek\">ὅστις, ἥτις, ὅτι</span> (litt. \"quīcumque\", compositum ex relātīvō <span class=\"greek\">ὅς</span> + indēfīnītō <span class=\"greek\">τις</span>, AMBABUS partibus dēclīnātīs: gen. <span class=\"greek\">οὗτινος</span>, etc.) frequenter substituit <span class=\"greek\">τίς</span> in interrogātiōnibus oblīquīs, praesertim apud auctōrēs Atticōs classicōs: <span class=\"greek\">οὐκ οἶδα ὅστις ἐστίν.</span> \"Nesciō quis sit.\" Nōtā: fōrma neutra <span class=\"greek\">ὅτι</span> est identica scrīptūrā (sed dīversa accentū/contextū) coniūnctiōnī <span class=\"greek\">ὅτι</span> \"quod, quia\" — cōnfūsiō possibilis, ēvītanda per contextum.</p>"
+      }
+    ],
+    "examples": [
+      "ἐρωτῶ τίς ἐστιν. — Rogō quis sit. (prīmāria, indicātīvus retentus)",
+      "ἠρώτησα τίς εἴη. — Rogāvī quis esset. (secundāria, optātīvus oblīquus)",
+      "οὐκ οἶδα εἰ ἀληθές ἐστιν. — Nesciō num vērum sit. (εἰ, quaestiō \"sī\")",
+      "ἠπόρει ὅ τι ποιοῖ. — Dubitābat quid faceret. (secundāria, ὅτι neutrum interrogātīvum, nōn coniūnctiō)",
+      "ἐρωτῶσιν ὅστις ἦλθεν. — Rogant quis vēnerit. (ὅστις prō τίς, prīmāria)",
+      "οὐκ ᾔδειν εἰ σοφὸς εἴη ἢ μή. — Nesciēbam num sapiēns esset annōn. (εἰ...ἢ μή, alternātīva)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Retinēre semper indicātīvum in interrogātiōne oblīquā, ignōrandō rēgulam sequentiae post verbum praeteritum.",
+        "right": "Applicāre optātīvum oblīquum post verbum rogandī SECUNDĀRIUM, exāctē sīcut in clausulīs fīnālibus/condiciōnālibus.",
+        "why": "Interrogātiō oblīqua sequitur eandem rēgulam sequentiae systēmaticam ac cēterae clausulae subōrdinātae."
+      },
+      {
+        "wrong": "Adhibēre ἵνα vel ὅπως prō quaestiōne indirēctā \"sī/num\", cōnfundendō cum clausulā fīnālī.",
+        "right": "Adhibēre εἰ specificē prō quaestiōnibus sine verbō interrogātīvō explicitō (\"num...\").",
+        "why": "Discrīmen syntacticum clārum: ἵνα/ὅπως intrōdūcunt propositum; εἰ intrōdūcit quaestiōnem indirēctam sine interrogātīvō."
+      },
+      {
+        "wrong": "Cōnfundere ὅτι interrogātīvum (neutrum ὅστις, \"quid\") cum ὅτι coniūnctiōne (\"quod, quia\"), propter fōrmam scrīptūrae identicam.",
+        "right": "Distinguere per contextum syntacticum: ὅ τι (duo verba, saepe scrīpta sēparātim) est interrogātīvum; ὅτι (ūnum verbum) est coniūnctiō.",
+        "why": "Ambiguitās orthographica reālis, resolvenda per convention scrīptūrae (spatium) et contextum."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "v-int2-mc",
+      "type": "multiple-choice",
+      "title": "Interrogātiōnēs Oblīquae: Rēgulae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "int2a",
+          "prompt": "Quod modum adhibet interrogātiō oblīqua post verbum rogandī praesēns?",
+          "options": [
+            "optātīvum semper",
+            "modum quaestiōnis orīginālis, retentum",
+            "indicātīvum semper"
+          ],
+          "answerIndex": 1,
+          "explanation": "Sequentia prīmāria retinet modum orīginālem."
+        },
+        {
+          "id": "int2b",
+          "prompt": "Quod modum adhibet interrogātiō oblīqua post verbum rogandī praeteritum?",
+          "options": [
+            "indicātīvum, semper retentum",
+            "optātīvum oblīquum",
+            "coniūnctīvum, semper"
+          ],
+          "answerIndex": 1,
+          "explanation": "Sequentia secundāria: optātīvus oblīquus, patrōnus systēmaticus."
+        },
+        {
+          "id": "int2c",
+          "prompt": "Quae particula intrōdūcit quaestiōnem indirēctam \"sī/num\", sine verbō interrogātīvō?",
+          "options": [
+            "ἵνα",
+            "εἰ",
+            "ὅτι"
+          ],
+          "answerIndex": 1,
+          "explanation": "Εἰ intrōdūcit quaestiōnem indirēctam sine interrogātīvō explicitō."
+        },
+        {
+          "id": "int2d",
+          "prompt": "Quid est ὅστις, morphologicē?",
+          "options": [
+            "fōrma alia τίς, sine relātiōne",
+            "compositum ex relātīvō ὅς + indēfīnītō τις",
+            "particula, nōn prōnōmen"
+          ],
+          "answerIndex": 1,
+          "explanation": "Ὅστις combīnat duo elementa iam nōta, ambōbus dēclīnātīs."
+        },
+        {
+          "id": "int2e",
+          "prompt": "Quōmodo distinguitur ὅ τι interrogātīvum ā ὅτι coniūnctiōne?",
+          "options": [
+            "nūllō modō, sunt identica semper",
+            "per contextum syntacticum (et convention scrīptūrae)",
+            "per accentum sōlum, numquam per contextum"
+          ],
+          "answerIndex": 1,
+          "explanation": "Contextus (et interdum spatium scrīptūrae) resolvit ambiguitātem."
+        }
+      ]
+    },
+    {
+      "id": "v-int2-fill",
+      "type": "fill-blank",
+      "title": "Complē cum Fōrmā Rēctā",
+      "instructions": "Comple spatia cum fōrmā rēctā interrogātiōnis oblīquae.",
+      "items": [
+        {
+          "id": "int2f",
+          "prompt": "ἐρωτῶ τίς ___. (indicātīvus, prīmāria, \"sit\")",
+          "options": [
+            "ἐστιν",
+            "εἴη",
+            "ᾖ"
+          ],
+          "answers": [
+            "ἐστιν"
+          ],
+          "explanation": "Sequentia prīmāria: indicātīvus retentus."
+        },
+        {
+          "id": "int2g",
+          "prompt": "ἠρώτησα τίς ___. (optātīvus, secundāria, \"esset\")",
+          "options": [
+            "εἴη",
+            "ἐστιν",
+            "ἦν"
+          ],
+          "answers": [
+            "εἴη"
+          ],
+          "explanation": "Sequentia secundāria: optātīvus oblīquus."
+        },
+        {
+          "id": "int2h",
+          "prompt": "οὐκ οἶδα ___ ἀληθές ἐστιν. (particula, \"num\")",
+          "options": [
+            "εἰ",
+            "ἵνα",
+            "ὅτι"
+          ],
+          "answers": [
+            "εἰ"
+          ],
+          "explanation": "Εἰ intrōdūcit quaestiōnem \"sī/num\"."
+        },
+        {
+          "id": "int2i",
+          "prompt": "ἠπόρει ὅ τι ___. (optātīvus, secundāria, \"faceret\")",
+          "options": [
+            "ποιοῖ",
+            "ποιῇ",
+            "ποιεῖ"
+          ],
+          "answers": [
+            "ποιοῖ"
+          ],
+          "explanation": "Optātīvus oblīquus post verbum praeteritum ἠπόρει."
+        },
+        {
+          "id": "int2j",
+          "prompt": "ἠρώτησεν ___ ἔλθοι ὁ βασιλεύς. (particula, \"num\")",
+          "options": [
+            "εἰ",
+            "τίς",
+            "ἵνα"
+          ],
+          "answers": [
+            "εἰ"
+          ],
+          "explanation": "Εἰ + optātīvus, quaestiō indirēcta secundāria."
+        }
+      ]
+    },
+    {
+      "id": "v-int2-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "int2k",
+          "statement": "Interrogātiō oblīqua sequitur eandem rēgulam sequentiae ac clausulae fīnālēs et condiciōnālēs.",
+          "answer": true,
+          "explanation": "Corrēctum: rēgula systēmatica trāns tōtam syntaxem clausulārum subōrdinātārum."
+        },
+        {
+          "id": "int2l",
+          "statement": "Εἰ, in interrogātiōne oblīquā, semper significat \"sī\" condiciōnāle.",
+          "answer": false,
+          "explanation": "Falsum: hīc significat \"num/sī\" interrogātīvum, fūnctiō dīversa."
+        },
+        {
+          "id": "int2m",
+          "statement": "Ὅστις est prōnōmen simplex, sine relātiōne ad ὅς vel τις.",
+          "answer": false,
+          "explanation": "Falsum: est compositum, ambābus partibus dēclīnātīs."
+        },
+        {
+          "id": "int2n",
+          "statement": "Post verbum rogandī praeteritum, coniūnctīvus dēlīberātīvus retentus fit optātīvus.",
+          "answer": true,
+          "explanation": "Corrēctum: patrōnus generālis sequentiae applicātur etiam hīc."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Interrogātiō oblīqua sequitur rēgulam sequentiae: modus retentus (prīmāria) vs. optātīvus oblīquus (secundāria).",
+    "Εἰ intrōdūcit quaestiōnem indirēctam \"sī/num\", sine verbō interrogātīvō explicitō.",
+    "Ὅστις, ἥτις, ὅτι (= ὅς + τις, ambābus partibus dēclīnātīs) substituit frequenter τίς in interrogātiōne oblīquā.",
+    "Ὅ τι interrogātīvum ≠ ὅτι coniūnctiō (\"quod, quia\") — ambiguitās orthographica, resolvenda per contextum."
+  ],
+  "related": [
+    {
+      "lessonId": "v-condiciones-quattuor-genera",
+      "label": "Condiciōnēs: Quattuor Genera"
+    },
+    {
+      "lessonId": "v-imperativus-plenus",
+      "label": "Imperātīvus Plēnus"
+    }
+  ]
+}

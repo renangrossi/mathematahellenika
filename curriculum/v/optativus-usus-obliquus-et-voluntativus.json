@@ -1,0 +1,248 @@
+{
+  "id": "v-optativus-usus-obliquus-et-voluntativus",
+  "level": "V",
+  "unit": "1",
+  "order": 4,
+  "skill": "grammatica",
+  "strand": "optativus",
+  "title": "Optātīvus: Ūsus Oblīquus et Voluntātīvus",
+  "subtitle": "Rēgula sequentiae secundāriae plēnē explicāta; optātīvus voluntātīvus (εἴθε + opt., \"utinam\"); optātīvus potentiālis cum ἄν (\"faciam fortasse\").",
+  "prerequisites": [
+    "v-optativus-formae"
+  ],
+  "objectives": [
+    "Applicāre plēnē rēgulam sequentiae secundāriae: quīlibet coniūnctīvus in clausulā subōrdinātā fit optātīvus sī verbum prīncipāle est tempore praeteritō",
+    "Formāre optātīvum voluntātīvum (εἴθε/εἰ γάρ + optātīvus, \"utinam\") prō vōtīs/dēsīderiīs",
+    "Formāre optātīvum potentiālem (ἄν + optātīvus, \"faciam fortasse, facerem\") prō affirmātiōnibus temperātīs/hypotheticīs",
+    "Distinguere trēs ūsūs optātīvī (oblīquus, voluntātīvus, potentiālis) per contextum syntacticum et praesentiam/absentiam ἄν"
+  ],
+  "content": {
+    "intro": "Lēctiō priōre intrōdūxit fōrmās optātīvī et breviter tetigit rēgulam sequentiae secundāriae. Hodiē tractāmus hanc rēgulam plēnē, adiūnctīs duōbus ūsibus optātīvī INDEPENDENTIS (sine verbō prīncipālī subōrdinante): voluntātīvus (vōtum) et potentiālis (affirmātiō temperāta).",
+    "explanation": "<p>Rēgula sequentiae, systēmatica per tōtam syntaxem Graecam: post verbum prīncipāle PRAESENS/FUTŪRUM/PERFECTUM (\"sequentia prīmāria\"), clausula subōrdināta adhibet CONIŪNCTĪVUM; post verbum prīncipāle IMPERFECTUM/AORISTUM/PLŪSQUAMPERFECTUM (\"sequentia secundāria\"), eadem clausula PRAEFERT optātīvum (nōn obligātōrium semper — coniūnctīvus \"vīvidus\" potest retinērī prō vīvācitāte nārrātīvā, sed optātīvus est nōrma). Discipulus quī apprehendit hanc rēgulam potest nāvigāre quamlibet clausulam fīnālem, condiciōnālem, vel interrogātiōnem oblīquam.</p>",
+    "rules": [
+      {
+        "heading": "a) Rēgula Sequentiae: Tabula Complēta",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Verbum Prīncipāle</th><th>Sequentia</th><th>Modus in Clausulā Subōrdinātā</th></tr></thead><tbody><tr><td>Praesēns/futūrum/perfectum</td><td>Prīmāria</td><td>Coniūnctīvus</td></tr><tr><td>Imperfectum/aoristus/plūsquamperfectum</td><td>Secundāria</td><td>Optātīvus (praeferēns)</td></tr></tbody></table><p>Exemplum applicātum (ex clausulā fīnālī, quam proximā lēctiōne plēnius vidēbis): <span class=\"greek\">ἔρχεται ἵνα λύσῃ</span> (praesēns → coni.) “venit ut solvat” vs. <span class=\"greek\">ἦλθεν ἵνα λύσειε</span> (aoristus → opt.) “vēnit ut solveret”.</p>"
+      },
+      {
+        "heading": "b) Optātīvus Voluntātīvus (Vōtum)",
+        "body": "<p><span class=\"greek\">εἴθε</span> vel <span class=\"greek\">εἰ γάρ</span> + optātīvus exprimit vōtum/dēsīderium (“utinam...”): <span class=\"greek\">εἴθε σοφὸς εἴην</span> “utinam sapiēns sim/essem!”. Optātīvus praesentis prō vōtō persistentī/generālī; aoristī prō vōtō ūnīus ēventūs. Negātiō: μή (<span class=\"greek\">εἴθε μὴ γένοιτο</span> “utinam nē fīat!”).</p>"
+      },
+      {
+        "heading": "c) Optātīvus Potentiālis (cum ἄν)",
+        "body": "<p><span class=\"greek\">ἄν</span> + optātīvus (INDEPENDĒNS, nōn clausula subōrdināta) exprimit affirmātiōnem temperātam/hypotheticam: <span class=\"greek\">εἴποι ἄν τις</span> “aliquis fortasse dīceret / diceret quispiam”. Comparā Anglicum “would” vel Lūsitānicum futūrum condicionāle (“diria”). Particula <span class=\"greek\">ἄν</span> hīc est essentiālis — sine eā, optātīvus indepēndēns lēgerētur ut vōtum (voluntātīvus), nōn affirmātiō temperāta.</p>"
+      }
+    ],
+    "examples": [
+      "λέγει ἵνα μάθωμεν. — Dīcit ut discāmus. (coni., sequentia prīmāria)",
+      "εἶπεν ἵνα μάθοιμεν. — Dīxit ut discerēmus. (opt., sequentia secundāria)",
+      "εἴθε παρείης. — Utinam adessēs! (voluntātīvus, optātīvus praesentis, vōtum persistēns)",
+      "εἴθε μὴ τοῦτο γένοιτο. — Utinam hoc nē fīat! (voluntātīvus negātīvus, aoristī)",
+      "τάχ' ἂν εἴποι τις ὅτι ἁμαρτάνομεν. — Fortasse aliquis dīceret nōs errāre. (potentiālis, cum ἄν)",
+      "οὐκ ἂν εἰδείην. — Nōn sciam/scīrem [certē]. (potentiālis negātīvum)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Adhibēre coniūnctīvum in clausulā subōrdinātā post verbum prīncipāle praeteritum, ignōrandō rēgulam sequentiae.",
+        "right": "Praeferre optātīvum (nōn obligātōrium absolūtē, sed nōrma) post verbum prīncipāle imperfectī/aoristī/plūsquamperfectī.",
+        "why": "Rēgula sequentiae est systēmatica trāns omnēs clausulās subōrdinātās (fīnālēs, condiciōnālēs, interrogātiōnēs oblīquās) — apprehendere eam ūnā vīce simplificat multās cōnstrūctiōnēs simul."
+      },
+      {
+        "wrong": "Omittere ἄν in optātīvō potentiālī, cōnfundendō cum optātīvō voluntātīvō (vōtum).",
+        "right": "Adhibēre ἄν SEMPER cum optātīvus indepēndēns exprimit affirmātiōnem temperātam (potentiālis), reservandō absentiam ἄν prō vōtīs (voluntātīvus).",
+        "why": "Sine ἄν, εἴποι τις sōlum interpretandum esset ut fragmentum sine sēnsū clārō; particula ἄν est signum syntacticum obligātōrium hīc."
+      },
+      {
+        "wrong": "Crēdere optātīvum, in ūllō ūsū, dēbēre semper adhibēre μή sīcut negātiōnem, indiscrīminātim.",
+        "right": "Adhibēre μή cum optātīvō voluntātīvō (vōtum), sed cōnsīderāre contextum in cēterīs ūsibus.",
+        "why": "Rēgula generālis οὐ/μή (Gradū II) applicātur adhūc; μή domināt in ūsibus nōn-factīvīs sīcut vōtum, sed nōn est ūniversāliter obligātōria in omnī contextū optātīvī."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "v-opt2-mc",
+      "type": "multiple-choice",
+      "title": "Optātīvus: Ūsūs",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "opt2a",
+          "prompt": "Post verbum prīncipāle in tempore aoristō, quod modum praefert clausula fīnālis?",
+          "options": [
+            "coniūnctīvum",
+            "optātīvum",
+            "indicātīvum"
+          ],
+          "answerIndex": 1,
+          "explanation": "Sequentia secundāria (aoristus) praefert optātīvum."
+        },
+        {
+          "id": "opt2b",
+          "prompt": "Quae particula intrōdūcit optātīvum voluntātīvum (vōtum)?",
+          "options": [
+            "ἄν",
+            "εἴθε (vel εἰ γάρ)",
+            "ἵνα"
+          ],
+          "answerIndex": 1,
+          "explanation": "Εἴθε (\"utinam\") intrōdūcit vōtum cum optātīvō."
+        },
+        {
+          "id": "opt2c",
+          "prompt": "Quae particula est essentiālis in optātīvō potentiālī?",
+          "options": [
+            "μή",
+            "ἄν",
+            "εἴθε"
+          ],
+          "answerIndex": 1,
+          "explanation": "Ἄν distinguit potentiālem ā voluntātīvō (vōtum)."
+        },
+        {
+          "id": "opt2d",
+          "prompt": "Quid significat εἴποι ἄν τις?",
+          "options": [
+            "\"utinam aliquis dīcat!\"",
+            "\"aliquis fortasse dīceret\"",
+            "\"aliquis dīcit\""
+          ],
+          "answerIndex": 1,
+          "explanation": "Potentiālis: affirmātiō temperāta, \"would say\"."
+        },
+        {
+          "id": "opt2e",
+          "prompt": "Est rēgula sequentiae obligātōria absolūtē, sine exceptiōne?",
+          "options": [
+            "sīc, semper obligātōria",
+            "nōn, est nōrma praeferenda, sed coniūnctīvus \"vīvidus\" potest retinērī",
+            "nōn applicātur umquam in prōsā"
+          ],
+          "answerIndex": 1,
+          "explanation": "Est nōrma stilistica fortis, nōn rēgula absolūta sine exceptiōne."
+        }
+      ]
+    },
+    {
+      "id": "v-opt2-fill",
+      "type": "fill-blank",
+      "title": "Complē cum Fōrmā Rēctā",
+      "instructions": "Comple spatia cum fōrmā rēctā, applicandō rēgulam sequentiae vel ūsum optātīvī.",
+      "items": [
+        {
+          "id": "opt2f",
+          "prompt": "λέγει ἵνα ___. (coni., sequentia prīmāria, \"discāmus\")",
+          "options": [
+            "μάθωμεν",
+            "μάθοιμεν",
+            "μανθάνομεν"
+          ],
+          "answers": [
+            "μάθωμεν"
+          ],
+          "explanation": "Verbum prīncipāle praesēns → coniūnctīvus."
+        },
+        {
+          "id": "opt2g",
+          "prompt": "εἶπεν ἵνα ___. (opt., sequentia secundāria, \"discerēmus\")",
+          "options": [
+            "μάθοιμεν",
+            "μάθωμεν",
+            "ἐμάθομεν"
+          ],
+          "answers": [
+            "μάθοιμεν"
+          ],
+          "explanation": "Verbum prīncipāle aoristus → optātīvus praeferēns."
+        },
+        {
+          "id": "opt2h",
+          "prompt": "εἴθε ___. (voluntātīvus, 2ª sg. praes., \"adessēs\")",
+          "options": [
+            "παρείης",
+            "πάρει",
+            "παρῇς"
+          ],
+          "answers": [
+            "παρείης"
+          ],
+          "explanation": "Optātīvus voluntātīvus praesentis: παρείης."
+        },
+        {
+          "id": "opt2i",
+          "prompt": "τάχ' ___ εἴποι τις. (particula, potentiālis, \"fortasse\")",
+          "options": [
+            "ἄν",
+            "εἴθε",
+            "μή"
+          ],
+          "answers": [
+            "ἄν"
+          ],
+          "explanation": "Ἄν est essentiāle prō sēnsū potentiālī."
+        },
+        {
+          "id": "opt2j",
+          "prompt": "εἴθε ___ τοῦτο γένοιτο. (negātiō, voluntātīvus, \"nē fīat\")",
+          "options": [
+            "μή",
+            "οὐ",
+            "οὐκ"
+          ],
+          "answers": [
+            "μή"
+          ],
+          "explanation": "Vōtum negātīvum adhibet μή."
+        }
+      ]
+    },
+    {
+      "id": "v-opt2-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "opt2k",
+          "statement": "Sequentia prīmāria (verbum praesēns/futūrum/perfectum) requīrit coniūnctīvum in clausulā subōrdinātā.",
+          "answer": true,
+          "explanation": "Corrēctum."
+        },
+        {
+          "id": "opt2l",
+          "statement": "Optātīvus potentiālis (cum ἄν) et optātīvus voluntātīvus (sine ἄν) significant idem.",
+          "answer": false,
+          "explanation": "Falsum: ἄν distinguit affirmātiōnem temperātam ā vōtō."
+        },
+        {
+          "id": "opt2m",
+          "statement": "Rēgula sequentiae applicātur sōlum ad clausulās fīnālēs, nōn ad interrogātiōnēs oblīquās vel condiciōnālēs.",
+          "answer": false,
+          "explanation": "Falsum: applicātur systēmaticē trāns omnēs clausulās subōrdinātās."
+        },
+        {
+          "id": "opt2n",
+          "statement": "Optātīvus voluntātīvus praesentis exprimit vōtum persistēns/generāle, aoristus exprimit vōtum ūnīus ēventūs.",
+          "answer": true,
+          "explanation": "Corrēctum: discrīmen aspectuāle, sīcut alibi."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Rēgula sequentiae: verbum prīncipāle prīmārium (praes./fut./perf.) → coniūnctīvus in clausulā subōrdinātā; secundārium (imperf./aor./plūsq.) → optātīvus (praeferēns).",
+    "Optātīvus voluntātīvus: εἴθε/εἰ γάρ + optātīvus, \"utinam\" — negātiō μή.",
+    "Optātīvus potentiālis: ἄν + optātīvus (indepēndēns), \"faciam/facerem fortasse\" — ἄν est essentiāle.",
+    "Trēs ūsūs (oblīquus, voluntātīvus, potentiālis) distinguuntur per contextum syntacticum et praesentiam ἄν/εἴθε."
+  ],
+  "related": [
+    {
+      "lessonId": "v-optativus-formae",
+      "label": "Optātīvus: Fōrmae"
+    },
+    {
+      "lessonId": "v-clausulae-finales",
+      "label": "Clausulae Fīnālēs"
+    }
+  ]
+}

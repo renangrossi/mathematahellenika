@@ -1,0 +1,249 @@
+{
+  "id": "v-condiciones-quattuor-genera",
+  "level": "V",
+  "unit": "1",
+  "order": 7,
+  "skill": "grammatica",
+  "strand": "condiciones",
+  "title": "Condiciōnēs: Quattuor Genera",
+  "subtitle": "Simplex (factum), irreālis (contrā factum), futūra vīvida (ἐάν+coni.), futūra minus vīvida (εἰ+opt.) — systēma completum condiciōnum Graecārum.",
+  "prerequisites": [
+    "v-clausulae-consecutivae"
+  ],
+  "objectives": [
+    "Distinguere quattuor genera condiciōnum Graecārum per fōrmam prōtasis (\"sī\"-clausulae) et apodosis (clausulae prīncipālis/resultātūs)",
+    "Cōnstruere condiciōnem simplicem (factum): εἰ + indicātīvus, indicātīvus",
+    "Cōnstruere condiciōnem irreālem (contrā factum): εἰ + indicātīvus praeteritī, ἄν + indicātīvus praeteritī",
+    "Cōnstruere condiciōnēs futūrās (vīvida: ἐάν + coniūnctīvus, futūrum indicātīvum; minus vīvida: εἰ + optātīvus, ἄν + optātīvus)"
+  ],
+  "content": {
+    "intro": "Condiciō Graeca cōnsistit ex duābus partibus: <strong>prōtasis</strong> (\"sī\"-clausula, cum εἰ/ἐάν) et <strong>apodosis</strong> (clausula prīncipālis/resultātūs). Graecum distinguit quattuor genera condiciōnum secundum quantum probābilis/reālis est condiciō ipsa — systēma multō magis fīnum quam Latīnum (quod habet trēs genera similia sed nōn identica).",
+    "explanation": "<p>Discrīmen inter quattuor genera nōn est sōlum tempus chronologicum, sed <strong>gradus probābilitātis/reālitātis</strong> ā vīsū locūtōris: factum indubitābile (simplex), factum negātum contrā reālitātem (irreālis), possibilitās probābilis futūra (vīvida), possibilitās remōtior/hypothetica futūra (minus vīvida).</p>",
+    "rules": [
+      {
+        "heading": "a) Cōnspectus: Quattuor Genera",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Genus</th><th>Prōtasis (εἰ...)</th><th>Apodosis</th></tr></thead><tbody><tr><td>1. Simplex (factum)</td><td>εἰ + indicātīvus (quōlibet tempore)</td><td>indicātīvus (sine ἄν)</td></tr><tr><td>2. Irreālis (contrā factum)</td><td>εἰ + indicātīvus praeteritī (imperf./aor.)</td><td>ἄν + indicātīvus praeteritī</td></tr><tr><td>3. Futūra vīvida</td><td>ἐάν (=εἰ+ἄν) + coniūnctīvus</td><td>futūrum indicātīvum (sine ἄν)</td></tr><tr><td>4. Futūra minus vīvida</td><td>εἰ + optātīvus</td><td>ἄν + optātīvus</td></tr></tbody></table>"
+      },
+      {
+        "heading": "b) Exempla Applicāta",
+        "body": "<p><strong>1. Simplex:</strong> <span class=\"greek\">εἰ τοῦτο λέγει, ἁμαρτάνει.</span> “Sī hoc dīcit, errat” [neutrāle, sine implicātiōne dē vēritāte]. <strong>2. Irreālis (praesēns):</strong> <span class=\"greek\">εἰ τοῦτο ἔλεγεν, ἡμάρτανεν ἄν.</span> “Sī hoc dīceret [nunc, sed nōn dīcit], errāret”. <strong>Irreālis (praeteritum):</strong> <span class=\"greek\">εἰ τοῦτο εἶπεν, ἥμαρτεν ἄν.</span> “Sī hoc dīxisset [sed nōn dīxit], errāsset”. <strong>3. Vīvida:</strong> <span class=\"greek\">ἐὰν τοῦτο λέγῃ, ἁμαρτήσεται.</span> “Sī hoc dīcet [probābiliter], errābit”. <strong>4. Minus vīvida:</strong> <span class=\"greek\">εἰ τοῦτο λέγοι, ἁμαρτάνοι ἄν.</span> “Sī hoc fortasse dīceret, errāret [hypothetice]”.</p>"
+      },
+      {
+        "heading": "c) Nōtae Praecipuae",
+        "body": "<p><span class=\"greek\">ἐάν</span> (crasis ex εἰ+ἄν) est REQUĪSĪTUS cum coniūnctīvō in prōtasī — coniūnctīvus in clausulā subōrdinātā generāliter requīrit ἄν additum ad particulam intrōductōriam (patrōnus quem posteā vidēbis etiam in clausulīs relātīvīs/temporālibus indefinītīs). <span class=\"greek\">Ἄν</span> in apodosī (genera 2 et 4) est ESSENTIĀLE — sine eō, indicātīvus/optātīvus perderent sēnsum condiciōnālem. Genus 1 (simplex) et genus 3 (vīvida) apodosis NUMQUAM habent ἄν.</p>"
+      }
+    ],
+    "examples": [
+      "εἰ σοφός ἐστιν, εὖ λέγει. — Sī sapiēns est, bene loquitur. (1, simplex)",
+      "εἰ σοφὸς ἦν, εὖ ἂν ἔλεγεν. — Sī sapiēns esset, bene loquerētur. (2, irreālis praesēns)",
+      "εἰ ταῦτα ἐποίησεν, εὖ ἂν ἔπραξεν. — Sī haec fēcisset, bene sē habuisset. (2, irreālis praeteritum)",
+      "ἐὰν σοφὸς ᾖ, εὖ ἐρεῖ. — Sī sapiēns erit, bene loquētur. (3, vīvida)",
+      "εἰ σοφὸς εἴη, εὖ ἂν λέγοι. — Sī fortasse sapiēns esset, bene loquerētur. (4, minus vīvida)",
+      "εἰ μὴ ἦλθες, οὐκ ἂν εἶδες τὸν βασιλέα. — Sī nōn vēnissēs, nōn vīdissēs rēgem. (2, negātīvum, μή in prōtasī, οὐκ in apodosī)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Adhibēre εἰ (nōn ἐάν) cum coniūnctīvō in prōtasī, omittendō ἄν necessārium.",
+        "right": "Adhibēre semper ἐάν (εἰ+ἄν combīnāta) cum coniūnctīvō in prōtasī condiciōnālī.",
+        "why": "Coniūnctīvus in prōtasī requīrit ἄν obligātōriē — cōnstrūctiō *εἰ + coniūnctīvus sine ἄν nōn exsistit in Atticō classicō."
+      },
+      {
+        "wrong": "Omittere ἄν in apodosī generum 2 et 4 (irreālis, minus vīvida), scrībendo indicātīvum/optātīvum sōlum.",
+        "right": "Includere semper ἄν in apodosī generum 2 et 4 — sine eō, sēnsus condiciōnālis perditur omnīnō.",
+        "why": "Ἄν in apodosī est signum morphologicum obligātōrium horum generum, distinguēns eōs ā simplicī affirmātiōne."
+      },
+      {
+        "wrong": "Cōnfundere negātiōnem in prōtasī (semper μή, in omnibus quattuor generibus) cum negātiōne apodosis (variābilis secundum modum).",
+        "right": "Recordārī prōtasis semper adhibet μή (etiam cum indicātīvō! — exceptiō speciālis ad rēgulam generālem οὐ/μή), apodosis sequitur rēgulam normālem prō modō suō.",
+        "why": "Prōtasis condiciōnālis est ūna ex paucīs cōnstrūctiōnibus ubi μή adhibētur cum indicātīvō, contrā rēgulam generālem (Gradū II)."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "v-cond1-mc",
+      "type": "multiple-choice",
+      "title": "Condiciōnēs: Genera",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "cond1a",
+          "prompt": "Quod genus condiciōnis adhibet ἐάν + coniūnctīvum in prōtasī?",
+          "options": [
+            "simplex",
+            "irreālis",
+            "futūra vīvida"
+          ],
+          "answerIndex": 2,
+          "explanation": "Genus 3 (futūra vīvida) adhibet ἐάν + coniūnctīvum."
+        },
+        {
+          "id": "cond1b",
+          "prompt": "Quod genus adhibet εἰ + indicātīvum praeteritī, ἄν + indicātīvum praeteritī?",
+          "options": [
+            "irreālis (contrā factum)",
+            "futūra minus vīvida",
+            "simplex"
+          ],
+          "answerIndex": 0,
+          "explanation": "Genus 2 (irreālis): duo indicātīvī praeteritī, cum ἄν in apodosī."
+        },
+        {
+          "id": "cond1c",
+          "prompt": "Habent genera 1 (simplex) et 3 (vīvida) ἄν in apodosī?",
+          "options": [
+            "sīc, ambō",
+            "nōn, numquam in hīs generibus",
+            "sōlum genus 1"
+          ],
+          "answerIndex": 1,
+          "explanation": "Ἄν in apodosī appāret sōlum in generibus 2 et 4."
+        },
+        {
+          "id": "cond1d",
+          "prompt": "Quid est ἐάν, morphologicē?",
+          "options": [
+            "particula nova, sine relātiōne ad εἰ",
+            "crasis ex εἰ + ἄν",
+            "fōrma alia verbī εἰμί"
+          ],
+          "answerIndex": 1,
+          "explanation": "Ἐάν est combīnātiō εἰ+ἄν, requīsīta cum coniūnctīvō."
+        },
+        {
+          "id": "cond1e",
+          "prompt": "Quae negātiō adhibētur in prōtasī condiciōnālī, in omnibus quattuor generibus (etiam cum indicātīvō)?",
+          "options": [
+            "οὐ",
+            "μή",
+            "variat secundum genus"
+          ],
+          "answerIndex": 1,
+          "explanation": "Prōtasis semper adhibet μή, exceptiō notābilis ad rēgulam generālem."
+        }
+      ]
+    },
+    {
+      "id": "v-cond1-fill",
+      "type": "fill-blank",
+      "title": "Complē cum Fōrmā Rēctā",
+      "instructions": "Comple spatia cum fōrmā rēctā condiciōnis.",
+      "items": [
+        {
+          "id": "cond1f",
+          "prompt": "εἰ σοφός ἐστιν, εὖ ___. (indicātīvus, genus 1, \"loquitur\")",
+          "options": [
+            "λέγει",
+            "λέγοι",
+            "λέξει"
+          ],
+          "answers": [
+            "λέγει"
+          ],
+          "explanation": "Genus 1 (simplex): indicātīvus in ambābus partibus."
+        },
+        {
+          "id": "cond1g",
+          "prompt": "εἰ σοφὸς ἦν, εὖ ἂν ___. (indicātīvus imperf., genus 2, \"loquerētur\")",
+          "options": [
+            "ἔλεγεν",
+            "λέγοι",
+            "λέξει"
+          ],
+          "answers": [
+            "ἔλεγεν"
+          ],
+          "explanation": "Genus 2 (irreālis praesēns): ἄν + indicātīvus imperfectī."
+        },
+        {
+          "id": "cond1h",
+          "prompt": "___ σοφὸς ᾖ, εὖ ἐρεῖ. (particula, genus 3, \"sī\")",
+          "options": [
+            "ἐάν",
+            "εἰ",
+            "ἄν"
+          ],
+          "answers": [
+            "ἐάν"
+          ],
+          "explanation": "Genus 3 (vīvida) requīrit ἐάν cum coniūnctīvō."
+        },
+        {
+          "id": "cond1i",
+          "prompt": "εἰ σοφὸς εἴη, εὖ ἂν ___. (optātīvus, genus 4, \"loquerētur\")",
+          "options": [
+            "λέγοι",
+            "λέγει",
+            "εἴποι"
+          ],
+          "answers": [
+            "λέγοι"
+          ],
+          "explanation": "Genus 4 (minus vīvida): ἄν + optātīvus."
+        },
+        {
+          "id": "cond1j",
+          "prompt": "εἰ ___ ἦλθες, οὐκ ἂν εἶδες τὸν βασιλέα. (negātiō prōtasis)",
+          "options": [
+            "μή",
+            "οὐ",
+            "οὐδέ"
+          ],
+          "answers": [
+            "μή"
+          ],
+          "explanation": "Prōtasis adhibet μή, etiam cum indicātīvō."
+        }
+      ]
+    },
+    {
+      "id": "v-cond1-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "cond1k",
+          "statement": "Graecum distinguit quattuor genera condiciōnum, secundum probābilitātem/reālitātem, nōn sōlum tempus.",
+          "answer": true,
+          "explanation": "Corrēctum."
+        },
+        {
+          "id": "cond1l",
+          "statement": "Ἐάν adhibētur cum indicātīvō, sīcut εἰ.",
+          "answer": false,
+          "explanation": "Falsum: ἐάν requīrit coniūnctīvum, distīnctum ā εἰ + indicātīvō."
+        },
+        {
+          "id": "cond1m",
+          "statement": "Ἄν in apodosī generum 2/4 potest omittī sine mūtāre sēnsum.",
+          "answer": false,
+          "explanation": "Falsum: ἄν est essentiāle prō sēnsū condiciōnālī horum generum."
+        },
+        {
+          "id": "cond1n",
+          "statement": "Prōtasis condiciōnālis semper adhibet μή, etiam cum indicātīvō, exceptiōnāliter ad rēgulam generālem.",
+          "answer": true,
+          "explanation": "Corrēctum."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "1. Simplex: εἰ + indic., indic. (sine ἄν) — factum neutrāle.",
+    "2. Irreālis: εἰ + indic. praeteritī, ἄν + indic. praeteritī — contrā factum.",
+    "3. Futūra vīvida: ἐάν + coni., fut. indic. (sine ἄν in apodosī) — probābile.",
+    "4. Futūra minus vīvida: εἰ + opt., ἄν + opt. — hypotheticum/remōtius.",
+    "Ἐάν (=εἰ+ἄν) requīsītum cum coniūnctīvō; ἄν in apodosī essentiāle prō generibus 2/4; prōtasis semper μή."
+  ],
+  "related": [
+    {
+      "lessonId": "v-clausulae-consecutivae",
+      "label": "Clausulae Cōnsecūtīvae"
+    },
+    {
+      "lessonId": "v-interrogationes-obliquae",
+      "label": "Interrogātiōnēs Oblīquae"
+    }
+  ]
+}

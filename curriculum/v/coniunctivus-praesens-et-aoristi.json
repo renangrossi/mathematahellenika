@@ -1,0 +1,249 @@
+{
+  "id": "v-coniunctivus-praesens-et-aoristi",
+  "level": "V",
+  "unit": "1",
+  "order": 1,
+  "skill": "grammatica",
+  "strand": "coniunctivus",
+  "title": "Coniūnctīvus Praesentis et Aoristī",
+  "subtitle": "Fōrmae modī coniūnctīvī (vōcālēs longae ω/η), praesēns et aoristus, omnēs vōcēs; nūllum augmentum, nūlla referentia ad tempus absolūtum.",
+  "prerequisites": [
+    "iv-recognitio-systema-verbi"
+  ],
+  "objectives": [
+    "Coniugāre plēnē coniūnctīvum praesēns āctīvum et medium-passīvum verbī λύω",
+    "Coniugāre plēnē coniūnctīvum aoristī āctīvum, medium, et passīvum",
+    "Explicāre signum morphologicum coniūnctīvī: vōcālēs thematicae longae (ω/η prō ο/ε brevibus indicātīvī)",
+    "Recordārī coniūnctīvus nōn refert ad tempus absolūtum (praesēns/praeteritum/futūrum), sōlum ad aspectum (praesēns=continuum, aoristus=simplex) — dīversē ab indicātīvō"
+  ],
+  "content": {
+    "intro": "Usque nunc, omnia tempora vīsa fuērunt modī <strong>indicātīvī</strong> (āctiō affirmāta ut factum). Gradus V intrōdūcit duōs modī novōs — coniūnctīvus (hodiē) et optātīvus (proximā lēctiōne) — quī exprimunt nōn facta, sed possibilitātēs, voluntātēs, hypothesēs. Hī duo modī sunt fundāmentālēs prō syntaxī clausulārum subōrdinātārum Graecārum (fīnālium, cōnsecūtīvārum, condiciōnālium), quās hic gradus tractat plēnē.",
+    "explanation": "<p>Coniūnctīvus est morphologicē reconhōscibilis per <strong>vōcālēs thematicās longās</strong>: ubi indicātīvus adhibet ο/ε breve (λύ<strong>ο</strong>μεν, λύ<strong>ε</strong>τε), coniūnctīvus adhibet ω/η longum (λύ<strong>ω</strong>μεν, λύ<strong>η</strong>τε). Coniūnctīvus NUMQUAM habet augmentum, etiam in themate aoristī — quia coniūnctīvus nōn refert ad tempus praeteritum absolūtum, sōlum ad aspectum (praesēns = continuum/generāle; aoristus = simplex/pūnctuāle), exāctē sīcut participium et īnfīnītīvus (Gradū IV).</p>",
+    "rules": [
+      {
+        "heading": "a) Coniūnctīvus Praesēns: λύω, λύωμαι",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Persōna</th><th>Āctīvum</th><th>Medium-Passīvum</th></tr></thead><tbody><tr><td>1ª sg.</td><td class=\"greek\">λύω</td><td class=\"greek\">λύωμαι</td></tr><tr><td>2ª sg.</td><td class=\"greek\">λύῃς</td><td class=\"greek\">λύῃ</td></tr><tr><td>3ª sg.</td><td class=\"greek\">λύῃ</td><td class=\"greek\">λύηται</td></tr><tr><td>1ª pl.</td><td class=\"greek\">λύωμεν</td><td class=\"greek\">λυώμεθα</td></tr><tr><td>2ª pl.</td><td class=\"greek\">λύητε</td><td class=\"greek\">λύησθε</td></tr><tr><td>3ª pl.</td><td class=\"greek\">λύωσι(ν)</td><td class=\"greek\">λύωνται</td></tr></tbody></table><p><strong>Attentiō:</strong> coniūnctīvus praesēns āctīvus 1ª sg. (λύω) est ORTHOGRAPHICĒ IDENTICUS indicātīvō praesentī āctīvō 1ª sg.! Contextus syntacticus (praesentia ἵνα, ἐάν, etc.) sōlus dēclārat modum.</p>"
+      },
+      {
+        "heading": "b) Coniūnctīvus Aoristī: λύσω, λύσωμαι, λυθῶ",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Persōna</th><th>Āctīvum</th><th>Medium</th><th>Passīvum</th></tr></thead><tbody><tr><td>1ª sg.</td><td class=\"greek\">λύσω</td><td class=\"greek\">λύσωμαι</td><td class=\"greek\">λυθῶ</td></tr><tr><td>2ª sg.</td><td class=\"greek\">λύσῃς</td><td class=\"greek\">λύσῃ</td><td class=\"greek\">λυθῇς</td></tr><tr><td>3ª sg.</td><td class=\"greek\">λύσῃ</td><td class=\"greek\">λύσηται</td><td class=\"greek\">λυθῇ</td></tr><tr><td>1ª pl.</td><td class=\"greek\">λύσωμεν</td><td class=\"greek\">λυσώμεθα</td><td class=\"greek\">λυθῶμεν</td></tr></tbody></table><p>Nōtā: <strong>nūllum augmentum</strong> (dīversē ab indicātīvō aoristī, ἔλυσα) — sōlum thema aoristī (λυσ-/λυθ-) + dēsinentiae coniūnctīvī longae. Coniūnctīvus aoristī āctīvī 1ª sg. (λύσω) est ORTHOGRAPHICĒ IDENTICUS futūrō indicātīvō āctīvō 1ª sg.! Rūrsus, contextus sōlus dēclārat.</p>"
+      },
+      {
+        "heading": "c) Cūr Nūllum Tempus Absolūtum",
+        "body": "<p>Coniūnctīvus (et optātīvus, mox) exprimunt possibilitātem/voluntātem, nōn factum locātum in tempore. Tempus grammaticum (praesēns/aoristus) hīc significat SŌLUM aspectum: <span class=\"greek\">ἵνα λύω</span> “ut solvam [continuē/generāliter]” vs. <span class=\"greek\">ἵνα λύσω</span> “ut solvam [ūnō āctū]” — ambae possunt referre ad futūrum contextuāle, differentēs sōlum aspectū. Hoc prīncipium (aspectus sine tempore) est fundāmentāle prō omnibus clausulīs quās hic gradus posteā tractat.</p>"
+      }
+    ],
+    "examples": [
+      "ἵνα λύσωμεν τὸν δοῦλον. — Ut solvāmus servum. (coniūnctīvus aoristī, post ἵνα)",
+      "ἐὰν λύῃς τὸν νόμον, κολασθήσῃ. — Sī lēgem solvis/abrogās, pūniēris. (coniūnctīvus praesentis, post ἐάν)",
+      "μὴ λύσῃς τὸν νόμον. — Nōlī solvere lēgem! (coniūnctīvus aoristī, prohibitīvum, proxima lēctiō)",
+      "λύωμεν τὰς πύλας. — Solvāmus portās! (coniūnctīvus hortātīvus, proxima lēctiō)",
+      "βούλεται ἵνα λυθῇ ὁ δοῦλος. — Vult ut servus solvātur. (coniūnctīvus aoristī passīvī)",
+      "τί ποιῶμεν; — Quid faciāmus? (coniūnctīvus dēlīberātīvus, proxima lēctiō)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Addere augmentum ad coniūnctīvum aoristī, scrībendo *ἐλύσω prō λύσω.",
+        "right": "Recordārī coniūnctīvus NUMQUAM habet augmentum, in ūllō themate — augmentum est exclūsīvus indicātīvī.",
+        "why": "Idem prīncipium quem discipulus iam nōvit ex participiō/īnfīnītīvō (Gradū IV): augmentum marcat sōlum tempus absolūtum indicātīvī."
+      },
+      {
+        "wrong": "Cōnfundere coniūnctīvum praesentis āctīvī 1ª sg. (λύω) cum indicātīvō, sine attendere contextum syntacticum.",
+        "right": "Identificāre modum per contextum (praesentia ἵνα, ἐάν, particulae speciālēs), nōn per fōrmam sōlam, quia fōrmae interdum identicae sunt.",
+        "why": "Ambiguitās orthographica reālis inter coniūnctīvum et indicātīvum in aliquibus persōnīs requīrit attentiōnem contextuālem."
+      },
+      {
+        "wrong": "Crēdere tempus (praesēns/aoristus) coniūnctīvī significāre tempus absolūtum (praesēns temporāle vs. praeteritum), sīcut in indicātīvō.",
+        "right": "Recordārī tempus coniūnctīvī significat sōlum aspectum (continuum vs. simplex), NUMQUAM tempus absolūtum.",
+        "why": "Error hīc reflectit applicātiōnem incorrēctam logicae indicātīvī (ubi tempus = tempus absolūtum) ad modum ubi tempus = sōlum aspectus."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "v-conj1-mc",
+      "type": "multiple-choice",
+      "title": "Coniūnctīvus: Fōrmae et Rēgulae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "conj1a",
+          "prompt": "Quod signum morphologicum distinguit coniūnctīvum ab indicātīvō?",
+          "options": [
+            "augmentum",
+            "vōcālēs thematicae longae (ω/η prō ο/ε)",
+            "reduplicātiō"
+          ],
+          "answerIndex": 1,
+          "explanation": "Coniūnctīvus adhibet vōcālēs longās ubi indicātīvus adhibet brevēs."
+        },
+        {
+          "id": "conj1b",
+          "prompt": "Habet coniūnctīvus aoristī augmentum?",
+          "options": [
+            "sīc, semper",
+            "numquam",
+            "sōlum in vōce passīvā"
+          ],
+          "answerIndex": 1,
+          "explanation": "Coniūnctīvus, sīcut participium/īnfīnītīvus, numquam accipit augmentum."
+        },
+        {
+          "id": "conj1c",
+          "prompt": "Quid significat tempus (praesēns/aoristus) in coniūnctīvō?",
+          "options": [
+            "tempus absolūtum, sīcut indicātīvus",
+            "sōlum aspectum (continuum vs. simplex)",
+            "nihil, est arbitrārium"
+          ],
+          "answerIndex": 1,
+          "explanation": "Coniūnctīvus nōn refert ad tempus absolūtum, sōlum ad aspectum."
+        },
+        {
+          "id": "conj1d",
+          "prompt": "Est coniūnctīvus praesēns āctīvus 1ª sg. (λύω) distīnctus ab indicātīvō in fōrmā?",
+          "options": [
+            "sīc, semper distīnctus",
+            "nōn, sunt orthographicē identicī",
+            "sōlum in plūrālī"
+          ],
+          "answerIndex": 1,
+          "explanation": "Ambiguitās reālis: contextus sōlus dēclārat modum in hāc persōnā."
+        },
+        {
+          "id": "conj1e",
+          "prompt": "Quae est fōrma coniūnctīvī aoristī passīvī 1ª sg. verbī λύω?",
+          "options": [
+            "λυθῶ",
+            "ἐλύθην",
+            "λυθήσομαι"
+          ],
+          "answerIndex": 0,
+          "explanation": "Coniūnctīvus aoristī passīvī: λυθῶ (thema λυθ- + dēsinentia longa)."
+        }
+      ]
+    },
+    {
+      "id": "v-conj1-fill",
+      "type": "fill-blank",
+      "title": "Complē cum Fōrmā Rēctā",
+      "instructions": "Comple spatia cum fōrmā rēctā coniūnctīvī.",
+      "items": [
+        {
+          "id": "conj1f",
+          "prompt": "ἵνα ___ τὸν δοῦλον. (coniūnctīvus aor. āct., 1ª pl., \"ut solvāmus\")",
+          "options": [
+            "λύσωμεν",
+            "λύομεν",
+            "ἐλύσαμεν"
+          ],
+          "answers": [
+            "λύσωμεν"
+          ],
+          "explanation": "Coniūnctīvus aoristī āctīvī, 1ª pl.: λύσωμεν."
+        },
+        {
+          "id": "conj1g",
+          "prompt": "ἐὰν ___ τὸν νόμον... (coniūnctīvus praes. āct., 2ª sg., \"sī solvis\")",
+          "options": [
+            "λύῃς",
+            "λύεις",
+            "λύσῃς"
+          ],
+          "answers": [
+            "λύῃς"
+          ],
+          "explanation": "Coniūnctīvus praesentis āctīvī, 2ª sg.: λύῃς."
+        },
+        {
+          "id": "conj1h",
+          "prompt": "βούλεται ἵνα ὁ δοῦλος ___. (coniūnctīvus aor. pass., 3ª sg., \"solvātur\")",
+          "options": [
+            "λυθῇ",
+            "λύηται",
+            "ἐλύθη"
+          ],
+          "answers": [
+            "λυθῇ"
+          ],
+          "explanation": "Coniūnctīvus aoristī passīvī, 3ª sg.: λυθῇ."
+        },
+        {
+          "id": "conj1i",
+          "prompt": "___ τὰς πύλας. (coniūnctīvus praes. āct., 1ª pl. hortātīvum, \"solvāmus\")",
+          "options": [
+            "λύωμεν",
+            "λύομεν",
+            "λύσωμεν"
+          ],
+          "answers": [
+            "λύωμεν"
+          ],
+          "explanation": "Coniūnctīvus praesentis āctīvī, 1ª pl.: λύωμεν."
+        },
+        {
+          "id": "conj1j",
+          "prompt": "τί ___; (coniūnctīvus praes. āct., 1ª pl. dēlīberātīvum, \"faciāmus?\")",
+          "options": [
+            "ποιῶμεν",
+            "ποιοῦμεν",
+            "ἐποιοῦμεν"
+          ],
+          "answers": [
+            "ποιῶμεν"
+          ],
+          "explanation": "Coniūnctīvus praesentis, verbum contractum: ποιῶμεν."
+        }
+      ]
+    },
+    {
+      "id": "v-conj1-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "conj1k",
+          "statement": "Coniūnctīvus adhibet vōcālēs thematicās longās (ω/η) ubi indicātīvus adhibet brevēs (ο/ε).",
+          "answer": true,
+          "explanation": "Corrēctum: signum morphologicum praecipuum."
+        },
+        {
+          "id": "conj1l",
+          "statement": "Coniūnctīvus aoristī habet augmentum, sīcut indicātīvus aoristī.",
+          "answer": false,
+          "explanation": "Falsum: coniūnctīvus numquam habet augmentum."
+        },
+        {
+          "id": "conj1m",
+          "statement": "Tempus coniūnctīvī (praesēns vs. aoristus) significat tempus absolūtum, sīcut in indicātīvō.",
+          "answer": false,
+          "explanation": "Falsum: significat sōlum aspectum."
+        },
+        {
+          "id": "conj1n",
+          "statement": "Coniūnctīvus aoristī āctīvī 1ª sg. (λύσω) est orthographicē identicus futūrō indicātīvō.",
+          "answer": true,
+          "explanation": "Corrēctum: ambiguitās reālis, dēsōlvenda per contextum."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Coniūnctīvus praesēns: λύω, λύῃς, λύῃ, λύωμεν, λύητε, λύωσι(ν) (āct.) — λύωμαι, λύῃ, λύηται... (med.-pass.).",
+    "Coniūnctīvus aoristī: λύσω, λύσῃς... (āct.) — λύσωμαι... (med.) — λυθῶ, λυθῇς... (pass.). Sine augmentō, semper.",
+    "Signum morphologicum: vōcālēs thematicae LONGAE (ω/η) prō brevibus (ο/ε) indicātīvī.",
+    "Tempus (praesēns/aoristus) in coniūnctīvō significat sōlum aspectum, NUMQUAM tempus absolūtum — dīversē ab indicātīvō.",
+    "Ambiguitātēs orthographicae reālēs exsistunt (coni. praes. 1ª sg. = indic. praes.; coni. aor. āct. 1ª sg. = fut. indic.) — contextus sōlus dēclārat modum."
+  ],
+  "related": [
+    {
+      "lessonId": "v-usus-coniunctivi-hortativus-et-prohibitivus",
+      "label": "Ūsus Coniūnctīvī"
+    },
+    {
+      "lessonId": "v-optativus-formae",
+      "label": "Optātīvus: Fōrmae"
+    }
+  ]
+}

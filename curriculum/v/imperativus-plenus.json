@@ -1,0 +1,249 @@
+{
+  "id": "v-imperativus-plenus",
+  "level": "V",
+  "unit": "1",
+  "order": 9,
+  "skill": "grammatica",
+  "strand": "imperativus",
+  "title": "Imperātīvus Plēnus",
+  "subtitle": "Imperātīvus praesēns et aoristī, 2ª/3ª persōna, omnēs vōcēs — inclūsā 3ª persōnā (\"faciat ille\"), absentī ā Latīnō; cōnspectus fīnālis systēmatis modōrum.",
+  "prerequisites": [
+    "v-interrogationes-obliquae"
+  ],
+  "objectives": [
+    "Coniugāre plēnē imperātīvum praesēns āctīvum verbī λύω (2ª/3ª persōna, utrōque numerō)",
+    "Coniugāre plēnē imperātīvum aoristī āctīvum, medium, et passīvum",
+    "Explicāre 3ª persōnam imperātīvī (\"faciat ille!\"), fōrma absēns ā Latīnō (quod adhibet coniūnctīvum hīc)",
+    "Concludere Gradum V: sentīre systēma modōrum Graecum (indicātīvus, coniūnctīvus, optātīvus, imperātīvus) plēnē integrātum"
+  ],
+  "content": {
+    "intro": "Ultima lēctiō Gradūs V complet systēma modōrum: imperātīvus plēnus, cum omnibus persōnīs (2ª ET 3ª, dīversē ā Latīnō quod adhibet coniūnctīvum prō 3ā persōnā commandī) et ambōbus temporibus (praesēns/aoristus, sīcut coniūnctīvus/optātīvus, distinguentia aspectum, nōn tempus absolūtum).",
+    "explanation": "<p>Imperātīvus Graecus habet fōrmam PROPRIAM prō 3ā persōnā (\"faciat ille/illa/illud!\", \"faciant illī!\") — Latīnum, contrā, adhibet coniūnctīvum hortātīvum hīc (\"faciat\"), nōn imperātīvum vērum. Discrīmen aspectuāle praesēns/aoristus applicātur exāctē sīcut in coniūnctīvō prohibitīvō (Gradū V, lēctiō 2): praesēns prō commandō generālī/continuō, aoristus prō commandō simplicī/ūnīus āctūs.</p>",
+    "rules": [
+      {
+        "heading": "a) Imperātīvus Praesēns Āctīvus",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Persōna</th><th>Singulāris</th><th>Plūrālis</th></tr></thead><tbody><tr><td>2ª</td><td class=\"greek\">λῦε</td><td class=\"greek\">λύετε</td></tr><tr><td>3ª</td><td class=\"greek\">λυέτω</td><td class=\"greek\">λυέτωσαν</td></tr></tbody></table><p>2ª sg. <span class=\"greek\">λῦε</span> iam vīsa (Gradū II, prohibitiō μὴ λῦε). 3ª persōna (\"faciat ille!\") fīnītur -τω/-τωσαν, fōrma absēns ā Latīnō.</p>"
+      },
+      {
+        "heading": "b) Imperātīvus Aoristī: Āctīvus, Medius, Passīvus",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Persōna</th><th>Āctīvum</th><th>Medium</th><th>Passīvum</th></tr></thead><tbody><tr><td>2ª sg.</td><td class=\"greek\">λῦσον</td><td class=\"greek\">λῦσαι</td><td class=\"greek\">λύθητι</td></tr><tr><td>3ª sg.</td><td class=\"greek\">λυσάτω</td><td class=\"greek\">λυσάσθω</td><td class=\"greek\">λυθήτω</td></tr><tr><td>2ª pl.</td><td class=\"greek\">λύσατε</td><td class=\"greek\">λύσασθε</td><td class=\"greek\">λύθητε</td></tr></tbody></table><p><strong>Attentiō:</strong> imperātīvus aoristī medius 2ª sg. (<span class=\"greek\">λῦσαι</span>) est ORTHOGRAPHICĒ IDENTICUS īnfīnītīvō aoristī āctīvī (<span class=\"greek\">λῦσαι</span>, Gradū IV)! Tertia ambiguitās notābilis huius generis (comparā coniūnctīvum praesentis/aoristī, Gradū V priōre) — contextus sōlus dēclārat.</p>"
+      },
+      {
+        "heading": "c) Cōnspectus Fīnālis: Systēma Modōrum Graecum",
+        "body": "<p>Gradus V complet systēma quattuor modōrum fīnītōrum: <strong>indicātīvus</strong> (factum, tempus absolūtum, augmentum, Gradibus I-IV), <strong>coniūnctīvus</strong> (possibilitās probābilis, sine augmentō, aspectus sōlum), <strong>optātīvus</strong> (possibilitās remōtior/oblīqua, sine augmentō, aspectus sōlum), <strong>imperātīvus</strong> (commandum, sine augmentō, aspectus sōlum, cum 2ª/3ā persōnā). Cum syntaxī clausulārum (fīnālium, cōnsecūtīvārum, condiciōnālium, interrogātiōnum oblīquārum) et systēmate verbī plēnō (Gradū IV), fundāmentum grammaticum tōtīus cursūs iam est complētum. Gradus VI/VII tē dūcent ad prōsam adaptātam et deinde authenticam.</p>"
+      }
+    ],
+    "examples": [
+      "λῦε τὸν δοῦλον. — Solve servum! (2ª sg. praes., commandum generāle)",
+      "λῦσον τὸν δοῦλον. — Solve servum [nunc, semel]! (2ª sg. aor., commandum simplex)",
+      "λυέτω ὁ δοῦλος τὰς πύλας. — Solvat servus portās! (3ª sg., fōrma absēns ā Latīnō)",
+      "λύσατε τοὺς αἰχμαλώτους. — Solvite captīvōs! (2ª pl. aor.)",
+      "λύθητι, ὦ δοῦλε. — Solvere/līberāre, ō serve! (2ª sg. aor. pass.)",
+      "μὴ λύσῃς, ἀλλὰ λῦσον αὔριον. — Nōlī solvere [nunc], sed solve crās! (prohibitīvum coni. vs. imperātīvus aor. positīvum)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Adhibēre coniūnctīvum hortātīvum prō commandō 3ae persōnae, imitandō Latīnum, ubi imperātīvus vērus Graecus exsistit.",
+        "right": "Adhibēre fōrmam imperātīvī propriam 3ae persōnae (-τω/-τωσαν) — Graecum, dīversē ā Latīnō, habet imperātīvum vērum hīc.",
+        "why": "Discrīmen systēmaticum inter linguās: Latīnum caret imperātīvō 3ae persōnae, Graecum nōn."
+      },
+      {
+        "wrong": "Cōnfundere λῦσαι (imperātīvus aoristī medius, 2ª sg.) cum λῦσαι (īnfīnītīvus aoristī āctīvus), crēdēns errōrem scrīptūrae.",
+        "right": "Distinguere per contextum syntacticum: sī fōrma stat sōla ut commandum, est imperātīvus; sī dēpendet ā verbō auxiliārī/regente, est īnfīnītīvus.",
+        "why": "Ambiguitās orthographica reālis, tertia et ultima huius generis vīsa in hōc gradū (comparā coniūnctīvum, Gradū V priōre)."
+      },
+      {
+        "wrong": "Crēdere discrīmen praesēns/aoristus in imperātīvō significāre tempus absolūtum, nōn aspectum.",
+        "right": "Applicāre eandem logicam aspectuālem ac coniūnctīvus/optātīvus: praesēns = commandum generāle/continuum; aoristus = commandum simplex/ūnīus āctūs.",
+        "why": "Prīncipium “tempus in modīs nōn-indicātīvīs = aspectus, nōn tempus absolūtum” applicātur ūniversāliter per hunc gradum."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "v-imp1-mc",
+      "type": "multiple-choice",
+      "title": "Imperātīvus Plēnus: Rēgulae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "imp1a",
+          "prompt": "Habet Graecum fōrmam imperātīvī propriam prō 3ā persōnā?",
+          "options": [
+            "nōn, sīcut Latīnum",
+            "sīc, dīversē ā Latīnō",
+            "sōlum in aoristō"
+          ],
+          "answerIndex": 1,
+          "explanation": "Graecum habet imperātīvum vērum 3ae persōnae, absēns ā Latīnō."
+        },
+        {
+          "id": "imp1b",
+          "prompt": "Quid significat discrīmen praesēns/aoristus in imperātīvō?",
+          "options": [
+            "tempus absolūtum",
+            "aspectum (generāle/continuum vs. simplex)",
+            "vōcem (āctīva vs. media)"
+          ],
+          "answerIndex": 1,
+          "explanation": "Sequitur eandem logicam aspectuālem ac coniūnctīvus/optātīvus."
+        },
+        {
+          "id": "imp1c",
+          "prompt": "Cum quā fōrmā est orthographicē identicus imperātīvus aoristī medius 2ª sg. (λῦσαι)?",
+          "options": [
+            "indicātīvus aoristī",
+            "īnfīnītīvus aoristī āctīvī",
+            "coniūnctīvus praesentis"
+          ],
+          "answerIndex": 1,
+          "explanation": "Λῦσαι servit ambōbus fūnctiōnibus, distīnctīs sōlum per contextum."
+        },
+        {
+          "id": "imp1d",
+          "prompt": "Quae est fōrma imperātīvī praesentis āctīvī 2ª sg.?",
+          "options": [
+            "λῦε",
+            "λῦσον",
+            "λύε τω"
+          ],
+          "answerIndex": 0,
+          "explanation": "Imperātīvus praesentis āctīvus, 2ª sg.: λῦε."
+        },
+        {
+          "id": "imp1e",
+          "prompt": "Quae est fōrma imperātīvī aoristī passīvī 2ª sg.?",
+          "options": [
+            "λύθητι",
+            "λύου",
+            "λῦσαι"
+          ],
+          "answerIndex": 0,
+          "explanation": "Imperātīvus aoristī passīvī, 2ª sg.: λύθητι."
+        }
+      ]
+    },
+    {
+      "id": "v-imp1-fill",
+      "type": "fill-blank",
+      "title": "Complē cum Fōrmā Rēctā",
+      "instructions": "Comple spatia cum fōrmā rēctā imperātīvī.",
+      "items": [
+        {
+          "id": "imp1f",
+          "prompt": "___ τὸν δοῦλον. (2ª sg. imp. praes. āct., \"solve [generāliter]\")",
+          "options": [
+            "λῦε",
+            "λῦσον",
+            "λύεις"
+          ],
+          "answers": [
+            "λῦε"
+          ],
+          "explanation": "Imperātīvus praesentis āctīvus, 2ª sg.: λῦε."
+        },
+        {
+          "id": "imp1g",
+          "prompt": "___ τὸν δοῦλον νῦν. (2ª sg. imp. aor. āct., \"solve nunc [semel]\")",
+          "options": [
+            "λῦσον",
+            "λῦε",
+            "ἔλυσον"
+          ],
+          "answers": [
+            "λῦσον"
+          ],
+          "explanation": "Imperātīvus aoristī āctīvus, 2ª sg.: λῦσον."
+        },
+        {
+          "id": "imp1h",
+          "prompt": "___ ὁ δοῦλος τὰς πύλας. (3ª sg. imp. praes., \"solvat\")",
+          "options": [
+            "λυέτω",
+            "λύει",
+            "λύσῃ"
+          ],
+          "answers": [
+            "λυέτω"
+          ],
+          "explanation": "Imperātīvus praesentis, 3ª sg.: λυέτω."
+        },
+        {
+          "id": "imp1i",
+          "prompt": "___ τοὺς αἰχμαλώτους. (2ª pl. imp. aor., \"solvite\")",
+          "options": [
+            "λύσατε",
+            "λύετε",
+            "ἐλύσατε"
+          ],
+          "answers": [
+            "λύσατε"
+          ],
+          "explanation": "Imperātīvus aoristī āctīvus, 2ª pl.: λύσατε."
+        },
+        {
+          "id": "imp1j",
+          "prompt": "___ , ὦ δοῦλε. (2ª sg. imp. aor. pass., \"solvere/līberāre\")",
+          "options": [
+            "λύθητι",
+            "λύου",
+            "λελύσθω"
+          ],
+          "answers": [
+            "λύθητι"
+          ],
+          "explanation": "Imperātīvus aoristī passīvī, 2ª sg.: λύθητι."
+        }
+      ]
+    },
+    {
+      "id": "v-imp1-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "imp1k",
+          "statement": "Graecum, dīversē ā Latīnō, habet fōrmam imperātīvī vēram prō 3ā persōnā.",
+          "answer": true,
+          "explanation": "Corrēctum: Latīnum adhibet coniūnctīvum hīc; Graecum, imperātīvum verum."
+        },
+        {
+          "id": "imp1l",
+          "statement": "Imperātīvus aoristī medius 2ª sg. et īnfīnītīvus aoristī āctīvus sunt orthographicē identicī (λῦσαι).",
+          "answer": true,
+          "explanation": "Corrēctum: ambiguitās reālis, dēsōlvenda contextū."
+        },
+        {
+          "id": "imp1m",
+          "statement": "Discrīmen praesēns/aoristus in imperātīvō significat tempus absolūtum, sīcut in indicātīvō.",
+          "answer": false,
+          "explanation": "Falsum: significat aspectum, sīcut in coniūnctīvō/optātīvō."
+        },
+        {
+          "id": "imp1n",
+          "statement": "Cum Gradū V complētō, discipulus habet nunc systēma quattuor modōrum fīnītōrum Graecōrum plēnē.",
+          "answer": true,
+          "explanation": "Corrēctum: indicātīvus, coniūnctīvus, optātīvus, imperātīvus."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Imperātīvus praesēns āctīvus: λῦε, λυέτω // λύετε, λυέτωσαν.",
+    "Imperātīvus aoristī: λῦσον/λυσάτω (āct.), λῦσαι/λυσάσθω (med.), λύθητι/λυθήτω (pass.).",
+    "Graecum habet imperātīvum vērum 3ae persōnae (\"faciat ille!\"), absēns ā Latīnō (quod adhibet coniūnctīvum hīc).",
+    "Discrīmen praesēns/aoristus in imperātīvō = aspectus (generāle vs. simplex), nōn tempus absolūtum.",
+    "Gradus V complet systēma quattuor modōrum fīnītōrum: indicātīvus, coniūnctīvus, optātīvus, imperātīvus — fundāmentum plēnum prō prōsā adaptātā (Gradus VI) et authenticā (Gradus VII)."
+  ],
+  "related": [
+    {
+      "lessonId": "v-interrogationes-obliquae",
+      "label": "Interrogātiōnēs Oblīquae"
+    },
+    {
+      "lessonId": "v-usus-coniunctivi-hortativus-et-prohibitivus",
+      "label": "Ūsus Coniūnctīvī"
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "id": "v-usus-coniunctivi-hortativus-et-prohibitivus",
+  "level": "V",
+  "unit": "1",
+  "order": 2,
+  "skill": "grammatica",
+  "strand": "coniunctivus",
+  "title": "Ūsus Coniūnctīvī: Hortātīvus, Prohibitīvus, Dēlīberātīvus",
+  "subtitle": "Trēs ūsūs coniūnctīvī indepēndentis (sine clausulā subōrdinātā): hortātīvus (\"solvāmus\"), prohibitīvus (μή + coni. aor., \"nōlī solvere\"), dēlīberātīvus (\"quid faciam?\").",
+  "prerequisites": [
+    "v-coniunctivus-praesens-et-aoristi"
+  ],
+  "objectives": [
+    "Formāre et adhibēre coniūnctīvum hortātīvum (1ª persōna plūrālis, \"solvāmus\")",
+    "Formāre et adhibēre coniūnctīvum prohibitīvum (μή + coniūnctīvus aoristī 2ª/3ª persōnae, \"nōlī facere\")",
+    "Distinguere prohibitiōnem cum coniūnctīvō aoristī (āctiō nōn incohanda) ā prohibitiōne cum imperātīvō praesentis (āctiō iam incohāta, dēsinenda) — discrīmen aspectuāle notābile",
+    "Formāre et adhibēre coniūnctīvum dēlīberātīvum (interrogātiō dē quō faciendum sit)"
+  ],
+  "content": {
+    "intro": "Coniūnctīvus nōn adhibētur sōlum in clausulīs subōrdinātīs (quās proximīs lēctiōnibus vidēbis) — habet quoque trēs ūsūs INDEPENDĒNTĒS, id est, in clausulā prīncipālī ipsā, sine ūllā particulā subōrdinātīvā: hortātīvus (exhortātiō), prohibitīvus (vetitum negātīvum), et dēlīberātīvus (quaestiō dubitātīva).",
+    "explanation": "<p>Hī trēs ūsūs partagant ūnam prōprietātem: coniūnctīvus hīc fūnctiōnat ferē sīcut imperātīvus/voluntās exprimēns, nōn sīcut pars clausulae subōrdinātae. Discrīmen inter eōs est PERSŌNA (1ª prō hortātīvō, 2ª/3ª prō prohibitīvō, quaelibet prō dēlīberātīvō) et sēnsus (exhortātiō/prohibitiō/dubitātiō).</p>",
+    "rules": [
+      {
+        "heading": "a) Coniūnctīvus Hortātīvus",
+        "body": "<p>1ª persōna (singulāris rārō, plūrālis frequēns) coniūnctīvī, exprimēns exhortātiōnem “-āmus/-eāmus” Latīnē: <span class=\"greek\">λύωμεν τὸν δοῦλον</span> “solvāmus servum!”. Negātiō: <span class=\"greek\">μὴ λύωμεν</span> “nē solvāmus” (nōlīmus solvere). Aspectus (praesēns/aoristus) valet sīcut alibi: coniūnctīvus praesentis prō āctiōne continuā/repetītā, aoristī prō āctiōne simplicī.</p>"
+      },
+      {
+        "heading": "b) Coniūnctīvus Prohibitīvus (μή + Coni. Aor.)",
+        "body": "<p>Prohibitiō (“nōlī facere!”) in 2ª/3ā persōnā adhibet <span class=\"greek\">μή</span> + coniūnctīvum AORISTĪ (nōn imperātīvum aoristī, quī nōn exsistit in hōc ūsū negātīvō): <span class=\"greek\">μὴ λύσῃς τὸν δοῦλον</span> “nōlī solvere servum!” (āctiō nōndum incohāta, prohibita omnīnō). Comparā cum <span class=\"greek\">μὴ λῦε τὸν δοῦλον</span> (μή + IMPERĀTĪVUM praesentis, nōn coniūnctīvum): “dēsine solvere servum!” vel “nōlī solēre solvere servum” (āctiō iam in prōgressū, vel habitus, quam dēbet dēsinī vel ēvītārī repetītē) — discrīmen aspectuāle subtīlis sed reālis inter duās cōnstrūctiōnēs prohibitiōnis.</p>"
+      },
+      {
+        "heading": "c) Coniūnctīvus Dēlīberātīvus",
+        "body": "<p>In quaestiōnibus dīrēctīs exprimentibus dubitātiōnem/dēlīberātiōnem (“quid faciam?”, nōn simplex quaestiō dē factō): <span class=\"greek\">τί ποιῶμεν;</span> “quid faciāmus?” (dubitantēs, quaerentēs cōnsilium). Comparā cum indicātīvō simplicī: <span class=\"greek\">τί ποιοῦμεν;</span> “quid facimus [nunc, ut factum]?” — discrīmen inter dubitātiōnem/dēlīberātiōnem (coniūnctīvus) et quaestiōnem simplicem dē factō (indicātīvus).</p>"
+      }
+    ],
+    "examples": [
+      "λύωμεν τὰς πύλας. — Solvāmus portās! (hortātīvus)",
+      "μὴ λύσῃς τὸν νόμον. — Nōlī solvere/abrogāre lēgem [numquam]! (prohibitīvus, coni. aor.)",
+      "μὴ λῦε τὸν δοῦλον. — Dēsine solvere servum! [iam in āctū] (imperātīvus praesentis + μή)",
+      "τί ποιῶμεν, ὦ φίλοι; — Quid faciāmus, amīcī? (dēlīberātīvus)",
+      "μὴ φοβώμεθα. — Nē timeāmus. (hortātīvus negātīvus)",
+      "ποῖ τραπώμεθα; — Quō nōs vertāmus? (dēlīberātīvus, aoristus)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Adhibēre μή + coniūnctīvum PRAESENTIS (potius quam aoristī) in prohibitiōne dē āctiōne nōndum incohātā.",
+        "right": "Adhibēre μή + coniūnctīvum AORISTĪ prō prohibitiōne generālī (nōlī umquam facere), reservandō μή + imperātīvum praesentis prō āctiōne iam in prōgressū.",
+        "why": "Discrīmen aspectuāle inter duās cōnstrūctiōnēs prohibitiōnis est syntactica convention fīxa, nōn optiō lībera."
+      },
+      {
+        "wrong": "Cōnfundere coniūnctīvum dēlīberātīvum cum quaestiōne simplicī indicātīvā, ignōrandō nuance dubitātiōnis.",
+        "right": "Adhibēre coniūnctīvum sōlum cum quaestiō genuīnē exprimit dubitātiōnem/dēlīberātiōnem dē cursū āctiōnis, nōn quaestiōnem simplicem dē factō.",
+        "why": "Discrīmen τί ποιῶμεν; (dēlīberātīvum) vs. τί ποιοῦμεν; (simplex) mūtat implicātiōnem prāgmaticam tōtīus enūntiātī."
+      },
+      {
+        "wrong": "Applicāre coniūnctīvum hortātīvum ad 2ª/3ª persōnās, cōnfundendō cum imperātīvō vērō.",
+        "right": "Reservāre coniūnctīvum hortātīvum prō 1ª persōnā (praesertim plūrālī); imperātīvus vērus (lēctiō futūra) servit 2ae/3ae persōnīs.",
+        "why": "Systēma commandī Graecum distribuit persōnās inter duōs modōs (coniūnctīvus prō 1ª, imperātīvus prō 2ª/3ª), dīversē ā Latīnō (quod adhibet coniūnctīvum prō omnibus in exhortātiōne)."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "v-usu1-mc",
+      "type": "multiple-choice",
+      "title": "Ūsūs Coniūnctīvī: Rēgulae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "usu1a",
+          "prompt": "Quam persōnam adhibet coniūnctīvus hortātīvus?",
+          "options": [
+            "2ª persōna",
+            "1ª persōna (praesertim plūrālis)",
+            "3ª persōna"
+          ],
+          "answerIndex": 1,
+          "explanation": "Hortātīvus exprimit exhortātiōnem “-āmus”, 1ª persōnā."
+        },
+        {
+          "id": "usu1b",
+          "prompt": "Quod tempus coniūnctīvī adhibētur in prohibitiōne generālī (μή + coni.)?",
+          "options": [
+            "praesēns",
+            "aoristus",
+            "perfectum"
+          ],
+          "answerIndex": 1,
+          "explanation": "Prohibitiō generālis adhibet μή + coniūnctīvum aoristī."
+        },
+        {
+          "id": "usu1c",
+          "prompt": "Quid dēscrībit μὴ λῦε (μή + imperātīvum praesentis)?",
+          "options": [
+            "prohibitiōnem generālem, sīcut coniūnctīvus",
+            "cessātiōnem āctiōnis iam in prōgressū",
+            "identicum sēnsū coniūnctīvō"
+          ],
+          "answerIndex": 1,
+          "explanation": "Imperātīvus praesentis + μή significat “dēsine facere”, dīversē ā coniūnctīvō."
+        },
+        {
+          "id": "usu1d",
+          "prompt": "Quid exprimit coniūnctīvus dēlīberātīvus?",
+          "options": [
+            "factum simplex",
+            "dubitātiōnem/dēlīberātiōnem dē cursū āctiōnis",
+            "commandum dīrēctum"
+          ],
+          "answerIndex": 1,
+          "explanation": "Dēlīberātīvus exprimit quaestiōnem dubitātīvam, nōn factum."
+        },
+        {
+          "id": "usu1e",
+          "prompt": "Quae negātiō adhibētur cum hortātīvō?",
+          "options": [
+            "οὐ",
+            "μή",
+            "οὐδέ"
+          ],
+          "answerIndex": 1,
+          "explanation": "Μή, sequēns rēgulam generālem (Gradū II) prō modīs nōn-indicātīvīs."
+        }
+      ]
+    },
+    {
+      "id": "v-usu1-fill",
+      "type": "fill-blank",
+      "title": "Complē cum Fōrmā Rēctā",
+      "instructions": "Comple spatia cum fōrmā rēctā coniūnctīvī.",
+      "items": [
+        {
+          "id": "usu1f",
+          "prompt": "___ τὰς πύλας. (hortātīvus, 1ª pl., \"solvāmus\")",
+          "options": [
+            "λύωμεν",
+            "λύσωμεν τε",
+            "λύομεν"
+          ],
+          "answers": [
+            "λύωμεν"
+          ],
+          "explanation": "Hortātīvus praesentis (āctiō generālis): λύωμεν."
+        },
+        {
+          "id": "usu1g",
+          "prompt": "μὴ ___ τὸν νόμον. (prohibitīvus, 2ª sg. aor., \"nōlī solvere\")",
+          "options": [
+            "λύσῃς",
+            "λύῃς",
+            "λῦε"
+          ],
+          "answers": [
+            "λύσῃς"
+          ],
+          "explanation": "Prohibitīvus generālis: μή + coniūnctīvus aoristī: λύσῃς."
+        },
+        {
+          "id": "usu1h",
+          "prompt": "τί ___; (dēlīberātīvus, 1ª pl., \"faciāmus?\")",
+          "options": [
+            "ποιῶμεν",
+            "ποιοῦμεν",
+            "ποιήσομεν"
+          ],
+          "answers": [
+            "ποιῶμεν"
+          ],
+          "explanation": "Dēlīberātīvus: coniūnctīvus praesentis, ποιῶμεν."
+        },
+        {
+          "id": "usu1i",
+          "prompt": "μὴ ___. (hortātīvus negātīvus, 1ª pl., \"nē timeāmus\")",
+          "options": [
+            "φοβώμεθα",
+            "φοβούμεθα",
+            "ἐφοβούμεθα"
+          ],
+          "answers": [
+            "φοβώμεθα"
+          ],
+          "explanation": "Hortātīvus negātīvus: μή + coniūnctīvus, φοβώμεθα."
+        },
+        {
+          "id": "usu1j",
+          "prompt": "μὴ ___ τὸν δοῦλον. (μή + imperātīvus praes., \"dēsine solvere\")",
+          "options": [
+            "λῦε",
+            "λύσῃς",
+            "λύειν"
+          ],
+          "answers": [
+            "λῦε"
+          ],
+          "explanation": "Cessātiō āctiōnis in prōgressū: μή + imperātīvus praesentis."
+        }
+      ]
+    },
+    {
+      "id": "v-usu1-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "usu1k",
+          "statement": "Coniūnctīvus hortātīvus adhibētur typicē in 1ª persōnā, praesertim plūrālī.",
+          "answer": true,
+          "explanation": "Corrēctum: “solvāmus” typus."
+        },
+        {
+          "id": "usu1l",
+          "statement": "Prohibitiō generālis (nōlī umquam facere) adhibet μή + imperātīvum praesentis.",
+          "answer": false,
+          "explanation": "Falsum: adhibet μή + coniūnctīvum aoristī; imperātīvus praesentis + μή significat cessātiōnem āctiōnis iam in prōgressū."
+        },
+        {
+          "id": "usu1m",
+          "statement": "Coniūnctīvus dēlīberātīvus et quaestiō indicātīva simplex significant exāctē idem.",
+          "answer": false,
+          "explanation": "Falsum: dēlīberātīvus exprimit dubitātiōnem genuīnam, distīnctam ā quaestiōne factī simplicis."
+        },
+        {
+          "id": "usu1n",
+          "statement": "Systēma Graecum distribuit commandum inter coniūnctīvum (1ª persōna) et imperātīvum (2ª/3ª persōna).",
+          "answer": true,
+          "explanation": "Corrēctum: dīversē ā Latīnō, quī adhibet coniūnctīvum etiam prō 2ª/3ā in exhortātiōnibus."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Hortātīvus (1ª pers.): λύωμεν “solvāmus!”. Negātiō: μή.",
+    "Prohibitīvus generālis (2ª/3ª pers.): μή + coniūnctīvus AORISTĪ: μὴ λύσῃς “nōlī solvere!”.",
+    "Cessātiō āctiōnis in prōgressū: μή + imperātīvus PRAESENTIS: μὴ λῦε “dēsine solvere!” — discrīmen aspectuāle, nōn optiō lībera.",
+    "Dēlīberātīvus: coniūnctīvus in quaestiōnibus dubitātīvīs: τί ποιῶμεν; “quid faciāmus?”.",
+    "Systēma commandī Graecum: coniūnctīvus prō 1ª persōnā, imperātīvus (lēctiō futūra) prō 2ª/3ā."
+  ],
+  "related": [
+    {
+      "lessonId": "v-coniunctivus-praesens-et-aoristi",
+      "label": "Coniūnctīvus Praesentis et Aoristī"
+    },
+    {
+      "lessonId": "v-imperativus-plenus",
+      "label": "Imperātīvus Plēnus"
+    }
+  ]
+}

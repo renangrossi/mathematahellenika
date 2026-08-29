@@ -1,0 +1,248 @@
+{
+  "id": "v-optativus-formae",
+  "level": "V",
+  "unit": "1",
+  "order": 3,
+  "skill": "grammatica",
+  "strand": "optativus",
+  "title": "Optātīvus: Fōrmae",
+  "subtitle": "Fōrmae modī optātīvī (signum -οι-/-ι-), praesēns et aoristus, omnēs vōcēs; modus \"magis remōtus\" quam coniūnctīvus, sine homologum plēnum Latīnum.",
+  "prerequisites": [
+    "v-usus-coniunctivi-hortativus-et-prohibitivus"
+  ],
+  "objectives": [
+    "Coniugāre plēnē optātīvum praesēns āctīvum et medium-passīvum verbī λύω",
+    "Coniugāre plēnē optātīvum aoristī āctīvum, medium, et passīvum",
+    "Identificāre signum morphologicum optātīvī: diphthongus -οι- (vel -ι- longum) īnsertum ante dēsinentiam",
+    "Explicāre relātiōnem optātīvī ad coniūnctīvum: optātīvus est \"modus magis remōtus/hypotheticus\", saepe adhibitus in sequentiā secundāriā (post verbum praeteritum) ubi coniūnctīvus servit sequentiae prīmāriae"
+  ],
+  "content": {
+    "intro": "Optātīvus (Graecē <span class=\"greek\">εὐκτική</span>, \"modus optandī\") est quārtus et ultimus modus fīnītus Graecus, sine homologum morphologicum in Latīnō classicō (quod fundit coniūnctīvum et optātīvum in ūnam categoriam). Optātīvus exprimit possibilitātem magis remōtam/hypotheticam quam coniūnctīvus, vel — ūsus syntacticus maximē frequēns — substituit coniūnctīvum in clausulīs subōrdinātīs post verbum prīncipāle PRAETERITUM (\"sequentia secundāria\").",
+    "explanation": "<p>Signum morphologicum optātīvī est diphthongus <strong>-οι-</strong> (praesēns) vel combīnātiō themae aoristī cum <strong>-ι-</strong> (aoristus), īnsertum inter thema et dēsinentiam. Sīcut coniūnctīvus, optātīvus NUMQUAM habet augmentum, et tempus (praesēns/aoristus) significat sōlum aspectum.</p>",
+    "rules": [
+      {
+        "heading": "a) Optātīvus Praesēns: λύοιμι, λυοίμην",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Persōna</th><th>Āctīvum</th><th>Medium-Passīvum</th></tr></thead><tbody><tr><td>1ª sg.</td><td class=\"greek\">λύοιμι</td><td class=\"greek\">λυοίμην</td></tr><tr><td>2ª sg.</td><td class=\"greek\">λύοις</td><td class=\"greek\">λύοιο</td></tr><tr><td>3ª sg.</td><td class=\"greek\">λύοι</td><td class=\"greek\">λύοιτο</td></tr><tr><td>1ª pl.</td><td class=\"greek\">λύοιμεν</td><td class=\"greek\">λυοίμεθα</td></tr><tr><td>2ª pl.</td><td class=\"greek\">λύοιτε</td><td class=\"greek\">λύοισθε</td></tr><tr><td>3ª pl.</td><td class=\"greek\">λύοιεν</td><td class=\"greek\">λύοιντο</td></tr></tbody></table><p>Diphthongus <span class=\"greek\">οι</span> est vīsibilis in omnī fōrmā — signum facile reconhōscibile.</p>"
+      },
+      {
+        "heading": "b) Optātīvus Aoristī: λύσαιμι, λυσαίμην, λυθείην",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Persōna</th><th>Āctīvum</th><th>Medium</th><th>Passīvum</th></tr></thead><tbody><tr><td>1ª sg.</td><td class=\"greek\">λύσαιμι</td><td class=\"greek\">λυσαίμην</td><td class=\"greek\">λυθείην</td></tr><tr><td>2ª sg.</td><td class=\"greek\">λύσειας</td><td class=\"greek\">λύσαιο</td><td class=\"greek\">λυθείης</td></tr><tr><td>3ª sg.</td><td class=\"greek\">λύσειε(ν)</td><td class=\"greek\">λύσαιτο</td><td class=\"greek\">λυθείη</td></tr></tbody></table><p>Nōtā: optātīvus aoristī āctīvus/medius adhibet <span class=\"greek\">αι</span> (nōn οι, dīversē ā praesentī) + thema aoristī; passīvus adhibet <span class=\"greek\">ει</span> longum (λυθείην, patrōnus distīnctus). Sine augmentō, semper — sōlum thema aoristī (λυσα-/λυθε-) signat aoristum.</p>"
+      },
+      {
+        "heading": "c) Optātīvus vs. Coniūnctīvus: Relātiō",
+        "body": "<p>Optātīvus est \"ūnum gradum plūs remōtum\" quam coniūnctīvus in scālā certitūdinis/probābilitātis: coniūnctīvus exprimit possibilitātem probābilem/proximam; optātīvus exprimit possibilitātem magis hypotheticam/remōtam, VEL — ūsus syntacticus maximē frequēns quem proximā lēctiōne vidēbis — substituit coniūnctīvum in clausulīs subōrdinātīs (fīnālibus, condiciōnālibus, interrogātiōnibus oblīquīs) cum verbum prīncipāle est TEMPORE PRAETERITŌ (\"sequentia secundāria\") — patrōnus systēmaticus per tōtam syntaxem Graecam.</p>"
+      }
+    ],
+    "examples": [
+      "εἴθε λύοιμι τὸν δοῦλον. — Utinam solvam servum! (optātīvus voluntātīvus, lēctiō futūra)",
+      "ἦλθεν ἵνα λύσειε τὸν δοῦλον. — Vēnit ut solveret servum. (sequentia secundāria: verbum praeteritum ἦλθεν → optātīvus, nōn coniūnctīvus)",
+      "εἴποι ἄν τις ὅτι... — Dīceret aliquis fortasse quod... (optātīvus potentiālis cum ἄν, lēctiō futūra)",
+      "ἠρώτησεν εἰ λύοιτο ὁ δοῦλος. — Rogāvit num servus solverētur. (interrogātiō oblīqua, sequentia secundāria)",
+      "εἴθε μὴ λύσαιμι τὸν νόμον. — Utinam nē solvam lēgem! (optātīvus negātīvus)",
+      "εἴθε ὁ θεὸς σώσειεν ἡμᾶς. — Utinam deus servet nōs! (aoristus optātīvī, precātiō)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Cōnfundere diphthongum -οι- optātīvī praesentis cum thematē -αι- optātīvī aoristī, applicandō ūnum prō alterō.",
+        "right": "Recordārī: praesēns optātīvus adhibet οι (λύοιμι); aoristus optātīvus āctīvus/medius adhibet αι (λύσαιμι); aoristus passīvus adhibet ει longum (λυθείην).",
+        "why": "Trēs patrōnī vōcālicī distīnctī corrēspondent tribus contextibus morphologicīs dīversīs — cōnfūsiō hīc est frequēns sine attentiōne."
+      },
+      {
+        "wrong": "Addere augmentum ad optātīvum aoristī, sīcut ad indicātīvum.",
+        "right": "Recordārī optātīvus, sīcut coniūnctīvus, NUMQUAM habet augmentum.",
+        "why": "Rēgula identica illī coniūnctīvī: nūllus modus praeter indicātīvum accipit augmentum."
+      },
+      {
+        "wrong": "Crēdere optātīvum esse modum rārum sine ūsū practicō reālī, tantum theoria abstracta.",
+        "right": "Recognōscere optātīvus est FREQUENTISSIMUS in prōsā Graecā nārrātīvā praeteritā (historiīs, dialogīs philosophicīs referentibus praeteritum) propter rēgulam sequentiae secundāriae.",
+        "why": "Discipulus quī subaestimat frequentiam optātīvī erit surprēnsus legendō prōsam authenticam (Gradibus VI/VII), ubi optātīvus appāret constanter."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "v-opt1-mc",
+      "type": "multiple-choice",
+      "title": "Optātīvus: Fōrmae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "opt1a",
+          "prompt": "Quod signum morphologicum distinguit optātīvum praesentis?",
+          "options": [
+            "diphthongus -οι-",
+            "augmentum",
+            "reduplicātiō"
+          ],
+          "answerIndex": 0,
+          "explanation": "Diphthongus οι est vīsibilis in omnī fōrmā optātīvī praesentis."
+        },
+        {
+          "id": "opt1b",
+          "prompt": "Quod vōcālicum patrōnum adhibet optātīvus aoristī āctīvī/mediī?",
+          "options": [
+            "οι",
+            "αι",
+            "ει"
+          ],
+          "answerIndex": 1,
+          "explanation": "Optātīvus aoristī āctīvī/mediī adhibet αι (λύσαιμι), dīversē ā praesentī (οι)."
+        },
+        {
+          "id": "opt1c",
+          "prompt": "Habet optātīvus augmentum in themate aoristī?",
+          "options": [
+            "sīc, semper",
+            "numquam",
+            "sōlum in vōce mediā"
+          ],
+          "answerIndex": 1,
+          "explanation": "Optātīvus, sīcut coniūnctīvus, numquam habet augmentum."
+        },
+        {
+          "id": "opt1d",
+          "prompt": "Quandō substituit optātīvus coniūnctīvum in clausulā subōrdinātā?",
+          "options": [
+            "semper, sine ratiōne",
+            "cum verbum prīncipāle est tempore praeteritō (sequentia secundāria)",
+            "numquam, sunt omnīnō indepēndentēs"
+          ],
+          "answerIndex": 1,
+          "explanation": "Sequentia secundāria (verbum praeteritum) requīrit optātīvum prō coniūnctīvō, patrōnus systēmaticus."
+        },
+        {
+          "id": "opt1e",
+          "prompt": "Quae est fōrma optātīvī aoristī passīvī 1ª sg. verbī λύω?",
+          "options": [
+            "λυθείην",
+            "λυθῶ",
+            "ἐλύθην"
+          ],
+          "answerIndex": 0,
+          "explanation": "Optātīvus aoristī passīvī: λυθείην (patrōnus ει longum)."
+        }
+      ]
+    },
+    {
+      "id": "v-opt1-fill",
+      "type": "fill-blank",
+      "title": "Complē cum Fōrmā Rēctā",
+      "instructions": "Comple spatia cum fōrmā rēctā optātīvī.",
+      "items": [
+        {
+          "id": "opt1f",
+          "prompt": "εἴθε ___ τὸν δοῦλον. (optātīvus praes. āct., 1ª sg., \"utinam solvam\")",
+          "options": [
+            "λύοιμι",
+            "λύω",
+            "λύσαιμι"
+          ],
+          "answers": [
+            "λύοιμι"
+          ],
+          "explanation": "Optātīvus praesentis āctīvī, 1ª sg.: λύοιμι."
+        },
+        {
+          "id": "opt1g",
+          "prompt": "ἦλθεν ἵνα ___ τὸν δοῦλον. (optātīvus aor. āct., 3ª sg., \"ut solveret\")",
+          "options": [
+            "λύσειε(ν)",
+            "λύσῃ",
+            "λύοι"
+          ],
+          "answers": [
+            "λύσειε(ν)"
+          ],
+          "explanation": "Optātīvus aoristī āctīvī, 3ª sg. (sequentia secundāria): λύσειε(ν)."
+        },
+        {
+          "id": "opt1h",
+          "prompt": "ἠρώτησεν εἰ ὁ δοῦλος ___. (optātīvus praes. pass., 3ª sg., \"solverētur\")",
+          "options": [
+            "λύοιτο",
+            "λύηται",
+            "λυθείη"
+          ],
+          "answers": [
+            "λύοιτο"
+          ],
+          "explanation": "Optātīvus praesentis mediī-passīvī, 3ª sg.: λύοιτο."
+        },
+        {
+          "id": "opt1i",
+          "prompt": "εἴθε ὁ θεὸς ___ ἡμᾶς. (optātīvus aor. āct., 3ª sg., \"servet\")",
+          "options": [
+            "σώσειε(ν)",
+            "σῴζοι",
+            "σώσῃ"
+          ],
+          "answers": [
+            "σώσειε(ν)"
+          ],
+          "explanation": "Optātīvus aoristī āctīvī, 3ª sg.: σώσειε(ν) (patrōnus -ειε)."
+        },
+        {
+          "id": "opt1j",
+          "prompt": "εἴθε μὴ ___. (optātīvus aor. pass., 1ª sg., \"nē solūtus sim\")",
+          "options": [
+            "λυθείην",
+            "λυθῶ",
+            "λυοίμην"
+          ],
+          "answers": [
+            "λυθείην"
+          ],
+          "explanation": "Optātīvus aoristī passīvī, 1ª sg.: λυθείην."
+        }
+      ]
+    },
+    {
+      "id": "v-opt1-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "opt1k",
+          "statement": "Optātīvus praesentis adhibet diphthongum οι, ubi optātīvus aoristī āctīvī/mediī adhibet αι.",
+          "answer": true,
+          "explanation": "Corrēctum: duo patrōnī vōcālicī distīnctī."
+        },
+        {
+          "id": "opt1l",
+          "statement": "Latīnum classicum habet modum morphologicē distīnctum, homologum optātīvō Graecō.",
+          "answer": false,
+          "explanation": "Falsum: Latīnum fundit coniūnctīvum et optātīvum in ūnam categoriam morphologicam."
+        },
+        {
+          "id": "opt1m",
+          "statement": "Optātīvus est modus rārus, sine ūsū frequentī in prōsā Graecā.",
+          "answer": false,
+          "explanation": "Falsum: est frequentissimus in nārrātiōne praeteritā, propter sequentiam secundāriam."
+        },
+        {
+          "id": "opt1n",
+          "statement": "Sīcut coniūnctīvus, optātīvus numquam accipit augmentum.",
+          "answer": true,
+          "explanation": "Corrēctum: rēgula identica ambōbus modīs nōn-indicātīvīs."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Optātīvus praesēns: λύοιμι, λύοις, λύοι, λύοιμεν, λύοιτε, λύοιεν (āct.) — λυοίμην, λύοιο, λύοιτο... (med.-pass.).",
+    "Optātīvus aoristī: λύσαιμι, λύσειας, λύσειε(ν)... (āct., patrōnus αι/ει) — λυσαίμην (med.) — λυθείην (pass., patrōnus ει longum).",
+    "Signum morphologicum: -οι- (praesēns), -αι- (aoristus āct./med.), -ει- longum (aoristus pass.). Sine augmentō, semper.",
+    "Optātīvus substituit coniūnctīvum in clausulīs subōrdinātīs post verbum prīncipāle PRAETERITUM (\"sequentia secundāria\") — ūsus systēmaticus et frequentissimus."
+  ],
+  "related": [
+    {
+      "lessonId": "v-usus-coniunctivi-hortativus-et-prohibitivus",
+      "label": "Ūsus Coniūnctīvī"
+    },
+    {
+      "lessonId": "v-optativus-usus-obliquus-et-voluntativus",
+      "label": "Optātīvus: Ūsūs"
+    }
+  ]
+}

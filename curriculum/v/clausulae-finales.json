@@ -1,0 +1,248 @@
+{
+  "id": "v-clausulae-finales",
+  "level": "V",
+  "unit": "1",
+  "order": 5,
+  "skill": "grammatica",
+  "strand": "clausulae",
+  "title": "Clausulae Fīnālēs",
+  "subtitle": "Ἵνα, ὡς, ὅπως + coniūnctīvus (sequentia prīmāria) / optātīvus (sequentia secundāria); μή prō negātiōne; comparātiō cum ut/nē Latīnō.",
+  "prerequisites": [
+    "v-optativus-usus-obliquus-et-voluntativus"
+  ],
+  "objectives": [
+    "Cōnstruere clausulās fīnālēs cum ἵνα, ὡς, vel ὅπως + coniūnctīvus/optātīvus, applicandō rēgulam sequentiae (Gradū V priōre)",
+    "Negāre clausulam fīnālem correcte cum μή (nōn μὴ ἵνα)",
+    "Comparāre cōnstrūctiōnem Graecam dīrēctē cum ut/nē + coniūnctīvō Latīnō",
+    "Distinguere trēs particulās fīnālēs (ἵνα, ὡς, ὅπως) et ūsum stilisticum eōrum"
+  ],
+  "content": {
+    "intro": "Clausula fīnālis exprimit propositum/fīnem āctiōnis (“ut faciam”, “ne faciam”) — cōnstrūctiō quam discipulus Latīnē doctus iam nōvit perfectē (ut/nē + coniūnctīvus). Graecum adhibet trēs particulās possibilēs (<span class=\"greek\">ἵνα, ὡς, ὅπως</span>, omnēs “ut”) plus coniūnctīvum vel optātīvum, secundum rēgulam sequentiae iam plēnē explicātam.",
+    "explanation": "<p><span class=\"greek\">Ἵνα</span> est particula fīnālis maximē commūnis in prōsā Atticā classicā; <span class=\"greek\">ὡς</span> et <span class=\"greek\">ὅπως</span> sunt alternātīvae stilisticae, frequentiōrēs in poēsī vel auctōribus particulāribus (ὅπως praesertim apud Xenophontem). Nūllum discrīmen sēmanticum reāle inter trēs — sōlum praeferentia stilistica/auctōris.</p>",
+    "rules": [
+      {
+        "heading": "a) Fōrmātiō Fundāmentālis",
+        "body": "<table class=\"ref-table\"><thead><tr><th>Sequentia</th><th>Cōnstrūctiō</th><th>Exemplum</th></tr></thead><tbody><tr><td>Prīmāria (praes./fut./perf.)</td><td>ἵνα/ὡς/ὅπως + coniūnctīvus</td><td class=\"greek\">ἔρχεται ἵνα μάθῃ</td></tr><tr><td>Secundāria (imperf./aor./plūsq.)</td><td>ἵνα/ὡς/ὅπως + optātīvus</td><td class=\"greek\">ἦλθεν ἵνα μάθοι</td></tr></tbody></table><p>“Venit ut discat” (prīmāria) vs. “vēnit ut disceret” (secundāria) — cōnstrūctiō ipsa (particula + modus) est exāctē analoga Latīnō ut/nē + coniūnctīvō praesentī/imperfectō, cum discrīmine sōlum in nōminibus modōrum (coniūnctīvus Latīnus servit ambābus sequentiīs; Graecum distinguit coniūnctīvum/optātīvum).</p>"
+      },
+      {
+        "heading": "b) Negātiō: Μή (Nōn Μὴ Ἵνα)",
+        "body": "<p>Clausula fīnālis negātīva adhibet <span class=\"greek\">ἵνα μή</span> (vel simpliciter <span class=\"greek\">μή</span> sōla, sine ἵνα, in aliquibus cōnstrūctiōnibus): <span class=\"greek\">ἔρχεται ἵνα μὴ λύσῃ τὸν νόμον</span> “venit nē solvat/abrogāret lēgem” (litt. “ut nōn solvat”). Comparā Latīnum nē (particula negātīva propria) — Graecum nōn habet particulam fīnālem negātīva sēparātam, sōlum ἵνα + μή combīnāta.</p>"
+      },
+      {
+        "heading": "c) Verba Timendī: Ūsus Speciālis",
+        "body": "<p>Post verba timendī (<span class=\"greek\">φοβοῦμαι</span>, “timeō”), <span class=\"greek\">μή</span> (SINE ἵνα) + coniūnctīvus/optātīvus significat “timeō NĒ...” (i.e., timeō QUOD FACTUM SIT/FĪAT): <span class=\"greek\">φοβοῦμαι μὴ ἔλθῃ ὁ πολέμιος</span> “timeō nē hostis veniat”. Hoc est cōnstrūctiō speciālis, distīncta ā clausulā fīnālī normālī, sed morphologicē similis.</p>"
+      }
+    ],
+    "examples": [
+      "ἔρχεται ἵνα μάθῃ τὴν ἀλήθειαν. — Venit ut discat vēritātem. (coni., prīmāria)",
+      "ἦλθεν ἵνα μάθοι τὴν ἀλήθειαν. — Vēnit ut disceret vēritātem. (opt., secundāria)",
+      "λέγει ὡς μὴ φοβώμεθα. — Loquitur ut nē timeāmus. (ὡς, negātīvum)",
+      "ταῦτα ἐποίησεν ὅπως σωθείη ἡ πόλις. — Haec fēcit ut urbs servārētur. (ὅπως, opt. pass., secundāria)",
+      "φοβοῦμαι μὴ ἔλθῃ ὁ πολέμιος. — Timeō nē hostis veniat. (verbum timendī, μή sine ἵνα)",
+      "παρεσκευάζοντο ἵνα μὴ ἁλῷεν. — Sē parābant nē caperentur. (secundāria, verbum dēpōnēns)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Adhibēre ἵνα οὐ prō clausulā fīnālī negātīvā, applicandō rēgulam indicātīvī οὐ incorrēcte.",
+        "right": "Adhibēre semper ἵνα μή (vel μή sōla) in clausulā fīnālī, sequēns rēgulam generālem οὐ/μή (Gradū II) prō modīs nōn-indicātīvīs.",
+        "why": "Clausula fīnālis nōn affirmat factum indicātīvum; adhibet coniūnctīvum/optātīvum, ergō requīrit μή."
+      },
+      {
+        "wrong": "Adhibēre coniūnctīvum sine cōnsīderāre tempus verbī prīncipālis, ignōrandō rēgulam sequentiae.",
+        "right": "Applicāre semper rēgulam sequentiae (Gradū V priōre): verbum praeteritum → optātīvus praeferēns in clausulā fīnālī.",
+        "why": "Error hīc mūtat correctitūdinem grammaticam, quamvīs sēnsus generālis remaneat comprehēnsibilis."
+      },
+      {
+        "wrong": "Trānsferre ἵνα μή post verbum timendī sīcut sī esset clausula fīnālis normālis (\"ut nē\"), potius quam sēnsū speciālī (\"timeō quod\").",
+        "right": "Recognōscere μή post φοβοῦμαι (sine ἵνα) significat \"timeō NĒ/QUOD\", cōnstrūctiō speciālis distīncta.",
+        "why": "Cōnstrūctiō verbōrum timendī est morphologicē similis sed sēmanticē distīncta ā clausulā fīnālī normālī."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "v-fin1-mc",
+      "type": "multiple-choice",
+      "title": "Clausulae Fīnālēs: Rēgulae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "fin1a",
+          "prompt": "Quae particulae possunt intrōdūcere clausulam fīnālem?",
+          "options": [
+            "ἵνα sōla",
+            "ἵνα, ὡς, vel ὅπως",
+            "ὅτι sōla"
+          ],
+          "answerIndex": 1,
+          "explanation": "Trēs particulae sunt possibilēs, sine discrīmine sēmanticō reālī."
+        },
+        {
+          "id": "fin1b",
+          "prompt": "Quae negātiō adhibētur in clausulā fīnālī?",
+          "options": [
+            "οὐ",
+            "μή",
+            "οὐδέ"
+          ],
+          "answerIndex": 1,
+          "explanation": "Clausula fīnālis, sīcut cēterae cōnstrūctiōnēs nōn-indicātīvae, adhibet μή."
+        },
+        {
+          "id": "fin1c",
+          "prompt": "Quid significat μή sōla (sine ἵνα) post φοβοῦμαι?",
+          "options": [
+            "\"nē timeam\"",
+            "\"timeō nē/quod\"",
+            "nihil speciāle"
+          ],
+          "answerIndex": 1,
+          "explanation": "Cōnstrūctiō speciālis verbōrum timendī."
+        },
+        {
+          "id": "fin1d",
+          "prompt": "Quod modum adhibet clausula fīnālis post verbum prīncipāle aoristum?",
+          "options": [
+            "coniūnctīvum",
+            "optātīvum (praeferēns)",
+            "indicātīvum"
+          ],
+          "answerIndex": 1,
+          "explanation": "Sequentia secundāria → optātīvus."
+        },
+        {
+          "id": "fin1e",
+          "prompt": "Est cōnstrūctiō Graeca (ἵνα + coni./opt.) parallēla Latīnō ut/nē + coniūnctīvō?",
+          "options": [
+            "sīc, structūrāliter parallēla",
+            "nōn, sunt omnīnō dīversae",
+            "sōlum in negātīvō"
+          ],
+          "answerIndex": 0,
+          "explanation": "Ambae linguae adhibent particula-plus-modus-subordinātīvum prō propositō."
+        }
+      ]
+    },
+    {
+      "id": "v-fin1-fill",
+      "type": "fill-blank",
+      "title": "Complē cum Fōrmā Rēctā",
+      "instructions": "Comple spatia cum fōrmā rēctā clausulae fīnālis.",
+      "items": [
+        {
+          "id": "fin1f",
+          "prompt": "ἔρχεται ἵνα ___ τὴν ἀλήθειαν. (coni., prīmāria, \"discat\")",
+          "options": [
+            "μάθῃ",
+            "μάθοι",
+            "μανθάνει"
+          ],
+          "answers": [
+            "μάθῃ"
+          ],
+          "explanation": "Sequentia prīmāria: coniūnctīvus."
+        },
+        {
+          "id": "fin1g",
+          "prompt": "ἦλθεν ἵνα ___ τὴν ἀλήθειαν. (opt., secundāria, \"disceret\")",
+          "options": [
+            "μάθοι",
+            "μάθῃ",
+            "ἔμαθεν"
+          ],
+          "answers": [
+            "μάθοι"
+          ],
+          "explanation": "Sequentia secundāria: optātīvus."
+        },
+        {
+          "id": "fin1h",
+          "prompt": "λέγει ἵνα ___ φοβώμεθα. (negātiō, \"nē timeāmus\")",
+          "options": [
+            "μή",
+            "οὐ",
+            "οὐδέ"
+          ],
+          "answers": [
+            "μή"
+          ],
+          "explanation": "Negātiō clausulae fīnālis: μή."
+        },
+        {
+          "id": "fin1i",
+          "prompt": "φοβοῦμαι ___ ἔλθῃ ὁ πολέμιος. (\"timeō nē\", sine ἵνα)",
+          "options": [
+            "μή",
+            "ἵνα μή",
+            "ἵνα"
+          ],
+          "answers": [
+            "μή"
+          ],
+          "explanation": "Verbum timendī: μή sōla, sine ἵνα."
+        },
+        {
+          "id": "fin1j",
+          "prompt": "ταῦτα ἐποίησεν ___ σωθείη ἡ πόλις. (particula, \"ut\")",
+          "options": [
+            "ὅπως",
+            "ὅτι",
+            "εἰ"
+          ],
+          "answers": [
+            "ὅπως"
+          ],
+          "explanation": "Ὅπως est particula fīnālis alternātīva."
+        }
+      ]
+    },
+    {
+      "id": "v-fin1-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "fin1k",
+          "statement": "Ἵνα, ὡς, et ὅπως habent discrīmen sēmanticum clārum, nōn sōlum stilisticum.",
+          "answer": false,
+          "explanation": "Falsum: sunt fundāmentāliter synōnyma, differentēs sōlum stilisticē/auctōriē."
+        },
+        {
+          "id": "fin1l",
+          "statement": "Clausula fīnālis negātīva adhibet ἵνα μή vel μή sōla.",
+          "answer": true,
+          "explanation": "Corrēctum."
+        },
+        {
+          "id": "fin1m",
+          "statement": "Cōnstrūctiō verbōrum timendī (μή sine ἵνα) est identica sēmanticē clausulae fīnālī normālī.",
+          "answer": false,
+          "explanation": "Falsum: significat \"timeō nē/quod\", distīnctum ā \"ut/nē faciam\"."
+        },
+        {
+          "id": "fin1n",
+          "statement": "Rēgula sequentiae applicātur ad clausulās fīnālēs, sīcut ad cēterās clausulās subōrdinātās.",
+          "answer": true,
+          "explanation": "Corrēctum: rēgula systēmatica trāns tōtam syntaxem."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Clausula fīnālis: ἵνα/ὡς/ὅπως + coniūnctīvus (prīmāria) / optātīvus (secundāria) — parallēla ut/nē Latīnō.",
+    "Negātiō: ἵνα μή (vel μή sōla) — numquam ἵνα οὐ.",
+    "Verba timendī: μή SINE ἵνα significat \"timeō nē/quod\" — cōnstrūctiō speciālis.",
+    "Trēs particulae fīnālēs (ἵνα, ὡς, ὅπως) sunt fundāmentāliter synōnyma, differentēs sōlum stilisticē."
+  ],
+  "related": [
+    {
+      "lessonId": "v-optativus-usus-obliquus-et-voluntativus",
+      "label": "Optātīvus: Ūsūs"
+    },
+    {
+      "lessonId": "v-clausulae-consecutivae",
+      "label": "Clausulae Cōnsecūtīvae"
+    }
+  ]
+}

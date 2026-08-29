@@ -207,7 +207,53 @@
       "ty": "recognitio-systema-verbi"
     }
   ],
-  "provectus": [],
+  "provectus": [
+    {
+      "slug": "coniunctivus-praesens-et-aoristi",
+      "title": "Coniūnctīvus Praesentis et Aoristī",
+      "ty": "coniunctivus-praesens-et-aoristi"
+    },
+    {
+      "slug": "usus-coniunctivi-hortativus-et-prohibitivus",
+      "title": "Ūsus Coniūnctīvī: Hortātīvus, Prohibitīvus, Dēlīberātīvus",
+      "ty": "usus-coniunctivi-hortativus-et-prohibitivus"
+    },
+    {
+      "slug": "optativus-formae",
+      "title": "Optātīvus: Fōrmae",
+      "ty": "optativus-formae"
+    },
+    {
+      "slug": "optativus-usus-obliquus-et-voluntativus",
+      "title": "Optātīvus: Ūsus Oblīquus et Voluntātīvus",
+      "ty": "optativus-usus-obliquus-et-voluntativus"
+    },
+    {
+      "slug": "clausulae-finales",
+      "title": "Clausulae Fīnālēs",
+      "ty": "clausulae-finales"
+    },
+    {
+      "slug": "clausulae-consecutivae",
+      "title": "Clausulae Cōnsecūtīvae",
+      "ty": "clausulae-consecutivae"
+    },
+    {
+      "slug": "condiciones-quattuor-genera",
+      "title": "Condiciōnēs: Quattuor Genera",
+      "ty": "condiciones-quattuor-genera"
+    },
+    {
+      "slug": "interrogationes-obliquae",
+      "title": "Interrogātiōnēs Oblīquae",
+      "ty": "interrogationes-obliquae"
+    },
+    {
+      "slug": "imperativus-plenus",
+      "title": "Imperātīvus Plēnus",
+      "ty": "imperativus-plenus"
+    }
+  ],
   "altior": [],
   "auctores": []
 }

@@ -1,0 +1,248 @@
+{
+  "id": "v-clausulae-consecutivae",
+  "level": "V",
+  "unit": "1",
+  "order": 6,
+  "skill": "grammatica",
+  "strand": "clausulae",
+  "title": "Clausulae Cōnsecūtīvae",
+  "subtitle": "Ὥστε + īnfīnītīvus (rēsultātum nātūrāle/expectātum) VS. ὥστε + indicātīvus (rēsultātum reāle, ēmphaticē affirmātum) — discrīmen syntacticum notābile.",
+  "prerequisites": [
+    "v-clausulae-finales"
+  ],
+  "objectives": [
+    "Cōnstruere clausulam cōnsecūtīvam cum ὥστε + īnfīnītīvus",
+    "Cōnstruere clausulam cōnsecūtīvam cum ὥστε + indicātīvus",
+    "Explicāre discrīmen sēmanticum inter duās cōnstrūctiōnēs: īnfīnītīvus = rēsultātum nātūrāle/expectātum (obiectīvē implicātum); indicātīvus = rēsultātum reāle, ēmphaticē affirmātum ut factum",
+    "Negāre correcte utramque cōnstrūctiōnem: μή cum īnfīnītīvō, οὐ cum indicātīvō — applicātiō dīrēcta rēgulae generālis"
+  ],
+  "content": {
+    "intro": "Clausula cōnsecūtīva exprimit rēsultātum (\"tam...ut...\", \"adeō...ut...\"). Graecum offert duās cōnstrūctiōnēs cum <span class=\"greek\">ὥστε</span> — discrīmen quod Latīnum (semper ut + coniūnctīvus) nōn distinguit tam clārē: <strong>ὥστε + īnfīnītīvus</strong> prō rēsultātō nātūrālī/expectātō (implicātum ā nātūrā ipsā causae), et <strong>ὥστε + indicātīvus</strong> prō rēsultātō REĀLĪ, ēmphaticē affirmātō ut factum indubitābile.",
+    "explanation": "<p>Discrīmen nōn est arbitrārium — reflectit differentiam inter “tam...ut nātūrāliter sequātur...” (īnfīnītīvus, sine affirmātiōne fortī dē factō reālī) et “tam...ut rē vērā (dē factō) accidit...” (indicātīvus, affirmāns explicitē āctiōnem esse factam). Comparā Anglicum \"so...as to...\" (īnfīnītīvus, implicātiō) vs. \"so...that [it actually happened]\" (indicātīvus, affirmātiō).</p>",
+    "rules": [
+      {
+        "heading": "a) Ὥστε + Īnfīnītīvus (Rēsultātum Nātūrāle)",
+        "body": "<p><span class=\"greek\">οὕτω σοφός ἐστιν ὥστε πάντα εἰδέναι.</span> — “Tam sapiēns est ut omnia sciat [nātūrāliter, implicitē]” — nūlla affirmātiō explicita dē factō REĀLĪ quod sciat; sōlum implicātiō logica ex sapientiā ipsā. Negātiō: μή (<span class=\"greek\">ὥστε μὴ εἰδέναι</span> “ut nōn sciat”).</p>"
+      },
+      {
+        "heading": "b) Ὥστε + Indicātīvus (Rēsultātum Reāle)",
+        "body": "<p><span class=\"greek\">οὕτω σοφός ἐστιν ὥστε πάντα οἶδεν.</span> — “Tam sapiēns est ut [dē factō, rē vērā] omnia sciat” — affirmātiō fortis, ēmphatica: locūtor īnsistit rēsultātum esse VĒRĒ factum, nōn sōlum implicātum logicē. Negātiō: οὐ (rēgula normālis indicātīvī, Gradū II) — <span class=\"greek\">ὥστε οὐκ οἶδεν</span> “ut nōn sciat [dē factō]”.</p>"
+      },
+      {
+        "heading": "c) Quandō Ēligere Utramque Cōnstrūctiōnem",
+        "body": "<p>Auctor Graecus ēligit cōnstrūctiōnem secundum quantam ēmphasim vult in factō ipsō rēsultātūs: sī rēsultātum est mere logica cōnsequentia expectāta, īnfīnītīvus sufficit (frequentior, neutrālior stilisticē); sī auctor vult īnsistere \"et hoc rē vērā accidit!\", indicātīvus adhibētur (magis marcātus, ēmphaticus, frequēns in nārrātiōne historicā ubi rēsultātum surprēndēns vel notābile est).</p>"
+      }
+    ],
+    "examples": [
+      "οὕτω ταχέως ἔτρεχεν ὥστε πάντας νικῆσαι. — Tam celeriter currēbat ut omnēs vincat/vincere posset. (īnfīnītīvus, implicātiō)",
+      "οὕτω ταχέως ἔτρεχεν ὥστε πάντας ἐνίκησεν. — Tam celeriter currēbat ut omnēs rē vērā vīcit. (indicātīvus, affirmātiō ēmphatica factī)",
+      "τοσοῦτος ἦν ὁ χειμὼν ὥστε μὴ δύνασθαι πλεῖν. — Tanta erat tempestās ut nāvigāre nōn possent. (īnfīnītīvus negātīvum, μή)",
+      "οὕτως ἠγνόει ὥστε οὐδὲν ᾔδει. — Tam ignōrāns erat ut nihil rē vērā scīret. (indicātīvus negātīvum, οὐ/οὐδέν)",
+      "τίς οὕτω μωρός ἐστιν ὥστε τοῦτο μὴ γιγνώσκειν; — Quis tam stultus est ut hoc nōn cognōscat? (quaestiō rhētorica, īnfīnītīvus)",
+      "τοσαύτη ἦν ἡ βοὴ ὥστε πάντες ἤκουσαν. — Tantus erat clāmor ut omnēs rē vērā audīvērunt. (indicātīvus, factum ēmphaticum)"
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Adhibēre eandem cōnstrūctiōnem (semper īnfīnītīvum, vel semper indicātīvum) indiscrīminātim, ignōrandō discrīmen sēmanticum.",
+        "right": "Ēligere cōnstrūctiōnem secundum sī rēsultātum est implicātiō logica nātūrālis (īnfīnītīvus) an factum affirmātum ēmphaticē (indicātīvus).",
+        "why": "Discrīmen est rēālis et significāns in prōsā classicā, quamquam Latīnum nōn distinguit hoc morphologicē."
+      },
+      {
+        "wrong": "Adhibēre οὐ (potius quam μή) prō negātiōne ὥστε + īnfīnītīvō.",
+        "right": "Adhibēre μή cum īnfīnītīvō (rēgula generālis ex Gradū IV), οὐ cum indicātīvō (rēgula normālis).",
+        "why": "Discrīmen negātiōnis sequitur exāctē discrīmen modī: īnfīnītīvus nōn affirmat factum (μή), indicātīvus affirmat factum (οὐ)."
+      },
+      {
+        "wrong": "Trānsferre ambās cōnstrūctiōnēs identidem in linguam vernaculam, perdendō nuance ēmphasis factī.",
+        "right": "Trānsferre ὥστε + indicātīvum cum ēmphasī explicitā (\"et rē vērā...\", \"dē factō...\") ubi contextus id permittit.",
+        "why": "Nuance sēmantica, quamvīs subtīlis, reflectit intentiōnem rhētoricam genuīnam auctōris Graecī."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "v-cons1-mc",
+      "type": "multiple-choice",
+      "title": "Clausulae Cōnsecūtīvae: Rēgulae",
+      "instructions": "Ēlige respōnsum rēctum.",
+      "items": [
+        {
+          "id": "cons1a",
+          "prompt": "Quid significat ὥστε + īnfīnītīvus?",
+          "options": [
+            "rēsultātum reāle, ēmphaticē affirmātum",
+            "rēsultātum nātūrāle/expectātum, implicitum",
+            "nūllum discrīmen ā indicātīvō"
+          ],
+          "answerIndex": 1,
+          "explanation": "Īnfīnītīvus exprimit implicātiōnem logicam, sine affirmātiōne fortī."
+        },
+        {
+          "id": "cons1b",
+          "prompt": "Quae negātiō adhibētur cum ὥστε + indicātīvō?",
+          "options": [
+            "μή",
+            "οὐ",
+            "μηδέ"
+          ],
+          "answerIndex": 1,
+          "explanation": "Indicātīvus adhibet negātiōnem normālem οὐ."
+        },
+        {
+          "id": "cons1c",
+          "prompt": "Quid significat ὥστε + indicātīvus, comparātum cum īnfīnītīvō?",
+          "options": [
+            "idem sēnsus, sōlum varietās stilistica",
+            "rēsultātum ēmphaticē affirmātum ut factum reāle",
+            "sēnsus condiciōnālis"
+          ],
+          "answerIndex": 1,
+          "explanation": "Indicātīvus īnsistit rēsultātum esse vērē factum."
+        },
+        {
+          "id": "cons1d",
+          "prompt": "Habet Latīnum discrīmen morphologicum parallēlum huic (īnfīnītīvus vs. indicātīvus post ὥστε)?",
+          "options": [
+            "sīc, exāctē parallēlum",
+            "nōn, Latīnum adhibet coniūnctīvum ubīque post ut cōnsecūtīvum",
+            "Latīnum nōn habet clausulās cōnsecūtīvās"
+          ],
+          "answerIndex": 1,
+          "explanation": "Latīnum classicum nōn distinguit hōc modō; discrīmen est proprium Graecō."
+        },
+        {
+          "id": "cons1e",
+          "prompt": "Quae negātiō adhibētur cum ὥστε + īnfīnītīvō?",
+          "options": [
+            "μή",
+            "οὐ",
+            "utraque indifferenter"
+          ],
+          "answerIndex": 0,
+          "explanation": "Īnfīnītīvus adhibet μή, sequēns rēgulam generālem."
+        }
+      ]
+    },
+    {
+      "id": "v-cons1-fill",
+      "type": "fill-blank",
+      "title": "Complē cum Fōrmā Rēctā",
+      "instructions": "Comple spatia cum fōrmā rēctā clausulae cōnsecūtīvae.",
+      "items": [
+        {
+          "id": "cons1f",
+          "prompt": "οὕτω σοφός ἐστιν ὥστε πάντα ___. (īnfīnītīvus, \"scīre\")",
+          "options": [
+            "εἰδέναι",
+            "οἶδεν",
+            "εἰδείη"
+          ],
+          "answers": [
+            "εἰδέναι"
+          ],
+          "explanation": "Ὥστε + īnfīnītīvus: εἰδέναι."
+        },
+        {
+          "id": "cons1g",
+          "prompt": "οὕτω σοφός ἐστιν ὥστε πάντα ___. (indicātīvus, \"rē vērā scit\")",
+          "options": [
+            "οἶδεν",
+            "εἰδέναι",
+            "εἰδείη"
+          ],
+          "answers": [
+            "οἶδεν"
+          ],
+          "explanation": "Ὥστε + indicātīvus: οἶδεν."
+        },
+        {
+          "id": "cons1h",
+          "prompt": "τοσοῦτος ἦν ὁ χειμὼν ὥστε ___ δύνασθαι πλεῖν. (negātiō, īnfīnītīvus)",
+          "options": [
+            "μή",
+            "οὐ",
+            "οὐδέ"
+          ],
+          "answers": [
+            "μή"
+          ],
+          "explanation": "Negātiō cum īnfīnītīvō: μή."
+        },
+        {
+          "id": "cons1i",
+          "prompt": "οὕτως ἠγνόει ὥστε ___ ᾔδει. (negātiō, indicātīvus)",
+          "options": [
+            "οὐδέν",
+            "μηδέν",
+            "μή"
+          ],
+          "answers": [
+            "οὐδέν"
+          ],
+          "explanation": "Negātiō cum indicātīvō: οὐδέν (compositum ex οὐ)."
+        },
+        {
+          "id": "cons1j",
+          "prompt": "τοσαύτη ἦν ἡ βοὴ ὥστε πάντες ___. (indicātīvus aor., \"audīvērunt\")",
+          "options": [
+            "ἤκουσαν",
+            "ἀκοῦσαι",
+            "ἀκούσειαν"
+          ],
+          "answers": [
+            "ἤκουσαν"
+          ],
+          "explanation": "Ὥστε + indicātīvus aoristī: ἤκουσαν, factum ēmphaticum."
+        }
+      ]
+    },
+    {
+      "id": "v-cons1-tf",
+      "type": "true-false",
+      "title": "Vērum an Falsum",
+      "instructions": "Dēcerne utrum vērum an falsum sit.",
+      "items": [
+        {
+          "id": "cons1k",
+          "statement": "Ὥστε + īnfīnītīvus et ὥστε + indicātīvus significant exāctē idem, sine discrīmine.",
+          "answer": false,
+          "explanation": "Falsum: discrīmen sēmanticum reālis (implicātiō vs. affirmātiō ēmphatica)."
+        },
+        {
+          "id": "cons1l",
+          "statement": "Ὥστε + indicātīvus īnsistit rēsultātum esse vērē factum, ēmphaticē.",
+          "answer": true,
+          "explanation": "Corrēctum."
+        },
+        {
+          "id": "cons1m",
+          "statement": "Negātiō ὥστε + īnfīnītīvō est μή, sequēns rēgulam generālem modōrum nōn-indicātīvōrum.",
+          "answer": true,
+          "explanation": "Corrēctum."
+        },
+        {
+          "id": "cons1n",
+          "statement": "Latīnum classicum distinguit morphologicē inter duo genera rēsultātī, sīcut Graecum.",
+          "answer": false,
+          "explanation": "Falsum: Latīnum adhibet coniūnctīvum ubīque post ut cōnsecūtīvum, sine hōc discrīmine."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Ὥστε + īnfīnītīvus: rēsultātum nātūrāle/expectātum, implicitum logicē (negātiō μή).",
+    "Ὥστε + indicātīvus: rēsultātum REĀLE, ēmphaticē affirmātum ut factum (negātiō οὐ).",
+    "Discrīmen est proprium Graecō — Latīnum classicum adhibet coniūnctīvum ubīque post ut cōnsecūtīvum, sine hāc distīnctiōne.",
+    "Ēlēctiō inter cōnstrūctiōnēs reflectit quantam ēmphasim auctor vult in factō ipsō rēsultātūs."
+  ],
+  "related": [
+    {
+      "lessonId": "v-clausulae-finales",
+      "label": "Clausulae Fīnālēs"
+    },
+    {
+      "lessonId": "v-condiciones-quattuor-genera",
+      "label": "Condiciōnēs: Quattuor Genera"
+    }
+  ]
+}

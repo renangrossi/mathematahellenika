@@ -227,6 +227,41 @@
           "explanation": "Falsum: -τός = possibilitās, -τέος = necessitās."
         }
       ]
+    },
+    {
+      "id": "vi-verb1-fill2",
+      "type": "fill-blank",
+      "title": "Amplius Complē cum Fōrmā Rēctā",
+      "instructions": "Comple spatia cum fōrmā rēctā adiectīvī verbālis.",
+      "items": [
+        { "id": "verb1o", "prompt": "ταῦτα ἡμῖν πρακτέα ___. (verbum, \"sunt\")", "options": ["ἐστίν", "εἰσίν", "ᾖ"], "answers": ["ἐστίν"], "explanation": "Neutrum plūrāle + verbum singulāre, sīcut concordantia neutrīus plūrālis." },
+        { "id": "verb1p", "prompt": "ὁ λόγος ___ ἐστίν. (masc. sg. -τέος, \"legendus\")", "options": ["ἀναγνωστέος", "ἀναγνωστέον", "ἀναγνωστός"], "answers": ["ἀναγνωστέος"], "explanation": "Cōnstrūctiō persōnālis, concordāns cum masculīnō ὁ λόγος." },
+        { "id": "verb1q", "prompt": "τοῦτο τὸ ὕδωρ ___ ἐστίν. (neut. sg. -τός, \"potābile\")", "options": ["ποτόν", "ποτέον", "ποτέος"], "answers": ["ποτόν"], "explanation": "Adiectīvum verbāle in -τός, possibilitās." },
+        { "id": "verb1r", "prompt": "ἡμῖν ___ ἐστὶ τὴν πόλιν. (impersōnāle, \"oportet dēfendī\")", "options": ["φυλακτέον", "φυλακτέα", "φυλακτός"], "answers": ["φυλακτέον"], "explanation": "Cōnstrūctiō impersōnālis, neutrum indēclīnātum." },
+        { "id": "verb1s", "prompt": "τὸ βιβλίον ___ ἡμῖν ἐστίν. (persōnāle, \"legendum\", concordāns cum βιβλίον neutrō)", "options": ["ἀναγνωστέον", "ἀναγνωστέα", "ἀναγνωστέος"], "answers": ["ἀναγνωστέον"], "explanation": "Persōnāle, concordāns cum τὸ βιβλίον (neutrum)." }
+      ]
+    },
+    {
+      "id": "vi-verb1-mc2",
+      "type": "multiple-choice",
+      "title": "Amplius de Adiectīvīs Verbālibus",
+      "items": [
+        { "id": "verb1t", "prompt": "'Ἀόρατος' combinat ἀ- prīvātīvum cum suffixō significante possibilitātem, nōn necessitātem — id est cum:", "options": ["-τός", "-τέος", "participium praesentis"], "answerIndex": 0, "explanation": "Ἀ- + ὁρατός → invīsibilis (possibilitās negāta, nōn necessitās)." },
+        { "id": "verb1u", "prompt": "Cōnstrūctiō persōnālis -τέος concordat adiectīvum cum:", "options": ["subiectō grammaticō (nōminātīvō)", "obiectō accūsātīvō semper", "datīvō agentis"], "answerIndex": 0, "explanation": "Sīcut ἡ πόλις λυτέα ἐστίν." },
+        { "id": "verb1v", "prompt": "-τέος dērīvātur typicē ā themate:", "options": ["aoristī passīvī", "praesentis āctīvī sōlum", "futūrī mediī"], "answerIndex": 0, "explanation": "Origō morphologica commūnis." },
+        { "id": "verb1w", "prompt": "'Ῥητός' significat:", "options": ["quod dīcī potest (dictū facile)", "quod dīcī dēbet", "numquam dictum"], "answerIndex": 0, "explanation": "-τός: possibilitās, nōn necessitās." }
+      ]
+    },
+    {
+      "id": "vi-verb1-tf2",
+      "type": "true-false",
+      "title": "Amplius Vērum an Falsum",
+      "items": [
+        { "id": "verb1x", "statement": "Adiectīva verbālia in -τέος dēclīnantur ut tertia dēclīnātiō.", "answer": false, "explanation": "Falsum: dēclīnantur ut classis prīma (καλός)." },
+        { "id": "verb1y", "statement": "Cōnstrūctiō impersōnālis retinet obiectum in accūsātīvō.", "answer": true, "explanation": "Λυτέον ἐστὶ τὴν πόλιν." },
+        { "id": "verb1z", "statement": "-τός potest significāre etiam āctiōnem complētam, nōn sōlum possibilitātem.", "answer": true, "explanation": "Sēnsus secundārius, minus frequēns." },
+        { "id": "verb1aa", "statement": "Agēns cum -τέος, sī explicitus, potest stāre etiam ὑπό + genetīvō ut alternātīva ad datīvum.", "answer": false, "explanation": "Falsum: agēns stat semper datīvō in hāc cōnstrūctiōne." }
+      ]
     }
   ],
   "summary": [

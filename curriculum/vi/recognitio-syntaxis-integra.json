@@ -183,6 +183,44 @@
           "explanation": "Cōnstrūctiō dēpendet ā classe sēmanticā verbī: dīcendī/putandī vs. sciendī/percipiendī."
         }
       ]
+    },
+    {
+      "id": "vi-rec1-fill",
+      "type": "fill-blank",
+      "title": "Complē cum Fōrmā Rēctā",
+      "instructions": "Comple spatia cum fōrmā rēctā, applicāns syntaxem integram Gradūs VI.",
+      "items": [
+        { "id": "rec1k", "prompt": "Λέγει τὸν ἄνδρα σοφὸν ___. (īnfīnītīvus, \"esse\")", "options": ["εἶναι", "ὄντα", "ὤν"], "answers": ["εἶναι"], "explanation": "Acc.+īnf. post λέγω." },
+        { "id": "rec1l", "prompt": "Οἶδα τὸν ἄνδρα σοφὸν ___. (participium, \"esse\")", "options": ["ὄντα", "εἶναι", "ὤν"], "answers": ["ὄντα"], "explanation": "Acc.+participium post οἶδα." },
+        { "id": "rec1m", "prompt": "Ἡ πόλις λυτέα ___ ἐστίν. (datīvus agentis, \"nōbīs\")", "options": ["ἡμῖν", "ἡμᾶς", "ἡμῶν"], "answers": ["ἡμῖν"], "explanation": "Agēns cōnstrūctiōnis -τέος: datīvus." },
+        { "id": "rec1n", "prompt": "Τρεῖς ___ ἐπορεύοντο. (acc., extēnsiō, \"diēs\")", "options": ["ἡμέρας", "ἡμερῶν", "ἡμέραις"], "answers": ["ἡμέρας"], "explanation": "Accūsātīvus extēnsiōnis temporis." },
+        { "id": "rec1o", "prompt": "Ὁ ___ σοφός, ὁ δὲ μωρός. (particula, prīma pars balantiae)", "options": ["μέν", "γάρ", "ἀλλά"], "answers": ["μέν"], "explanation": "Μέν...δέ balantia." }
+      ]
+    },
+    {
+      "id": "vi-rec1-mc2",
+      "type": "multiple-choice",
+      "title": "Amplius Recognitiō Syntaxis Integra",
+      "items": [
+        { "id": "rec1p", "prompt": "Verba dīcendī/putandī (λέγω, νομίζω) typicē regunt:", "options": ["acc.+īnfīnītīvus", "acc.+participium", "ὅτι sōlum"], "answerIndex": 0, "explanation": "Classis prīma ōrātiōnis oblīquae." },
+        { "id": "rec1q", "prompt": "-τέος dēclīnātur ut:", "options": ["adiectīvum classis prīmae", "tertia dēclīnātiō", "irregulāre"], "answerIndex": 0, "explanation": "Sequitur patrōnum καλός." },
+        { "id": "rec1r", "prompt": "Systēma temporāle trichotomicum combīnat:", "options": ["accūsātīvum, genetīvum, datīvum", "sōlum accūsātīvum", "sōlum genetīvum"], "answerIndex": 0, "explanation": "Per quantum/intrā quod/quō pūnctō." },
+        { "id": "rec1s", "prompt": "Μέν semper antīcipat, alicubi in contextū:", "options": ["δέ, vel elementum balāns aequivalēns", "ἀλλά, obligātōriē", "nihil, sine excepciōne"], "answerIndex": 0, "explanation": "Μέν...δέ corrēlant obligātōriē." },
+        { "id": "rec1t", "prompt": "Ōrdō verbōrum Graecus reflectit:", "options": ["ēmphasim/focum, nōn sōlum grammaticam", "nihil, est aleātorius", "sōlum metrum poēticum"], "answerIndex": 0, "explanation": "Positiō portat īnfōrmātiōnem pragmaticam." },
+        { "id": "rec1u", "prompt": "Post Gradum VI, vocābulum rārius (nōn grammatica) est:", "options": ["obstaculum principāle prō lēctiōne authenticā", "irrelevāns", "impossibile superāre"], "answerIndex": 0, "explanation": "Grammatica fundāmentālis est iam completa." }
+      ]
+    },
+    {
+      "id": "vi-rec1-tf2",
+      "type": "true-false",
+      "title": "Amplius Vērum an Falsum",
+      "items": [
+        { "id": "rec1v", "statement": "Οἶδα requīrit acc.+īnfīnītīvum, sīcut λέγω.", "answer": false, "explanation": "Falsum: requīrit acc.+participium." },
+        { "id": "rec1w", "statement": "Datīvus possessiōnis cum εἰμί est aequivalēns idiōmaticum 'habēre'.", "answer": true, "explanation": "Ἔστι μοι = habeō." },
+        { "id": "rec1x", "statement": "Ἀλλά est particula postpositīva.", "answer": false, "explanation": "Falsum: stat prīmum verbum." },
+        { "id": "rec1y", "statement": "Stilus periodicus combīnat elementa grammaticē iam nōta in architectūrā complexā.", "answer": true, "explanation": "Nōn grammatica nova, sed organizātiō." },
+        { "id": "rec1z", "statement": "Gradus VII removet omne adiūtōrium adaptātiōnis, offerēns verba ipsa antīquōrum.", "answer": true, "explanation": "Obiectīvum explicitum prōximī gradūs." }
+      ]
     }
   ],
   "summary": [

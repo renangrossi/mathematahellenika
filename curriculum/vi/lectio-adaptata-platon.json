@@ -134,6 +134,44 @@
           "explanation": "Fōrma quaestiō-respōnsum-examinātiō est methodus Sōcratica classica."
         }
       ]
+    },
+    {
+      "id": "vi-lecp-fill",
+      "type": "fill-blank",
+      "title": "Complē secundum Textum",
+      "instructions": "Comple spatia cum fōrmā rēctā secundum textum.",
+      "items": [
+        { "id": "lecp9", "prompt": "Φίλος ἐστίν, ὦ Σώκρατες, ὅστις ἡμᾶς εὖ ___. (\"facit\")", "options": ["ποιεῖ", "ποιεῖν", "ἐποίει"], "answers": ["ποιεῖ"], "explanation": "Indicātīvus praesēns, dēfīnītiō Polemarchī." },
+        { "id": "lecp10", "prompt": "Οὐκ ___, ὦ Σώκρατες· τοῦτο γὰρ οὔπω ἐσκεψάμην. (\"I know\")", "options": ["οἶδα", "εἰμί", "ἔχω"], "answers": ["οἶδα"], "explanation": "Verbum irregulāre, \"sciō\"." },
+        { "id": "lecp11", "prompt": "Καὶ πολλάκις γε οἱ φίλοι ___ κακῶς ποιοῦσιν. (reciprocum, \"inter sē\")", "options": ["ἀλλήλους", "ἑαυτούς", "αὑτούς"], "answers": ["ἀλλήλους"], "explanation": "Prōnōmen reciprocum." },
+        { "id": "lecp12", "prompt": "Ἄκοντες ___, ὅμως δέ. (particula, prīma pars balantiae)", "options": ["μέν", "γάρ", "οὖν"], "answers": ["μέν"], "explanation": "Antīcipat δέ sequēns." },
+        { "id": "lecp13", "prompt": "Ἀλλ' ___ μοι, ἆρα ὁ αὐτὸς ἀεὶ φίλος ἐστίν; (imperātīvus aoristī secundī, \"dīc\")", "options": ["εἰπέ", "λέγε", "εἰπεῖν"], "answers": ["εἰπέ"], "explanation": "Imperātīvus aoristī secundī verbī λέγω." }
+      ]
+    },
+    {
+      "id": "vi-lecp-mc2",
+      "type": "multiple-choice",
+      "title": "Amplius de Dialogō",
+      "items": [
+        { "id": "lecp14", "prompt": "'Ἔστιν ὅτε' significat:", "options": ["aliquandō (litt. 'est quandō')", "numquam", "semper"], "answerIndex": 0, "explanation": "Idioma temporāle." },
+        { "id": "lecp15", "prompt": "'Ὅμως' significat:", "options": ["tamen", "numquam", "semper"], "answerIndex": 0, "explanation": "Adversātīvum concessīvum." },
+        { "id": "lecp16", "prompt": "'Οὐκοῦν' introdūcit typicē:", "options": ["conclūsiōnem interrogātīvam ('nōnne igitur')", "negātiōnem simplicem", "causam"], "answerIndex": 0, "explanation": "Combīnat οὐκ + οὖν." },
+        { "id": "lecp17", "prompt": "Textus hic est:", "options": ["compositiō didactica orīginālis imitāns fōrmam elenchī", "citātiō vēra ex Rē pūblicā", "poēsis lyrica"], "answerIndex": 0, "explanation": "Pōns pedagogicus ante Gradum VII." },
+        { "id": "lecp18", "prompt": "Methodus Sōcratica in hōc dialogō est:", "options": ["dialectica/colaborātīva, nōn adversārālis", "adversārālis, per vim rhētoricam", "nārrātīva simplex"], "answerIndex": 0, "explanation": "Elenchus dūcit collaborātīvē ad aporian." },
+        { "id": "lecp19", "prompt": "Particulae in dialogō philosophicō typicē:", "options": ["portant sēnsum argūmentātīvum, nōn sōlum ōrnāmentum", "sunt superfluae", "numquam adhibentur"], "answerIndex": 0, "explanation": "Struunt argūmentum ipsum." }
+      ]
+    },
+    {
+      "id": "vi-lecp-tf2",
+      "type": "true-false",
+      "title": "Amplius Vērum an Falsum",
+      "items": [
+        { "id": "lecp20", "statement": "Polemarchus respondet immediātē cum certitūdine ad secundam quaestiōnem Sōcratis.", "answer": false, "explanation": "Falsum: 'οὐκ οἶδα... τοῦτο γὰρ οὔπω ἐσκεψάμην.'" },
+        { "id": "lecp21", "statement": "'Ἀλλήλων' est prōnōmen reciprocum.", "answer": true, "explanation": "\"Alter alterum, inter sē.\"" },
+        { "id": "lecp22", "statement": "Sōcratēs impōnit respōnsum suum proprium, nōn examinat respōnsum Polemarchī.", "answer": false, "explanation": "Falsum: examinat per quaestiōnēs sequentēs." },
+        { "id": "lecp23", "statement": "Hic dialogus est verbātim citātiō ex Platōne.", "answer": false, "explanation": "Falsum: compositiō didactica orīginālis." },
+        { "id": "lecp24", "statement": "Fōrma elenchī saepe dūcit ad aporian, perplexitātem prōductīvam.", "answer": true, "explanation": "Patrōnus fundāmentālis dialogī Platōnicī prīmī." }
+      ]
     }
   ],
   "summary": [

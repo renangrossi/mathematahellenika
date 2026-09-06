@@ -227,6 +227,41 @@
           "explanation": "Corrēctum: nuance discursīvus saepe nōn habet parem exāctum."
         }
       ]
+    },
+    {
+      "id": "vi-part1-fill2",
+      "type": "fill-blank",
+      "title": "Amplius Complē cum Particulā Rēctā",
+      "instructions": "Comple spatia cum particulā rēctā.",
+      "items": [
+        { "id": "part1o", "prompt": "Ὁ πατὴρ σοφός ἐστιν, ὁ ___ υἱὸς μωρός. (particula, secunda pars balantiae)", "options": ["δέ", "γάρ", "οὖν"], "answers": ["δέ"], "explanation": "Δέ concludit balantiam μέν...δέ." },
+        { "id": "part1p", "prompt": "Ὁ ___ ἀνὴρ σοφός ἐστιν. (postpositīva, secundō locō, \"nam\")", "options": ["γάρ", "ἀλλά", "μέν"], "answers": ["γάρ"], "explanation": "Γάρ, postpositīvum, secundum verbum." },
+        { "id": "part1q", "prompt": "Ἔγω ___ οὐκ οἶδα. (enclīticum, focus, \"quidem\")", "options": ["γε", "δή", "μέν"], "answers": ["γε"], "explanation": "Γε restringit focum ad ἐγώ." },
+        { "id": "part1r", "prompt": "Βούλομαι ___ μαθεῖν. (particula, causa, \"enim\")", "options": ["γάρ", "δέ", "ἀλλά"], "answers": ["γάρ"], "explanation": "Γάρ explicat causam/ratiōnem." },
+        { "id": "part1s", "prompt": "Τοῦτό ___ σαφές ἐστιν, ἐκεῖνο δὲ ἀσαφές. (particula, prīma pars balantiae)", "options": ["μέν", "γάρ", "οὖν"], "answers": ["μέν"], "explanation": "Μέν antīcipat δέ sequēns." }
+      ]
+    },
+    {
+      "id": "vi-part1-mc2",
+      "type": "multiple-choice",
+      "title": "Amplius de Particulīs",
+      "items": [
+        { "id": "part1t", "prompt": "Particulae postpositīvae stant typicē in locō:", "options": ["secundō (vel tertiō) verbō clausulae", "prīmō verbō semper", "ultimō verbō semper"], "answerIndex": 0, "explanation": "Rēgula fīxa positiōnis." },
+        { "id": "part1u", "prompt": "Δέ sine μέν praecedente adhibētur saepe ut:", "options": ["continuātīvum narrātīvum ('et deinde')", "negātiō fortis", "interrogātiō"], "answerIndex": 0, "explanation": "Trānsitiō narrātīva lēvis." },
+        { "id": "part1v", "prompt": "'Δή' typicē exprimit:", "options": ["ēmphasim/vīvācitātem, sine trānslātiōne fīxā", "negātiōnem", "tempus futūrum"], "answerIndex": 0, "explanation": "Particula focī variābilis." },
+        { "id": "part1w", "prompt": "Comparātiō Latīna ūtilis prō particulā postpositīvā γάρ est:", "options": ["'enim' (quoque postpositīvum)", "'nam' (semper prīmum verbum)", "nūlla comparātiō possibilis"], "answerIndex": 0, "explanation": "Ambae particulae sunt postpositīvae." }
+      ]
+    },
+    {
+      "id": "vi-part1-tf2",
+      "type": "true-false",
+      "title": "Amplius Vērum an Falsum",
+      "items": [
+        { "id": "part1x", "statement": "Μέν...δέ semper indicat oppositiōnem semanticam fortem, numquam simplicem enumerātiōnem.", "answer": false, "explanation": "Falsum: saepe sōlum enumerat, sine oppositiōne fortī." },
+        { "id": "part1y", "statement": "Δή et γε sunt particulae ēmphasis/focī, sine trānslātiōne singulā fīxā.", "answer": true, "explanation": "Corrēctum." },
+        { "id": "part1z", "statement": "Ἀλλά potest stāre secundō locō clausulae, sīcut particulae postpositīvae.", "answer": false, "explanation": "Falsum: ἀλλά stat semper prīmō locō." },
+        { "id": "part1aa", "statement": "Attentiō ad particulās est essentiālis prō lēctiōne prōsae Atticae authenticae (Platōn, Xenophōn).", "answer": true, "explanation": "Frequentia immēnsa apud hōs auctōrēs." }
+      ]
     }
   ],
   "summary": [

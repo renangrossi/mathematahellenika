@@ -227,6 +227,41 @@
           "explanation": "Falsum: post verba dīcendī, ὅτι introdūcit ōrātiōnem oblīquam (\"quod\")."
         }
       ]
+    },
+    {
+      "id": "vi-orat1-fill2",
+      "type": "fill-blank",
+      "title": "Amplius Complē cum Fōrmā Rēctā",
+      "instructions": "Comple spatia cum fōrmā rēctā ōrātiōnis oblīquae.",
+      "items": [
+        { "id": "orat1o", "prompt": "εἶδον αὐτὸν ___. (participium, \"discēdentem\")", "options": ["ἀπιόντα", "ἀπιέναι", "ἀπιών"], "answers": ["ἀπιόντα"], "explanation": "Acc. sg. participium, concordāns cum αὐτόν." },
+        { "id": "orat1p", "prompt": "νομίζω τὸν ἄνδρα σοφὸν ___. (īnfīnītīvus, \"esse\")", "options": ["εἶναι", "ὄντα", "ὤν"], "answers": ["εἶναι"], "explanation": "Acc.+īnf. post νομίζω (putandī)." },
+        { "id": "orat1q", "prompt": "ἀγγέλλει ___ οἱ πολέμιοι πρόσεισιν. (particula, \"quod\")", "options": ["ὅτι", "ἵνα", "εἰ"], "answers": ["ὅτι"], "explanation": "Ὅτι + indicātīvus post ἀγγέλλω." },
+        { "id": "orat1r", "prompt": "αἰσθάνομαι τὸν παῖδα ___. (participium, \"clāmantem\")", "options": ["βοῶντα", "βοᾶν", "βοῶν"], "answers": ["βοῶντα"], "explanation": "Acc.+participium post verbum percipiendī." },
+        { "id": "orat1s", "prompt": "ὁρῶ τοὺς παῖδας ___. (participium, \"lūdentēs\")", "options": ["παίζοντας", "παίζειν", "παίζων"], "answers": ["παίζοντας"], "explanation": "Acc. pl. participium, concordāns cum τοὺς παῖδας." }
+      ]
+    },
+    {
+      "id": "vi-orat1-mc2",
+      "type": "multiple-choice",
+      "title": "Amplius de Ōrātiōne Oblīquā",
+      "items": [
+        { "id": "orat1t", "prompt": "Verba νομίζω/οἴομαι (putandī) regunt typicē:", "options": ["acc.+īnfīnītīvus", "acc.+participium", "ὅτι sōlum"], "answerIndex": 0, "explanation": "Sīcut λέγω, verba putandī praeferunt AcI." },
+        { "id": "orat1u", "prompt": "'Ὅτι' post ἀγγέλλω introdūcit:", "options": ["ōrātiōnem oblīquam nūntiātam", "causam simplicem", "interrogātiōnem"], "answerIndex": 0, "explanation": "Verba nūntiandī adhibent ὅτι/ὡς." },
+        { "id": "orat1v", "prompt": "Tempus īnfīnītīvī in acc.+īnf. est:", "options": ["relātīvum ad tempus verbī prīncipālis", "semper absolūtum", "semper praesēns"], "answerIndex": 0, "explanation": "Sīcut in coniūnctīvō/optātīvō oblīquō." },
+        { "id": "orat1w", "prompt": "Participium in acc.+participium concordat cum:", "options": ["subiectō propriō suō (acc. vel nōm.)", "semper genetīvō", "semper datīvō"], "answerIndex": 0, "explanation": "Concordantia adiectīvālis normālis." }
+      ]
+    },
+    {
+      "id": "vi-orat1-tf2",
+      "type": "true-false",
+      "title": "Amplius Vērum an Falsum",
+      "items": [
+        { "id": "orat1x", "statement": "Verba percipiendī sēnsuālis (ὁρῶ, αἰσθάνομαι) typicē regunt participium.", "answer": true, "explanation": "Classis sciendī/percipiendī." },
+        { "id": "orat1y", "statement": "Λέγω potest regere sōlum ὅτι, numquam acc.+īnfīnītīvum.", "answer": false, "explanation": "Falsum: λέγω acceptat ambās cōnstrūctiōnēs." },
+        { "id": "orat1z", "statement": "Tempus participii in ōrātiōne oblīquā est relātīvum ad tempus verbī prīncipālis, sīcut īnfīnītīvus.", "answer": true, "explanation": "Regula commūnis omnibus cōnstrūctiōnibus oblīquīs." },
+        { "id": "orat1aa", "statement": "Optātīvus oblīquus adhibētur typicē in sequentiā prīmāriā (post tempus praesēns).", "answer": false, "explanation": "Falsum: optātīvus oblīquus adhibētur in sequentiā SECUNDĀRIĀ." }
+      ]
     }
   ],
   "summary": [

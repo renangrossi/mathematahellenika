@@ -296,6 +296,26 @@
           "explanation": "Corrēctum: μὴ λύε “nōlī solvere” exemplificat hunc ūsum."
         }
       ]
+    },
+    {
+      "id": "ii-adv1-fill2",
+      "type": "fill-blank",
+      "title": "Amplius Complē cum Fōrmā Rēctā",
+      "instructions": "Comple spatia cum fōrmā rēctā (adverbium vel negātiō).",
+      "items": [
+        { "id": "adv1o", "prompt": "δίκαιος → adverbium ___", "options": ["δικαίως", "δικαία", "δίκαιον"], "answers": ["δικαίως"], "explanation": "Gen. pl. δικαίων → adverbium δικαίως." },
+        { "id": "adv1p", "prompt": "___ φοβοῦμαι. (negātiō, ante cōnsonantem)", "options": ["οὐ", "οὐκ", "οὐχ"], "answers": ["οὐ"], "explanation": "Οὐ ante cōnsonantem (φ)." },
+        { "id": "adv1q", "prompt": "___ ἐλπίζω. (negātiō, ante spīritum lēnem)", "options": ["οὐκ", "οὐ", "οὐχ"], "answers": ["οὐκ"], "explanation": "Οὐκ ante spīritum lēnem." }
+      ]
+    },
+    {
+      "id": "ii-adv1-tf2",
+      "type": "true-false",
+      "title": "Amplius Vērum an Falsum",
+      "items": [
+        { "id": "adv1r", "statement": "Adverbia Graeca fōrmāta ā genetīvō plūrālī sunt indeclinābilia.", "answer": true, "explanation": "Ūna fōrma sōla, sine ūllā dēclīnātiōne." },
+        { "id": "adv1s", "statement": "Μή nōn adhibētur cum optātīvō, sōlum cum imperātīvō.", "answer": false, "explanation": "Falsum: μή adhibētur etiam cum optātīvō, coniūnctīvō, et plērīsque īnfīnītīvīs." }
+      ]
     }
   ],
   "summary": [

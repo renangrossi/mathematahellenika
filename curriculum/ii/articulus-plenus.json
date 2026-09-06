@@ -290,6 +290,34 @@
           "explanation": "Corrēctum: significat “ille sapiēns”, cōnstrūctiō idiōmatica frequēns."
         }
       ]
+    },
+    {
+      "id": "ii-art2-fill2",
+      "type": "fill-blank",
+      "title": "Amplius Complē Articulum Rēctum",
+      "instructions": "Comple spatia cum fōrmā rēctā articulī, in cāsū indicātō.",
+      "items": [
+        { "id": "art2o", "prompt": "___ γυναῖκας (acc. pl. fem.)", "options": ["τάς", "τῶν", "ταῖς"], "answers": ["τάς"], "explanation": "Accūsātīvus plūrālis fēminīnus: τάς." },
+        { "id": "art2p", "prompt": "___ θεοῖς (dat. pl. masc.)", "options": ["τοῖς", "τούς", "τῶν"], "answers": ["τοῖς"], "explanation": "Datīvus plūrālis masculīnus: τοῖς." },
+        { "id": "art2q", "prompt": "___ ἀλήθειαν (acc. sg. fem.)", "options": ["τήν", "τῆς", "τῇ"], "answers": ["τήν"], "explanation": "Accūsātīvus singulāris fēminīnus: τήν." }
+      ]
+    },
+    {
+      "id": "ii-art2-mc2",
+      "type": "multiple-choice",
+      "title": "Amplius de Articulō",
+      "items": [
+        { "id": "art2r", "prompt": "'Οἱ πολλοί' (substantīvātiō) significat:", "options": ["plēbs, multitūdō", "paucī hominēs", "nūllī"], "answerIndex": 0, "explanation": "Litt. 'illī multī'." },
+        { "id": "art2s", "prompt": "Fōrmae nōminātīvae articulī (ὁ ἡ τό) sunt:", "options": ["anōmalae historicē (ex prōnōminibus dēmōnstrātīvīs)", "regulārēs sīcut dēclīnātiō secunda", "recentēs, sine historiā"], "answerIndex": 0, "explanation": "Origō antīqua ut prōnōmina dēmōnstrātīva." }
+      ]
+    },
+    {
+      "id": "ii-art2-tf2",
+      "type": "true-false",
+      "title": "Amplius Vērum an Falsum",
+      "items": [
+        { "id": "art2t", "statement": "Substantīvātiō (articulus + adiectīvum sine nōmine) est ūsus idiōmaticus frequēns in prōsā philosophicā Graecā.", "answer": true, "explanation": "Extrēmē frequēns apud philosophōs et rhētorēs." }
+      ]
     }
   ],
   "summary": [

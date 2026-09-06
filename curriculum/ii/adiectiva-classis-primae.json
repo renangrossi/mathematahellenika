@@ -298,6 +298,29 @@
           "explanation": "Falsum: hoc patrōnum est proprium tantum nōminum (ut δόξα), numquam adiectīvōrum."
         }
       ]
+    },
+    {
+      "id": "ii-adi1-fill2",
+      "type": "fill-blank",
+      "title": "Amplius Complē Fōrmam Rēctam",
+      "instructions": "Comple spatia cum fōrmā rēctā adiectīvī, concordantem cum nōmine datō.",
+      "items": [
+        { "id": "adi1o", "prompt": "νέος + ἀνήρ (masc. nōm. sg.): ὁ ἀνὴρ ὁ ___", "options": ["νέος", "νέα", "νέον"], "answers": ["νέος"], "explanation": "Nōminātīvus masculīnus singulāris." },
+        { "id": "adi1p", "prompt": "νέος + γυναικός (fem. gen. sg.): τῆς γυναικὸς τῆς ___", "options": ["νέας", "νέου", "νέης"], "answers": ["νέας"], "explanation": "Genetīvus fēminīnus, patrōnum α pūrum (thema in ε)." },
+        { "id": "adi1q", "prompt": "καλός + παίδων (masc. gen. pl.): τῶν παίδων τῶν ___", "options": ["καλῶν", "καλοί", "καλούς"], "answers": ["καλῶν"], "explanation": "Genetīvus plūrālis masculīnus." },
+        { "id": "adi1r", "prompt": "μικρός + οἰκίαις (fem. dat. pl.): ταῖς οἰκίαις ταῖς ___", "options": ["μικραῖς", "μικροῖς", "μικρῇ"], "answers": ["μικραῖς"], "explanation": "Datīvus plūrālis fēminīnus, patrōnum pūrum." }
+      ]
+    },
+    {
+      "id": "ii-adi1-tf2",
+      "type": "true-false",
+      "title": "Amplius Vērum an Falsum",
+      "items": [
+        { "id": "adi1s", "statement": "Positiō praedicātīva significat 'X est Y' (iūdicium).", "answer": true, "explanation": "Distincta ab attribūtīvā (descrīptiō)." },
+        { "id": "adi1t", "statement": "Καλός sequitur patrōnum fēminīnī -α, quia thema fīnītur λ.", "answer": false, "explanation": "Falsum: thema in λ requīrit -η, nōn -α." },
+        { "id": "adi1u", "statement": "Nōmen tertiae dēclīnātiōnis potest concordāre cum adiectīvō classis prīmae, sī genus/numerus/cāsus concordant.", "answer": true, "explanation": "Concordantia est independēns ā dēclīnātiōne." },
+        { "id": "adi1v", "statement": "Positiō attribūtīva requīrit articulum ANTE nōmen tantum, numquam repetītum post nōmen.", "answer": false, "explanation": "Articulus potest repetī post nōmen (ὁ λόγος ὁ καλός)." }
+      ]
     }
   ],
   "summary": [

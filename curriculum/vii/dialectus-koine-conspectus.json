@@ -141,6 +141,43 @@
           "explanation": "Corrēctum."
         }
       ]
+    },
+    {
+      "id": "vii-koid1-fill",
+      "type": "fill-blank",
+      "title": "Complē cum Fōrmā Rēctā",
+      "instructions": "Comple spatia cum fōrmā rēctā, secundum tendentiās Koinēs.",
+      "items": [
+        { "id": "koid1i", "prompt": "___ γένοιτο! (optātīvus voluntātīvus, \"absit\")", "options": ["Μὴ", "Οὐ", "Ἵνα"], "answers": ["Μὴ"], "explanation": "Optātīvus voluntātīvus, adhūc frequēns apud Paulum." },
+        { "id": "koid1j", "prompt": "Θέλω ___ ποιήσῃς τοῦτο. (particula, prō īnfīnītīvō)", "options": ["ἵνα", "ὅτι", "εἰ"], "answers": ["ἵνα"], "explanation": "Ἵνα expandit in territōrium īnfīnītīvī." },
+        { "id": "koid1k", "prompt": "Νά Graecum Modernum dērīvat ā particulā ___.", "options": ["ἵνα", "ὅτι", "μή"], "answers": ["ἵνα"], "explanation": "Ēvolūtiō phōnologica per saecula." },
+        { "id": "koid1l", "prompt": "Graecum Modernum perdidit ___ omnīnō, ut cāsum morphologicum.", "options": ["datīvum", "genetīvum", "accūsātīvum"], "answers": ["datīvum"], "explanation": "Fūnctiōnēs distribūtae inter genetīvum/praepositiōnēs." },
+        { "id": "koid1m", "prompt": "Koinē est ēvolūtiō, comparābilis Latīnō ___ ēvolvente in linguās Rōmānicās.", "options": ["Vulgārī", "Classicō", "Antīquō"], "answers": ["Vulgārī"], "explanation": "Analogia linguistica ūtilis." }
+      ]
+    },
+    {
+      "id": "vii-koid1-mc2",
+      "type": "multiple-choice",
+      "title": "Amplius de Dialectō Koinē",
+      "items": [
+        { "id": "koid1n", "prompt": "'Γέγραπται' est fōrma:", "options": ["perfectī, sēnsū 'stat scrīptum'", "aoristī simplicis", "futūrī"], "answerIndex": 0, "explanation": "Ūsus classicus persistēns." },
+        { "id": "koid1o", "prompt": "Rēgula sequentiae (coniūnctīvus/optātīvus) in Koinē est:", "options": ["multō minus rigida quam in Atticō classicō", "identica Atticō", "inexistēns"], "answerIndex": 0, "explanation": "Coniūnctīvus retentus frequenter." },
+        { "id": "koid1p", "prompt": "Praepositiōnēs (ἐν, εἰς) in Koinē incohant:", "options": ["substituere datīvum nūdum in aliquibus contextibus", "eliminārī omnīnō", "regere genetīvum sōlum"], "answerIndex": 0, "explanation": "Praesāgium perditiōnis datīvī." },
+        { "id": "koid1q", "prompt": "Discrīmen perfectī/aoristī in Koinē:", "options": ["incohat obscūrārī sēmanticē", "fit magis clārum", "numquam exstitit"], "answerIndex": 0, "explanation": "Praesāgium fūsiōnis posteriōris." },
+        { "id": "koid1r", "prompt": "Ablātīvus Latīnus fuit historicē distribūtus inter:", "options": ["genetīvum/datīvum Graecum classicum", "nōminātīvum/vocātīvum", "nihil, est cāsus ūnicus"], "answerIndex": 0, "explanation": "Patrōnus recurrēns historicus." },
+        { "id": "koid1s", "prompt": "Koinē litterāria (Novum Testāmentum) comparāta cum Koinē colloquiālī:", "options": ["retinet plūs grammaticae Atticae classicae", "est identica", "est magis simplificāta"], "answerIndex": 0, "explanation": "Registra dīversa, gradūs dīversī simplificātiōnis." }
+      ]
+    },
+    {
+      "id": "vii-koid1-tf2",
+      "type": "true-false",
+      "title": "Amplius Vērum an Falsum",
+      "items": [
+        { "id": "koid1t", "statement": "Optātīvus oblīquus est rārus in Koinē, comparātus cum Atticō classicō.", "answer": true, "explanation": "Coniūnctīvus/indicātīvus praeferuntur." },
+        { "id": "koid1u", "statement": "Datīvus nūdus (sine praepositiōne) est perfectē stabilis in Koinē, sine ūllā mūtātiōne.", "answer": false, "explanation": "Falsum: praepositiōnēs incohant substituere eum." },
+        { "id": "koid1v", "statement": "Koinē est pūnctum in trāiectōriā continuā: Classicum → Koinē → Byzantīnum → Modernum.", "answer": true, "explanation": "Ēvolūtiō continua, nōn categoria isolāta." },
+        { "id": "koid1w", "statement": "Iūdicium 'corruptiōnis' linguae reflectit observātiōnem linguisticam obiectīvam, nōn bias prescrīptīvum.", "answer": false, "explanation": "Falsum: reflectit bias prescrīptīvum." }
+      ]
     }
   ],
   "summary": [

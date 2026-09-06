@@ -141,6 +141,39 @@
           "explanation": "Falsum: fundāmentum tōtīus trāditiōnis Occidentālis, per Cicerōnem/Quīntiliānum."
         }
       ]
+    },
+    {
+      "id": "vii-rhet1-fill",
+      "type": "fill-blank",
+      "title": "Complē cum Fīgūrā Rēctā",
+      "instructions": "Comple spatia cum nōmine fīgūrae rēctae.",
+      "items": [
+        { "id": "rhet1i", "prompt": "Ἦλθον, εἶδον, ἐνίκησα exemplificat tricōlon combīnātum cum ___.", "options": ["asyndetō", "chiasmō", "anaphorā"], "answers": ["asyndetō"], "explanation": "Omissiō coniūnctiōnum, effectus rapidus." },
+        { "id": "rhet1j", "prompt": "___ (ā litterā χ) dēscrībit ōrdinem ABBA.", "options": ["Chiasmus", "Anaphora", "Antithesis"], "answers": ["Chiasmus"], "explanation": "Fōrma X illūstrat structūram." },
+        { "id": "rhet1k", "prompt": "Repetītiō eiusdem verbī initiō clausulārum successīvārum vocātur ___.", "options": ["anaphora", "asyndeton", "parisōsis"], "answers": ["anaphora"], "explanation": "Crea rhythmum et ēmphasim accumulātīvam." },
+        { "id": "rhet1l", "prompt": "Clausulae aequālis longitūdinis, structūrā balanceātae, vocantur ___.", "options": ["parisōsis", "homoeoteleuton", "tricōlon"], "answers": ["parisōsis"], "explanation": "Fīgūra Gorgiana." }
+      ]
+    },
+    {
+      "id": "vii-rhet1-mc2",
+      "type": "multiple-choice",
+      "title": "Amplius de Rhētoricā",
+      "items": [
+        { "id": "rhet1m", "prompt": "Homoeoteleuton significat:", "options": ["'similis fīnis', clausulae fīnientēs sonō similī", "repetītiōnem verbī initiālis", "ōrdinem ABBA"], "answerIndex": 0, "explanation": "Fīgūra Gorgiana, comparābilis rhythmō." },
+        { "id": "rhet1n", "prompt": "Tricōlon crescendō significat:", "options": ["sēriēs trium elementōrum, crēscēns longitūdine/intēnsitāte", "duo elementa contrāstantia", "omissiōnem coniūnctiōnis"], "answerIndex": 0, "explanation": "Patrōnus rhētoricus classicus." },
+        { "id": "rhet1o", "prompt": "Rhētorica fuit disciplīna centrālis:", "options": ["ēducātiōnis Atticae altiōris", "sōlum philosophiae", "sōlum poēsis epicae"], "answerIndex": 0, "explanation": "Ars persuādendī, centrālis in ēducātiōne." },
+        { "id": "rhet1p", "prompt": "Aristotelēs systēmatizāvit rhētoricam, quae posteā fuit trānsmissa per:", "options": ["Rōmānōs (Cicerōnem, Quīntiliānum)", "Aegyptiōs", "Persās"], "answerIndex": 0, "explanation": "Trāditiō rhētorica Occidentālis." }
+      ]
+    },
+    {
+      "id": "vii-rhet1-tf2",
+      "type": "true-false",
+      "title": "Amplius Vērum an Falsum",
+      "items": [
+        { "id": "rhet1q", "statement": "Antithesis potest construī systēmatice per μέν...δέ.", "answer": true, "explanation": "Exemplum classicum, Gradū VI." },
+        { "id": "rhet1r", "statement": "Fīgūrae Gorgianae fuērunt acceptae sine crīticā ūllā ab omnibus antīquīs, inclūsō Platōne.", "answer": false, "explanation": "Falsum: Platōn ipse parodiat stilum Gorgianum." },
+        { "id": "rhet1s", "statement": "Anaphora creat rhythmum et ēmphasim accumulātīvam.", "answer": true, "explanation": "Corrēctum." }
+      ]
     }
   ],
   "summary": [

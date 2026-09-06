@@ -137,6 +137,43 @@
           "explanation": "Corrēctum: contextus historicus."
         }
       ]
+    },
+    {
+      "id": "vii-koi1-fill",
+      "type": "fill-blank",
+      "title": "Complē secundum Textum",
+      "instructions": "Comple spatia cum fōrmā rēctā secundum textum.",
+      "items": [
+        { "id": "koi1i", "prompt": "Ἐν ___ ἦν ὁ λόγος. (\"beginning\", datīvus)", "options": ["ἀρχῇ", "ἀρχή", "ἀρχήν"], "answers": ["ἀρχῇ"], "explanation": "Ἐν + datīvus, Gradū II." },
+        { "id": "koi1j", "prompt": "Καὶ ὁ λόγος ἦν ___ τὸν θεόν. (praepositiō, \"apud\")", "options": ["πρὸς", "ἐν", "ἐκ"], "answers": ["πρὸς"], "explanation": "Πρός + accūsātīvus, sēnsū \"apud\"." },
+        { "id": "koi1k", "prompt": "Καὶ ___ ἦν ὁ λόγος. (praedicātum anarthricum, \"deus\")", "options": ["θεὸς", "ὁ θεός", "θεοῦ"], "answers": ["θεὸς"], "explanation": "Sine articulō, praedicātum." },
+        { "id": "koi1l", "prompt": "Πάτερ ἡμῶν ὁ ἐν τοῖς ___, ἁγιασθήτω τὸ ὄνομά σου. (\"heavens\")", "options": ["οὐρανοῖς", "οὐρανούς", "οὐρανῶν"], "answers": ["οὐρανοῖς"], "explanation": "Datīvus plūrālis post ἐν." },
+        { "id": "koi1m", "prompt": "Πάτερ ἡμῶν... ___ τὸ ὄνομά σου. (imperātīvus aoristī passīvī, \"sānctificētur\")", "options": ["ἁγιασθήτω", "ἁγιάζει", "ἡγίασεν"], "answers": ["ἁγιασθήτω"], "explanation": "Patrōnus λυθήτω, Gradū V." }
+      ]
+    },
+    {
+      "id": "vii-koi1-mc2",
+      "type": "multiple-choice",
+      "title": "Amplius de Koinē",
+      "items": [
+        { "id": "koi1n", "prompt": "'Ἐν ἀρχῇ' regit quem cāsum?", "options": ["datīvum", "accūsātīvum", "genetīvum"], "answerIndex": 0, "explanation": "Ἐν semper regit datīvum." },
+        { "id": "koi1o", "prompt": "Koinē diffūsa est per:", "options": ["conquestūs Alexandrī Magnī", "Bellum Peloponnēsiacum", "reformātiōnem Sōlōnis"], "answerIndex": 0, "explanation": "Contextus historicus Hellēnisticus." },
+        { "id": "koi1p", "prompt": "'Ὄνομα' est nōmen:", "options": ["neutrum, tertiae dēclīnātiōnis", "masculīnum, secundae dēclīnātiōnis", "fēminīnum, prīmae dēclīnātiōnis"], "answerIndex": 0, "explanation": "Gradū I nōtum." },
+        { "id": "koi1q", "prompt": "Patrōnus 'ἁγιασθήτω' est identicus quō patrōnō iam discitō?", "options": ["λυθήτω", "λύεται", "ἔλυσε"], "answerIndex": 0, "explanation": "Imperātīvus aoristī passīvī, Gradū V." },
+        { "id": "koi1r", "prompt": "'Ὁ ἐν τοῖς οὐρανοῖς' est extēnsiō patrōnī:", "options": ["articulus + adiectīvum, applicāta ad phrasim praepositiōnālem", "genetīvī absolūtī", "ōrātiōnis oblīquae"], "answerIndex": 0, "explanation": "Substantīvātiō, Gradū II." },
+        { "id": "koi1s", "prompt": "Novum Testāmentum est corpus:", "options": ["fortasse maximē lēctum tōtīus litterātūrae Graecae", "numquam lēctum extrā ecclēsiam", "scrīptum in dialectō Dōricā"], "answerIndex": 0, "explanation": "Diffūsiō historica immēnsa." }
+      ]
+    },
+    {
+      "id": "vii-koi1-tf2",
+      "type": "true-false",
+      "title": "Amplius Vērum an Falsum",
+      "items": [
+        { "id": "koi1t", "statement": "Θεός sine articulō in 'θεὸς ἦν ὁ λόγος' significat articulum indēfīnītum, sīcut Anglicum 'a god'.", "answer": false, "explanation": "Falsum: Graecum caret articulō indēfīnītō; est quaestiō subiectī/praedicātī." },
+        { "id": "koi1u", "statement": "Grammatica Koinēs requīrit studium omnīnō novum, distīnctum ab Atticō.", "answer": false, "explanation": "Falsum: maiōrī parte identica." },
+        { "id": "koi1v", "statement": "Ἁγιάζω est verbum novum, applicātum patrōnō iam discitō imperātīvī aoristī passīvī.", "answer": true, "explanation": "Applicātiō dīrēcta grammaticae Gradūs V." },
+        { "id": "koi1w", "statement": "Discipulus quī complēvit Gradūs I-VI potest legere Novum Testāmentum cum minimā adaptātiōne.", "answer": true, "explanation": "Obiectīvum praecipuum huius gradūs." }
+      ]
     }
   ],
   "summary": [

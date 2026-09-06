@@ -133,6 +133,42 @@
           "explanation": "Falsum: est verbum PRĪMUM, positiōne ēmphaticā maximē significantī."
         }
       ]
+    },
+    {
+      "id": "vii-hom1-fill",
+      "type": "fill-blank",
+      "title": "Complē secundum Textum",
+      "instructions": "Comple spatia cum fōrmā rēctā secundum textum.",
+      "items": [
+        { "id": "hom1i", "prompt": "___ ἄειδε θεὰ Πηληϊάδεω Ἀχιλῆος. (accūsātīvus, \"īram\")", "options": ["Μῆνιν", "Μῆνις", "Μήνιδος"], "answers": ["Μῆνιν"], "explanation": "Accūsātīvus, obiectum praepositum ēmphaticē." },
+        { "id": "hom1j", "prompt": "Μῆνιν ___ θεὰ Πηληϊάδεω Ἀχιλῆος. (imperātīvus, \"cane\")", "options": ["ἄειδε", "ᾄδω", "ἀείδειν"], "answers": ["ἄειδε"], "explanation": "Fōrma Epica prō Atticō ᾄδω." },
+        { "id": "hom1k", "prompt": "Μῆνιν ἄειδε ___ Πηληϊάδεω Ἀχιλῆος. (\"goddess\")", "options": ["θεὰ", "θεός", "θεᾶς"], "answers": ["θεὰ"], "explanation": "Vocātīvus/nōminātīvus, invocātiō Mūsae." },
+        { "id": "hom1l", "prompt": "...ἣ μυρί᾽ Ἀχαιοῖς ἄλγε᾽ ___. (aoristus, \"posuit/intulit\")", "options": ["ἔθηκε", "τίθησι", "θήσει"], "answers": ["ἔθηκε"], "explanation": "Aoristus verbī τίθημι, āthemāticum." },
+        { "id": "hom1m", "prompt": "Οὐλομένην concordat cum ___. (accūsātīvus)", "options": ["μῆνιν", "θεά", "Ἀχιλῆος"], "answers": ["μῆνιν"], "explanation": "Participium in appositiōne." }
+      ]
+    },
+    {
+      "id": "vii-hom1-mc2",
+      "type": "multiple-choice",
+      "title": "Amplius de Iliade",
+      "items": [
+        { "id": "hom1n", "prompt": "'Ἔθηκε' venit ā verbō āthemāticō:", "options": ["τίθημι", "δίδωμι", "ἵστημι"], "answerIndex": 0, "explanation": "\"pōnō, faciō\"." },
+        { "id": "hom1o", "prompt": "'Ἀχαιοῖς' refert ad:", "options": ["Graecōs (Achīvōs)", "Trōiānōs", "deōs"], "answerIndex": 0, "explanation": "Nōmen Homericum Graecōrum." },
+        { "id": "hom1p", "prompt": "Ilias est focāta in:", "options": ["īrā Achillis, thema μῆνις", "tōtā historiā decem annōrum", "reditū Ulixis"], "answerIndex": 0, "explanation": "Ūnum episōdium, in mediās rēs." },
+        { "id": "hom1q", "prompt": "'Πηληϊάδεω' est:", "options": ["patrōnymicum + genetīvus dialectī Epicae", "nōminātīvus", "accūsātīvus plūrālis"], "answerIndex": 0, "explanation": "Genetīvus, fōrma dialectālis." },
+        { "id": "hom1r", "prompt": "Comparātiō 'Arma virumque canō' (Vergilius) cum 'μῆνιν ἄειδε' exemplificat:", "options": ["conventiōnem epicam invocātiōnis Mūsae/thematis initiālis", "coincidentiam fortuitam", "errōrem imitātiōnis"], "answerIndex": 0, "explanation": "Vergilius imitātur convention Homericam." }
+      ]
+    },
+    {
+      "id": "vii-hom1-tf2",
+      "type": "true-false",
+      "title": "Amplius Vērum an Falsum",
+      "items": [
+        { "id": "hom1s", "statement": "Homērus est persōna cūius historicitās ipsa incerta manet.", "answer": true, "explanation": "Quaestiō Homērica classica." },
+        { "id": "hom1t", "statement": "'Μῆνιν' est verbum ultimum versūs, nōn prīmum.", "answer": false, "explanation": "Falsum: est verbum prīmum." },
+        { "id": "hom1u", "statement": "Dialectus Epica/Iōnica est corruptiō Atticī.", "answer": false, "explanation": "Falsum: est systēma proprium, antīquius." },
+        { "id": "hom1v", "statement": "'Οὐλομένην' est participium concordāns cum μῆνιν.", "answer": true, "explanation": "Appositiō, \"exitiālem\"." }
+      ]
     }
   ],
   "summary": [

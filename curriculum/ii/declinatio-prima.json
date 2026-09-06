@@ -304,6 +304,31 @@
           "explanation": "Corrēctum: -αι, -ῶν, -αις, -ας valet ubīque in plūrālī prīmae dēclīnātiōnis."
         }
       ]
+    },
+    {
+      "id": "ii-dec1-fill2",
+      "type": "fill-blank",
+      "title": "Amplius Complē Sententiam",
+      "instructions": "Elige fōrmam rēctam.",
+      "items": [
+        { "id": "dec1o", "prompt": "Ὁ ___ ἐν τῇ ἀγορᾷ ἐστίν. (νεανίας, nom. sg.)", "options": ["νεανίας", "νεανίου", "νεανίαν"], "answers": ["νεανίας"], "explanation": "Nōminātīvus singulāris masculīnōrum in -ας: νεανίας." },
+        { "id": "dec1p", "prompt": "Ἡ χώρα τοῦ ___ καλή ἐστιν. (νεανίας, gen. sg.)", "options": ["νεανίου", "νεανίας", "νεανίᾳ"], "answers": ["νεανίου"], "explanation": "Genetīvus singulāris, mūtuātum ā dēclīnātiōne secundā: νεανίου." },
+        { "id": "dec1q", "prompt": "Ὦ ___, χαῖρε! (νεανίας, voc. sg.)", "options": ["νεανία", "νεανίας", "νεανίαν"], "answers": ["νεανία"], "explanation": "Vocātīvus speciālis brevis: νεανία." },
+        { "id": "dec1r", "prompt": "Αἱ χῶραι τῶν ___ μεγάλαι εἰσίν. (πολίτης, gen. pl.)", "options": ["πολιτῶν", "πολίτας", "πολίταις"], "answers": ["πολιτῶν"], "explanation": "Genetīvus plūrālis, semper -ῶν." },
+        { "id": "dec1s", "prompt": "Ἐν ταῖς ___ οἰκοῦμεν. (χώρα, dat. pl.)", "options": ["χώραις", "χώρας", "χωρῶν"], "answers": ["χώραις"], "explanation": "Datīvus plūrālis, semper -αις." }
+      ]
+    },
+    {
+      "id": "ii-dec1-tf2",
+      "type": "true-false",
+      "title": "Amplius Vērum an Falsum",
+      "items": [
+        { "id": "dec1t", "statement": "Νεανίας dēclīnātur sīcut πολίτης, cum genetīvō singulārī in -ου.", "answer": true, "explanation": "Ambo sunt masculīna prīmae dēclīnātiōnis." },
+        { "id": "dec1u", "statement": "Vocātīvus singulāris nōminis νεανίας est νεανίας, idem ac nōminātīvus.", "answer": false, "explanation": "Vocātīvus est νεανία, fōrma brevis speciālis." },
+        { "id": "dec1v", "statement": "Datīvus plūrālis omnium nōminum prīmae dēclīnātiōnis fīnītur -αις.", "answer": true, "explanation": "Regula universalis plūrālis." },
+        { "id": "dec1w", "statement": "Χώρα est exemplum α impūrī, quia sequitur ρ.", "answer": false, "explanation": "Post ρ, α est pūrum, nōn impūrum." },
+        { "id": "dec1x", "statement": "Nōmina masculīna prīmae dēclīnātiōnis (ut πολίτης, νεανίας) nōn exsistunt in Graecō.", "answer": false, "explanation": "Exsistunt, cum genetīvō speciālī -ου." }
+      ]
     }
   ],
   "summary": [

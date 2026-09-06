@@ -296,6 +296,29 @@
           "explanation": "Falsum: citant per prīmam persōnam singulārem praesentis āctīvī (-ω)."
         }
       ]
+    },
+    {
+      "id": "ii-con1-fill2",
+      "type": "fill-blank",
+      "title": "Amplius Coniugā λύω",
+      "instructions": "Comple spatia cum fōrmā rēctā verbī λύω.",
+      "items": [
+        { "id": "con1o", "prompt": "Ὑμεῖς ___ τὰς πύλας. (2ª pl.)", "options": ["λύετε", "λύεις", "λύουσιν"], "answers": ["λύετε"], "explanation": "Secunda persōna plūrālis: λύετε." },
+        { "id": "con1p", "prompt": "Ἐγὼ βούλομαι ___ τὸν νόμον. (infīnītīvus)", "options": ["λύειν", "λύω", "λύεις"], "answers": ["λύειν"], "explanation": "Īnfīnītīvus post verbum auxiliāre." },
+        { "id": "con1q", "prompt": "Σὺ καὶ ἐγὼ ___ τὸν δοῦλον. (1ª pl.)", "options": ["λύομεν", "λύετε", "λύουσιν"], "answers": ["λύομεν"], "explanation": "Prīma persōna plūrālis: λύομεν." },
+        { "id": "con1r", "prompt": "Ὁ διδάσκαλος καὶ οἱ μαθηταὶ ___ τὰς ἀπορίας. (3ª pl.)", "options": ["λύουσιν", "λύει", "λύομεν"], "answers": ["λύουσιν"], "explanation": "Tertia persōna plūrālis: λύουσι(ν)." }
+      ]
+    },
+    {
+      "id": "ii-con1-tf2",
+      "type": "true-false",
+      "title": "Amplius Vērum an Falsum",
+      "items": [
+        { "id": "con1s", "statement": "Verbum λύω est citātum in dictiōnāriīs per fōrmam prīmae persōnae singulāris.", "answer": true, "explanation": "Convention Graeca, distincta ab Latīnā." },
+        { "id": "con1t", "statement": "Vōcālis thematica coniungit thema cum dēsinentiā persōnālī.", "answer": true, "explanation": "Ut in λύομεν, λύετε." },
+        { "id": "con1u", "statement": "Verba āthemātica in -μι addunt dēsinentiam sine vōcālī iūnctīvā.", "answer": true, "explanation": "Classis minor, distincta ā verbīs thematicīs." },
+        { "id": "con1v", "statement": "Ν ephelkystikon adhibētur sōlum cum verbō εἰμί, numquam cum aliīs verbīs.", "answer": false, "explanation": "Falsum: rēgula generālis, applicāta ad omnem fōrmam fīnītam -σι." }
+      ]
     }
   ],
   "summary": [

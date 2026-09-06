@@ -296,6 +296,42 @@
           "explanation": "Corrēctum: “concordantia neutrīus plūrālis” est phaenomenon reāle et frequens."
         }
       ]
+    },
+    {
+      "id": "ii-dec2-fill2",
+      "type": "fill-blank",
+      "title": "Amplius Complē Fōrmam Rēctam",
+      "instructions": "Comple spatia cum fōrmā rēctā dēclīnātiōnis.",
+      "items": [
+        { "id": "dec2o", "prompt": "Οἱ ___ καλοί εἰσιν. (λόγος, nōm. pl.)", "options": ["λόγοι", "λόγους", "λόγων"], "answers": ["λόγοι"], "explanation": "Nōminātīvus plūrālis masculīnī: -οι." },
+        { "id": "dec2p", "prompt": "Τῶν ___ ἀκούω. (λόγος, gen. pl.)", "options": ["λόγων", "λόγοις", "λόγους"], "answers": ["λόγων"], "explanation": "Genetīvus plūrālis: -ων." },
+        { "id": "dec2q", "prompt": "Τοῖς ___ χαίρω. (δῶρον, dat. pl.)", "options": ["δώροις", "δῶρα", "δώρων"], "answers": ["δώροις"], "explanation": "Datīvus plūrālis, identicus masculīnō: -οις." },
+        { "id": "dec2r", "prompt": "Τὸν ___ βλέπω. (λόγος, acc. sg.)", "options": ["λόγον", "λόγου", "λόγῳ"], "answers": ["λόγον"], "explanation": "Accūsātīvus singulāris masculīnī: -ον." },
+        { "id": "dec2s", "prompt": "Τοῦ ___ ἀκούω. (δῶρον, gen. sg.)", "options": ["δώρου", "δῶρον", "δώρῳ"], "answers": ["δώρου"], "explanation": "Genetīvus singulāris, identicus masculīnō: -ου." }
+      ]
+    },
+    {
+      "id": "ii-dec2-mc2",
+      "type": "multiple-choice",
+      "title": "Amplius de Dēclīnātiōne Secundā",
+      "items": [
+        { "id": "dec2t", "prompt": "Nōminātīvus plūrālis masculīnī secundae dēclīnātiōnis fīnītur:", "options": ["-οι", "-α", "-ων"], "answerIndex": 0, "explanation": "λόγοι." },
+        { "id": "dec2u", "prompt": "'Τὰ ζῷα τρέχει' exemplificat:", "options": ["concordantiam neutrīus plūrālis", "errorem grammaticum", "plūrālem verborum"], "answerIndex": 0, "explanation": "Subiectum neutrum plūrāle, verbum singulāre." },
+        { "id": "dec2v", "prompt": "Vocātīvus singulāris masculīnī secundae dēclīnātiōnis (λόγε) differt ā quō cāsū, praecipuē?", "options": ["nōminātīvō", "genetīvō", "datīvō"], "answerIndex": 0, "explanation": "Λόγε (voc.) differt ā λόγος (nōm.) — fōrma speciālis -ε." },
+        { "id": "dec2w", "prompt": "Nōmen fēminīnum ὁδός (via) in secundā dēclīnātiōne dēclīnātur:", "options": ["sīcut masculīnum, quamvīs genere fēminīnō", "sīcut prīma dēclīnātiō", "irregulāriter, sine patrōnō"], "answerIndex": 0, "explanation": "Genus est arbitrārium; fōrma sequitur masculīnum." },
+        { "id": "dec2x", "prompt": "Genetīvus et datīvus (utrōque numerō) nōminum neutrōrum secundae dēclīnātiōnis sunt:", "options": ["identicī cum masculīnīs", "distinctī ā masculīnīs", "nōn exsistentēs"], "answerIndex": 0, "explanation": "Sōlum nōm./acc./voc. differunt." }
+      ]
+    },
+    {
+      "id": "ii-dec2-tf2",
+      "type": "true-false",
+      "title": "Amplius Vērum an Falsum",
+      "items": [
+        { "id": "dec2y", "statement": "Vocātīvus plūrālis masculīnī secundae dēclīnātiōnis est identicus nōminātīvō plūrālī (-οι).", "answer": true, "explanation": "Nūlla fōrma distincta vocātīva plūrālis." },
+        { "id": "dec2z", "statement": "Nōmen ὁδός (via) est exemplum fēminīnī in secundā dēclīnātiōne.", "answer": true, "explanation": "Pauca fēminīna existunt in hāc dēclīnātiōne." },
+        { "id": "dec2aa", "statement": "Datīvus singulāris secundae dēclīnātiōnis (-ῳ) nōn habet iōta subscrīptum.", "answer": false, "explanation": "Habet iōta subscrīptum sub ω." },
+        { "id": "dec2bb", "statement": "Concordantia neutrīus plūrālis significat verbum plūrāle cum subiectō neutrō plūrālī.", "answer": false, "explanation": "Falsum: significat verbum SINGULĀRE cum tālī subiectō." }
+      ]
     }
   ],
   "summary": [

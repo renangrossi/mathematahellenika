@@ -289,6 +289,16 @@
           "explanation": "Falsum: τρεῖς servit masc./fem.; τρία servit sōlum neutrō — nōn variat secundum fēminīnum vs. masculīnum."
         }
       ]
+    },
+    {
+      "id": "ii-num2-tf2",
+      "type": "true-false",
+      "title": "Amplius Vērum an Falsum",
+      "items": [
+        { "id": "num2o", "statement": "Ὀγδοήκοντα significat 80.", "answer": true, "explanation": "Numerus regulāris in -κοντα." },
+        { "id": "num2p", "statement": "Numerī 1-3 sunt indēclīnābilēs, sīcut decadēs.", "answer": false, "explanation": "Falsum: 1-3 sunt praecisē illī quī DĒCLĪNANTUR; decadēs sunt indēclīnābilēs." },
+        { "id": "num2q", "statement": "Εἴκοσι est excēptiō ad patrōnum -κοντα.", "answer": true, "explanation": "Cēterae decadēs (30-90) fīniunt -κοντα; εἴκοσι nōn." }
+      ]
     }
   ],
   "summary": [

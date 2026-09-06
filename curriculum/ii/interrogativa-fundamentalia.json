@@ -296,6 +296,15 @@
           "explanation": "Corrēctum: τί servit ambōbus cāsibus, sīcut omne nōmen/prōnōmen neutrum."
         }
       ]
+    },
+    {
+      "id": "ii-int1-tf2",
+      "type": "true-false",
+      "title": "Amplius Vērum an Falsum",
+      "items": [
+        { "id": "int1o", "statement": "Τίνων est genetīvus plūrālis, omne genere.", "answer": true, "explanation": "Servit masc./fem./neut. in genetīvō plūrālī." },
+        { "id": "int1p", "statement": "Πῶς significat “quandō?”.", "answer": false, "explanation": "Falsum: πῶς significat “quōmodo?”; πότε significat “quandō?”." }
+      ]
     }
   ],
   "summary": [

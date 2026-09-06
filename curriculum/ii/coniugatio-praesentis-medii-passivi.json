@@ -296,6 +296,39 @@
           "explanation": "Corrēctum: -όμεθα est dēsinentia prīmae persōnae plūrālis mediī-passīvī."
         }
       ]
+    },
+    {
+      "id": "ii-con2-fill2",
+      "type": "fill-blank",
+      "title": "Amplius Coniugā λύομαι",
+      "instructions": "Comple spatia cum fōrmā rēctā mediī-passīvī verbī λύω.",
+      "items": [
+        { "id": "con2o", "prompt": "Ὑμεῖς ___ ἐν τῷ ποταμῷ. (2ª pl.)", "options": ["λύεσθε", "λύεται", "λυόμεθα"], "answers": ["λύεσθε"], "explanation": "Secunda persōna plūrālis: λύεσθε." },
+        { "id": "con2p", "prompt": "Ὁ δοῦλος βούλεται ___. (infīnītīvus mediī-passīvī)", "options": ["λύεσθαι", "λύειν", "λύεσαι"], "answers": ["λύεσθαι"], "explanation": "Īnfīnītīvus medius-passīvus fīnītur -εσθαι." },
+        { "id": "con2q", "prompt": "Αἱ γυναῖκες ___ ἐν τῇ οἰκίᾳ. (3ª pl.)", "options": ["λύονται", "λύεται", "λύεσθε"], "answers": ["λύονται"], "explanation": "Tertia persōna plūrālis: λύονται." },
+        { "id": "con2r", "prompt": "Σὺ καὶ ἐγὼ ___ ὑπὸ τῶν πολιτῶν. (1ª pl., passīvum)", "options": ["λυόμεθα", "λύεσθε", "λύονται"], "answers": ["λυόμεθα"], "explanation": "Prīma persōna plūrālis: λυόμεθα." },
+        { "id": "con2s", "prompt": "Τί σὺ ___; (2ª sg.)", "options": ["λύῃ", "λύεται", "λύομαι"], "answers": ["λύῃ"], "explanation": "Secunda persōna singulāris, fōrma contracta." }
+      ]
+    },
+    {
+      "id": "ii-con2-mc2",
+      "type": "multiple-choice",
+      "title": "Amplius de Vōce Mediā-Passīvā",
+      "items": [
+        { "id": "con2t", "prompt": "'Λύομαι τὸν δοῦλον' potest significāre:", "options": ["redimō servum prō mē ipsō (commodum suī)", "redimor ipse ā servō", "nihil, est agrammaticum"], "answerIndex": 0, "explanation": "Sēnsus mediī: commodum suī." },
+        { "id": "con2u", "prompt": "Distīnctiō fōrmālis inter medium et passīvum appāret prīmum in:", "options": ["aoristō/futūrō", "praesentī", "imperfectō"], "answerIndex": 0, "explanation": "Praesēns/imperfectum sunt identica; aoristus/futūrum distinguunt." },
+        { "id": "con2v", "prompt": "Λύεσαι est fōrma:", "options": ["historica/antīqua, praecēdēns contractiōnem", "classica Attica standard", "imperātīva"], "answerIndex": 0, "explanation": "Fōrma classica est λύῃ, contracta." }
+      ]
+    },
+    {
+      "id": "ii-con2-tf2",
+      "type": "true-false",
+      "title": "Amplius Vērum an Falsum",
+      "items": [
+        { "id": "con2w", "statement": "Vōx media potest indicāre sēnsum reciprocum (subiecta plūrālia agentia inter sē).", "answer": true, "explanation": "Ūnus ex variīs sēnsibus mediī." },
+        { "id": "con2x", "statement": "Latīnum classicum distinguit tam plēnē vōcem mediam quam Graecum.", "answer": false, "explanation": "Falsum: Latīnum habet sōlum āctīvam/passīvam, cum dēpōnentibus ut cāsus speciālis." },
+        { "id": "con2y", "statement": "Sēnsus mediī 'commodum suī' significat subiectum agere prō sē ipsō, nōn sōlum in sē ipsum.", "answer": true, "explanation": "Distinctio ā reflexīvō pūrō." }
+      ]
     }
   ],
   "summary": [

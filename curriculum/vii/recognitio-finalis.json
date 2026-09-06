@@ -136,6 +136,40 @@
           "explanation": "Corrēctum: exercitium synthesis fīnālis."
         }
       ]
+    },
+    {
+      "id": "vii-fin1-fill",
+      "type": "fill-blank",
+      "title": "Complē secundum Passum Fīnālem",
+      "instructions": "Comple spatia cum fōrmā rēctā secundum textum.",
+      "items": [
+        { "id": "fin1i", "prompt": "Ὅστις μανθάνει τὰ ___ καὶ τοὺς λόγους τῶν παλαιῶν συγγραφέων. (\"letters\")", "options": ["γράμματα", "γράμμασι", "γραμμάτων"], "answers": ["γράμματα"], "explanation": "Accūsātīvus plūrālis neutrum." },
+        { "id": "fin1j", "prompt": "Ταῦτα γὰρ ___, δυνάμεθα καὶ Ὅμηρον ἀναγιγνώσκειν. (participium aoristī, \"having learned\")", "options": ["μαθόντες", "μανθάνοντες", "μαθήσοντες"], "answers": ["μαθόντες"], "explanation": "Participium aoristī, Gradū IV." },
+        { "id": "fin1k", "prompt": "Οὐκοῦν ___ τῷ τέλει τούτου τοῦ δρόμου. (coniūnctīvus hortātīvus, \"gaudeāmus\")", "options": ["χαίρωμεν", "χαίρομεν", "χαίροιμεν"], "answers": ["χαίρωμεν"], "explanation": "Coniūnctīvus hortātīvus, Gradū V." },
+        { "id": "fin1l", "prompt": "Καὶ ___ ἄλλου. (coniūnctīvus hortātīvus, \"incipiāmus\")", "options": ["ἀρχώμεθα", "ἀρχόμεθα", "ἀρξόμεθα"], "answers": ["ἀρχώμεθα"], "explanation": "Coniūnctīvus hortātīvus mediī." }
+      ]
+    },
+    {
+      "id": "vii-fin1-mc2",
+      "type": "multiple-choice",
+      "title": "Amplius Recognitiō Fīnālis",
+      "items": [
+        { "id": "fin1m", "prompt": "Gradus I (Fundamenta) introdūxit:", "options": ["alphabētum, phōnologiam, εἰμί", "aoristum et perfectum", "dialectōs Homēricam et Koinēn"], "answerIndex": 0, "explanation": "Fundāmentum initiāle." },
+        { "id": "fin1n", "prompt": "Gradus III (Progressus) introdūxit:", "options": ["dēclīnātiōnem tertiam, imperfectum, futūrum", "coniūnctīvum/optātīvum", "textūs authenticōs"], "answerIndex": 0, "explanation": "Cōnspectus Gradūs III." },
+        { "id": "fin1o", "prompt": "'Ὅστις' in passū fīnālī est:", "options": ["relātīvum indēfīnītum, Gradū V", "interrogātīvum", "dēmōnstrātīvum"], "answerIndex": 0, "explanation": "Applicātiō grammaticae iam discitae." },
+        { "id": "fin1p", "prompt": "Passus fīnālis huius lēctiōnis est:", "options": ["compositiō didactica orīginālis, exercitium synthesis", "citātiō authentica ex Platōne", "poēsis epica Homērica"], "answerIndex": 0, "explanation": "Nōn citātiō, sed synthesis pedagogica." }
+      ]
+    },
+    {
+      "id": "vii-fin1-tf2",
+      "type": "true-false",
+      "title": "Amplius Vērum an Falsum",
+      "items": [
+        { "id": "fin1q", "statement": "Gradus VI introdūxit ōrātiōnem oblīquam plēnam et particulās.", "answer": true, "explanation": "Cōnspectus Gradūs VI." },
+        { "id": "fin1r", "statement": "Ēditiōnēs commentāriae ('cum notīs') sunt īnstrūmentum standard prō discipulō intermediō, nōn signum īnsufficientiae.", "answer": true, "explanation": "Pōns nātūrālis ad lēctiōnem indepēndentem." },
+        { "id": "fin1s", "statement": "Repetītiō distribūta (spaced repetition) est prīncipium didacticum antīquum, nōn modernum.", "answer": false, "explanation": "Falsum: est prīncipium didacticum modernum." },
+        { "id": "fin1t", "statement": "Discipulus quī complēvit hunc cursum potest incohāre Homērum et Koinēn cum praeparātiōne systēmaticā dialectālī.", "answer": true, "explanation": "Obiectīvum complētum huius gradūs." }
+      ]
     }
   ],
   "summary": [

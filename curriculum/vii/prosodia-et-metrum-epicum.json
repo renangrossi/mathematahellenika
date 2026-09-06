@@ -141,6 +141,43 @@
           "explanation": "Falsum: metrum requīrit practicam extēnsam."
         }
       ]
+    },
+    {
+      "id": "vii-met1-fill",
+      "type": "fill-blank",
+      "title": "Complē cum Fōrmā Rēctā",
+      "instructions": "Comple spatia cum fōrmā rēctā, secundum prōsōdiam epicam.",
+      "items": [
+        { "id": "met1i", "prompt": "Pēs sextus hexametrī habet ___ syllabās.", "options": ["duas", "trēs", "ūnam"], "answers": ["duas"], "explanation": "Spondēus vel trochaeus, ultima anceps." },
+        { "id": "met1j", "prompt": "Caesūra prīncipālis typicē occurrit in pede ___.", "options": ["tertiō", "prīmō", "sextō"], "answers": ["tertiō"], "explanation": "Caesūra penthēmimerēs." },
+        { "id": "met1k", "prompt": "Syllaba brevis fit longa ___ sī duae cōnsonantēs sequuntur.", "options": ["positiōne", "nātūrāliter", "numquam"], "answers": ["positiōne"], "explanation": "Distīncta ā longitūdine nātūrālī." },
+        { "id": "met1l", "prompt": "___ est contractiō metrica duārum vōcālium in ūnam syllabam.", "options": ["Synizēsis", "Caesūra", "Elisiō"], "answers": ["Synizēsis"], "explanation": "Phaenomenon Homericum frequēns." },
+        { "id": "met1m", "prompt": "Dactylus cōnsistit ex ūnā syllabā longā et duābus ___.", "options": ["brevibus", "longis", "anceps"], "answers": ["brevibus"], "explanation": "— ⏑⏑." }
+      ]
+    },
+    {
+      "id": "vii-met1-mc2",
+      "type": "multiple-choice",
+      "title": "Amplius de Prōsōdiā",
+      "items": [
+        { "id": "met1n", "prompt": "'Hexameter' litterāliter significat:", "options": ["'sex mēnsūrae'", "'multae syllabae'", "'versus longus'"], "answerIndex": 0, "explanation": "Ā Graecō ἕξ + μέτρον." },
+        { "id": "met1o", "prompt": "'Dactylus' venit ā Graecō significante:", "options": ["'digitus' (comparāns articulōs inaequālēs)", "'pēs'", "'longitūdō'"], "answerIndex": 0, "explanation": "Metaphora ā morphologiā digitī." },
+        { "id": "met1p", "prompt": "Caesūra 'masculīna'/'penthēmimerēs' occurrit:", "options": ["post prīmam syllabam longam dactylī", "in fine versūs semper", "numquam in pede tertiō"], "answerIndex": 0, "explanation": "Locus frequentissimus caesūrae." },
+        { "id": "met1q", "prompt": "Longitūdo 'positiōne' applicātur:", "options": ["etiam trāns līneam verbōrum", "sōlum intrā ūnum verbum", "numquam trāns verba"], "answerIndex": 0, "explanation": "Rēgula extendit trāns verba." },
+        { "id": "met1r", "prompt": "Poēta epicus antīquus adhibēbat licentiās metricās ut:", "options": ["synizēsis, digamma, augmentum omissum", "sōlum rimam", "sōlum accentum tonicum"], "answerIndex": 0, "explanation": "Repertōrium licentiārum metricārum." },
+        { "id": "met1s", "prompt": "Recitātor antīquus (ῥαψῳδός) observābat caesūram ut:", "options": ["pausam 'respīrātiōnis' mediam versūs", "errōrem ēvītandum", "signum fīnis versūs"], "answerIndex": 0, "explanation": "Analoga respīrātiōnī in lēctiōne vōce clārā." }
+      ]
+    },
+    {
+      "id": "vii-met1-tf2",
+      "type": "true-false",
+      "title": "Amplius Vērum an Falsum",
+      "items": [
+        { "id": "met1t", "statement": "Metrum epicum Graecum est basātum in accentū tōnicō, sīcut poēsis Anglica moderna.", "answer": false, "explanation": "Falsum: est basātum in longitūdine syllabārum (quantitātīvum)." },
+        { "id": "met1u", "statement": "Versus 'spondiacus' (pēs quīntus spondēus) est rārus, exceptiō ad rēgulam normālem.", "answer": true, "explanation": "Pēs quīntus est ferē semper dactylus." },
+        { "id": "met1v", "statement": "Ultima syllaba pedis sextī est 'anceps' (potest esse longa vel brevis).", "answer": true, "explanation": "Corrēctum." },
+        { "id": "met1w", "statement": "Sine rēgulā 'positiōne', multī versūs Homericī vidērentur nōn scandere correctē.", "answer": true, "explanation": "Rēgula est essentiālis, nōn optiōnālis." }
+      ]
     }
   ],
   "summary": [

@@ -133,6 +133,41 @@
           "explanation": "Corrēctum: contextus historicus, relevāns ad familiam Lysiae."
         }
       ]
+    },
+    {
+      "id": "vii-lys1-fill",
+      "type": "fill-blank",
+      "title": "Complē secundum Textum",
+      "instructions": "Comple spatia cum fōrmā rēctā secundum textum.",
+      "items": [
+        { "id": "lys1i", "prompt": "___ πολλοῦ ἂν ποιησαίμην, ὦ ἄνδρες. (praepositiō, genetīvus pretiī)", "options": ["Περὶ", "Διά", "Ἀπό"], "answers": ["Περὶ"], "explanation": "Περὶ πολλοῦ = genetīvus pretiī." },
+        { "id": "lys1j", "prompt": "Περὶ πολλοῦ ἂν ___, ὦ ἄνδρες. (optātīvus, \"facerem\")", "options": ["ποιησαίμην", "ποιῶ", "ἐποίησα"], "answers": ["ποιησαίμην"], "explanation": "Optātīvus potentiālis." },
+        { "id": "lys1k", "prompt": "Lysias erat ___ Athēnīs. (resident aliēnigena)", "options": ["μέτοικος", "πολίτης", "δοῦλος"], "answers": ["μέτοικος"], "explanation": "Status sociālis Lysiae." },
+        { "id": "lys1l", "prompt": "Lysias erat ___. (scrīptor ōrātiōnum prō aliīs)", "options": ["λογογράφος", "ῥήτωρ", "ποιητής"], "answers": ["λογογράφος"], "explanation": "Professiō Lysiae." }
+      ]
+    },
+    {
+      "id": "vii-lys1-mc2",
+      "type": "multiple-choice",
+      "title": "Amplius de Lysiā",
+      "items": [
+        { "id": "lys1m", "prompt": "'Ἂν ποιησαίμην' est:", "options": ["optātīvus potentiālis", "indicātīvus simplex", "imperātīvus"], "answerIndex": 0, "explanation": "Modestia rhētorica classica." },
+        { "id": "lys1n", "prompt": "Ōrātiō 'Prō Caede Eratosthenis' dēfendit hominem accūsātum:", "options": ["necāvisse mōechum uxōris suae, captum in flagrante", "furtī", "prōditiōnis"], "answerIndex": 0, "explanation": "Argūmentum ōrātiōnis." },
+        { "id": "lys1o", "prompt": "Genus 'tenue' (ἰσχνόν) contrastat cum:", "options": ["genere ōrnātō/floridō", "genere epicō", "genere lyricō"], "answerIndex": 0, "explanation": "Classificātiō stilistica antīqua." },
+        { "id": "lys1p", "prompt": "Dionysius Halicarnassēnsis laudāvit Lysiam propter:", "options": ["'simplicitātem artificiōsam'", "complexitātem sententiārum", "vocābulum rārum"], "answerIndex": 0, "explanation": "Iūdicium antīquum dē stilō Lysiae." },
+        { "id": "lys1q", "prompt": "Citātiō Lysiae hīc est intentiōnāliter:", "options": ["magis conservātīva quam Xenophōn/Platōn", "aequē extēnsa quam Homērus", "omnīnō omissa"], "answerIndex": 0, "explanation": "Honestās academica dē līmitibus memoriae." }
+      ]
+    },
+    {
+      "id": "vii-lys1-tf2",
+      "type": "true-false",
+      "title": "Amplius Vērum an Falsum",
+      "items": [
+        { "id": "lys1r", "statement": "Metoecus Athēniēnsis poterat plēnē loquī prō sē in tribūnālī.", "answer": false, "explanation": "Falsum: status līmitābat iūra fōrēnsia dīrēcta." },
+        { "id": "lys1s", "statement": "Lysias scrīpsit ōrātiōnēs quās clientēs eius prōnūntiābant.", "answer": true, "explanation": "Rōlus logographī." },
+        { "id": "lys1t", "statement": "'Περὶ πολλοῦ' litterāliter significat 'circā multum'.", "answer": true, "explanation": "Trānslātiō litterālis, sēnsus idiōmaticus 'magnī'." },
+        { "id": "lys1u", "statement": "Ēthopoiia significat vōcem propriam Lysiae ipsīus, sine adaptātiōne.", "answer": false, "explanation": "Falsum: significat adaptātiōnem ad persōnam locūtōris." }
+      ]
     }
   ],
   "summary": [

@@ -142,6 +142,44 @@
           "explanation": "Corrēctum: compositum mixtum, aedificātum per trāditiōnem orālem extēnsam."
         }
       ]
+    },
+    {
+      "id": "vii-dia1-fill",
+      "type": "fill-blank",
+      "title": "Complē cum Fōrmā Rēctā",
+      "instructions": "Comple spatia cum fōrmā rēctā, secundum discrīmen Homericum/Atticum.",
+      "items": [
+        { "id": "dia1i", "prompt": "Πηληϊάδεω (Hom.) = Πηληϊάδου (Att.) — genetīvus, dēsinentia ___.", "options": ["-εω", "-ου", "-οιο"], "answers": ["-εω"], "explanation": "Genetīvus prīmae dēclīnātiōnis masculīnae, Homericum." },
+        { "id": "dia1j", "prompt": "Ἄλγεα (Hom.) = ἄλγη (Att.) — fōrma ___.", "options": ["uncontracta", "contracta", "irregulāris"], "answers": ["uncontracta"], "explanation": "Homērus retinet fōrmam uncontractam." },
+        { "id": "dia1k", "prompt": "Ἔπεσσι (Hom.) = ἔπεσι (Att.) — datīvus plūrālis, dēsinentia ___.", "options": ["-εσσι", "-σι", "-οις"], "answers": ["-εσσι"], "explanation": "Dēsinentia alternātīva Homerica." },
+        { "id": "dia1l", "prompt": "___ (ϝ) est littera antīqua perdita, sonāns \"w\".", "options": ["Digamma", "Qoppa", "San"], "answers": ["Digamma"], "explanation": "Littera antīqua dēsuēta." },
+        { "id": "dia1m", "prompt": "Βάλε (Hom., sine augmentō) = ___ (Att., cum augmentō).", "options": ["ἔβαλε", "βαλεῖ", "βάλλει"], "answers": ["ἔβαλε"], "explanation": "Augmentum obligātōrium Atticum." },
+        { "id": "dia1n", "prompt": "Compositum Homericum combīnat elementa ___ cum stratīs Aeolicīs.", "options": ["Iōnica", "Dōrica", "Attica"], "answers": ["Iōnica"], "explanation": "Elementum praecipuum compositī." }
+      ]
+    },
+    {
+      "id": "vii-dia1-mc2",
+      "type": "multiple-choice",
+      "title": "Amplius de Dialectō Homericā",
+      "items": [
+        { "id": "dia1o", "prompt": "Dialectī reālēs locūtae ab cīvitātibus antīquīs includunt:", "options": ["Atticam, Iōnicam, Dōricam", "sōlum Homēricam", "nūllam, omnēs sunt artificiālēs"], "answerIndex": 0, "explanation": "Homēricum est distīnctum, artificiāle." },
+        { "id": "dia1p", "prompt": "Trāditiō epica Homērica fuit aedificāta:", "options": ["per generātiōnēs aedōrum orālium, super mīlle annōs", "ab ūnō poētā in ūnā generātiōne", "in scrīptūrā ab initiō, sine trāditiōne orālī"], "answerIndex": 0, "explanation": "Trāditiō orālis extēnsa." },
+        { "id": "dia1q", "prompt": "Digamma praevenit typicē:", "options": ["hiātum (duae vōcālēs adiacentēs sine elisiōne)", "accentum", "augmentum"], "answerIndex": 0, "explanation": "Effectus phōnologicus reconstrūctus per metrum." },
+        { "id": "dia1r", "prompt": "Comparātiō 'ϝοῖκος' cum Latīnō 'vīcus' dēmōnstrat:", "options": ["cognātiōnem Indoeuropaeam", "coincidentiam fortuitam", "errōrem scrībae"], "answerIndex": 0, "explanation": "V initiāle Latīnum ↔ digamma Graecum." },
+        { "id": "dia1s", "prompt": "Discrīmina inter Homēricum et Atticum sunt:", "options": ["systēmatica et discibilia, nōn chaotica", "aleātoria et impraevisibilia", "inexistentia"], "answerIndex": 0, "explanation": "Patrōnī regulārēs, discibilēs." },
+        { "id": "dia1t", "prompt": "Omissiō augmentī apud Homērum affectat:", "options": ["fōrmam sōlum, nōn sēnsum temporālem", "tempus verbī (fit praesēns)", "modum verbī"], "answerIndex": 0, "explanation": "Licentia metrica sine effectū sēmanticō." }
+      ]
+    },
+    {
+      "id": "vii-dia1-tf2",
+      "type": "true-false",
+      "title": "Amplius Vērum an Falsum",
+      "items": [
+        { "id": "dia1u", "statement": "Graecum Homericum fuit locūtum cotīdiānē ab Iōniīs classicīs.", "answer": false, "explanation": "Falsum: numquam fuit lingua cotīdiāna vīva." },
+        { "id": "dia1v", "statement": "Genetīvus -οιο est fōrma Homerica secundae dēclīnātiōnis.", "answer": true, "explanation": "Prō Atticō -ου." },
+        { "id": "dia1w", "statement": "Digamma est scrīpta explicitē in versibus Iliadis, sīcut cēterae litterae.", "answer": false, "explanation": "Falsum: effectus reconstruitur, littera nōn scrībitur." },
+        { "id": "dia1x", "statement": "Augmentī omissiō apud Homērum mūtat tempus verbī ā praeteritō ad praesēns.", "answer": false, "explanation": "Falsum: fōrma manet praeteritum, sōlum sine signō explicitō." }
+      ]
     }
   ],
   "summary": [

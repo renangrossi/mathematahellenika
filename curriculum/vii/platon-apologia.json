@@ -137,6 +137,39 @@
           "explanation": "Corrēctum: contextus historicus authenticus."
         }
       ]
+    },
+    {
+      "id": "vii-plat1-fill",
+      "type": "fill-blank",
+      "title": "Complē secundum Textum",
+      "instructions": "Comple spatia cum fōrmā rēctā secundum textum.",
+      "items": [
+        { "id": "plat1i", "prompt": "Ὅτι μὲν ὑμεῖς, ὦ ἄνδρες Ἀθηναῖοι, ___ ὑπὸ τῶν ἐμῶν κατηγόρων, οὐκ οἶδα. (perfectum, \"passi estis\")", "options": ["πεπόνθατε", "πάσχετε", "ἐπάθετε"], "answers": ["πεπόνθατε"], "explanation": "Perfectum āctīvum verbī πάσχω." },
+        { "id": "plat1j", "prompt": "Ὁ δὲ ___ βίος οὐ βιωτὸς ἀνθρώπῳ. (\"unexamined\")", "options": ["ἀνεξέταστος", "ἐξεταστός", "ἐξετάζων"], "answers": ["ἀνεξέταστος"], "explanation": "Α- prīvātīvum + ἐξετάζω." },
+        { "id": "plat1k", "prompt": "Ὁ δὲ ἀνεξέταστος βίος οὐ ___ ἀνθρώπῳ. (adiectīvum verbāle, \"vīvibilis\")", "options": ["βιωτός", "βιωτέος", "βίοτος"], "answers": ["βιωτός"], "explanation": "Adiectīvum verbāle in -τός, Gradū VI." },
+        { "id": "plat1l", "prompt": "Ὁ δὲ ἀνεξέταστος βίος οὐ βιωτὸς ___. (datīvus, \"homini\")", "options": ["ἀνθρώπῳ", "ἄνθρωπον", "ἀνθρώπου"], "answers": ["ἀνθρώπῳ"], "explanation": "Datīvus commodī/respectūs." }
+      ]
+    },
+    {
+      "id": "vii-plat1-mc2",
+      "type": "multiple-choice",
+      "title": "Amplius de Apologiā",
+      "items": [
+        { "id": "plat1m", "prompt": "'Ἀνεξέταστος' combinat α- prīvātīvum cum thema verbī significantis \"examino\":", "options": ["ἐξετάζω", "γιγνώσκω", "βιόω"], "answerIndex": 0, "explanation": "Origō morphologica." },
+        { "id": "plat1n", "prompt": "'Πάσχω' est verbum:", "options": ["irregulāre, fōrmae prīncipālēs memorandae seorsim", "regulāre thematicum", "dēpōnēns"], "answerIndex": 0, "explanation": "πάσχω, πείσομαι, ἔπαθον, πέπονθα." },
+        { "id": "plat1o", "prompt": "Sōcratēs fuit accūsātus:", "options": ["impietātis et corruptiōnis iuventūtis", "prōditiōnis", "furtī"], "answerIndex": 0, "explanation": "Contextus historicus." },
+        { "id": "plat1p", "prompt": "'Vīta īnexāmināta' refert ad methodum:", "options": ["elenchī Sōcraticī, applicātam ad sē ipsum", "rhētoricae dēmōnstrātīvae", "historiographiae"], "answerIndex": 0, "explanation": "Sēnsus philosophicus Sōcraticus." }
+      ]
+    },
+    {
+      "id": "vii-plat1-tf2",
+      "type": "true-false",
+      "title": "Amplius Vērum an Falsum",
+      "items": [
+        { "id": "plat1q", "statement": "Textus 17a et 38a sunt ambō excerpta authentica ex Apologiā.", "answer": true, "explanation": "Verba ipsa Platōnis." },
+        { "id": "plat1r", "statement": "'Ὅτι' in prīmō passū est causāle ('quia'), nōn oblīquum.", "answer": false, "explanation": "Falsum: introducit clausulam obiectī ('quid')." },
+        { "id": "plat1s", "statement": "Apologia probābiliter combinat memoriam et compositiōnem litterāriam Platōnis.", "answer": true, "explanation": "Quaestiō historiographica genuīna." }
+      ]
     }
   ],
   "summary": [

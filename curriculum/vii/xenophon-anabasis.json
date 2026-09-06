@@ -132,6 +132,45 @@
           "explanation": "Corrēctum: brevitās et clāritās sunt authenticae, nōn adaptātae."
         }
       ]
+    },
+    {
+      "id": "vii-xen1-fill",
+      "type": "fill-blank",
+      "title": "Complē secundum Textum",
+      "instructions": "Comple spatia cum fōrmā rēctā secundum textum.",
+      "items": [
+        { "id": "xen1i", "prompt": "___ καὶ Παρυσάτιδος γίγνονται παῖδες δύο. (genetīvus, \"Darius\")", "options": ["Δαρείου", "Δαρεῖος", "Δαρείῳ"], "answers": ["Δαρείου"], "explanation": "Genetīvus possessīvus praepositus." },
+        { "id": "xen1j", "prompt": "Δαρείου καὶ ___ γίγνονται παῖδες δύο. (genetīvus, \"Parysatis\")", "options": ["Παρυσάτιδος", "Παρύσατις", "Παρυσάτιδι"], "answers": ["Παρυσάτιδος"], "explanation": "Genetīvus possessīvus praepositus." },
+        { "id": "xen1k", "prompt": "Πρεσβύτερος ___ Ἀρταξέρξης, νεώτερος δὲ Κῦρος. (particula)", "options": ["μέν", "δέ", "γάρ"], "answers": ["μέν"], "explanation": "Μέν antīcipat δέ sequēns." },
+        { "id": "xen1l", "prompt": "Πρεσβύτερος μὲν Ἀρταξέρξης, νεώτερος ___ Κῦρος. (particula)", "options": ["δέ", "μέν", "οὖν"], "answers": ["δέ"], "explanation": "Δέ concludit balantiam." },
+        { "id": "xen1m", "prompt": "Δαρείου καὶ Παρυσάτιδος ___ παῖδες δύο. (praesēns historicum, \"nāscuntur\")", "options": ["γίγνονται", "ἐγένοντο", "γενήσονται"], "answers": ["γίγνονται"], "explanation": "Praesēns historicum, prō praeteritō." },
+        { "id": "xen1n", "prompt": "Δαρείου καὶ Παρυσάτιδος γίγνονται ___ δύο. (\"children\")", "options": ["παῖδες", "παίδων", "παισί"], "answers": ["παῖδες"], "explanation": "Nōminātīvus plūrālis, subiectum." }
+      ]
+    },
+    {
+      "id": "vii-xen1-mc2",
+      "type": "multiple-choice",
+      "title": "Amplius de Anabasī",
+      "items": [
+        { "id": "xen1o", "prompt": "'Anabasis' significat litterāliter:", "options": ["'Ascēnsus' (relātiō itineris)", "'Descēnsus'", "'Bellum'"], "answerIndex": 0, "explanation": "Titulus operis." },
+        { "id": "xen1p", "prompt": "Expedītiō Cȳrī Minōris facta est annō:", "options": ["401 a.C.", "399 a.C.", "480 a.C."], "answerIndex": 0, "explanation": "Contextus historicus." },
+        { "id": "xen1q", "prompt": "Mercennāriī Graecī in Anabasī, \"Decem Mīlia\", vocantur:", "options": ["οἱ Μύριοι", "οἱ σοφισταί", "οἱ ῥήτορες"], "answerIndex": 0, "explanation": "Nōmen traditum grupī." },
+        { "id": "xen1r", "prompt": "Xenophōn fuit discipulus:", "options": ["Sōcratis", "Platōnis", "Aristotelis"], "answerIndex": 0, "explanation": "Contextus biographicus." },
+        { "id": "xen1s", "prompt": "Praesēns historicum est adhibitum prō:", "options": ["praeteritō, ad vīvācitātem nārrātīvam", "futūrō certō", "coniūnctīvō dēlīberātīvō"], "answerIndex": 0, "explanation": "Convention stilistica frequēns." },
+        { "id": "xen1t", "prompt": "Genetīvī 'Δαρείου καὶ Παρυσάτιδος' stant:", "options": ["ante verbum prīncipāle, ēmphaticē", "post verbum semper", "numquam in initiō sententiae"], "answerIndex": 0, "explanation": "Ōrdō emphaticus, Gradū VI." }
+      ]
+    },
+    {
+      "id": "vii-xen1-tf2",
+      "type": "true-false",
+      "title": "Amplius Vērum an Falsum",
+      "items": [
+        { "id": "xen1u", "statement": "Anabasis est prīmum opus quod discipulī Graecī legunt propter prōsam simplicem/clāram.", "answer": true, "explanation": "Convention pedagogica classica." },
+        { "id": "xen1v", "statement": "Cȳrus Minor erat fīlius maior nātū rēgis Persārum.", "answer": false, "explanation": "Falsum: Artaxerxēs erat prior nātū (πρεσβύτερος)." },
+        { "id": "xen1w", "statement": "Xenophōn ipse participāvit in expedītiōne quam dēscrībit.", "answer": true, "explanation": "Opus quasi-autobiographicum." },
+        { "id": "xen1x", "statement": "Πρεσβύτερος/νεώτερος hīc requīrunt terminum comparātiōnis explicitum 'quam'.", "answer": false, "explanation": "Falsum: ūsus absolūtus est possibilis." },
+        { "id": "xen1y", "statement": "Textus hic est verba exācta Xenophontis, sine adaptātiōne.", "answer": true, "explanation": "Textus authenticus, nōn adaptātus." }
+      ]
     }
   ],
   "summary": [

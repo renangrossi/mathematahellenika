@@ -227,6 +227,41 @@
           "explanation": "Corrēctum: πολλοῦ ἄξιον \"multī valet\"."
         }
       ]
+    },
+    {
+      "id": "vi-cas1-fill2",
+      "type": "fill-blank",
+      "title": "Amplius Complē cum Cāsū Rēctō",
+      "instructions": "Comple spatia cum fōrmā rēctā, secundum ūsum cāsuum indicātum.",
+      "items": [
+        { "id": "cas1o", "prompt": "___ ἄξιόν ἐστιν. (gen. pretiī, \"much\")", "options": ["πολλοῦ", "πολύ", "πολλῷ"], "answers": ["πολλοῦ"], "explanation": "Genetīvus pretiī." },
+        { "id": "cas1p", "prompt": "τὸ σῶμα νοσεῖ, τὴν δὲ ___ ὑγιαίνει. (acc. respectūs, \"animam\")", "options": ["ψυχήν", "ψυχή", "ψυχῆς"], "answers": ["ψυχήν"], "explanation": "Accūsātīvus respectūs." },
+        { "id": "cas1q", "prompt": "___ ἡμέρας ἐπορεύοντο. (acc., extēnsiō, \"three\")", "options": ["τρεῖς", "τριῶν", "τρισίν"], "answers": ["τρεῖς"], "explanation": "Accūsātīvus, extēnsiō temporis." },
+        { "id": "cas1r", "prompt": "___ ἡμερῶν ἀφίξεται. (gen., \"intrā trēs\")", "options": ["τριῶν", "τρεῖς", "τρισίν"], "answers": ["τριῶν"], "explanation": "Genetīvus, intrā quod tempus." },
+        { "id": "cas1s", "prompt": "τῇ ___ ἡμέρᾳ ἀπῆλθον. (dat., \"tertiā\")", "options": ["τρίτῃ", "τρίτην", "τρίτης"], "answers": ["τρίτῃ"], "explanation": "Datīvus, pūnctum temporis." }
+      ]
+    },
+    {
+      "id": "vi-cas1-mc2",
+      "type": "multiple-choice",
+      "title": "Amplius de Ūsū Cāsuum",
+      "items": [
+        { "id": "cas1t", "prompt": "'Ὀνόματι Σωκράτης, ἔργῳ δὲ φιλόσοφος' exemplificat datīvum:", "options": ["respectūs", "īnstrūmentī", "possessiōnis"], "answerIndex": 0, "explanation": "'In respectū ad'." },
+        { "id": "cas1u", "prompt": "Accūsātīvus respectūs Graecus est comparābilis in Latīnō cum:", "options": ["accūsātīvō Graecō (adoptātō in poēsī Latīnā)", "ablātīvō absolūtō", "dativō finālī"], "answerIndex": 0, "explanation": "Poētae Latīnī imitāti sunt hunc ūsum Graecum." },
+        { "id": "cas1v", "prompt": "Genetīvus pretiī respondet quaestiōnī:", "options": ["quantī? (how much worth)", "ubi?", "quandō?"], "answerIndex": 0, "explanation": "Valor/pretium." },
+        { "id": "cas1w", "prompt": "Ūsus speciālis cāsuum saepe est:", "options": ["applicātiō specializāta fūnctiōnum fundāmentālium iam nōtārum", "grammatica omnīnō nova sine relātiōne", "irrelevāns prō lēctiōne prōsae"], "answerIndex": 0, "explanation": "Nōn nova grammatica, sed extēnsiō." }
+      ]
+    },
+    {
+      "id": "vi-cas1-tf2",
+      "type": "true-false",
+      "title": "Amplius Vērum an Falsum",
+      "items": [
+        { "id": "cas1x", "statement": "Accūsātīvus respectūs est semper obiectum dīrēctum verbī trānsitīvī.", "answer": false, "explanation": "Falsum: est modificātor adverbiālis, nōn obiectum vērum." },
+        { "id": "cas1y", "statement": "Datīvus īnstrūmentī exprimit 'cum, per'.", "answer": true, "explanation": "τῇ χειρὶ γράφει." },
+        { "id": "cas1z", "statement": "Ἔστι μοι + nōminatīvus est cōnstrūctiō rāra, nōn-idiōmatica.", "answer": false, "explanation": "Falsum: est frequēns et idiōmatica prō 'habēre'." },
+        { "id": "cas1aa", "statement": "Genetīvus 'intrā quod tempus' differt ab accūsātīvō 'per quantum tempus'.", "answer": true, "explanation": "Systēma trichotomicum distīnctum." }
+      ]
     }
   ],
   "summary": [

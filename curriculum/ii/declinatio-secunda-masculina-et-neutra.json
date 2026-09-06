@@ -317,7 +317,7 @@
       "items": [
         { "id": "dec2t", "prompt": "Nōminātīvus plūrālis masculīnī secundae dēclīnātiōnis fīnītur:", "options": ["-οι", "-α", "-ων"], "answerIndex": 0, "explanation": "λόγοι." },
         { "id": "dec2u", "prompt": "'Τὰ ζῷα τρέχει' exemplificat:", "options": ["concordantiam neutrīus plūrālis", "errorem grammaticum", "plūrālem verborum"], "answerIndex": 0, "explanation": "Subiectum neutrum plūrāle, verbum singulāre." },
-        { "id": "dec2v", "prompt": "Vocātīvus singulāris masculīnī secundae dēclīnātiōnis (λόγε) differt ā quō cāsū, praecipuē?", "options": ["nōminātīvō", "genetīvō", "datīvō"], "answerIndex": 0, "explanation": "Λόγε (voc.) differt ā λόγος (nōm.) — fōrma speciālis -ε." },
+        { "id": "dec2v", "prompt": "Vocātīvus singulāris nōminis proprii Δημήτριος (Δημήτριε) differt ā quō cāsū, praecipuē?", "options": ["nōminātīvō", "genetīvō", "datīvō"], "answerIndex": 0, "explanation": "Δημήτριε (voc.) differt ā Δημήτριος (nōm.) — fōrma speciālis -ε, sīcut in λόγος/λόγε." },
         { "id": "dec2w", "prompt": "Nōmen fēminīnum ὁδός (via) in secundā dēclīnātiōne dēclīnātur:", "options": ["sīcut masculīnum, quamvīs genere fēminīnō", "sīcut prīma dēclīnātiō", "irregulāriter, sine patrōnō"], "answerIndex": 0, "explanation": "Genus est arbitrārium; fōrma sequitur masculīnum." },
         { "id": "dec2x", "prompt": "Genetīvus et datīvus (utrōque numerō) nōminum neutrōrum secundae dēclīnātiōnis sunt:", "options": ["identicī cum masculīnīs", "distinctī ā masculīnīs", "nōn exsistentēs"], "answerIndex": 0, "explanation": "Sōlum nōm./acc./voc. differunt." }
       ]

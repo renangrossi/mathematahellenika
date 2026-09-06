@@ -184,6 +184,45 @@
           "explanation": "Omnia quattuor sunt aspecta dīversa eiusdem prīncipiī: positiō/ōrdō portant sēnsum, nōn sōlum grammatica cāsuum."
         }
       ]
+    },
+    {
+      "id": "vi-ord1-fill",
+      "type": "fill-blank",
+      "title": "Complē cum Fōrmā Rēctā",
+      "instructions": "Comple spatia cum fōrmā rēctā.",
+      "items": [
+        { "id": "ord1k", "prompt": "___ ὁ ἀνὴρ τὸν λόγον. (verbum praepositum, ēmphasis in āctiōne, \"dīxit\")", "options": ["εἶπεν", "λέγει", "εἴρηκεν"], "answers": ["εἶπεν"], "explanation": "Verbum praepositum, ēmphasis in āctiōne ipsā." },
+        { "id": "ord1l", "prompt": "μεγάλην γὰρ εἶχε τὴν ___. (hyperbaton, \"potestātem\")", "options": ["δύναμιν", "δύναμις", "δυνάμεως"], "answers": ["δύναμιν"], "explanation": "Sēparātum ab μεγάλην per hyperbaton." },
+        { "id": "ord1m", "prompt": "σοφὸς ___ ὁ ἀνήρ, οὐ μέντοι δίκαιος. (particula, ōrdō emphaticus)", "options": ["μέν", "δέ", "γάρ"], "answers": ["μέν"], "explanation": "Μέν praepositum, ōrdō emphaticus." },
+        { "id": "ord1n", "prompt": "___, εἶδον, ἐνίκησα. (stilus cōnexus, \"vēnī\")", "options": ["ἦλθον", "ἔρχομαι", "ἐλθεῖν"], "answers": ["ἦλθον"], "explanation": "Clausulae breves parallēlae, stilus cōnexus." },
+        { "id": "ord1o", "prompt": "Stilus ___ (λέξις κατεστραμμένη) characterizat Thucydidem.", "options": ["periodicus", "cōnexus", "poēticus"], "answers": ["periodicus"], "explanation": "Perīodus complexa, clausulae balancentēs." },
+        { "id": "ord1p", "prompt": "Hyperbaton creat ___ in verbō sēparātō.", "options": ["ēmphasim", "cōnfūsiōnem", "errōrem"], "answers": ["ēmphasim"], "explanation": "Figūra rhētorica dēlīberāta." }
+      ]
+    },
+    {
+      "id": "vi-ord1-mc2",
+      "type": "multiple-choice",
+      "title": "Amplius de Ōrdine Verbōrum",
+      "items": [
+        { "id": "ord1q", "prompt": "'Εἶπεν ὁ ἀνὴρ τὸν λόγον' (verbum praepositum) pōnit ēmphasim in:", "options": ["āctiōne ipsā ('dīxit')", "subiectō ('vir')", "obiectō ('verbum')"], "answerIndex": 0, "explanation": "Verbum initiāle portat ēmphasim." },
+        { "id": "ord1r", "prompt": "Hyperbaton sēparat typicē:", "options": ["adiectīvum ab nōmine suō (vel elementa similiter iūncta)", "subiectum ā verbō semper", "nihil, est mythus"], "answerIndex": 0, "explanation": "Sēparātiō dēlīberāta verbōrum coniūnctōrum." },
+        { "id": "ord1s", "prompt": "Λέξις εἰρομένη significat litterāliter:", "options": ["'strung-together' (stilus cōnexus)", "'circuitus' (stilus periodicus)", "'disruptus'"], "answerIndex": 0, "explanation": "Patrōnus Herodoteus." },
+        { "id": "ord1t", "prompt": "Λέξις κατεστραμμένη refert ad:", "options": ["stilum periodicum (perīodus complexa)", "stilum cōnexum simplicem", "poēsim epicam"], "answerIndex": 0, "explanation": "Patrōnus Thucydideus/Dēmosthenicus." },
+        { "id": "ord1u", "prompt": "Discrīmen inter Thucydidem et Xenophontem est:", "options": ["architectūra sententiae, nōn grammatica fundāmentālis", "grammatica omnīnō dīversa", "vocābulum omnīnō dīversum"], "answerIndex": 0, "explanation": "Discrīmen stilisticum-architectūrāle." },
+        { "id": "ord1v", "prompt": "Ōrdō 'neutrālis' (subiectum-obiectum-verbum) est:", "options": ["ūnus ex variīs ōrdinibus possibilibus, sine emphasī speciālī", "ūnicus ōrdō grammaticē corrēctus", "irrelevāns"], "answerIndex": 0, "explanation": "Omnēs ōrdinēs sunt grammaticē corrēctī." }
+      ]
+    },
+    {
+      "id": "vi-ord1-tf2",
+      "type": "true-false",
+      "title": "Amplius Vērum an Falsum",
+      "items": [
+        { "id": "ord1w", "statement": "Ōrdō verbōrum Graecus est identicus semper, sine variātiōne stilisticā.", "answer": false, "explanation": "Falsum: variat pro emphasī et stilō." },
+        { "id": "ord1x", "statement": "Stilus cōnexus est characteristicus Herodotī.", "answer": true, "explanation": "Parataxis, clausulae simplicēs." },
+        { "id": "ord1y", "statement": "Hyperbaton creat suspēnsiōnem/ēmphasim dēlīberātam.", "answer": true, "explanation": "Figūra rhētorica, nōn error." },
+        { "id": "ord1z", "statement": "Perīodus longa cum clausulīs subordinātīs balancentibus est characteristica stilī cōnexī.", "answer": false, "explanation": "Falsum: est characteristica stilī periodicī." },
+        { "id": "ord1aa", "statement": "Ambō stilī (periodicus et cōnexus) adhibent eandem grammaticam fundāmentālem Graecam.", "answer": true, "explanation": "Discrīmen est architectūrāle, nōn grammaticum." }
+      ]
     }
   ],
   "summary": [
